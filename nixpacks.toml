@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["nodejs_20"]
+
+[phases.install]
+cmds = ["echo 'install handled in railway.toml buildCommand (fresh install for Linux)'"]
