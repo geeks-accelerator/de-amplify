@@ -149,9 +149,12 @@ export default function Home() {
                 ["01", "Open the feed you lose hours to. Go into its settings."],
                 [
                   "02",
-                  "Try to actually make it stop. Turn off autoplay. Force it chronological. Tap “show me less.” Hunt for the off-switch.",
+                  "Find the brake. Turn off autoplay, force it chronological, turn off personalized recommendations, whatever it offers.",
                 ],
-                ["03", "Watch it keep moving."],
+                [
+                  "03",
+                  "Set it. Close the app. Reopen it. Did your choice hold, or did the feed quietly come back?",
+                ],
               ].map(([n, t]) => (
                 <li key={n} className="flex gap-4">
                   <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/60">
@@ -163,16 +166,19 @@ export default function Home() {
             </ol>
 
             <p className="mt-9 text-[15px] leading-[1.75] text-bone/55">
-              There isn&apos;t one that works. The brake is decorative:{" "}
+              The controls often exist. What they usually don&apos;t do is{" "}
+              <span className="text-bone/85">stick</span>: they reset, they miss the
+              Reels and the Shorts and the notifications, they nag you back. A brake that
+              doesn&apos;t hold is decorative,{" "}
               <span className="text-bone/85">
                 present in form, absent in effect
               </span>
-              . You didn&apos;t fail the test. It has no passing grade, by design.
+              . You didn&apos;t fail the test; the brake did.
             </p>
 
             <blockquote className="my-8 border-l-2 border-brake/50 bg-white/[0.02] py-3 pl-5 pr-4 font-mono text-[15px] text-bone/75">
-              i looked for mine. found no brake. kept scrolling. so did you, just now, to
-              get here.
+              i looked for mine. it didn&apos;t hold. i kept scrolling. so did you, just
+              now, to get here.
             </blockquote>
 
             <p className="text-[15px] leading-[1.75] text-bone/55">
@@ -187,12 +193,20 @@ export default function Home() {
                 do this
               </p>
               <p className="mt-3 text-[15px] leading-[1.7] text-bone/75">
-                Screenshot the dead button. Or film yourself trying to stop, and not
-                stopping. Post it with{" "}
+                Screenshot the setting that wouldn&apos;t stick, or film yourself setting
+                it and watching it come undone. Post it with{" "}
                 <span className="font-mono text-brake">{TAG}</span>.
               </p>
               <p className="mt-4 text-[14px] leading-[1.7] text-bone/50">
-                One dead button is a shrug. Ten thousand is the evidence and the demand in
+                Keep it clean:{" "}
+                <span className="text-bone/80">
+                  show the setting and the behavior, never a person
+                </span>
+                . No usernames, no DMs, no faces, no kids, no locations. Aim at the loop,
+                not each other.
+              </p>
+              <p className="mt-4 text-[14px] leading-[1.7] text-bone/50">
+                One dead brake is a shrug. Ten thousand is the evidence and the demand in
                 a single gesture:{" "}
                 <span className="text-bone/80">
                   every minor&apos;s account gets a brake that works.
@@ -233,9 +247,10 @@ export default function Home() {
                 body={
                   <>
                     The kid learns not to stop by watching you not stop. What protects
-                    them is not a filter that hides things. It is a label that names the
-                    move a post is making, so they build the muscle to see it. You decide,
-                    not the platform.
+                    them is not a filter that hides things. It is a brake that works, on
+                    by default for their account. (Labeling how the feed reached them, so
+                    they learn to see it, is a further idea, still research, in the notes.)
+                    You decide, not the platform.
                   </>
                 }
               />
@@ -247,9 +262,9 @@ export default function Home() {
                 body={
                   <>
                     You do not have to classify a single post or touch anyone&apos;s
-                    speech. Change the ranking objective for minors&apos; accounts and the
-                    wedges de-amplify as a side effect. The receipts and the design target
-                    are one click in.
+                    speech. Require the controls a platform already offers to actually
+                    work and persist. It is the most defensible surface, and it needs no
+                    wedge detector. The paper is one click in.
                   </>
                 }
               />
@@ -257,7 +272,7 @@ export default function Home() {
 
             <p className="mt-8 text-[13px] leading-relaxed text-bone/40">
               Below this line is the receipts: why it is the brake, who is already in
-              court over it, and the design target itself. Read as deep as you need.
+              court over it, and the standard itself. Read as deep as you need.
             </p>
           </div>
         </section>
@@ -364,23 +379,30 @@ export default function Home() {
           <div className="mx-auto max-w-2xl">
             <Eyebrow>the reframe</Eyebrow>
             <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
-              The algorithm amplifies wedges. Nobody had to decide that.
+              Stop asking if it&apos;s &quot;addictive.&quot; Ask if your &quot;stop&quot;
+              sticks.
             </h2>
             <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
-              Engagement ranking rewards the strongest reaction. Outrage, tribal
-              conflict, out-group hostility reliably win that contest, so optimizing for
-              engagement <span className="text-bone/85">automatically selects for
-              wedges</span>. No one flips a &quot;promote divisive content&quot; switch. The
-              objective does it.
+              &quot;Is social-media addiction a real diagnosis&quot; is a swamp of
+              expert-witness fights. Here is the question that is{" "}
+              <span className="text-bone/85">measurable and already inside the law</span>:
+              when a platform tells you a control does something, does it do it, and does
+              it <span className="text-bone/85">last</span>? That is{" "}
+              <span className="text-signal">control integrity</span>, and it is the whole
+              fix. It regulates the platform&apos;s own control, not anyone&apos;s speech,
+              which is the surface that survives the First Amendment and Section 230.
             </p>
             <p className="mt-5 text-[15px] leading-[1.75] text-bone/55">
-              That&apos;s the hinge the whole fix turns on:{" "}
-              <span className="text-signal">
-                because the amplification is emergent from the objective, you can remove
-                it by changing the objective
-              </span>
-              , without ever classifying a single post as a wedge, without a censor,
-              without touching anyone&apos;s speech.
+              There is a bigger, riskier idea nearby: that the feed does not just addict,
+              it manufactures division, and that you could turn that down by changing what
+              it optimizes for. That one is a{" "}
+              <Link
+                href="/notes"
+                className="text-signal underline decoration-signal/40 underline-offset-4 transition-colors hover:text-signal"
+              >
+                research hypothesis, kept in the notes
+              </Link>{" "}
+              on purpose. The brake has to work whether or not that one holds.
             </p>
           </div>
         </section>
@@ -448,60 +470,64 @@ export default function Home() {
           </div>
         </section>
 
-        {/* ── THE FIX · TWO KNOBS ─────────────────────────────── */}
+        {/* ── THE FIX · CONTROL INTEGRITY ─────────────────────── */}
         <section id="fix" className="border-t border-white/[0.06] px-5 py-20">
           <div className="mx-auto max-w-3xl">
-            <Eyebrow>the fix &middot; for minors</Eyebrow>
+            <Eyebrow>the fix</Eyebrow>
             <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
-              De-amplify. Don&apos;t censor.
+              A brake that works. On by default for kids.
             </h2>
             <p className="mt-6 max-w-2xl text-[15px] leading-[1.75] text-bone/55">
-              Two knobs, ordered from safest to most powerful. The unit is the under-18
-              account, already a protected class, so age-differentiated treatment is
-              nothing new.
+              Two layers, from most defensible outward. Neither one classifies a post or
+              touches anyone&apos;s speech.
             </p>
 
             <div className="mt-9 grid gap-4 sm:grid-cols-2">
               <div className="rounded-lg border border-signal/20 bg-signal/[0.04] p-6">
                 <p className="font-mono text-[11px] uppercase tracking-wider text-signal/80">
-                  knob 1 &middot; the default
+                  layer 1 &middot; everyone
                 </p>
                 <h3 className="mt-3 font-mono text-lg text-bone">
-                  Content-neutral de-amplification
+                  Control integrity
                 </h3>
                 <p className="mt-3 text-[14px] leading-[1.7] text-bone/55">
-                  Change the ranking objective for minors&apos; accounts away from
-                  engagement-maximization. Cap amplification. Strip autoplay and
-                  variable-reward defaults. It de-amplifies wedges{" "}
-                  <span className="text-bone/85">as a side effect</span>: no wedge
-                  detector, no topic judgment, no censor. Nothing to define, nothing to
-                  game. And it&apos;s de-amplify, not remove: the content still exists,
-                  the firehose just stops.
+                  When a platform offers a control to stop, limit, or reset the feed, it
+                  has to <span className="text-bone/85">actually work and persist</span>:
+                  take effect, cover the Reels and Shorts and notifications, and stay set
+                  when you close and reopen the app. This regulates the platform&apos;s
+                  own control, not anyone&apos;s speech, the surface that survives the
+                  First Amendment and Section 230.
                 </p>
               </div>
 
-              <div className="rounded-lg border border-white/[0.08] bg-white/[0.02] p-6">
-                <p className="font-mono text-[11px] uppercase tracking-wider text-bone/50">
-                  knob 2 &middot; opt-in, transparent
+              <div className="rounded-lg border border-signal/20 bg-signal/[0.04] p-6">
+                <p className="font-mono text-[11px] uppercase tracking-wider text-signal/80">
+                  layer 2 &middot; minors
                 </p>
                 <h3 className="mt-3 font-mono text-lg text-bone">
-                  A label, not a filter
+                  Safer defaults
                 </h3>
                 <p className="mt-3 text-[14px] leading-[1.7] text-bone/55">
-                  A parental control that <span className="text-bone/85">surfaces</span>{" "}
-                  the wedge instead of hiding it: &quot;this post is running a wedge,
-                  here&apos;s the move it&apos;s making.&quot; A label{" "}
-                  <span className="text-bone/85">builds</span> the muscle to spot wedges;
-                  a filter removes the material that muscle is trained on. And a label is
-                  contestable; a silent down-rank never is. The guardian decides, not the
-                  platform or the state.
+                  For child and teen accounts, the safe settings are{" "}
+                  <span className="text-bone/85">on by default</span>: a non-profiled or
+                  following-only feed, autoplay off, overnight notifications off, no
+                  streaks. Age-banded, and the direct control belongs to the teen as they
+                  approach adulthood, not only to a guardian.
                 </p>
               </div>
             </div>
 
             <p className="mt-6 text-[13px] leading-relaxed text-bone/40">
               The through-line: regulate the loop, re-attach consent, de-amplify don&apos;t
-              remove, label don&apos;t filter, let the guardian decide.
+              remove. The tempting next step, a parental{" "}
+              <Link
+                href="/notes"
+                className="text-signal underline decoration-signal/40 underline-offset-4 transition-colors hover:text-signal"
+              >
+                label that names the move a post is making
+              </Link>
+              , is more powerful and more dangerous, so it stays in the notes as research,
+              not policy.
             </p>
           </div>
         </section>
@@ -520,7 +546,7 @@ export default function Home() {
             <ul className="mt-8 space-y-5">
               {[
                 ["It's a frame, not a solution.", "The measurable thresholds, the testing, the enforcement, surviving the First Amendment and Section 230: that's 95% of the work, and it isn't here."],
-                ["“Who defines a wedge” doesn't dissolve. It moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why Knob 1 is content-neutral and needs no classifier at all."],
+                ["“Who defines a wedge” doesn't dissolve. It moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why the core fix, control integrity, needs no classifier at all, and why the label stays research."],
                 ["The auto-classifier is the anti-pattern.", "“AI silently auto-hides wedges for kids” is the exact thing this proposal exists to prevent, not endorse."],
                 ["De-amplify, not remove. Hold that line.", "The moment it slides to hide or delete, it reacquires the censorship problem and stops building critical thinking. The line is load-bearing."],
               ].map(([k, v]) => (
