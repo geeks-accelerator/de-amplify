@@ -6,14 +6,17 @@ import "./globals.css";
 const SITE_URL = "https://ibroketheminors.com";
 const TITLE = "I Broke the Minors: The Thing It Broke Was the Brake";
 const DESCRIPTION =
-  "Engagement feeds are being sued for addicting kids. The fix isn't to censor content. It's to give the brake back. A design-and-parental-controls proposal: de-amplify, don't censor.";
+  "They sued the feed for addicting kids. Now find the brake on your own: open your feed, try to make it stop, watch the off-switch do nothing. Screenshot it. #WheresTheBrake. The receipts and the fix (de-amplify, don't censor) are one click in.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: TITLE,
   description: DESCRIPTION,
   keywords: [
+    "find the brake",
+    "where's the brake",
     "social media addiction",
+    "doomscrolling",
     "engagement algorithm",
     "de-amplify",
     "content-neutral",

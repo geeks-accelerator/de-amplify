@@ -13,7 +13,13 @@ export default function Footer() {
           not a lawsuit. not a ban. a design target. de-amplify, don&apos;t censor.
         </p>
 
-        <div className="mt-8 flex items-center justify-center gap-5 font-mono text-[11px] lowercase text-bone/40">
+        <p className="mt-6 font-mono text-[12px] text-brake/80">#WheresTheBrake</p>
+
+        <div className="mt-6 flex items-center justify-center gap-5 font-mono text-[11px] lowercase text-bone/40">
+          <a href="/#ask" className="text-brake/80 transition-colors hover:text-brake">
+            find the brake
+          </a>
+          <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             read the proposal
           </Link>
@@ -22,9 +28,9 @@ export default function Footer() {
             href={GITHUB}
             target="_blank"
             rel="noopener noreferrer"
-            className="transition-colors hover:text-signal"
+            className="transition-colors hover:text-bone/70"
           >
-            star the repo
+            github
           </a>
         </div>
 

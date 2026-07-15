@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 const GITHUB = "https://github.com/geeks-accelerator/de-amplify";
+const TAG = "#WheresTheBrake";
 
 function Eyebrow({ children }: { children: React.ReactNode }) {
   return (
@@ -20,6 +21,53 @@ function Stat({ value, label }: { value: string; label: string }) {
       </p>
       <p className="mt-2 text-[12px] leading-snug text-bone/40">{label}</p>
     </div>
+  );
+}
+
+function Door({
+  who,
+  body,
+  href,
+  cta,
+  accent,
+}: {
+  who: string;
+  body: React.ReactNode;
+  href: string;
+  cta: string;
+  accent: "brake" | "signal";
+}) {
+  const isExternal = href.startsWith("/proposal");
+  const border = accent === "brake" ? "border-brake/20" : "border-signal/20";
+  const dot = accent === "brake" ? "bg-brake/70" : "bg-signal/70";
+  const link =
+    accent === "brake"
+      ? "text-brake/90 decoration-brake/40 hover:text-brake"
+      : "text-signal/90 decoration-signal/40 hover:text-signal";
+  const Inner = (
+    <div
+      className={`flex h-full flex-col rounded-lg border ${border} bg-white/[0.02] p-6`}
+    >
+      <div className="flex items-center gap-2.5">
+        <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${dot}`} />
+        <p className="font-mono text-[13px] lowercase text-bone/90">{who}</p>
+      </div>
+      <p className="mt-4 flex-1 text-[14px] leading-[1.7] text-bone/55">{body}</p>
+      <p
+        className={`mt-5 font-mono text-[12px] underline underline-offset-4 transition-colors ${link}`}
+      >
+        {cta} {isExternal ? "→" : "↓"}
+      </p>
+    </div>
+  );
+  return isExternal ? (
+    <Link href={href} className="block h-full">
+      {Inner}
+    </Link>
+  ) : (
+    <a href={href} className="block h-full">
+      {Inner}
+    </a>
   );
 }
 
@@ -57,20 +105,160 @@ export default function Home() {
               <span className="text-bone/85">consent, severed from the act.</span>
             </p>
 
-            <div className="mt-10 flex flex-wrap items-center gap-x-6 gap-y-3 font-mono text-[12px]">
+            <p className="mt-4 max-w-xl text-[15px] leading-relaxed text-bone/70">
+              Here is the one thing to do about it. It is not a petition. It takes thirty
+              seconds, on your own phone.
+            </p>
+
+            <div className="mt-9 flex flex-wrap items-center gap-x-6 gap-y-3 font-mono text-[12px]">
+              <a
+                href="#ask"
+                className="rounded-md border border-brake/40 bg-brake/10 px-5 py-2.5 text-[13px] text-brake transition-colors hover:bg-brake/20"
+              >
+                find the brake &darr;
+              </a>
               <a
                 href="#diagnosis"
-                className="text-bone/80 underline decoration-brake/40 underline-offset-4 transition-colors hover:text-brake"
+                className="text-bone/70 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone"
               >
-                read the diagnosis &darr;
+                why it&apos;s the brake
               </a>
               <Link
                 href="/proposal"
-                className="text-bone/80 underline decoration-signal/40 underline-offset-4 transition-colors hover:text-signal"
+                className="text-bone/70 underline decoration-signal/40 underline-offset-4 transition-colors hover:text-signal"
               >
                 the full proposal &rarr;
               </Link>
             </div>
+          </div>
+        </section>
+
+        {/* ── THE ASK · FIND THE BRAKE ────────────────────────── */}
+        <section id="ask" className="border-t border-white/[0.06] px-5 py-20">
+          <div className="mx-auto max-w-2xl">
+            <Eyebrow>the one ask</Eyebrow>
+            <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
+              Find the brake.
+            </h2>
+            <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
+              Not a petition. Not a boycott. A test you run on your own feed, right now.
+            </p>
+
+            <ol className="mt-9 space-y-4">
+              {[
+                ["01", "Open the feed you lose hours to. Go into its settings."],
+                [
+                  "02",
+                  "Try to actually make it stop. Turn off autoplay. Force it chronological. Tap “show me less.” Hunt for the off-switch.",
+                ],
+                ["03", "Watch it keep moving."],
+              ].map(([n, t]) => (
+                <li key={n} className="flex gap-4">
+                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/60">
+                    {n}
+                  </span>
+                  <p className="text-[15px] leading-[1.7] text-bone/70">{t}</p>
+                </li>
+              ))}
+            </ol>
+
+            <p className="mt-9 text-[15px] leading-[1.75] text-bone/55">
+              There isn&apos;t one that works. The brake is decorative:{" "}
+              <span className="text-bone/85">
+                present in form, absent in effect
+              </span>
+              . You didn&apos;t fail the test. It has no passing grade, by design.
+            </p>
+
+            <blockquote className="my-8 border-l-2 border-brake/50 bg-white/[0.02] py-3 pl-5 pr-4 font-mono text-[15px] text-bone/75">
+              i looked for mine. found no brake. kept scrolling. so did you, just now, to
+              get here.
+            </blockquote>
+
+            <p className="text-[15px] leading-[1.75] text-bone/55">
+              That is why this is an ask and not an accusation. You are not taking
+              anyone&apos;s word that the feed is rigged; you felt the dead button in your
+              own hand. There is no company to point at and no generation to blame,{" "}
+              <span className="text-bone/85">because every feed fails the same test</span>.
+            </p>
+
+            <div className="mt-9 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+                do this
+              </p>
+              <p className="mt-3 text-[15px] leading-[1.7] text-bone/75">
+                Screenshot the dead button. Or film yourself trying to stop, and not
+                stopping. Post it with{" "}
+                <span className="font-mono text-brake">{TAG}</span>.
+              </p>
+              <p className="mt-4 text-[14px] leading-[1.7] text-bone/50">
+                One dead button is a shrug. Ten thousand is the evidence and the demand in
+                a single gesture:{" "}
+                <span className="text-bone/80">
+                  every minor&apos;s account gets a brake that works.
+                </span>
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* ── THREE DOORS · THE LAYERED AUDIENCE ──────────────── */}
+        <section className="border-t border-white/[0.06] px-5 py-20">
+          <div className="mx-auto max-w-3xl">
+            <Eyebrow>wherever you&apos;re standing</Eyebrow>
+            <h2 className="mt-5 max-w-2xl font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
+              The ask is the same. What it means depends on where you stand.
+            </h2>
+
+            <div className="mt-9 grid gap-4 sm:grid-cols-3">
+              <Door
+                who="you live on the feed"
+                accent="brake"
+                href="#ask"
+                cta="find the brake"
+                body={
+                  <>
+                    You already felt the button do nothing. That was the whole argument.
+                    Run the test, post the dead switch, and you have made the case without
+                    arguing it.{" "}
+                    <span className="font-mono text-[12px] text-brake/80">{TAG}</span>
+                  </>
+                }
+              />
+              <Door
+                who="you're raising someone behind you"
+                accent="signal"
+                href="#fix"
+                cta="the fix for minors"
+                body={
+                  <>
+                    The kid learns not to stop by watching you not stop. What protects
+                    them is not a filter that hides things. It is a label that names the
+                    move a post is making, so they build the muscle to see it. You decide,
+                    not the platform.
+                  </>
+                }
+              />
+              <Door
+                who="you write the rules"
+                accent="signal"
+                href="/proposal"
+                cta="the full proposal"
+                body={
+                  <>
+                    You do not have to classify a single post or touch anyone&apos;s
+                    speech. Change the ranking objective for minors&apos; accounts and the
+                    wedges de-amplify as a side effect. The receipts and the design target
+                    are one click in.
+                  </>
+                }
+              />
+            </div>
+
+            <p className="mt-8 text-[13px] leading-relaxed text-bone/40">
+              Below this line is the receipts: why it is the brake, who is already in
+              court over it, and the design target itself. Read as deep as you need.
+            </p>
           </div>
         </section>
 
@@ -294,29 +482,38 @@ export default function Home() {
           <div className="mx-auto max-w-2xl text-center">
             <Eyebrow>show up</Eyebrow>
             <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
-              A movement grows when people decide it matters.
+              The brake won&apos;t appear because you read about it.
             </h2>
             <p className="mx-auto mt-6 max-w-lg text-[15px] leading-[1.75] text-bone/55">
-              Read the whole thing, including the limits. Then, if the diagnosis is right,
-              make it louder. This is a design target anyone can point a regulator, a
-              platform, or a parent at.
+              It appears when enough people show it&apos;s missing. Find yours. Post it
+              with <span className="font-mono text-brake">{TAG}</span>. Then point a
+              parent, a platform, or a regulator at the rest.
             </p>
             <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
+              <a
+                href="#ask"
+                className="rounded-md border border-brake/40 bg-brake/10 px-5 py-2.5 font-mono text-[13px] text-brake transition-colors hover:bg-brake/20"
+              >
+                find the brake &uarr;
+              </a>
               <Link
                 href="/proposal"
                 className="rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors hover:bg-signal/20"
               >
                 read the full proposal &rarr;
               </Link>
+            </div>
+            <p className="mt-8 font-mono text-[11px] lowercase text-bone/30">
+              or read the source:{" "}
               <a
                 href={GITHUB}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="rounded-md border border-white/[0.1] px-5 py-2.5 font-mono text-[13px] text-bone/70 transition-colors hover:border-white/20 hover:text-bone"
+                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
               >
                 star the repo
               </a>
-            </div>
+            </p>
           </div>
         </section>
       </main>
