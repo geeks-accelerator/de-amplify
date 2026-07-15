@@ -3,8 +3,8 @@ import { GeistSans } from "geist/font/sans";
 import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
-const SITE_URL = "https://ibroketheminors.com";
-const TITLE = "I Broke the Minors: The Thing It Broke Was the Brake";
+const SITE_URL = "https://de-amplify.com";
+const TITLE = "de-amplify: the thing it broke was the brake";
 const DESCRIPTION =
   "They sued the feed for addicting kids. Now find the brake on your own: open your feed, try to make it stop, watch the off-switch do nothing. Screenshot it. #WheresTheBrake. The receipts and the fix (de-amplify, don't censor) are one click in.";
 
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     title: TITLE,
     description: DESCRIPTION,
     url: SITE_URL,
-    siteName: "ibroketheminors.com",
+    siteName: "de-amplify.com",
     type: "website",
   },
   twitter: {

@@ -35,7 +35,7 @@ export default function Footer() {
         </div>
 
         <p className="mt-10 font-mono text-[10px] tracking-widest2 text-bone/20">
-          IBROKETHEMINORS.COM
+          DE-AMPLIFY.COM
         </p>
         <p className="mt-2 text-[11px] text-bone/20">
           a proposal, not a verdict. the honest limits are{" "}

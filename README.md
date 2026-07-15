@@ -1,9 +1,9 @@
-# ibroketheminors.com: The Thing It Broke Was the Brake
+# de-amplify.com: The Thing It Broke Was the Brake
 
 > Engagement feeds are being sued for addicting kids. The remedies on the table (damages, age bans, or lobbied-for immunity) don't set a standard for what a non-harmful product must *do*. This is a proposal that does: **de-amplify, don't censor.**
 
-**Live:** https://ibroketheminors.com
-**The full proposal:** [`/proposal`](https://ibroketheminors.com/proposal) · source at [`content/proposal.md`](content/proposal.md)
+**Live:** https://de-amplify.com
+**The full proposal:** [`/proposal`](https://de-amplify.com/proposal) · source at [`content/proposal.md`](content/proposal.md)
 
 ## What this is
 
@@ -38,4 +38,4 @@ The proposal is one markdown file, [`content/proposal.md`](content/proposal.md),
 
 ## Deploy
 
-Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies `ibroketheminors.com` at the Railway origin. No secrets or database, it's a static-ish content site.
+Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies `de-amplify.com` at the Railway origin. No secrets or database, it's a static-ish content site.

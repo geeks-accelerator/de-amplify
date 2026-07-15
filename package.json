@@ -1,8 +1,8 @@
 {
-  "name": "ibroketheminors",
+  "name": "de-amplify",
   "version": "0.1.0",
   "private": true,
-  "description": "The Thing It Broke Was the Brake — a design-and-parental-controls proposal for engagement feeds and minors. ibroketheminors.com",
+  "description": "de-amplify: the thing it broke was the brake. A design-and-parental-controls proposal for engagement feeds and minors. de-amplify.com",
   "scripts": {
     "dev": "next dev -p 3333",
     "build": "next build",

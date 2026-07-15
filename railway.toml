@@ -1,6 +1,6 @@
 # Railway deployment — Next.js (persistent Node server) behind Cloudflare (DNS/CDN).
 #
-# Cloudflare: proxy the domain (ibroketheminors.com) at the Railway service origin.
+# Cloudflare: proxy the domain (de-amplify.com) at the Railway service origin.
 # No wrangler / _headers needed — Next serves headers; Cloudflare is DNS + CDN in front.
 
 [build]
