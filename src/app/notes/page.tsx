@@ -4,16 +4,16 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import ProposalContent from "./ProposalContent";
+import ProposalContent from "../proposal/ProposalContent";
 
 export const metadata: Metadata = {
-  title: "The Brake Integrity Standard: the full policy paper",
+  title: "Notes: the wedge hypothesis, and the label that might backfire",
   description:
-    "The policy paper: control integrity as the regulable surface for engagement feeds, with age-differentiated defaults for minors, the current legal record, and its honest limits.",
+    "The experimental, higher-risk ideas deliberately kept OUT of the Brake Integrity Standard: the wedge hypothesis and recommendation-mechanism labeling. Research, not policy.",
 };
 
-export default function ProposalPage() {
-  const mdPath = path.join(process.cwd(), "content", "proposal.md");
+export default function NotesPage() {
+  const mdPath = path.join(process.cwd(), "content", "notes.md");
   const markdown = fs.readFileSync(mdPath, "utf-8");
 
   return (
@@ -23,13 +23,13 @@ export default function ProposalPage() {
         <div className="mx-auto max-w-3xl">
           <div className="mb-10">
             <Link
-              href="/"
+              href="/proposal"
               className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-signal"
             >
-              &larr; back to the confession
+              &larr; back to the proposal
             </Link>
-            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
-              the policy paper &middot; the brake integrity standard
+            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
+              the notes &middot; research, not policy
             </p>
           </div>
           <ProposalContent markdown={markdown} />

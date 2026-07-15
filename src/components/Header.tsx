@@ -10,7 +10,7 @@ export default function Header() {
           href="/"
           className="font-mono text-[13px] tracking-tight text-bone/90 transition-colors hover:text-bone"
         >
-          <span className="text-brake">i</span>broketheminors
+          <span className="text-brake">de</span>-amplify
           <span className="text-brake animate-blink">_</span>
         </Link>
         <nav className="flex items-center gap-5 font-mono text-[11px] lowercase tracking-wide text-bone/45">
@@ -24,7 +24,10 @@ export default function Header() {
             the fix
           </Link>
           <Link href="/proposal" className="transition-colors hover:text-signal">
-            full proposal
+            the paper
+          </Link>
+          <Link href="/notes" className="hidden transition-colors hover:text-bone/80 sm:inline">
+            notes
           </Link>
           <a
             href={GITHUB}

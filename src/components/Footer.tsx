@@ -39,7 +39,7 @@ export default function Footer() {
         </p>
         <p className="mt-2 text-[11px] text-bone/20">
           a proposal, not a verdict. the honest limits are{" "}
-          <Link href="/proposal#7-the-honest-limits-load-bearing--do-not-skip" className="underline decoration-white/10 underline-offset-2 hover:text-bone/40">
+          <Link href="/proposal#7-the-honest-limits-load-bearing-do-not-skip" className="underline decoration-white/10 underline-offset-2 hover:text-bone/40">
             section 7
           </Link>
           .
