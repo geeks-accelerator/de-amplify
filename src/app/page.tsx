@@ -385,6 +385,69 @@ export default function Home() {
           </div>
         </section>
 
+        {/* ── CAPABILITY IS THE DANGER ────────────────────────── */}
+        <section className="border-t border-white/[0.06] px-5 py-20">
+          <div className="mx-auto max-w-2xl">
+            <Eyebrow>the objection worth answering</Eyebrow>
+            <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
+              &quot;So just have the platforms detect the wedges and turn them
+              down.&quot;
+            </h2>
+            <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
+              They can. <span className="text-bone/85">Trivially.</span> And
+              that&apos;s the trap, not the fix. These are the best-positioned
+              entities on earth to spot a wedge: the most compute, the most scale, and
+              the deepest behavioral profile of every user, the{" "}
+              <span className="text-bone/85">
+                same modeling that makes the feed compulsive in the first place
+              </span>
+              . Detection was never the hard part.
+            </p>
+            <p className="mt-5 text-[15px] leading-[1.75] text-bone/55">
+              The danger is{" "}
+              <span className="text-brake">who you&apos;d be handing that power to</span>
+              . A silent, platform-owned classifier of what counts as
+              &quot;divisive&quot; for every child hands the most capable and most
+              conflicted party an unaccountable authority over speech. The instant a
+              platform can build it cheaply, the only thing between{" "}
+              <span className="text-bone/85">detectable</span> and a{" "}
+              <span className="text-bone/85">
+                silent speech-authority over every kid
+              </span>{" "}
+              is the platform&apos;s goodwill.
+            </p>
+
+            <div className="my-8 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+                the conflict, quantified
+              </p>
+              <p className="mt-3 text-[14px] leading-[1.7] text-bone/60">
+                The firm you&apos;d ask to run the detector earns its money on
+                engagement, and wedges are premium engagement. The biggest of them
+                booked{" "}
+                <span className="text-bone/85">
+                  $26.8 billion of net income in a single quarter
+                </span>
+                . It has every reason to under-enforce on the outrage that drives that
+                revenue, or over-enforce on speech it dislikes, and a silent classifier
+                can&apos;t be checked from outside. Asking it to police wedges against
+                its own bottom line is the fox reading you the henhouse budget.
+              </p>
+            </div>
+
+            <p className="text-[15px] leading-[1.75] text-bone/55">
+              So the reason to avoid the detector was never that it{" "}
+              <span className="italic">can&apos;t</span> be built. It&apos;s that a
+              detector this cheap to build and this profitable to cheat on must never be
+              the silent, centralized mechanism. That&apos;s why the fix is the{" "}
+              <span className="text-signal">objective, not the detector</span>: change
+              what the feed optimizes for, the wedges fall out with no classifier to
+              own, and &quot;did you change the objective?&quot; is something an outsider
+              can actually audit. A silent classifier&apos;s honesty never is.
+            </p>
+          </div>
+        </section>
+
         {/* ── THE FIX · TWO KNOBS ─────────────────────────────── */}
         <section id="fix" className="border-t border-white/[0.06] px-5 py-20">
           <div className="mx-auto max-w-3xl">
