@@ -1,0 +1,204 @@
+---
+title: "The Brake Integrity Standard"
+subtitle: "Effective, persistent user control as the regulable surface for engagement feeds, with age-differentiated defaults for minors."
+status: "Draft policy paper for external review. A framing-and-standard proposal, not a statute, a legal opinion, or a claim any platform would adopt. AI-assisted (see Provenance and methodology)."
+author: "Lee Brown"
+date: 2026-07-15
+document: "Policy paper (Document B of three). Companion pieces: a one-page movement brief, and an experimental appendix on recommendation-mechanism labeling. This paper is the substance; it does not depend on the others."
+supersedes: "Splits and rebuilds the policy substance of 'The Thing It Broke Was the Brake' (2026-07-14) on the verified 2026 legal record; that combined movement-brief-plus-proposal is being separated into three audience-specific documents."
+self_contained: "Yes. A reader with no other context can read this paper alone. Every borrowed concept is defined inline; the sources are listed at the end with as-of dates."
+review_wanted: "Is control integrity the right regulable surface (vs. a ranking-objective mandate)? Are the legal characterizations (Moody, Doe v. Meta, Lemmon, SB 976, AADC, DSA) accurate and fairly caveated? Is the honest-limits section complete? Are the litigation facts correct and correctly separated?"
+sources_note: "Sources reviewed July 2026, with as-of dates. The litigation and regulatory landscape is moving fast; figures and dispositions carry dates and are updated as they change."
+---
+
+# The Brake Integrity Standard
+
+> **One-paragraph version.** Social-media litigation and regulation increasingly target the product features associated with compulsive use, but there is still no coherent standard for the plainest question a user can ask: *when I tell the feed to stop or change, does my choice actually take effect, and does it stay?* This paper names that missing standard **brake integrity**. When a platform offers a control to stop, limit, reset, or redirect a recommendation or engagement function, activating it must produce a prompt, understandable, material, and **persistent** change consistent with what the platform promised. Every account should have that. Child and teen accounts should additionally get **safer defaults** (a non-profiled or following-only feed, autoplay off, overnight-notification limits, no re-engagement pressure), with the level of parental involvement varying by age band and with the direct control belonging to the young person as they approach adulthood. The intervention aims first at the platform's own controls and delivery mechanics, not at classifying or removing lawful speech, because that is the surface most defensible under current First Amendment and Section 230 precedent. A separate, experimental appendix explores labeling the *recommendation mechanism* ("you are seeing this because…"); any system that labels the *meaning* of individual posts needs substantially more evidence and governance before it belongs in policy.
+
+---
+
+## 0. What this is, and what it is not
+
+This is a **framing-and-standard paper**. It argues *where* to intervene, *why that surface is the most defensible one available*, and *what a minimum standard would have to specify*. It is **not** a statute, a technical specification, a legal opinion, or a claim that any platform would voluntarily adopt it. The author is **not a lawyer**; every constitutional and statutory statement below is directional and should be checked by counsel against the primary sources cited. The paper is AI-assisted; the reasoning is the author's, the drafting collaborative, and the honest-limits section (§7) is where it earns trust.
+
+A note on scope discipline learned from earlier drafts of this project: for a design standard, **the definition is the policy.** "De-amplify engagement" and "controls that work" are not yet standards until they say *which* signals, *how fast*, *how long*, and *across which surfaces*. This paper tries to state the observable core precisely and to be honest that the operational thresholds are the real work, not a footnote to be finished later (see §5, and the AADC vagueness holding in §4).
+
+---
+
+## 1. The landscape, as of mid-July 2026
+
+Three separate legal tracks are often blurred together. Keeping them apart is the first correction, because they involve different courts, theories, and subjects.
+
+**Track 1: the federal addiction MDL.** Meta (Facebook/Instagram), Google/Alphabet (YouTube), ByteDance (TikTok), and Snap (Snapchat) are the named defendants in **MDL 3047**, consolidated in the Northern District of California before U.S. District Judge Yvonne Gonzalez Rogers. The MDL held **roughly 2,664 pending actions as of June 2026** (about 2,893 by mid-July). The theory is product design: plaintiffs allege the companies intentionally built features to keep young users returning. On **June 30, 2026**, the court **denied Meta's motion for summary judgment** on the state attorneys general's deception, unfair-practices, and COPPA claims (finding material factual disputes over whether the platforms are addictive and whether Meta misrepresented that), and **granted the states partial summary judgment** that Meta violated COPPA's notice-and-parental-consent requirements. A four-state group (California, Colorado, Kentucky, New Jersey) is proceeding to an **advisory-jury trial beginning August 12, 2026 in Oakland**; Meta's own filing characterizes their penalty exposure as up to about **$1.4 trillion** (violation counts times per-violation statutory maximums, a figure Meta disputes).
+
+**Track 2: an individual state-court trial.** A separate case, *K.G.M. v. Meta and Google*, tried in **Los Angeles Superior Court** (state court, not the MDL), produced a **$6 million verdict on March 25, 2026** ($3M compensatory, $3M punitive, split Meta/Google). On **June 10, 2026** the trial court **denied the defendants' new-trial and judgment-notwithstanding-the-verdict motions**; both defendants **have appealed, and that appeal is pending.** The verdict has *not* been reviewed, let alone affirmed, by an appellate court.
+
+**Track 3: New Mexico's standalone action.** *State of New Mexico v. Meta*, tried in Santa Fe under the New Mexico Unfair Practices Act, produced a **$375 million civil-penalty verdict on March 24, 2026** for misrepresentations about platform safety and failures to protect children from exploitation. This is a **consumer-protection / child-safety** case, not an addiction case, and not part of the MDL; Meta is appealing.
+
+**The tell across all three: the deception and consent claims travel; the bare "is it addictive" claim is where the case gets stuck.** That is the terrain this paper builds on.
+
+**The settlements matter too.** Snap and TikTok settled the California bellwether early in 2026; all four defendants settled the first federal bellwether (reported near $27 million combined); YouTube settled another confidentially. Money is moving, no liability is admitted, and **no disclosed, enforceable, sector-wide design standard has resulted.** Paying and continuing is, so far, the equilibrium.
+
+**And crucially: the design surface is no longer unregulated.** An earlier version of this project claimed no one had named a design target. That is not accurate, and the accurate version is stronger:
+
+- **California SB 976** (Protecting Our Kids from Social Media Addiction Act, 2024) restricts "addictive"/personalized feeds for known minors behind a verifiable-parental-consent gate, imposes overnight and school-hours notification blackouts, and defaults minor accounts to private mode. The Ninth Circuit (*NetChoice v. Bonta*, No. 25-146, September 9, 2025) **declined to enjoin the addictive-feed provision and let the default-private-mode setting stand**, while **enjoining the like-count restriction.** (The precise reasoning is load-bearing and is discussed in §4.)
+- **New York's SAFE for Kids Act** enacts the same core idea; it is **not yet in effect** (awaiting Attorney General rulemaking) and has not been litigated.
+- **The EU Digital Services Act**, Article 38, *binds* very large platforms to offer at least one recommender option **not based on profiling**. The Commission's **July 2025 guidelines on protecting minors** recommend non-profiled defaults, permanent feed resets, lasting effect for "not interested" feedback, autoplay off by default, notification protections, and "why you are seeing this" explanations. The Commission issued **preliminary findings that TikTok's addictive design (February 6, 2026) and Meta's Instagram and Facebook (July 10, 2026) breach the DSA**, focused on infinite scroll, autoplay, notifications, and recommender systems.
+
+So the honest framing is not "here is a target no one has named." It is: **the target is named; what is still missing, especially in the United States, is a coherent, user-centered standard for whether a person's decision to stop or redirect the system actually takes effect and persists.** That standard is what this paper proposes, and §9 states what it adds to SB 976, the DSA, and the age-restriction bills.
+
+---
+
+## 2. The reframe: from "is addiction real" to "does the user's control work"
+
+The instinct to litigate "is social-media addiction a real clinical condition" leads into a swamp of expert-witness battles over a contested diagnostic category. The reframe here moves the question to something **measurable and already inside consumer-protection and product-liability law**: *when a platform tells a user a control does something, does the control do it, and does it last?*
+
+**Consent, severed from the act (the moral frame).** A dead man's switch is supposed to stop a machine when the human's hand comes off. Engagement platforms often behave like the inverse: the machine keeps running, or quietly restarts, after the hand comes off. You choose "following only," close the app, reopen it, and you are back in the algorithmic feed. Your stated will was present in form (there was a setting) and absent in effect (it did not persist). That is the felt experience the movement calls *severed consent*, and it is a good public diagnosis. It is not, by itself, a precise legal standard, because "controls that work" and "severed consent" are broad until they distinguish the *kinds* of control a user exercises. The precise, defined term this paper uses for the regulable object is **control integrity** (§3).
+
+**The delivery loop, not the content.** What makes a feed compulsive is not any individual post; it is the loop mechanics: infinite scroll, autoplay, variable-ratio reward, push notifications, and ranking that optimizes for time-on-site. A brilliant post and a banal one ride the same loop. This matters because the regulable, more speech-defensible surface is the **architecture of delivery and the controls over it**, not the expression delivered. (The word "more" is doing real work; §4 is honest that "architecture" is not a magic phrase that removes the First Amendment.)
+
+**Amplified or extracted (a diagnostic lens, not an absolute).** One way to ask what a feed is doing: does the system, when your stated will and its objective disagree, *amplify the person* (serve the will you actually expressed) or *extract the person* (farm your attention as raw material)? A real feed can do both at once, on different axes, and a user's own intent is often mixed. So this is a lens for the conflict case, not an ontological claim that a system is wholly one or the other. Stated that way, it clarifies the design question: **does the user keep a clear, durable ability to redirect or stop the system?** A working brake is the minimum evidence that the platform remains answerable to the person using it. (The lens has scholarly neighbors regulators already know: Zuboff on behavioral-surplus extraction, Wu on the attention economy.)
+
+---
+
+## 3. The standard: brake integrity, plus youth defaults
+
+The proposal has two layers. Making the base layer universal is deliberate: it avoids resting the *existence of a working control* on age assurance (a hard, privacy-fraught problem, §7), and it is harder for a platform to rebut, because it does not claim adults forfeit control at eighteen.
+
+### Layer I. Brake Integrity (universal)
+
+When a service presents a control to stop, limit, reset, or redirect a personalization or engagement function, the control must be:
+
+- **discoverable** (findable without external instructions);
+- **clear** (it states what will change; "show me less" is not the same promise as "turn off personalized recommendations");
+- **promptly effective** (the behavior changes soon after activation);
+- **materially effective** (it changes the feed in a way the user can perceive, not cosmetically);
+- **persistent** (the choice survives closing and reopening the app, another device, an app update, and time, until the user deliberately changes it);
+- **scoped** (it covers the related surfaces, not one screen: Shorts/Reels, Explore, notifications, suggested accounts);
+- **non-circumventing** (the platform does not repeatedly nag, silently reset, or route the user back into the same mode).
+
+Every account, regardless of age, should have controls that meet these tests for at least: turning personalized recommendations off / selecting a following-only or non-profiled feed; pausing recommendation signals; turning autoplay off; and suppressing engagement-driven notifications.
+
+### Layer II. Youth Defaults (age-differentiated)
+
+For child and teen accounts, the safer settings should be **on by default** (not merely available): a non-profiled or following-only feed, autoplay off, overnight notifications off, no streaks or repeated re-engagement prompts, finite stopping points, and stronger limits on behavioral profiling. This is where age assurance becomes relevant: to the *additional protections*, not to the *existence* of a working brake.
+
+Two disciplines the youth layer must carry (developed in §7): **age bands** (a seventeen-year-old is not a seven-year-old; direct control should belong to the older teen, not depend solely on a guardian), and **privacy-preserving parental support** (a guardian can enable autoplay-off or overnight limits as *settings* without receiving a surveillance feed of what the teen watched or searched).
+
+### Why this is stated in observable terms
+
+Modern ranking is multi-objective. A platform can truthfully say it "reduced the watch-time weight and added a well-being term" while the user's experience is unchanged. So the compliance test is written first in terms of **what the product does that a user or an outside tester can observe**, and only second in terms of the internal objective. (The honest limit on auditing the objective itself is §5.)
+
+---
+
+## 4. The legal architecture: two different machines, one defensible core
+
+The single most important legal correction to earlier drafts: **do not treat "regulating the algorithm" as categorically outside the First Amendment or Section 230.** Two distinct doctrines are in play, and they are often conflated.
+
+**Section 230 governs retrospective liability for harm from third-party content.** It immunizes "publishing," and the Ninth Circuit currently treats **algorithmic recommendation as publishing**. In *Doe 1 v. Meta Platforms* (9th Cir., No. 24-1672, April 28, 2026), the court held that "matching users with content is publishing conduct, even when the user has not requested the content," and that engagement-driven recommendation of third-party posts is therefore barred by Section 230 (two concurrences urged en banc reconsideration, so the precedent is contestable, but it is the current law of the circuit). The **narrow escape hatch** is *Lemmon v. Snap* (9th Cir., 2021): a product-design duty **survives Section 230 when it operates independently of third-party content** (Snap's Speed Filter, where the danger was the speeding, not any message). Section 230 is a **liability shield the platform holds**, not a source of legislative power; a prospective statute is not "cleared" by Section 230, and a recommendation-objective mandate cannot assume it escapes publishing doctrine.
+
+**The First Amendment governs prospective statutes regulating platform conduct.** In *Moody v. NetChoice* (SCOTUS, 2024), the Court explained that a platform's selection, ordering, and curation of third-party posts into a feed **can be protected editorial expression**. That discussion was **guidance, not a merits holding** (the Court vacated and remanded on facial-challenge grounds and did not decide either statute's constitutionality), and it expressly reserved other functions. Justice Barrett's concurrence flags the lane most relevant here: an algorithm that "just present[s] automatically to each user whatever the algorithm thinks the user will like," with no human editorial judgment, **"might raise different constitutional questions."** That lane is **open and fact-intensive, not established** in this proposal's favor, which is exactly why categorical confidence is a mistake.
+
+Put together, these cases yield a **tiered ranking of legal exposure**, from most defensible to least:
+
+1. **Control integrity** (this paper's core). Requiring that a control the platform *offers* actually works and persists regulates the platform's **own interaction with its user**, operating independently of any particular third-party content. This is the *Lemmon* lane, the strongest available ground.
+2. **Default and interface rules** (autoplay off by default, notification limits, following-only availability, finite stopping points). More contestable, but conduct-focused; SB 976's default-private-mode survived intermediate scrutiny as content-neutral.
+3. **Ranking-objective mandates** (government specifies the objective by which lawful third-party speech must be ordered). This meets *Moody* head-on and is materially more exposed.
+4. **Content-characterizing labels** (a government-mandated label declaring a post "a wedge" or "divisive"). The most exposed of all: SB 976's like-count/feedback restriction was found **content-based, drew strict scrutiny, and was enjoined**; a label characterizing lawful speech likely draws a compelled-editorial-speech challenge under *Moody*. This is why the wedge-label is confined to the experimental appendix, not this standard.
+
+**Precision is part of the legal architecture, not the finish work.** In *NetChoice v. Bonta* (the Age-Appropriate Design Code appeal, 9th Cir., No. 25-2366, March 12, 2026), the court **un-enjoined the age-estimation requirement** but **kept the injunction on the data-use and dark-pattern provisions on First Amendment vagueness grounds**, because terms like "materially detrimental" and "well-being" did not give adequate notice of prohibited conduct. For a design standard, undefined criteria are not a detail to settle later; they can be the difference between an enforceable rule and an enjoined one. The observable-test framing in §3 and §5 is an attempt to write to that constraint.
+
+**The live corroboration.** SB 976's addictive-feed restriction and default-private-mode are **live, un-enjoined law** after the Ninth Circuit's September 2025 decision. Two honest caveats: (a) the court **declined to enjoin** on standing and facial-challenge-burden grounds and **expressly left open whether a personalized feed is the platform's protected speech**, so this is durability under preliminary challenge, not a merits blessing; and (b) the one feed-adjacent mandate that was **struck down** (hiding like counts) is the instructive warning that regulating *which content or metrics are shown* is far more dangerous than regulating *whether the feed is algorithmically personalized by default*. Control integrity sits on the safe side of that line.
+
+---
+
+## 5. Auditability and anti-circumvention
+
+Earlier drafts claimed a changed ranking objective is "auditable from outside." That is not generally true: an outside observer cannot inspect objective functions, weights, training data, or internal experiments without mandated access. What *can* be tested from outside is **what the product does**. So the compliance model is layered:
+
+**Observable tests (outside the platform):** a non-profiled/following-only mode exists, is easy to activate, has a visible active state, takes effect promptly, persists across sessions and devices, keeps autoplay off, suppresses engagement notifications, does not auto-revert, keeps search and explicitly-requested content available, and is not compensated for by ramping up another surface.
+
+**Mandated internal evidence (with legal access):** a public control specification, version histories, controlled-account testing, documentation of ranking signals and prohibited substitutions, machine-readable records of when a preference was activated and honored, outcome testing across age groups and languages, anti-circumvention testing, and a complaint-and-remediation process.
+
+**Anti-circumvention is non-optional.** A platform can reduce engagement pressure in the main feed while increasing notifications, suggested accounts, streaks, and direct-message prompts. Compliance has to cover the whole relevant product experience, or it simply moves the loop.
+
+The honest formulation is therefore: *control performance can be tested from outside; full verification of ranking compliance requires legally mandated documentation, data access, and independent audit.*
+
+---
+
+## 6. Why not just have the platforms detect and down-rank the harmful stuff?
+
+Because the party best positioned to build that detector is the party you would least want running it silently.
+
+These platforms are the entities on earth best placed to classify content at scale: the most compute, the most reach, and the deepest behavioral profile of every user, the same modeling that makes a feed compulsive in the first place. Detection is not the hard part. The danger is *who* would hold a silent, platform-owned classifier of what counts as harmful or "divisive" for every child, and *why* they would run it honestly. The firm you would ask earns its money on engagement, and the most engaging content is often the most inflammatory. The biggest of these firms booked on the order of **$26.8 billion in net income in a single quarter** (as of Q1 2026; figures like this date quickly and carry an as-of date here for that reason). It has a built-in reason to under-enforce on the outrage that drives its revenue, or over-enforce on speech it dislikes, and a silent classifier cannot be checked from outside.
+
+The conclusion is not "detection is impossible." It is: **a detector this cheap to build and this profitable to bias must never be the silent, centralized mechanism.** That is why the standard here regulates the *objective and the controls* rather than mandating a classifier, why any labeling that does happen must be a **contestable, user-facing** thing rather than a silent filter, and why the wedge-label specifically is confined to the experimental appendix. Change what the feed optimizes for, and there is no classifier to trust; "did the offered control work and persist?" is something an outsider can actually test.
+
+---
+
+## 7. The honest limits (load-bearing; do not skip)
+
+1. **This is a frame plus a standard sketch, not a finished rule.** Measurable thresholds ("how fast must a control take effect; how long must it persist; how much friction before an override is manipulative"), a testing and audit methodology, enforcement, and surviving legal challenge are the bulk of the work and are not fully here.
+
+2. **Age verification is a potential showstopper, not just a hard problem.** Layer II depends on identifying minors, and doing that without invasive ID checks is unsolved; the UK is colliding with exactly this. The mitigation this paper leans on is structural: because **Layer I (the working brake) is universal**, the *existence* of control does not depend on age assurance. Age assurance is needed only for the *default* protections, which narrows (does not eliminate) the problem. The solution must not build a surveillance infrastructure worse than the harm it addresses.
+
+3. **Youth autonomy, not only parental control.** "Let the guardian decide" is too simple for an under-18 population. Some guardians are controlling, abusive, or hostile to a child's identity; a parental tool that surfaces a teen's interests, health questions, sexuality, or relationships can itself cause harm. Older teens should hold the direct brake themselves; parental support should be about *settings* (autoplay off, overnight limits) rather than *content surveillance*.
+
+4. **De-amplification affects speech distribution.** Any change to ranking affects which speech reaches which audience, so even "content-neutral" is a strong defense, not an absolute one, and the *Moody* "purely reactive algorithm" question is unresolved (§4). Following-only or chronological defaults also carry **distributional effects** (they can disadvantage new creators and people who rely on discovery); that does not defeat the standard, but it should be measured.
+
+5. **Platforms will pre-empt and will litigate.** The likeliest response to a public campaign is a **cosmetic brake** plus a press release (Instagram Teen Accounts is arguably this move already), which deflates a movement without touching the loop. The persistence and anti-circumvention tests exist precisely so a cosmetic brake fails them. Platforms may also argue a mandated objective is a **regulatory taking** or **compelled speech**; counsel required.
+
+6. **The evidence is not all one way, and the standard must not overclaim.** Three empirical claims must be kept separate: that a design increases compulsive use, that a proposed control changes behavior, and that the behavioral change improves welfare. The closest existing experiment (Guess et al., *Science*, 2023) found that switching users to a reverse-chronological feed **reduced time on platform but did not measurably improve polarization, knowledge, or well-being** over a three-month adult window. That is real counter-evidence to a naive "chronological fixes everything" claim. The fair response is that a three-month adult study is not a developmental-exposure study of minors and that reduced compulsive use is a legitimate end in itself, not only a proxy for mental health, but the paper should make that argument openly rather than list falsifiers it has not checked against the literature (see §8).
+
+7. **The wedge classifier is the dangerous part, and it is not in this standard.** The question of whether a post is tribal sorting versus legitimate advocacy, satire, or reporting is normative and contested, and even perfect behavioral prediction does not resolve it. A parental toggle changes *who activates* a label, not *who defines* the category, trains the model, or benefits from its operation. "Visible" does not equal "contestable" without a specified appeal process, and a mandated label on lawful speech invites the strongest constitutional challenge (§4, tier 4). Labeling research also shows an **implied-truth effect**: warning some items makes the unlabeled ones read as vetted. For all these reasons the wedge-label is a **research hypothesis in the experimental appendix**, not a policy recommendation. The appendix also develops the stronger, brake-aligned alternative: labeling the **recommendation mechanism** ("you are seeing this because you engaged with similar posts," with a control to stop using that signal) rather than the meaning of the speech, which supports recommendation literacy without characterizing anyone's lawful expression. (Inoculation research, van der Linden and colleagues, supports the "name the manipulative move" mechanism, which is why the idea is worth studying rather than discarding.)
+
+8. **Displacement.** De-amplify the big platforms' feeds for minors and attention can migrate to group chats, Discord, gaming platforms, or smaller apps outside any single statute's reach. The standard regulates the venue; it should not assume the harm stays put.
+
+9. **Meta-honesty flag.** This document reasons about media effects and its own relevance to policy, a surface where fluent, self-flattering narrative is the failure mode. The reasoned parts (the tractability of control integrity, the legal tiering) are hypotheses to be tested against the primary sources, not findings. An earlier version of this project also carried factual errors about the litigation that were caught only on external review; the sources here have been re-checked against primary dispositions for that reason, and are dated.
+
+---
+
+## 8. Falsifiability: what would show this is wrong
+
+- **Persistent controls do not reduce compulsive use.** If durable, working brakes for minors do not measurably reduce compulsive-use metrics and high-arousal exposure, the "controls that work" premise is weakened. (Held honestly against Guess et al., §7.6: reduced time-on-platform is established for chronological feeds; the attitudinal/welfare link is not, and this standard's claim is about restoring control, with reduced compulsion as the near-term measurable, not a mental-health guarantee.)
+- **Control integrity cannot be specified enforceably.** If "prompt, material, persistent, non-circumventing" cannot be turned into thresholds that survive the AADC vagueness bar (§4), the standard reduces to the aspiration it criticizes.
+- **The objective substitutes invisibly.** If platforms can satisfy every observable test while re-introducing engagement pressure through renamed signals or other surfaces that outside audit cannot catch, the anti-circumvention model has failed.
+- **The Lemmon lane closes.** If courts treat requiring an offered control to work as itself compelling or restricting the platform's protected editorial speech, the paper's central legal bet (control integrity is the *Lemmon* lane, not the *Moody* lane) is wrong.
+
+---
+
+## 9. What this adds to the existing record
+
+Because §1 establishes that the design surface is already regulated, this paper must justify itself against what exists:
+
+- **Versus SB 976 / NY SAFE:** those gate personalized feeds for minors behind parental consent. Brake integrity is **universal at the base layer** (a working, persistent control for everyone), makes **durable user choice** the object rather than a broad personalization restriction, avoids making parental consent the sole escape valve, and adds the **persistence and anti-circumvention** tests that turn "a setting exists" into "the setting works and stays." It also stays on the safer side of the SB 976 like-count strike-down by never regulating which content or metrics are shown.
+- **Versus the DSA / EU minors guidelines:** the DSA already mandates a non-profiled option and the guidelines already describe resets and lasting feedback. This paper's contribution is a **testable integrity standard** (observable pass/partial/fail criteria and an audit model) rather than a list of desired features, and the explicit **§230-vs-First-Amendment tiering** for the US context.
+- **Versus age-restriction bills (UK under-16 ban, etc.):** those restrict *access*. This restricts *the loop and the controls over it*, which does not require deciding that minors may not use these services at all, and which extends a base-layer benefit to adults.
+
+The one-line version of the contribution: *existing law increasingly names design as the target; what is missing is a user-centered standard for whether the person's decision to stop or redirect the system actually takes effect and persists. That standard is brake integrity.*
+
+---
+
+## Provenance and methodology
+
+The conceptual tools here were carried in from a creative and analytical practice and applied to a policy problem: the dead-man's-switch image, "consent severed from the act," and the "amplify or extract" lens began outside policy and are restated in full above, so nothing load-bearing lives elsewhere. This paper is **AI-assisted**: the seed insights and judgment are the author's; drafting was collaborative; the legal and empirical claims were verified against primary sources (see below), and the honest-limits section is the check on fluent overreach. This paper deliberately does not name a human legal, technical, or youth-safety reviewer, because it has not been through one; that review is part of the 95% still to be done.
+
+## Sources (reviewed July 2026; dispositions dated)
+
+Litigation and regulation in this area move weekly; each item carries an as-of date and should be re-checked against the primary source before circulation.
+
+- **MDL 3047** (four defendants; ~2,664 pending June 2026 / ~2,893 July 2026; June 30 2026 summary-judgment ruling; Aug 12 2026 four-state advisory-jury trial; ~$1.4T Meta-characterized exposure): court docket / [California and New Jersey AG releases](https://www.njoag.gov/ahead-of-meta-trial-attorney-general-davenport-secures-critical-win/); [JURIST](https://www.jurist.org/news/2026/07/meta-says-state-ags-seek-1-4t-over-youth-safety-claims/).
+- **K.G.M. v. Meta and Google** ($6M, LA Superior Court, Mar 25 2026; new-trial/JNOV denied Jun 10 2026; on appeal): [CNBC](https://www.cnbc.com/2026/06/10/google-and-meta-denied-new-trial-in-youth-social-media-addiction-case.html); [Press Democrat](https://www.pressdemocrat.com/2026/07/10/social-media-kids-trial-appeal/).
+- **State of New Mexico v. Meta** ($375M, Mar 24 2026, NM Unfair Practices Act, child-safety, on appeal): [NM DOJ](https://nmdoj.gov/press-release/new-mexico-department-of-justice-wins-landmark-verdict-against-meta/).
+- **California SB 976** and **NetChoice v. Bonta, No. 25-146 (9th Cir. Sep 9 2025)** (addictive-feed provision and default-private-mode un-enjoined; like-count enjoined; feed-expressiveness left open): [SB 976 text](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB976); [9th Cir. opinion](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/09/25-146.pdf).
+- **NY SAFE for Kids Act** (enacted 2024; pre-effective, awaiting AG rulemaking): [NY AG proposed rules](https://ag.ny.gov/press-release/2025/attorney-general-james-releases-proposed-rules-safe-kids-act-restrict-addictive).
+- **Moody v. NetChoice** (SCOTUS 2024, curated feeds as editorial expression, guidance not merits; Barrett concurrence on reactive algorithms): [opinion](https://www.supremecourt.gov/opinions/23pdf/22-277_d18f.pdf).
+- **Doe 1 v. Meta Platforms** (9th Cir. Apr 28 2026, recommendation is publishing under §230; distinguishes Lemmon): [opinion](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/04/28/24-1672.pdf).
+- **Lemmon v. Snap** (9th Cir. 2021, product-design duty independent of content survives §230): [analysis](https://caselaw.findlaw.com/court/us-9th-circuit/2126266.html).
+- **NetChoice v. Bonta (AADC)** (9th Cir. Mar 12 2026, age-estimation un-enjoined; data-use/dark-pattern provisions enjoined on vagueness): [opinion](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/03/12/25-2366.pdf).
+- **EU DSA Art. 38** (non-profiling recommender option) and **Commission minors guidelines (Jul 2025)**; **preliminary findings, TikTok Feb 6 2026 and Meta Jul 10 2026**: [Commission minors guidelines](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors); [Meta preliminary finding](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act).
+- **Guess et al., *Science* (2023)** (chronological feed reduced time, not attitudes): [study](https://www.science.org/doi/10.1126/science.abp9364).
+- **UK** (under-16 ban announced Jun 15 2026; 16-17 curfews/addictive-feature defaults Jul 15 2026; both targeted spring 2027): [GOV.UK](https://www.gov.uk/government/news/new-social-media-curfews-and-crackdown-on-addictive-features-to-better-protect-16-and-17-year-olds-online).
+- **Meta Q1 2026 net income (~$26.8B, incl. one-time tax benefit)** (as-of Q1 2026, dates quickly): [Meta IR](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx).
+
+Financial and case figures are as reported and not independently audited here; legal characterizations are directional and for counsel to confirm.
