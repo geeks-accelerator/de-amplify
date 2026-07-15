@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 import ProposalContent from "./ProposalContent";
 
 export const metadata: Metadata = {
-  title: "The full proposal — The Thing It Broke Was the Brake",
+  title: "The full proposal: The Thing It Broke Was the Brake",
   description:
     "De-Amplify, Don't Censor: the full design-and-parental-controls proposal for engagement feeds and minors, including its honest limits.",
 };

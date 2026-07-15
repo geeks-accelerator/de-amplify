@@ -5,12 +5,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // The confession palette — cold machine, near-black, one brake-red alarm.
+        // The confession palette: cold machine, near-black, one brake-red alarm.
         void: "#070709", // page background, near-black (cool)
         panel: "#0d0d12", // raised panels / callouts
         bone: "#E7E7EC", // cool off-white body text
-        signal: "#5B9DFF", // cold electric blue — primary accent (structure, links, the fix)
-        brake: "#FF4D5E", // brake-light red — alarm accent (the confession, the harm, the receipts)
+        signal: "#5B9DFF", // cold electric blue, primary accent (structure, links, the fix)
+        brake: "#FF4D5E", // brake-light red, alarm accent (the confession, the harm, the receipts)
         ash: "#71717f", // muted gray
       },
       fontFamily: {

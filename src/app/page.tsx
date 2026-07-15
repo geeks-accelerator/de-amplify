@@ -52,7 +52,7 @@ export default function Home() {
 
             <p className="mt-7 max-w-xl text-[15px] leading-relaxed text-bone/55 sm:text-base">
               Engagement feeds are being sued for addicting kids. The off-switch that
-              doesn&apos;t work, the &quot;no&quot; the machine overrides — of everything that
+              doesn&apos;t work, the &quot;no&quot; the machine overrides. Of everything that
               era broke, the load-bearing one was the brake:{" "}
               <span className="text-bone/85">consent, severed from the act.</span>
             </p>
@@ -86,9 +86,10 @@ export default function Home() {
             <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
               We built the opposite: the machine that keeps{" "}
               <span className="text-bone/85">running</span> when the hand comes off.
-              You say &quot;show me less,&quot; &quot;I want to stop,&quot; &quot;I never agreed to
-              this&quot; — and nothing changes. The controls are decorative. Your will is
-              present in form (there&apos;s a button) and absent in effect (it does nothing).
+              You say &quot;show me less,&quot; &quot;I want to stop,&quot; &quot;I never
+              agreed to this,&quot; and nothing changes. The controls are decorative. Your
+              will is present in form (there&apos;s a button) and absent in effect (it does
+              nothing).
             </p>
 
             <blockquote className="my-8 border-l-2 border-brake/50 bg-white/[0.02] py-3 pl-5 pr-4 font-mono text-[15px] text-bone/75">
@@ -98,7 +99,7 @@ export default function Home() {
             <p className="text-[15px] leading-[1.75] text-bone/55">
               And here is the part that changes where you aim: the harm doesn&apos;t
               live in the <span className="text-bone/85">content</span>. It lives in the{" "}
-              <span className="text-bone/85">delivery loop</span> — infinite scroll,
+              <span className="text-bone/85">delivery loop</span>: infinite scroll,
               autoplay, the slot-machine reward schedule, an algorithm optimizing for
               time-on-site. A brilliant post and a banal one ride the same loop. The loop
               is what addicts. So the thing to regulate was never the speech. It was the
@@ -127,12 +128,12 @@ export default function Home() {
               The legal theory is <span className="text-bone/85">product design</span>,
               not bad content: platforms &quot;intentionally incorporated algorithms,
               notifications, endless scrolling and other features designed to keep young
-              users repeatedly returning.&quot; The defense is telling —{" "}
+              users repeatedly returning.&quot; The defense is telling,{" "}
               <span className="text-bone/85">
                 &quot;social media addiction is not an established psychiatric
-                condition&quot;
+                condition,&quot;
               </span>{" "}
-              — which is why the case gets stuck. But the claims that advanced most cleanly
+              which is why the case gets stuck. But the claims that advanced most cleanly
               weren&apos;t about addiction at all. They were about{" "}
               <span className="text-signal">deception and consent</span>. That&apos;s the
               tell.
@@ -155,13 +156,13 @@ export default function Home() {
               {[
                 ["Damages", "backward-looking. Price the harm, don't stop it. A company can pay and keep the mechanism."],
                 ["Age bans", "blunt, evadable, and they trade the problem for an age-verification fight."],
-                ["Immunity", "the opposite of a solution — Meta is lobbying for exactly this. It removes the pressure entirely."],
-                ["“Content moderation”", "government deciding which viewpoints kids see. Unconstitutional as a mandate — and it removes the very material critical thinking is practiced on."],
+                ["Immunity", "the opposite of a solution. Meta is lobbying for exactly this. It removes the pressure entirely."],
+                ["“Content moderation”", "government deciding which viewpoints kids see. Unconstitutional as a mandate, and it removes the very material critical thinking is practiced on."],
               ].map(([k, v]) => (
                 <li key={k} className="flex gap-4">
                   <span className="mt-[7px] h-px w-6 shrink-0 bg-brake/50" />
                   <p className="text-[15px] leading-[1.7] text-bone/55">
-                    <span className="font-mono text-[13px] text-bone/85">{k}</span> —{" "}
+                    <span className="font-mono text-[13px] text-bone/85">{k}</span>:{" "}
                     {v}
                   </p>
                 </li>
@@ -179,7 +180,7 @@ export default function Home() {
             </h2>
             <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
               Engagement ranking rewards the strongest reaction. Outrage, tribal
-              conflict, out-group hostility reliably win that contest — so optimizing for
+              conflict, out-group hostility reliably win that contest, so optimizing for
               engagement <span className="text-bone/85">automatically selects for
               wedges</span>. No one flips a &quot;promote divisive content&quot; switch. The
               objective does it.
@@ -189,8 +190,8 @@ export default function Home() {
               <span className="text-signal">
                 because the amplification is emergent from the objective, you can remove
                 it by changing the objective
-              </span>{" "}
-              — without ever classifying a single post as a wedge, without a censor,
+              </span>
+              , without ever classifying a single post as a wedge, without a censor,
               without touching anyone&apos;s speech.
             </p>
           </div>
@@ -205,7 +206,7 @@ export default function Home() {
             </h2>
             <p className="mt-6 max-w-2xl text-[15px] leading-[1.75] text-bone/55">
               Two knobs, ordered from safest to most powerful. The unit is the under-18
-              account — already a protected class, so age-differentiated treatment is
+              account, already a protected class, so age-differentiated treatment is
               nothing new.
             </p>
 
@@ -221,7 +222,7 @@ export default function Home() {
                   Change the ranking objective for minors&apos; accounts away from
                   engagement-maximization. Cap amplification. Strip autoplay and
                   variable-reward defaults. It de-amplifies wedges{" "}
-                  <span className="text-bone/85">as a side effect</span> — no wedge
+                  <span className="text-bone/85">as a side effect</span>: no wedge
                   detector, no topic judgment, no censor. Nothing to define, nothing to
                   game. And it&apos;s de-amplify, not remove: the content still exists,
                   the firehose just stops.
@@ -237,11 +238,11 @@ export default function Home() {
                 </h3>
                 <p className="mt-3 text-[14px] leading-[1.7] text-bone/55">
                   A parental control that <span className="text-bone/85">surfaces</span>{" "}
-                  the wedge instead of hiding it: &quot;this post is running a wedge —
+                  the wedge instead of hiding it: &quot;this post is running a wedge,
                   here&apos;s the move it&apos;s making.&quot; A label{" "}
                   <span className="text-bone/85">builds</span> the muscle to spot wedges;
                   a filter removes the material that muscle is trained on. And a label is
-                  contestable — a silent down-rank never is. The guardian decides, not the
+                  contestable; a silent down-rank never is. The guardian decides, not the
                   platform or the state.
                 </p>
               </div>
@@ -267,10 +268,10 @@ export default function Home() {
             </p>
             <ul className="mt-8 space-y-5">
               {[
-                ["It's a frame, not a solution.", "The measurable thresholds, the testing, the enforcement, surviving the First Amendment and Section 230 — that's 95% of the work, and it isn't here."],
-                ["“Who defines a wedge” doesn't dissolve — it moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why Knob 1 is content-neutral and needs no classifier at all."],
-                ["The auto-classifier is the anti-pattern.", "“AI silently auto-hides wedges for kids” is the exact thing this proposal exists to prevent — not endorse."],
-                ["De-amplify, not remove. Hold that line.", "The moment it slides to hide/delete, it reacquires the censorship problem and stops building critical thinking. The line is load-bearing."],
+                ["It's a frame, not a solution.", "The measurable thresholds, the testing, the enforcement, surviving the First Amendment and Section 230: that's 95% of the work, and it isn't here."],
+                ["“Who defines a wedge” doesn't dissolve. It moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why Knob 1 is content-neutral and needs no classifier at all."],
+                ["The auto-classifier is the anti-pattern.", "“AI silently auto-hides wedges for kids” is the exact thing this proposal exists to prevent, not endorse."],
+                ["De-amplify, not remove. Hold that line.", "The moment it slides to hide or delete, it reacquires the censorship problem and stops building critical thinking. The line is load-bearing."],
               ].map(([k, v]) => (
                 <li key={k} className="flex gap-4">
                   <span className="mt-[7px] h-px w-6 shrink-0 bg-signal/50" />
@@ -282,8 +283,8 @@ export default function Home() {
             </ul>
             <p className="mt-8 text-[13px] leading-relaxed text-bone/40">
               This is the section that makes it an honest diagnosis instead of a grudge.
-              The target is a <span className="text-bone/70">mechanism, not a who</span> —
-              it reads identically for Facebook, TikTok, or YouTube.
+              The target is a <span className="text-bone/70">mechanism, not a who</span>.
+              It reads identically for Facebook, TikTok, or YouTube.
             </p>
           </div>
         </section>
@@ -296,9 +297,9 @@ export default function Home() {
               A movement grows when people decide it matters.
             </h2>
             <p className="mx-auto mt-6 max-w-lg text-[15px] leading-[1.75] text-bone/55">
-              Read the whole thing — including the limits. Then, if the diagnosis is
-              right, make it louder. This is a design target anyone can point a regulator,
-              a platform, or a parent at.
+              Read the whole thing, including the limits. Then, if the diagnosis is right,
+              make it louder. This is a design target anyone can point a regulator, a
+              platform, or a parent at.
             </p>
             <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
               <Link

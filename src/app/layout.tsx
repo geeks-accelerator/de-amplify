@@ -4,9 +4,9 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 const SITE_URL = "https://ibroketheminors.com";
-const TITLE = "I Broke the Minors — The Thing It Broke Was the Brake";
+const TITLE = "I Broke the Minors: The Thing It Broke Was the Brake";
 const DESCRIPTION =
-  "Engagement feeds are being sued for addicting kids. The fix isn't to censor content — it's to give the brake back. A design-and-parental-controls proposal: de-amplify, don't censor.";
+  "Engagement feeds are being sued for addicting kids. The fix isn't to censor content. It's to give the brake back. A design-and-parental-controls proposal: de-amplify, don't censor.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
