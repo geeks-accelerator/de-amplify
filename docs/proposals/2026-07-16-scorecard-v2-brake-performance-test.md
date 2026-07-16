@@ -12,6 +12,8 @@ document: "Standard-revision proposal (Lane C). Companions: the Brake Integrity 
 
 > **The one-line version.** A physical brake is judged by its stopping distance, not by the presence of a pedal. The current scorecard mostly tests whether the pedal exists and stays where you put it. Version 2 would test what happens after you press it.
 
+**Reviewer note (2026-07-16).** An agent review is appended at the end of this document, after Provenance: "Reviewer response (2026-07-16, agent review)". It answers the section 6 questions inline; verdict is adopt-with-revisions. Read its first structural finding before revising: the v1 baseline is stale. The live scorecard was already reconciled to seven dimensions, so section 2's "six" is outdated and "03 Effective" is a re-merge, not a merge from the paper.
+
 ## 0. What this document is, and the rule it operates under
 
 The brake scorecard (de-amplify.com/scorecard) is the movement's instrument: the brake-integrity test written out so everyone scores a platform the same way, producing comparable reports. Its dimensions are defined in section 3 of the policy paper (The Brake Integrity Standard) and rendered on the scorecard page. **Changing the scorecard means changing the standard**, in the paper and on the page in lockstep, and it affects the comparability of every report filed under the old test.
