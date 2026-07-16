@@ -280,6 +280,16 @@ export default function Home() {
               </a>
               .
             </p>
+
+            <p className="mt-3 text-[13px] leading-relaxed text-bone/40">
+              Others are remixing it now, in more voices and more languages.{" "}
+              <Link
+                href="/remixes"
+                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+              >
+                hear the remixes &rarr;
+              </Link>
+            </p>
           </div>
         </section>
 

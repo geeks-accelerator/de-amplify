@@ -28,5 +28,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/notes`, lastModified: notesDate, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE_URL}/report`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.8 },
     { url: `${SITE_URL}/scorecard`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${SITE_URL}/remixes`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.6 },
   ];
 }

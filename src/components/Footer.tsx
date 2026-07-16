@@ -32,6 +32,10 @@ export default function Footer() {
             who it&apos;s for
           </Link>
           <span className="text-bone/15">/</span>
+          <Link href="/remixes" className="transition-colors hover:text-bone/70">
+            remixes
+          </Link>
+          <span className="text-bone/15">/</span>
           <a
             href={GITHUB}
             target="_blank"

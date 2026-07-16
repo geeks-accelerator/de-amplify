@@ -90,6 +90,7 @@ const BODY = {
     "lawsuits-markdown": { href: `${SITE}/lawsuits.md`, type: "text/markdown" },
     scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
     report: { href: `${SITE}/report`, title: "File a structured brake report" },
+    remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },
     cases: [
       { href: `${SITE}/lawsuits/mdl-3047`, title: "MDL 3047 (federal)" },
       { href: `${SITE}/lawsuits/kgm-v-meta`, title: "K.G.M. v. Meta and Google (California)" },

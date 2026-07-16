@@ -69,6 +69,9 @@ the online version and PDF are derived from it.
 - [The brake scorecard](${SITE_URL}/scorecard): the seven-part brake-integrity
   test (discoverable, clear, immediate, material, persistent, scoped,
   non-circumventing) written out so everyone scores the same way.
+- [Remixes of the movement song](${SITE_URL}/remixes): the anthem "Where's
+  the Brake" plus community remixes ("No Brake", and an open call for more, in
+  any language), curated on dated passes.
 
 ## Source
 
