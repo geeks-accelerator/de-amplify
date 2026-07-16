@@ -161,7 +161,7 @@ export default function ScorecardPage() {
                       <td className="px-4 py-3.5 font-mono text-[13px] text-bone/80">{p}</td>
                       <td className="px-4 py-3.5 font-mono text-[12px] text-bone/30">awaiting reports</td>
                       <td className="px-4 py-3.5 text-right">
-                        <Link href="/report" className="font-mono text-[12px] text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake">
+                        <Link href="/report" className="font-mono text-[12px] text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake">
                           file one &rarr;
                         </Link>
                       </td>
