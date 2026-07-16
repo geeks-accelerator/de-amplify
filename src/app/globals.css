@@ -14,6 +14,10 @@
 html {
   scroll-behavior: smooth;
   background: var(--void);
+  /* native form controls, scrollbars, and keyboard chrome match the theme */
+  color-scheme: dark;
+  /* in-page anchors land below the sticky header (h ~49px) */
+  scroll-padding-top: 4rem;
 }
 
 body {

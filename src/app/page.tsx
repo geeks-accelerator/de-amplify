@@ -12,7 +12,7 @@ const TAG = "#WheresTheBrake";
 
 function Eyebrow({ children }: { children: React.ReactNode }) {
   return (
-    <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+    <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
       {children}
     </p>
   );
@@ -24,7 +24,7 @@ function Stat({ value, label }: { value: string; label: string }) {
       <p className="font-mono text-2xl font-bold tabular-nums text-brake/90 sm:text-[28px]">
         {value}
       </p>
-      <p className="mt-2 text-[12px] leading-snug text-bone/40">{label}</p>
+      <p className="mt-2 text-[12px] leading-snug text-bone/55">{label}</p>
     </div>
   );
 }

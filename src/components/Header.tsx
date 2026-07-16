@@ -13,30 +13,31 @@ export default function Header() {
           <span className="text-brake">de</span>-amplify
           <span className="text-brake animate-blink">_</span>
         </Link>
-        <nav className="flex items-center gap-5 font-mono text-[11px] lowercase tracking-wide text-bone/45">
+        <nav className="flex items-center gap-4 font-mono text-[11px] lowercase tracking-wide text-bone/45 sm:gap-5">
+          {/* py-2 grows each link's tap target past the 24px WCAG floor */}
           <a
             href="/#ask"
-            className="text-brake/90 underline decoration-brake/40 underline-offset-4 transition-colors hover:text-brake"
+            className="hidden py-2 text-brake/90 underline decoration-brake/40 underline-offset-4 transition-colors hover:text-brake sm:inline-block"
           >
             find the brake
           </a>
-          <Link href="/report" className="transition-colors hover:text-brake">
+          <Link href="/report" className="py-2 transition-colors hover:text-brake">
             report
           </Link>
-          <Link href="/lawsuits" className="hidden transition-colors hover:text-bone/80 sm:inline">
+          <Link href="/lawsuits" className="py-2 transition-colors hover:text-bone/80">
             the lawsuits
           </Link>
-          <Link href="/proposal" className="transition-colors hover:text-signal">
+          <Link href="/proposal" className="py-2 transition-colors hover:text-signal">
             the paper
           </Link>
-          <Link href="/notes" className="hidden transition-colors hover:text-bone/80 sm:inline">
+          <Link href="/notes" className="hidden py-2 transition-colors hover:text-bone/80 sm:inline-block">
             notes
           </Link>
           <a
             href={GITHUB}
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden text-bone/45 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/70 sm:inline"
+            className="hidden py-2 text-bone/45 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/70 sm:inline-block"
           >
             github
           </a>

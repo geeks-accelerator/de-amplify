@@ -36,7 +36,8 @@ const RESULTS: {
 const DEVICES = ["", "iOS", "Android", "Web", "Other"];
 
 function fieldClass() {
-  return "w-full rounded-md border border-white/10 bg-white/[0.03] px-3 py-2.5 font-mono text-[13px] text-bone/90 outline-none transition-colors focus:border-signal/60";
+  // 16px on mobile: anything smaller makes iOS Safari zoom the page on focus
+  return "w-full rounded-md border border-white/10 bg-white/[0.03] px-3 py-2.5 font-mono text-[16px] text-bone/90 outline-none transition-colors focus:border-signal/60 sm:text-[13px]";
 }
 
 export default function ReportForm() {
@@ -79,7 +80,7 @@ export default function ReportForm() {
   const xHref = `https://x.com/intent/tweet?text=${encodeURIComponent(report)}`;
 
   const Label = ({ children }: { children: React.ReactNode }) => (
-    <span className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/40">
+    <span className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/55">
       {children}
     </span>
   );

@@ -22,11 +22,11 @@ export default function ReportPage() {
           <div className="mb-8">
             <Link
               href="/#ask"
-              className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-brake"
+              className="font-mono text-[11px] lowercase tracking-wide text-bone/55 transition-colors hover:text-brake"
             >
               &larr; back to the test
             </Link>
-            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
               file a brake report
             </p>
           </div>

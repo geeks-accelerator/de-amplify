@@ -56,11 +56,11 @@ export default function ScorecardPage() {
           <div className="mb-8">
             <Link
               href="/report"
-              className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-brake"
+              className="font-mono text-[11px] lowercase tracking-wide text-bone/55 transition-colors hover:text-brake"
             >
               &larr; file a report
             </Link>
-            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
               the brake scorecard
             </p>
           </div>
@@ -82,7 +82,7 @@ export default function ScorecardPage() {
 
           {/* the six dimensions */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               the six parts of a working brake
             </p>
             <div className="mt-5 space-y-3">
@@ -102,7 +102,7 @@ export default function ScorecardPage() {
 
           {/* the four outcomes */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               four honest outcomes (a real test lets a platform pass)
             </p>
             <div className="mt-5 grid gap-3 sm:grid-cols-2">
@@ -127,8 +127,11 @@ export default function ScorecardPage() {
 
           {/* the board, honest about being report-driven */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               the board
+            </p>
+            <p className="mt-2 font-mono text-[10px] text-bone/50 sm:hidden">
+              swipe the board sideways &rarr;
             </p>
             <div className="mt-5 overflow-x-auto rounded-lg border border-white/[0.06]">
               <table className="w-full min-w-[420px] text-left">

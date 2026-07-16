@@ -43,11 +43,11 @@ export default function LawsuitsPage() {
           <div className="mb-10">
             <Link
               href="/"
-              className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-signal"
+              className="font-mono text-[11px] lowercase tracking-wide text-bone/55 transition-colors hover:text-signal"
             >
               &larr; back to the confession
             </Link>
-            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
               the lawsuits &middot; the record, kept honest
             </p>
           </div>

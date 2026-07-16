@@ -44,7 +44,7 @@ export default function NotesPage() {
           <div className="mb-10">
             <Link
               href="/proposal"
-              className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-signal"
+              className="font-mono text-[11px] lowercase tracking-wide text-bone/55 transition-colors hover:text-signal"
             >
               &larr; back to the proposal
             </Link>
