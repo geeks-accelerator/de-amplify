@@ -42,8 +42,8 @@ user holds that the platform can't quietly override. Universal base layer
 - [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
 - [File a brake report](${SITE_URL}/report): turns one dead brake into a
   structured, shareable report. Stores nothing by design.
-- [The brake scorecard](${SITE_URL}/scorecard): the six-part brake-integrity
-  test (discoverable, clear, immediate, persistent, scoped,
+- [The brake scorecard](${SITE_URL}/scorecard): the seven-part brake-integrity
+  test (discoverable, clear, immediate, material, persistent, scoped,
   non-circumventing) written out so everyone scores the same way.
 
 ## Source

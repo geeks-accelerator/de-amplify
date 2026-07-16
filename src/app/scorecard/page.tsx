@@ -7,14 +7,15 @@ import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 export const metadata: Metadata = {
   title: "The Brake Scorecard: score a brake the same way every time",
   description:
-    "The six-part brake-integrity test: discoverability, clarity, immediate effect, persistence, scope, non-circumvention. Run it the same way on every platform so the reports are comparable.",
+    "The seven-part brake-integrity test: discoverability, clarity, immediate effect, material effect, persistence, scope, non-circumvention. Run it the same way on every platform so the reports are comparable.",
   alternates: { canonical: "/scorecard" },
 };
 
 const DIMENSIONS = [
   ["Discoverable", "Can you find the control without googling it?"],
   ["Clear", "Does it say what will change? “Show me less” is not “turn off recommendations.”"],
-  ["Immediate", "Does the feed actually change right after you set it?"],
+  ["Immediate", "Does the feed change soon after you set it, or only on some later refresh?"],
+  ["Material", "Does the feed actually change in a way you can perceive, or is it cosmetic?"],
   ["Persistent", "Does the choice survive closing and reopening the app, another device, and time?"],
   ["Scoped", "Does it cover Reels, Shorts, Explore, notifications, and suggested accounts, or just one screen?"],
   ["Non-circumventing", "Does the platform respect it, or nag, reset, and route you back?"],
@@ -32,9 +33,9 @@ const PLATFORMS = ["Instagram", "Facebook", "TikTok", "YouTube", "Snapchat", "X"
 const HOWTO_JSON_LD = {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  name: "The brake scorecard: the six-part brake-integrity test",
+  name: "The brake scorecard: the seven-part brake-integrity test",
   description:
-    "Score any feed control the same way every time: set the control, close the app, reopen it, and grade the result on six dimensions.",
+    "Score any feed control the same way every time: set the control, close the app, reopen it, and grade the result on seven dimensions.",
   url: "https://de-amplify.com/scorecard",
   totalTime: "PT2M",
   step: DIMENSIONS.map(([name, desc], i) => ({
@@ -71,7 +72,7 @@ export default function ScorecardPage() {
 
           <p className="mt-7 text-[15px] leading-[1.75] text-bone/55">
             A brake either works or it doesn&apos;t, but &quot;works&quot; has parts. If everyone
-            grades on the same six, the reports stack into something a regulator can read. This is
+            grades on the same seven, the reports stack into something a regulator can read. This is
             the test the{" "}
             <Link href="/proposal" className="text-signal underline decoration-signal/40 underline-offset-4 hover:text-signal">
               policy paper
@@ -80,10 +81,10 @@ export default function ScorecardPage() {
             it in your own hand.
           </p>
 
-          {/* the six dimensions */}
+          {/* the seven dimensions */}
           <section className="mt-12">
             <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
-              the six parts of a working brake
+              the seven parts of a working brake
             </p>
             <div className="mt-5 space-y-3">
               {DIMENSIONS.map(([name, desc], i) => (
