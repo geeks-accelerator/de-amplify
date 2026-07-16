@@ -1,7 +1,8 @@
 ---
 title: "ibroketheminors.com: Movement Brief and Proposal"
 subtitle: "De-Amplify, Don't Censor. A grassroots ask, and the design-and-parental-controls framework behind it."
-status: "Draft for external feedback. A framing and design proposal plus a movement brief, not an implemented system or a statute."
+status: "SUPERSEDED (2026-07-15). This combined movement-brief-plus-proposal is the artifact the six external reviewers saw (de-amplify @ 24d13f4); it is preserved as that review record, not current. It has been split and rebuilt into three documents; see superseded_by."
+superseded_by: "Split on the verified 2026 legal record into: 2026-07-15-find-the-brake-movement-brief.md (movement brief, now the homepage), 2026-07-15-brake-integrity-standard.md (policy paper, /proposal), 2026-07-15-experimental-appendix-mechanism-labeling.md (appendix, /notes). Core changes: control-integrity core (not the two-knobs framing), corrected litigation facts, the Moody / Doe v. Meta / Lemmon / SB 976 / DSA / AADC legal record, wedge demoted to research."
 date: 2026-07-14
 authors: "Lee Brown and Claude (Opus 4.8)"
 companion_site: "https://ibroketheminors.com (the movement front; this file is the receipts, made portable for review)"
@@ -10,6 +11,8 @@ review_wanted: "Is the reframe (regulate the loop and severed-consent, not addic
 ---
 
 # ibroketheminors.com: Movement Brief and Proposal
+
+> **⚠ SUPERSEDED (2026-07-15) — preserved as the six-review record, not the current proposal.** This is the version the six external reviewers read. Acting on their feedback, it was split and rebuilt into three current documents: the **movement brief** (`2026-07-15-find-the-brake-movement-brief.md`, now the site homepage), the **policy paper** (`2026-07-15-brake-integrity-standard.md`, at `/proposal`), and the **experimental appendix** (`2026-07-15-experimental-appendix-mechanism-labeling.md`, at `/notes`). The current framing is **control integrity**, not the two-knobs framing below; the litigation facts here contain errors the rebuild corrected. Read the three current documents instead; this file is kept only as the review baseline.
 
 *One self-contained file for external review. It carries two layers: the movement (what we ask people to do, and why) and the proposal (the policy substance behind the ask). You do not need the website or any other file to review it.*
 
