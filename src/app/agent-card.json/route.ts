@@ -11,6 +11,63 @@ const SITE = "https://de-amplify.com";
 const AS_OF = "2026-07-16";
 
 const BODY = {
+  // A2A Agent Card fields (the /.well-known/agent-card.json spec shape), so
+  // A2A-aware clients read a conformant card; the HATEOAS _links/_actions
+  // below are de-amplify extensions for "where to go next".
+  name: "de-amplify.com",
+  description:
+    "A framing proposal and movement site on engagement feeds and minors: regulate the loop, re-attach consent, de-amplify don't censor. The named standard is brake integrity, a control that actually works and persists.",
+  version: "1.0.0",
+  url: SITE,
+  provider: { organization: "de-amplify.com", url: SITE },
+  documentationUrl: `${SITE}/llms.txt`,
+  capabilities: { streaming: false, pushNotifications: false, stateTransitionHistory: false },
+  defaultInputModes: ["text/plain"],
+  defaultOutputModes: ["text/markdown", "text/html"],
+  skills: [
+    {
+      id: "read-standard",
+      name: "Read the Brake Integrity Standard",
+      description:
+        "The policy paper: control integrity as the regulable surface, the 2026 legal record, and honest limits.",
+      tags: ["policy", "standard", "brake-integrity", "section-230", "first-amendment"],
+      examples: ["What is brake integrity?", "Summarize the policy paper", `GET ${SITE}/proposal.md`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/markdown"],
+    },
+    {
+      id: "score-a-platform",
+      name: "Score a platform's brake",
+      description:
+        "The seven-part brake-integrity test written out so any consumer scores a feed the same way.",
+      tags: ["scorecard", "test", "measurement"],
+      examples: ["How do I test whether a feed's controls work?", `GET ${SITE}/scorecard`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/html"],
+    },
+    {
+      id: "read-litigation-record",
+      name: "Read the dated litigation record",
+      description:
+        "The social media addiction lawsuits explained: four proceedings, evidence-tiered and sourced.",
+      tags: ["lawsuits", "litigation", "mdl-3047", "meta"],
+      examples: ["What are the social media addiction lawsuits?", `GET ${SITE}/lawsuits.md`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/markdown"],
+    },
+    {
+      id: "file-brake-report",
+      name: "File a brake report",
+      description:
+        "Build a shareable #WheresTheBrake post from one dead control. Client-side, stores nothing.",
+      tags: ["report", "participation", "wheresthebrake"],
+      examples: ["I set a control and it reset, how do I report it?", `GET ${SITE}/report`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/html"],
+    },
+  ],
+
+  // de-amplify HATEOAS extensions: every response says where to go next.
   data: {
     name: "de-amplify.com",
     tagline: "The thing it broke was the brake.",
@@ -89,7 +146,7 @@ const BODY = {
   ],
   _meta: {
     as_of: AS_OF,
-    spec: "HATEOAS discovery card. _links is the resource map; _actions are next steps ordered by priority. The human/agent index is at /llms.txt.",
+    spec: "Dual A2A Agent Card + HATEOAS discovery card. Top-level fields (name, skills, capabilities) are A2A-spec; _links is the resource map and _actions are next steps ordered by priority. Served at /agent-card.json and the A2A-canonical /.well-known/agent-card.json. The human/agent index is at /llms.txt.",
     note: "This is a stateless content site: responses do not adapt to per-consumer state, so the same card is served to every client.",
   },
 };

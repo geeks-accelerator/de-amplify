@@ -1,0 +1,6 @@
+# de-amplify.com security contact (RFC 9116)
+# Report a security issue with the site to the address below.
+Contact: mailto:security@de-amplify.com
+Expires: 2027-07-16T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://de-amplify.com/.well-known/security.txt

@@ -27,6 +27,11 @@ const AI_CRAWLERS = [
   "cohere-ai",
   "CCBot",
   "Meta-ExternalAgent",
+  "Bytespider",
+  "Diffbot",
+  "Timpibot",
+  "YouBot",
+  "FacebookBot",
 ];
 
 export const dynamic = "force-static";
@@ -35,7 +40,7 @@ export function GET() {
   const body = [
     "# de-amplify.com: the thing it broke was the brake.",
     "# Read the machine-readable guide to this site at /llms.txt",
-    "# Structured discovery card with links + next actions (JSON): /agent-card.json",
+    "# Structured discovery card (A2A + HATEOAS): /.well-known/agent-card.json",
     "",
     "User-agent: *",
     "Content-Signal: ai-train=yes, search=yes, ai-input=yes",
@@ -45,6 +50,9 @@ export function GET() {
     "",
     ...AI_CRAWLERS.flatMap((ua) => [`User-agent: ${ua}`, "Allow: /", ""]),
     `Sitemap: ${SITE_URL}/sitemap.xml`,
+    // IndexNow: instant Bing/Yandex recrawl. Key file at the root, contents == key.
+    `Host: ${SITE_URL}`,
+    `IndexNow: ${SITE_URL}/a7f3c9e1b8d245069af1e7c93b04d8e6.txt`,
     "",
   ].join("\n");
 
