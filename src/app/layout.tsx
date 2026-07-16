@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { GeistSans } from "geist/font/sans";
 import { GeistMono } from "geist/font/mono";
+import JsonLd from "@/components/JsonLd";
 import "./globals.css";
 
 const SITE_URL = "https://de-amplify.com";
@@ -40,6 +41,27 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
+const SITE_JSON_LD = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${SITE_URL}/#org`,
+      name: "de-amplify.com",
+      url: SITE_URL,
+      sameAs: ["https://github.com/geeks-accelerator/de-amplify"],
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${SITE_URL}/#website`,
+      name: TITLE,
+      description: DESCRIPTION,
+      url: SITE_URL,
+      publisher: { "@id": `${SITE_URL}/#org` },
+    },
+  ],
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
@@ -49,6 +71,7 @@ export default function RootLayout({
       className={`${GeistSans.variable} ${GeistMono.variable}`}
     >
       <body className="min-h-screen bg-void font-sans text-bone antialiased">
+        <JsonLd data={SITE_JSON_LD} />
         {children}
       </body>
     </html>

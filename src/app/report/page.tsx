@@ -3,16 +3,19 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ReportForm from "./ReportForm";
+import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "File a brake report: #WheresTheBrake",
   description:
     "Turn one dead brake into structured evidence. Report the platform, the control you tried, and whether your choice held after you closed and reopened the app. No personal data, nothing stored.",
+  alternates: { canonical: "/report" },
 };
 
 export default function ReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={breadcrumbs(["File a brake report", "/report"])} />
       <Header />
       <main className="flex-1 px-5 py-14">
         <div className="mx-auto max-w-2xl">

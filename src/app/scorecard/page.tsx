@@ -2,11 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "The Brake Scorecard: score a brake the same way every time",
   description:
     "The six-part brake-integrity test: discoverability, clarity, immediate effect, persistence, scope, non-circumvention. Run it the same way on every platform so the reports are comparable.",
+  alternates: { canonical: "/scorecard" },
 };
 
 const DIMENSIONS = [
@@ -27,9 +29,27 @@ const OUTCOMES = [
 
 const PLATFORMS = ["Instagram", "Facebook", "TikTok", "YouTube", "Snapchat", "X"];
 
+const HOWTO_JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  name: "The brake scorecard: the six-part brake-integrity test",
+  description:
+    "Score any feed control the same way every time: set the control, close the app, reopen it, and grade the result on six dimensions.",
+  url: "https://de-amplify.com/scorecard",
+  totalTime: "PT2M",
+  step: DIMENSIONS.map(([name, desc], i) => ({
+    "@type": "HowToStep",
+    position: i + 1,
+    name: `Check: ${name}`,
+    text: desc,
+  })),
+};
+
 export default function ScorecardPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={HOWTO_JSON_LD} />
+      <JsonLd data={breadcrumbs(["The brake scorecard", "/scorecard"])} />
       <Header />
       <main className="flex-1 px-5 py-14">
         <div className="mx-auto max-w-3xl">
