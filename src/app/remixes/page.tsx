@@ -24,9 +24,6 @@ export const metadata: Metadata = {
     url: `${SITE}${PATH}`,
     siteName: "de-amplify.com",
     type: "website",
-    images: [
-      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
-    ],
   },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
