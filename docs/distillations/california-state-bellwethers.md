@@ -18,6 +18,12 @@ sources:
 verified_by: pending human primary-source check
 ---
 
+## TLDR (summary surfaces, plain text, derived from the ledger)
+
+- **One line (label):** The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
+- **One sentence (card):** In California state court (not the federal case), about 1,600 youth-harm suits are coordinated as JCCP 5255, and the first test case, K.G.M. v. Meta and Google, produced a $6 million jury verdict in March 2026 that both companies are appealing, so it is not final.
+- **One paragraph (meta description):** In California state court, about 1,600 youth-harm suits are coordinated as JCCP 5255, with test cases going first. The first, K.G.M. v. Meta and Google, brought a $6 million verdict in March 2026; the trial judge declined to overturn it and both companies are appealing, so it is not final. A second test case is set for July 27, 2026 after YouTube and TikTok settled. (As of July 16, 2026.)
+
 ## Reader summary
 
 As of July 16, 2026, there is a large group of lawsuits in California state court — not the separate federal case — that accuse social media companies of designing their apps to be addictive and harming young users. About 1,600 of these suits have been bundled together in a single coordinated proceeding called JCCP 5255, run out of Los Angeles Superior Court. A handful of "bellwether" (test) cases are being tried first to show how juries might react. In the first bellwether, K.G.M. v. Meta and Google, a jury returned a $6 million verdict on March 25, 2026 against Meta (which owns Instagram) and Google (which owns YouTube). On June 10, 2026, the trial judge turned down the companies' requests to throw out or re-run the case, and both companies have since filed notices that they will appeal. Important: that verdict is being appealed — it has NOT been reviewed or approved by any appeals court yet. A second test case is set for trial on July 27, 2026, but only after YouTube and TikTok quietly settled their part of it, leaving Meta and Snap to face the jury.

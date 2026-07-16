@@ -15,6 +15,12 @@ sources:
 verified_by: pending human primary-source check
 ---
 
+## TLDR (summary surfaces, plain text, derived from the ledger)
+
+- **One line (label):** New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
+- **One sentence (card):** New Mexico is the only U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.
+- **One paragraph (meta description):** New Mexico is the only U.S. state to win a full trial against Meta over child harm: a $375 million verdict in March 2026 for misleading the public about safety and failing to protect kids from exploitation, now on appeal. In a separate phase, a judge is weighing the state's request to make Meta pay about $953 million and change its product design, the only live U.S. case that could order design changes, not just a payment. (As of July 16, 2026.)
+
 ## Reader summary
 
 As of July 16, 2026, the State of New Mexico is the only U.S. government to win a full trial against Meta (the company behind Facebook and Instagram) over harm to children. On March 24, 2026, a Santa Fe jury found Meta broke New Mexico's consumer-protection law by misleading the public about how safe its apps were and by failing to protect kids from sexual exploitation, and ordered Meta to pay $375 million — the maximum the law allows ($5,000 for each of 75,000 violations). Meta says it will appeal, so that money is not final. A separate second phase of the same case — decided by a judge, not a jury — finished hearing testimony on May 21, 2026, and the judge has not yet ruled. In that phase New Mexico asked the judge to order Meta to pay about $953 million for a 15-year program to reduce harm to children and to make specific changes to how its apps work. That request is not an award — but it is the one live case anywhere in the U.S. that could force Meta to change its product design rather than just write a check. This is a child-safety and consumer-protection case; it is not the separate federal "social-media addiction" litigation.
