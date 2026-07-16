@@ -1,7 +1,7 @@
 ---
 title: "The Social Media Addiction Lawsuits, Explained"
 subtitle: "Four proceedings, four numbers people keep confusing, and the question underneath all of it: when you tap the brake, does anything actually stop?"
-status: "Search-facing explainer for de-amplify.com/lawsuits. Facts verified against primary and near-primary sources on 2026-07-15 and 2026-07-16; revised after external review (2026-07-16); docket-verified corrections applied after a primary-source audit, 2026-07-16 (see the internal issue 2026-07-16-lawsuit-distillations-validation-audit). AI-assisted (see Provenance). Not legal advice."
+status: "Search-facing explainer for de-amplify.com/lawsuits. Facts verified against primary and near-primary sources on 2026-07-15 and 2026-07-16; revised after external review (2026-07-16); docket-verified corrections applied after a primary-source audit, 2026-07-16. AI-assisted (see Provenance). Not legal advice."
 author: "Lee Brown"
 date: 2026-07-16
 site: "de-amplify.com"
