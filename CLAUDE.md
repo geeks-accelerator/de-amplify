@@ -2,6 +2,10 @@
 
 Operational guide for working in this repo. For what the project *is* (the thesis, the document structure, the routes), read [README.md](README.md). This file is the conventions and gotchas that keep it from breaking.
 
+## Standalone repo (hard rule)
+
+This repository is self-contained and public. Do **not** add references to any other, sibling, or private repository: not by relative path (e.g. `../other-repo/...`), not by project name, and not in commit messages. If you need a concept that lives in another project, describe it inline here instead of linking to or naming the source. The git history was scrubbed of such references before this repo went public; keep it that way.
+
 ## House style (load-bearing)
 
 - **No em-dashes.** The house style forbids the em-dash and the en-dash used as punctuation. Use commas, colons, parentheses, or restructure the sentence. This applies to content, code comments, and commit messages alike. Curly/smart quotes are also out; use straight quotes. Before committing, grep the changed files for the em-dash character (U+2014) and curly quotes.
