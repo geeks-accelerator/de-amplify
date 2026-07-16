@@ -18,9 +18,6 @@ export const metadata: Metadata = {
     description: DESCRIPTION,
     url: `https://de-amplify.com${PATH}`,
     siteName: "de-amplify.com",
-    images: [
-      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
-    ],
     type: "website",
   },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
@@ -104,7 +101,7 @@ export default function ScorecardPage() {
             <div className="mt-5 space-y-3">
               {DIMENSIONS.map(([name, desc], i) => (
                 <div key={name} className="flex gap-4 rounded-lg border border-white/[0.06] bg-white/[0.02] p-4">
-                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/60">
+                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/90">
                     {String(i + 1).padStart(2, "0")}
                   </span>
                   <div>
@@ -164,7 +161,7 @@ export default function ScorecardPage() {
                       <td className="px-4 py-3.5 font-mono text-[13px] text-bone/80">{p}</td>
                       <td className="px-4 py-3.5 font-mono text-[12px] text-bone/30">awaiting reports</td>
                       <td className="px-4 py-3.5 text-right">
-                        <Link href="/report" className="font-mono text-[12px] text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake">
+                        <Link href="/report" className="font-mono text-[12px] text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake">
                           file one &rarr;
                         </Link>
                       </td>

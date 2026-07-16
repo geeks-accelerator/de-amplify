@@ -3,6 +3,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import SunoEmbed from "@/components/SunoEmbed";
 
 const SITE = "https://de-amplify.com";
 const PATH = "/remixes";
@@ -24,9 +25,6 @@ export const metadata: Metadata = {
     url: `${SITE}${PATH}`,
     siteName: "de-amplify.com",
     type: "website",
-    images: [
-      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
-    ],
   },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
@@ -63,22 +61,7 @@ const MUSIC_JSON_LD = {
 };
 
 function SongEmbed({ id, title }: { id: string; title: string }) {
-  return (
-    <div className="mt-4 overflow-hidden rounded-lg border border-white/10 bg-white/[0.02]">
-      <iframe
-        src={`https://suno.com/embed/${id}`}
-        className="block w-full"
-        height="240"
-        allow="autoplay; encrypted-media; fullscreen"
-        allowFullScreen
-        loading="lazy"
-        referrerPolicy="no-referrer-when-downgrade"
-        title={title}
-      >
-        <a href={`https://suno.com/song/${id}`}>Listen on Suno</a>
-      </iframe>
-    </div>
-  );
+  return <SunoEmbed id={id} title={title} className="mt-4" />;
 }
 
 export default function RemixesPage() {
@@ -141,7 +124,7 @@ export default function RemixesPage() {
             </p>
             <div className="mt-5 rounded-lg border border-brake/20 bg-brake/[0.03] p-5">
               <div className="flex items-baseline gap-3">
-                <span className="font-mono text-[13px] tabular-nums text-brake/60">01</span>
+                <span className="font-mono text-[13px] tabular-nums text-brake/90">01</span>
                 <div>
                   <h3 className="font-mono text-lg text-bone">No Brake</h3>
                   <p className="mt-1 font-mono text-[12px] leading-[1.5] text-bone/40">
@@ -237,14 +220,14 @@ export default function RemixesPage() {
               The song is the feeling; the test is the action. Haven&apos;t run it yet?{" "}
               <Link
                 href="/#ask"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 find the brake
               </Link>{" "}
               on your own feed, then{" "}
               <Link
                 href="/report"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 file what happened
               </Link>

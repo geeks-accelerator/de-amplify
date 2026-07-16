@@ -13,10 +13,10 @@ export default function Footer() {
           not a lawsuit. not a ban. a design target. de-amplify, don&apos;t censor.
         </p>
 
-        <p className="mt-6 font-mono text-[12px] text-brake/80">#WheresTheBrake</p>
+        <p className="mt-6 font-mono text-[12px] text-brake/90">#WheresTheBrake</p>
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 font-mono text-[11px] lowercase text-bone/40">
-          <Link href="/#ask" className="text-brake/80 transition-colors hover:text-brake">
+          <Link href="/#ask" className="text-brake/90 transition-colors hover:text-brake">
             find the brake
           </Link>
           <span className="text-bone/15">/</span>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SunoEmbed from "@/components/SunoEmbed";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -162,7 +163,7 @@ export default function Home() {
                 ],
               ].map(([n, t]) => (
                 <li key={n} className="flex gap-4">
-                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/60">
+                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/90">
                     {n}
                   </span>
                   <p className="text-[15px] leading-[1.7] text-bone/70">{t}</p>
@@ -194,7 +195,7 @@ export default function Home() {
             </p>
 
             <div className="mt-9 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
-              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
                 do this
               </p>
               <p className="mt-3 text-[15px] leading-[1.7] text-bone/75">
@@ -244,28 +245,16 @@ export default function Home() {
               at no company and no generation. It points at the hand holding the phone.
             </p>
 
-            <div className="mt-8 overflow-hidden rounded-lg border border-white/10 bg-white/[0.02]">
-              <iframe
-                src="https://suno.com/embed/31677743-3e2c-48f5-8432-c0cd32163fd9"
-                className="block w-full"
-                height="240"
-                allow="autoplay; encrypted-media; fullscreen"
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Where's the Brake, listen on Suno"
-              >
-                <a href="https://suno.com/song/31677743-3e2c-48f5-8432-c0cd32163fd9">
-                  Listen on Suno
-                </a>
-              </iframe>
-            </div>
+            <SunoEmbed
+              id="31677743-3e2c-48f5-8432-c0cd32163fd9"
+              title="Where's the Brake"
+            />
 
             <p className="mt-5 text-[13px] leading-relaxed text-bone/40">
               The song is the feeling; the test is the action. Found your brake yet?{" "}
               <Link
                 href="/report"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 file what happened
               </Link>
@@ -285,7 +274,7 @@ export default function Home() {
               Others are remixing it now, in more voices and more languages.{" "}
               <Link
                 href="/remixes"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 hear the remixes &rarr;
               </Link>
@@ -312,7 +301,7 @@ export default function Home() {
                     You already felt the button do nothing. That was the whole argument.
                     Run the test, post the dead switch, and you have made the case without
                     arguing it.{" "}
-                    <span className="font-mono text-[12px] text-brake/80">{TAG}</span>
+                    <span className="font-mono text-[12px] text-brake/90">{TAG}</span>
                   </>
                 }
               />
@@ -527,7 +516,7 @@ export default function Home() {
             </p>
 
             <div className="my-8 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
-              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
                 the conflict, quantified
               </p>
               <p className="mt-3 text-[14px] leading-[1.7] text-bone/60">
