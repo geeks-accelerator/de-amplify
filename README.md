@@ -15,7 +15,7 @@ A **framing proposal** and a small movement site: *where* to intervene on the so
 
 The through-line: **regulate the loop, re-attach consent, de-amplify don't censor.** The harm is the engagement-optimized delivery loop (infinite scroll, autoplay, variable reward), not any individual post; the fix is a brake the user holds that the platform can't quietly override.
 
-**Participation tools:** [`/report`](src/app/report) turns one dead brake into a structured, shareable report; [`/scorecard`](src/app/scorecard) is the six-part brake-integrity test written out so everyone scores the same way. The report form **stores nothing** by design; storing minor-associated data is the exact liability the movement asks platforms to stop; central aggregation is a future backend step with its own data-retention and moderation policy.
+**Participation tools:** [`/report`](src/app/report) turns one dead brake into a structured, shareable report; [`/scorecard`](src/app/scorecard) is the seven-part brake-integrity test written out so everyone scores the same way. The report form **stores nothing** by design; storing minor-associated data is the exact liability the movement asks platforms to stop; central aggregation is a future backend step with its own data-retention and moderation policy.
 
 It is deliberately blunt about its **honest limits** ([§7 of the policy paper](content/proposal.md)): age verification as a potential showstopper, the banishment risk, platform counter-narratives, the wedge classifier as the named anti-pattern, and First Amendment / Section 230 exposure (engaged directly, not waved off). A **diagnosis, not a "move slow" slogan**, with AI in the loop amplification only accelerates, which is why the fix has to be structural.
 
