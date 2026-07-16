@@ -9,8 +9,9 @@ import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "K.G.M. v. Meta and Google: The $6M California Bellwether Verdict",
+  // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
   description:
-    "The first JCCP 5255 bellwether: a $6 million verdict for negligent design and failure to warn, split 70/30 between Meta and Google, now on appeal. Next trial: July 27, 2026.",
+    "California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and a second trial starts July 27, 2026.",
   alternates: { canonical: "/lawsuits/kgm-v-meta" },
 };
 
@@ -23,8 +24,9 @@ export default function KgmVMetaPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: "K.G.M. v. Meta and Google: the California bellwether verdict",
+    // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "The first bellwether from the ~1,600 coordinated California state cases (JCCP 5255): the $6 million verdict, the appeals, and the July 27 second bellwether.",
+      "In California state court (not the federal case), about 1,600 youth-harm suits are coordinated as JCCP 5255, and the first test case, K.G.M. v. Meta and Google, produced a $6 million jury verdict in March 2026 that both companies are appealing, so it is not final.",
     url: "https://de-amplify.com/lawsuits/kgm-v-meta",
     datePublished: "2026-07-16",
     dateModified,

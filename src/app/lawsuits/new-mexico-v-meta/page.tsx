@@ -9,8 +9,9 @@ import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "State of New Mexico v. Meta: The $375M Child-Safety Verdict",
+  // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
   description:
-    "New Mexico is the only state to win a full trial against Meta over harm to kids: the $375M verdict, the $953M abatement request, and the design-change order a judge is weighing.",
+    "New Mexico won a $375 million jury verdict against Meta over child safety; a judge is now weighing $953 million more plus court-ordered design changes.",
   alternates: { canonical: "/lawsuits/new-mexico-v-meta" },
 };
 
@@ -28,8 +29,9 @@ export default function NewMexicoVMetaPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: "State of New Mexico v. Meta: the $375 million child-safety verdict",
+    // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "The standalone New Mexico case: the $375 million jury verdict, the pending $953 million abatement request, and the design changes a judge is weighing.",
+      "New Mexico is the only U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.",
     url: "https://de-amplify.com/lawsuits/new-mexico-v-meta",
     datePublished: "2026-07-16",
     dateModified,

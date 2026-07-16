@@ -5,7 +5,7 @@
 
 ## The case in one paragraph
 
-In California state court, about **1,600 youth-harm suits** from individuals, families, and school districts are coordinated as **JCCP 5255** in Los Angeles Superior Court, with bellwether (test) cases tried first. The first bellwether, *K.G.M. v. Meta and Google*, produced a **$6 million jury verdict on March 25, 2026** for negligent design and failure to warn. The trial judge declined to overturn it, both companies have filed notices of appeal, and no appellate court has reviewed it. The second bellwether goes to trial **July 27, 2026** with Meta and Snap as the remaining defendants.
+In California state court, about 1,600 youth-harm suits from individuals, families, and school districts are coordinated as JCCP 5255, with test cases going first. The first, K.G.M. v. Meta and Google, brought a $6 million verdict in March 2026; the trial judge declined to overturn it and both companies are appealing, so it is not final. A second test case is set for July 27, 2026 after YouTube and TikTok settled. (As of July 16, 2026.)
 
 ## The California coordination, not the federal case
 

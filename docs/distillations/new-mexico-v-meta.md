@@ -22,6 +22,7 @@ verified_by: "2026-07-16 external-validation audit (internal docs/issues/2026-07
 ## TLDR (summary surfaces, plain text, derived from the ledger)
 
 - **One line (label):** New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
+- **Search snippet (~155 chars, for the meta-description tag):** New Mexico won a $375 million jury verdict against Meta over child safety; a judge is now weighing $953 million more plus court-ordered design changes.
 - **One sentence (card):** New Mexico is the only U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.
 - **One paragraph (meta description):** New Mexico is the only U.S. state to win a full trial against Meta over child harm: a $375 million verdict in March 2026 for misleading the public about safety and failing to protect kids from exploitation, which Meta says it will appeal. In a separate phase, a judge is weighing the state's request to make Meta pay about $953 million and change its product design; no other U.S. case is as close to a design-change order. (As of July 16, 2026.)
 

@@ -5,7 +5,7 @@
 
 ## The case in one paragraph
 
-New Mexico is the only U.S. state to win a full trial against Meta over harm to children: a **$375 million jury verdict on March 24, 2026** for misleading the public about platform safety and failing to protect kids from exploitation, which Meta says it will appeal. A separate, judge-decided second phase finished testimony **May 21, 2026** and awaits a ruling on the state's request that Meta pay about **$953 million** and change how its products work. No live U.S. case is closer to a design-change order.
+New Mexico is the only U.S. state to win a full trial against Meta over child harm: a $375 million verdict in March 2026 for misleading the public about safety and failing to protect kids from exploitation, which Meta says it will appeal. In a separate phase, a judge is weighing the state's request to make Meta pay about $953 million and change its product design; no other U.S. case is as close to a design-change order. (As of July 16, 2026.)
 
 ## What kind of case this is
 

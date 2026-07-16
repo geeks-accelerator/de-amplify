@@ -9,8 +9,9 @@ import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "MDL 3047: The Federal Social Media Addiction Case (2026)",
+  // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
   description:
-    "2,893 suits against Meta, YouTube, TikTok, and Snap before one federal judge. The June 2026 ruling, the August trial against Meta, and the $1.4 trillion counting fight.",
+    "Thousands of youth-harm suits against Meta, Google, TikTok, and Snap sit in one federal court; the states' claims head to an August 2026 trial against Meta.",
   alternates: { canonical: "/lawsuits/mdl-3047" },
 };
 
@@ -23,8 +24,9 @@ export default function Mdl3047Page() {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: "MDL 3047: the federal social media addiction case",
+    // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "The federal multidistrict litigation against Meta, Google, TikTok, and Snap: the June 2026 summary-judgment order, the August trial against Meta, and the money.",
+      "MDL 3047 bundles roughly 2,900 lawsuits accusing Meta, Google (YouTube), TikTok, and Snap of designing their apps to addict kids, and in late June 2026 a federal judge let the state attorneys general's claims survive to an August trial against Meta, with no company found liable yet.",
     url: "https://de-amplify.com/lawsuits/mdl-3047",
     datePublished: "2026-07-16",
     dateModified,

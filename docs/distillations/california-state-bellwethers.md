@@ -29,6 +29,7 @@ verified_by: "2026-07-16 external-validation audit (internal docs/issues/2026-07
 ## TLDR (summary surfaces, plain text, derived from the ledger)
 
 - **One line (label):** The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
+- **Search snippet (~155 chars, for the meta-description tag):** California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and a second trial starts July 27, 2026.
 - **One sentence (card):** In California state court (not the federal case), about 1,600 youth-harm suits are coordinated as JCCP 5255, and the first test case, K.G.M. v. Meta and Google, produced a $6 million jury verdict in March 2026 that both companies are appealing, so it is not final.
 - **One paragraph (meta description):** In California state court, about 1,600 youth-harm suits from individuals, families, and school districts are coordinated as JCCP 5255, with test cases going first. The first, K.G.M. v. Meta and Google, brought a $6 million verdict in March 2026; the trial judge declined to overturn it and both companies are appealing, so it is not final. A second test case is set for July 27, 2026 after YouTube and TikTok settled. (As of July 16, 2026.)
 

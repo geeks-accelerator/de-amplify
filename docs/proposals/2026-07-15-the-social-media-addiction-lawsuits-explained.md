@@ -24,9 +24,9 @@ Press coverage tends to blur these fights into one story about a "youth safety t
 
 Each of the three U.S. cases has its own case file, a deeper page seeded from the project's per-case evidence ledgers, where corrections land first:
 
-- **[MDL 3047, the federal case](/lawsuits/mdl-3047)**: the ~2,900-suit federal bundle, the June 2026 ruling, and the August trial against Meta.
-- **[K.G.M. v. Meta and Google, the California bellwethers](/lawsuits/kgm-v-meta)**: the $6 million verdict now on appeal, and the July 27 second bellwether.
-- **[State of New Mexico v. Meta](/lawsuits/new-mexico-v-meta)**: the $375 million verdict, and the pending request that a judge order design changes.
+- **[MDL 3047](/lawsuits/mdl-3047)**: The big federal case: thousands of youth-harm suits against Meta, Google, TikTok, and Snap, headed to a trial in August 2026.
+- **[K.G.M. v. Meta and Google](/lawsuits/kgm-v-meta)**: The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
+- **[State of New Mexico v. Meta](/lawsuits/new-mexico-v-meta)**: New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
 
 ## MDL 3047: the federal case against Meta, TikTok, YouTube, and Snap
 
