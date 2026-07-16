@@ -101,7 +101,7 @@ export default function ScorecardPage() {
             <div className="mt-5 space-y-3">
               {DIMENSIONS.map(([name, desc], i) => (
                 <div key={name} className="flex gap-4 rounded-lg border border-white/[0.06] bg-white/[0.02] p-4">
-                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/60">
+                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-brake/90">
                     {String(i + 1).padStart(2, "0")}
                   </span>
                   <div>
