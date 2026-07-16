@@ -37,7 +37,7 @@ const AUDIENCES: [slug: string, label: string, blurb: string, ready: string][] =
     "parents",
     "For parents",
     "You set the limit and it did not hold. Why that is the product working, not your kid and not your parenting, plus the thirty-second test and what to actually ask for.",
-    "markdown now, online and PDF coming",
+    "online, PDF, and markdown",
   ],
   [
     "press",
