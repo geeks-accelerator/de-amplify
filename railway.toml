@@ -1,12 +1,12 @@
-# Railway deployment — Next.js (persistent Node server) behind Cloudflare (DNS/CDN).
+# Railway deployment: Next.js (persistent Node server) behind Cloudflare (DNS/CDN).
 #
 # Cloudflare: proxy the domain (de-amplify.com) at the Railway service origin.
-# No wrangler / _headers needed — Next serves headers; Cloudflare is DNS + CDN in front.
+# No wrangler / _headers needed; Next serves headers, Cloudflare is DNS + CDN in front.
 
 [build]
 builder = "nixpacks"
 # Delete the macOS lockfile and install fresh so native deps resolve for Linux,
-# then build. (Borrowed from the internal pattern.)
+# then build.
 buildCommand = "rm -f package-lock.json && npm install && npm run build"
 
 [deploy]
