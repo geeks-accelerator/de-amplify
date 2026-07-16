@@ -9,7 +9,7 @@
 
 A **framing proposal** and a small movement site: *where* to intervene on the social-media-and-minors problem, and why that surface is more defensible than the ones being fought over in court. Since the six-review rebuild (2026-07-15) it is **three audience-specific documents** on one thesis:
 
-- **Movement brief** (the homepage), the public front. The confession, the self-test (*find the brake, set it, close the app, reopen, did it hold?*), the campaign-safety rules, the demand, `#WheresTheBrake`.
+- **Movement brief** (the homepage), the public front. The confession, the self-test (*find the brake, set it, close the app, reopen, did it hold?*), the campaign-safety rules, the demand, `#WheresTheBrake`, and the movement's song (*Where's the Brake*, embedded from Suno as the recognition beside the ask).
 - **Policy paper** ([`content/proposal.md`](content/proposal.md), at `/proposal`, *The Brake Integrity Standard*), the substance, for counsel and regulators. The regulable surface is **control integrity**: when a platform offers a control to stop or redirect the feed, it must actually work and persist. Rebuilt on the 2026 legal record (*Moody* / *Doe v. Meta* / *Lemmon* / SB 976 / DSA / AADC), with an explicit tiered-exposure analysis and honest limits (§7).
 - **Experimental appendix** ([`content/notes.md`](content/notes.md), at `/notes`), the higher-risk research: the wedge hypothesis and *mechanism* labeling ("you're seeing this because…"), quarantined as research, not policy.
 
