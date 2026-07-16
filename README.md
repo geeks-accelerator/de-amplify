@@ -29,6 +29,8 @@ If the diagnosis is right, make it louder. **Star the repo.** Open an issue. Sha
 
 Next.js 14 (App Router) · React 18 · TypeScript · Tailwind CSS · Geist Mono/Sans · `react-markdown` for the proposal. Deployed on **Railway** (`railway.toml` + `nixpacks.toml`), behind **Cloudflare** (DNS/CDN).
 
+**Discovery layer** (search engines + AI agents): JSON-LD structured data ([`JsonLd.tsx`](src/components/JsonLd.tsx), wired into `layout.tsx` and each page), a generated OpenGraph image ([`opengraph-image.tsx`](src/app/opengraph-image.tsx)), `sitemap.xml` / `robots.txt` / `llms.txt`, and raw-markdown routes (`/proposal.md`, `/notes.md`) so the documents can be read plainly by a crawler or an agent, not just the styled pages.
+
 ## Develop
 
 ```bash
@@ -42,4 +44,6 @@ The rendered documents live in [`content/`](content/): `proposal.md` (the policy
 
 ## Deploy
 
-Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies `de-amplify.com` at the Railway origin. No secrets or database, it's a static-ish content site.
+**Live** at [de-amplify.com](https://de-amplify.com) (with `www` redirecting to the apex). Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies the domain at the Railway origin. No secrets or database, it's a static-ish content site.
+
+**Port note (a real deploy gotcha):** `next start` binds to Railway's injected `$PORT` (currently 8080), not a fixed port. So the Railway custom-domain **target port must be 8080** to match the app. A mismatched target port returns a 502 even though the build and healthcheck both pass, because Railway's healthcheck hits the app's real port while public traffic is routed to the wrong one. Do NOT hardcode `-p <port>` in the start command to "fix" this; that would move the app off the port the healthcheck probes. Set the domain target (or the `PORT` variable) instead.
