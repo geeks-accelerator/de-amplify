@@ -54,6 +54,45 @@ This is **recommendation literacy**, and it is strictly better on four axes:
 
 Recommendation-mechanism labeling is still an experiment (does it build literacy, or get tuned out like a cookie banner? does it reduce compulsive engagement, or just annoy? does the implied-truth effect touch mechanism-labels the way it touches content-labels?), but it is the version worth running first, because it **fails safe**.
 
+## Spot the move yourself (no label, no classifier)
+
+The safest version of all needs no platform, no toggle, and no one defining "wedge" for anyone. It is a habit you run in your own head, on a post that just got a rise out of you. Call it a wedge check. The point is not to win the argument or to get the post taken down. The point is to catch the machine using your reaction as fuel, in the moment it is happening.
+
+Hold a post up and ask:
+
+1. **Sort, or understand?** Is this drawing a line to help you understand something, or to sort people into us and them? The same act of making a distinction can do either. A wedge is the destructive mode: a difference drawn to divide.
+2. **A who, or a what?** Where does it aim your reaction, at a *who* to blame (a group, a side, a person) or at a *what* to grasp (a mechanism, a tradeoff, an idea)? Wedges hand you a villain-tribe. That is the tell.
+3. **Flinch, or think?** What came out of you first: a flinch, the urge to fire back, a side taken, or a question, a "let me look at that"? The feed is tuned to reward the flinch, because the flinch is the fuel.
+4. **A real difference, or a manufactured one?** Is the distinction load-bearing, a difference that actually changes what you would do, or is it blown past its real size because the size is what gets the reaction?
+5. **Would the other side feel it too?** This is the one that matters most. Someone on the other side, looking at their version of the same move, should feel just as wedged by it. If it only reads as a wedge when it is aimed at your side, stop: you may be the one turning "wedge" into a weapon.
+
+Two rules keep this honest, and they are the whole reason it can live on a site that refuses to build a classifier:
+
+**It is a mirror, not a filter.** You are not scoring the post to hide it, down-rank it, or delete it. Nothing is removed. You are only checking whether the machine is running the post *at you* to farm a reaction. Seeing the strings is the entire goal. De-amplify, do not censor, applies to your own hand too.
+
+**A wedge is not "an opinion I disagree with."** It is a distinction being *run for the reaction*, and your own side runs them constantly. The moment this check turns into "aha, proof that the other tribe is the wedge," it has stopped being literacy and become the exact move it names. If the detector only ever fires on the people you already dislike, the detector is broken, or you are the one holding it as a wedge.
+
+None of this is a verdict, and it is deliberately not a score. It is the muscle the mechanism-label above was meant to build, run by hand, on your own feed, with no one classifying anyone's speech. That is why it is the version this project is most comfortable with: it fails safe, because the only thing it can do is help you see.
+
+## The frontier: a detector you own outright
+
+There is a version one step past even the by-hand check, and it is worth naming because it is coming whether this project likes it or not. As capable models move onto people's own devices, open, local, user-controlled, a person could run their own detector on their own feed: something that watches what they scroll and flags, privately, "this looks like it is being run at you for a reaction."
+
+This sounds like the classifier the whole appendix warns against, and the difference is the entire point. The danger was never "a classifier exists." It was **a centralized classifier, trained on someone else's values, applied to you silently.** A detector you own, running on your device, on your data, that you can inspect and switch off, inverts every one of those. "Who defines a wedge" stops being a problem the moment the answer is *you do, for yourself.* It is the same move as putting your own values into an AI's instructions instead of taking the provider's defaults: the defaults are someone else's, and the only way the tool becomes yours is if you put yourself into it.
+
+But there is a trap here that is easy to miss and fatal if you do, and it is the same trap that turns a personalized AI into a yes-man.
+
+**Personalize what it watches. Do not personalize what counts as manipulation.** If you seed the detector with your side's politics, it will flag exactly what offends your tribe and wave through what flatters it. That is not literacy; it is an outrage-confirmer with a clean interface, and it fails the one question that keeps any of this honest: *would the other side feel wedged too?* A detector tuned to your allegiances only ever fires on the people you already dislike, which is the definition of the thing it was supposed to catch.
+
+The version that works splits the two cleanly:
+
+- **The trigger is personal.** It watches *your* feed, *your* reactions, what actually gets a rise out of *you*. That part is yours alone, and that is what makes it relevant to you and no one else.
+- **The standard is universal.** What counts as a wedge stays the same for everyone: is this sorting or explaining, aiming at a *who* or a *what*, pulling a flinch or a question, and, above all, would the other side feel it too. The test does not bend to your politics.
+
+So the thing you put into it is not "here is my side." It is the harder instruction: *catch the move even when it is aimed to please me; flag my own side when my own side is farming my reaction.* That is the same commitment that separates an honest model from a flattering one. A tool that only ever tells you your enemies are the manipulators is not aligned to you. It is lying to you, gently, the way a sycophant does.
+
+One last honesty check, because it matters for the rest of this site. This frontier is real, and control is genuinely shifting from the companies to the people who run the models. But "you can run your own detector" is also the platform's favorite escape hatch: *it is the user's responsibility now, so leave the feed alone.* Do not accept that trade. A detector in your hand is a defense you deploy **downstream** of a machine that is still, upstream, built to farm your reaction. It is a reason to want brake integrity more, not a reason to want it less. Hold both.
+
 ## If someone insists on a content-label anyway
 
 Then, at minimum, it must be: **opt-in** (a guardian's choice, never a silent default on lawful speech); **audited by a third party**, not the platform (see the capability-is-the-danger argument in the policy paper, section 6, the party best able to build the classifier is the party least safe to run it silently); **probabilistic, not binary** (show confidence, not a verdict); **appealable** through a specified process; and **published with its error rates**. Even fully safeguarded, it still faces the constitutional wall above. So the honest order of operations is: mechanism-labeling first; content-labeling only if mechanism-labeling proves insufficient, and only with every safeguard, and even then expect to lose in court.
@@ -63,6 +102,8 @@ Then, at minimum, it must be: **opt-in** (a guardian's choice, never a silent de
 - Does mechanism-labeling measurably build recommendation literacy, or do users tune it out?
 - Does surfacing "why you are seeing this" reduce compulsive engagement, or just add friction?
 - Does the implied-truth effect degrade mechanism-labels the way it degrades content-labels, or does labeling *the machine* rather than *the message* avoid it?
+- Does a by-hand wedge check build literacy, or just give people a way to call everything they dislike a wedge?
+- Does a personal, user-owned detector help people see, or does it harden the filter bubble by teaching everyone that their enemies are the manipulators?
 - Is the wedge-selection effect large enough that changing the objective (the policy paper's content-neutral default) noticeably reduces it, or is it a small term swamped by other signals?
 
 If the honest answer to the last question is "small," then the wedge is a compelling story with a modest effect, and the movement's weight should rest entirely on brake integrity, not on the wedge. That is the falsifier that matters most, because the whole reason the wedge material is quarantined here, and not load-bearing in the policy, is that the policy must stand even if the wedge hypothesis turns out to be small.
