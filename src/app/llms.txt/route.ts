@@ -27,6 +27,10 @@ user holds that the platform can't quietly override. Universal base layer
 - [Experimental appendix](${SITE_URL}/notes.md): the higher-risk research,
   quarantined from policy on purpose. The wedge hypothesis and
   recommendation-mechanism labeling ("you are seeing this because...").
+- [The social media addiction lawsuits, explained](${SITE_URL}/lawsuits.md):
+  a dated explainer of the litigation record (MDL 3047, the California
+  bellwethers, New Mexico, the EU DSA findings), with evidence-status labels
+  and primary sources. Updated on dated passes, not live.
 
 ## Pages
 
@@ -35,6 +39,7 @@ user holds that the platform can't quietly override. Universal base layer
   #WheresTheBrake.
 - [The policy paper, rendered](${SITE_URL}/proposal)
 - [The appendix, rendered](${SITE_URL}/notes)
+- [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
 - [File a brake report](${SITE_URL}/report): turns one dead brake into a
   structured, shareable report. Stores nothing by design.
 - [The brake scorecard](${SITE_URL}/scorecard): the six-part brake-integrity

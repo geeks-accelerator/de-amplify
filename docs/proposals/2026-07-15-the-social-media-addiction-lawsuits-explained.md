@@ -1,0 +1,121 @@
+---
+title: "The Social Media Addiction Lawsuits, Explained"
+subtitle: "Four proceedings, four numbers people keep confusing, and the question underneath all of it: when you tap the brake, does anything actually stop?"
+status: "Search-facing explainer for de-amplify.com/lawsuits. Facts verified against primary and near-primary sources on 2026-07-15 and 2026-07-16; revised after external review (2026-07-16). AI-assisted (see Provenance). Not legal advice."
+author: "Lee Brown"
+date: 2026-07-16
+site: "de-amplify.com"
+document: "Litigation explainer (search-facing, Document D). Companions: the movement brief (the homepage), the Brake Integrity Standard (/proposal), and the experimental appendix (/notes)."
+---
+
+# The social media addiction lawsuits, explained
+
+Meta's estimate of $1.4 trillion in potential penalties is the number built for headlines. The more consequential question is much smaller: when a teenager taps "Take a Break," does anything actually stop?
+
+Across a federal multidistrict litigation in Oakland, coordinated state-court trials in Los Angeles, an enforcement case in Santa Fe, and a regulatory proceeding in Brussels, that same issue keeps resurfacing. The law may never settle whether "social media addiction" is a clinical category. It can still decide whether a company accurately described its product, whether a safety control did what its name promised, and whether the system quietly worked around the user's decision. That distinction is the key to understanding the lawsuits, and to seeing the remedy they have not yet produced.
+
+> **About this page.** Where the record stood as of July 16, 2026; litigation here moves weekly, and every figure below carries its date. This is an explanatory and policy project, not a law firm and not a claim-matching service; if you are looking to file a claim or join a lawsuit, this is not that page. Because coverage of these cases routinely blurs what has been decided against what has merely been alleged or requested, claims below are labeled: **court-held** (decided as a matter of law), **jury-found** (verdict returned, appeals possible), **evidence cited** (in the record, still disputed), **requested** (a party's proposed remedy or estimate), **preliminary** (a regulator's initial finding), and **scheduled** (a current court date, subject to change).
+
+## The map: four proceedings, not one
+
+Press coverage tends to blur these fights into one story about a "youth safety trial." They are four distinct proceedings, and keeping them apart is most of the work of understanding them.
+
+**MDL 3047 is the federal hub, not the whole map.** It centralizes most federal personal-injury and school-district cases (plus a multistate action by state attorneys general) for coordinated pretrial proceedings in Oakland. An MDL is not itself a class action; it is a procedural mechanism for handling related federal cases together. California's coordinated state-court cases, including the trials in Los Angeles, are a separate proceeding (JCCP 5255). New Mexico's enforcement case is separate again, in Santa Fe. And the European Commission's investigation is not a lawsuit at all but a regulatory process under the Digital Services Act. The proceedings share defendants, evidence, and themes; a verdict in one does not automatically decide the others.
+
+## MDL 3047: the federal case against Meta, TikTok, YouTube, and Snap
+
+The federal MDL, before U.S. District Judge Yvonne Gonzalez Rogers in the Northern District of California, held **2,893 pending actions as of the Judicial Panel's July 1, 2026 report**, up 229 in a single month.
+
+The legal theory is **product design, not bad content**. The plaintiffs allege the companies intentionally built features (infinite scroll, autoplay, variable-reward notifications, engagement-ranked feeds) to keep young users compulsively returning, and misrepresented the safety of those products. No single post is on trial; the delivery machine is. Not every design theory survived: the court's rulings have narrowed parts of the case under Section 230, which treats some algorithmic recommendation as protected publishing. The claims that keep advancing are the ones about deception and about the platform's own controls.
+
+The most consequential ruling so far came at the end of June 2026, and its two halves deserve separate labels:
+
+- **Court-held:** Meta's motion for summary judgment on the states' deception and unfair-practices claims was denied; those claims go to trial. The court also gave the states a narrower pretrial win on COPPA, the federal children's-privacy statute: Meta's notice and parental-consent procedures did not comply with the statute's requirements. That is a finding about procedures, not yet liability; the states must still establish that COPPA applied to the services at issue, including disputed questions about child-directed services and Meta's knowledge of under-13 users.
+- **Evidence cited:** in the same order, per legal-press accounts, the court found Meta's own documents could support the theory that its time-restriction tools were a **"public relations stunt,"** deployed while the company knew that more time on the platform was linked to worse outcomes for teens. That is disputed evidence, not a final finding. But mark what it means for the rest of this page: whether the platform's brakes actually worked as advertised is not a metaphor imposed on this litigation from outside. It is already inside the trial record.
+
+## The Meta trial: August 2026, Oakland
+
+The August proceeding combines two things: the **29 participating states' consolidated COPPA claims**, and **consumer-protection claims selected from four states** (California, Colorado, Kentucky, New Jersey). **Scheduled:** jury selection begins August 12, 2026; opening statements are set for August 18, the date most coverage calls the start. The court is expected to seat an advisory jury, reportedly after Meta withdrew its jury demand, with the judge retaining the ultimate findings on liability and any penalty. The structure could still shift before openings, and this page will say so if it does. Fourteen more states are set to try claims under their own state laws in a follow-on trial currently planned for **February 2027**.
+
+## The trillion-dollar fight is really a counting fight
+
+The headline number is **requested, not awarded**: roughly **$1.4 trillion** is Meta's own estimate, disclosed in a July 2026 filing, of its potential statutory exposure under the states' proposed penalty methodology. Meta calls the figure "unmoored." The underlying state filings are sealed, and no court has endorsed any number.
+
+The more interesting issue is the counting rule underneath. Statutory penalties are multiplication problems: a maximum dollar amount per violation, times the number of violations. So the decisive question is what counts as *one violation*. One misleading statement? One affected user? One user-month? One day during which a control failed? The answer can turn millions into billions or trillions. New Mexico's jury, for scale, counted 75,000 violations at $5,000 each. The $1.4 trillion estimate is therefore not only a damages argument; it is a dispute over how misconduct at digital scale should be counted, and that dispute will outlive this trial.
+
+## The verdicts so far: $6 million and $375 million
+
+Two juries have already ruled, in two different kinds of case.
+
+**K.G.M. v. Meta and Google** (Los Angeles Superior Court) was the first bellwether from roughly 1,600 coordinated California state cases. **Jury-found**, March 25, 2026: a **$6 million verdict**, $3 million compensatory and $3 million punitive, allocated 70/30 between Meta and Google, which is why some outlets report only Meta's $4.2 million share. On June 10 the trial judge denied the defendants' motions for a new trial and for judgment notwithstanding the verdict. Both defendants have now filed notices of appeal (Meta in early July; YouTube on July 13). No appellate court has reviewed the verdict, and honest reporting keeps that caveat attached.
+
+**State of New Mexico v. Meta** (Santa Fe) is a different animal: a consumer-protection and child-safety case under the state Unfair Practices Act, about deceptive safety claims and child exploitation rather than addiction, and not part of the MDL. **Jury-found**, March 24, 2026: **$375 million** in civil penalties, the statutory maximum of $5,000 for each of 75,000 violations. Meta is appealing. A second, judge-decided phase on public nuisance and prospective relief finished testimony on May 21; the decision is pending. In that phase New Mexico has **requested** roughly **$953 million** for a fifteen-year abatement program plus specific platform changes, including age controls and disabling features like infinite scroll during school and sleep hours. A request is not an award. But note what it is: the only live proceeding in the American record that could order design changes rather than a payment.
+
+What the verdicts established is narrower than the headlines suggest, and still consequential: in two very different proceedings, juries were willing to accept a design-harm theory in one case and a deception theory in the other. That does not settle the national litigation. It changes the risk calculation around every trial and settlement that follows, which is visible in what happened next.
+
+## The settlements, and the next trial: July 27
+
+The pattern the verdicts set in motion, in order. Snap and TikTok settled out of the first California bellwether around the turn of 2026, TikTok as jury selection was beginning. The first federal bellwether, brought by a Kentucky school district, settled in May and June 2026 for a reported combined figure near **$27 million**, terms formally undisclosed. YouTube settled the second California bellwether confidentially on June 24; TikTok followed in the first days of July. **Scheduled:** that leaves **Meta and Snap facing trial on July 27, 2026**, weeks before the attorneys general even seat a jury in Oakland; settlement on the courthouse steps remains possible, as the pattern shows.
+
+For the largest defendants, none of these numbers is financially existential. Their importance is precedential, evidentiary, and strategic. Money is moving in every direction, no liability has been admitted, and, the fact this whole site turns on: **no disclosed, enforceable, sector-wide design standard has resulted from any of it**. Paying and continuing is, so far, the equilibrium.
+
+## Four numbers people keep confusing
+
+| Number | What it actually is |
+|---|---|
+| **$6 million** | Jury verdict, K.G.M. (California state court, March 2026). 70% Meta, 30% Google. Both defendants appealing. |
+| **$375 million** | Jury verdict, New Mexico (March 2026): statutory maximum penalties, 75,000 violations at $5,000. On appeal. |
+| **~$953 million** | New Mexico's *request* in the separate judge-decided remedial phase: a fifteen-year abatement fund plus platform changes. Decision pending. Not an award. |
+| **~$1.4 trillion** | Meta's *estimate* of its potential statutory exposure under four states' proposed penalty counting. Not a judgment, not a settlement demand a court has seen fit to endorse. |
+
+Litigation headlines routinely collapse verdicts, requests, and worst-case estimates into one category of "money sought." The four numbers are four different kinds of fact.
+
+## So is it actually addiction?
+
+The defense's consistent line is that "social media addiction is not an established psychiatric condition," and as a diagnostic matter that fight is real: there is no such diagnosis in the DSM, the clinical category is contested, and coverage reflects the ambiguity by calling these cases social media harm lawsuits one week and social media mental health lawsuits the next.
+
+But that debate collapses three questions that the litigation keeps separate:
+
+1. Is "social media addiction" a formal psychiatric diagnosis? (Contested, and possibly never resolved.)
+2. Can particular designs contribute to compulsive, hard-to-control use? (An empirical question about products, not diagnostic categories.)
+3. Did the company accurately describe its product's risks and the effectiveness of its controls? (A consumer-protection question courts answer all the time.)
+
+Look at which claims actually advance. The rulings that survived summary judgment, the COPPA procedures finding, the New Mexico verdict: none of them required deciding question one. They are findings about **deception and consent**: the platform said a control or a safety measure did something, and the evidence indicates it did not. The DSM fight asks what to call the condition. The consumer-protection fight asks what the company said, what it knew, and whether its controls did what they promised. Courts do not need to settle the first question to answer the second.
+
+None of this requires pretending that all social-media use is harmful, that every young user reacts identically, or that every reduction in engagement is automatically beneficial. The psychological evidence varies by person, feature, and context, and age-detection systems carry their own privacy and error risks. That is exactly why the remedy this site argues for does not dictate viewpoints, prohibited content, or a permitted number of minutes. It tests whether a user-selected control reliably produces the product state the platform said it would.
+
+## Brussels is writing the rule American courts haven't
+
+American litigation has mostly asked who should pay after alleged harm. European regulators are asking the forward-looking question: what must the product do differently?
+
+**Preliminary:** on July 10, 2026, the European Commission preliminarily found the addictive design of Facebook and Instagram in breach of the Digital Services Act. Its critique reads like a product test: time-management tools, including those on by default for teenagers, "can easily be ignored and do not meaningfully reduce usage"; parental controls work mainly for parents with the technical skill and time to operate them. The changes it identified include disabling autoplay and infinite scroll by default, effective screen-time breaks, and recommender systems less driven by engagement. It follows an April 29 preliminary finding that Meta failed to keep under-13s off the platforms, and a February finding against TikTok on the same addictive-design grounds. All of these are preliminary; Meta and TikTok can respond before any final decision or penalty, and the word "preliminarily" is doing real work in every sentence above.
+
+What matters here is the shape of the question. A regulator is scoring platform brakes by performance: too easy to dismiss, not effective, not durable. That is the same question the American deception claims keep circling, translated into prospective design language. The courtroom this page's final section says is missing is beginning to be built, just not in the United States.
+
+## What the lawsuits cannot fix
+
+Every remedy in the American record shares a limit. Damages are backward-looking: they price harm after it happens, and a company can pay and keep the mechanism. Settlements are the same trade with less publicity. Even a trillion-dollar penalty would be a price, not a specification, because none of it defines what a non-harmful product must **do**. New Mexico's abatement request and the Commission's preliminary findings are the exceptions that prove the rule: the closest things to a design remedy in the record, and one is pending while the other is preliminary.
+
+The missing piece is a standard, and this site proposes one: **brake integrity**. When a platform offers a control to stop, limit, reset, or redirect the feed, that control must actually work and persist: take effect promptly, cover the related surfaces, and stay set until the user changes it. A safety feature should be judged by its stopping distance, not by the presence of a button. And the standard does not require the product to overpower the user; a person can always change their mind and scroll on. It requires the product to stop fighting the user after the user has chosen to stop.
+
+The evidence for why this standard is needed is now inside the record itself: internal documents, per the June order's account, treating the time-limit tools as a public-relations exercise while the company understood what more time on the feed meant for teenagers. The full argument, including its honest limits and the current First Amendment and Section 230 terrain, is in [the policy paper](/proposal). The test is written out at [the brake scorecard](/scorecard); run it on your own feed, and [file what happened](/report). The trials will decide who pays for the past. The brake is about what the product has to be next.
+
+## Sources (reviewed July 15-16, 2026; dispositions dated)
+
+- **MDL 3047 case count** (2,893 pending, July 1, 2026): [JPML pending-actions report](https://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-July-1-2026.pdf) (primary).
+- **June 2026 summary-judgment ruling** (deception claims to trial; COPPA procedures finding; scope): [California AG press release](https://oag.ca.gov/news/press-releases/ahead-meta-trial-attorney-general-bonta-secures-critical-win) (2026-06-30, primary); [Top Class Actions](https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-social-media-addiction-lawsuits-cleared-for-august-bellwether-trial/) (COPPA-applicability questions remain); [Law.com/The Recorder](https://www.law.com/therecorder/2026/06/30/29-states-head-to-trial-against-meta-after-social-media-addiction-judge-refuses-to-toss-claims-/) (2026-06-30, the "public relations stunt" account of the order).
+- **August trial structure** (29-state COPPA claims plus CA/CO/KY/NJ consumer claims; Aug 12 selection, Aug 18 openings; February 2027 follow-on for 14 states): [Engadget](https://www.engadget.com/2209332/meta-is-facing-1-4-trillion-in-state-lawsuits-over-social-media-addiction/) (2026-07-07); [CA AG](https://oag.ca.gov/news/press-releases/ahead-meta-trial-attorney-general-bonta-secures-critical-win).
+- **Advisory jury** (expected; reportedly after Meta withdrew its jury demand): [Courthouse News](https://www.courthousenews.com/meta-tries-to-defeat-ags-claims-ahead-of-childrens-addiction-trial/) (April 2026); [Law Commentary](https://www.lawcommentary.com/articles/meta-pushes-back-on-states-14-trillion-penalty-demand-in-social-media-addiction-case) (2026-07-08).
+- **$1.4 trillion estimate** (Meta's July 2026 filing; "unmoored"): [JURIST](https://www.jurist.org/news/2026/07/meta-says-state-ags-seek-1-4t-over-youth-safety-claims/) (2026-07-07).
+- **K.G.M. v. Meta and Google** ($6M, Mar 25, 2026; post-trial motions denied Jun 10; Meta appeal early July; YouTube appeal filed Jul 13): [ABC7](https://abc7news.com/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272/) (2026-03-25); [AP via US News](https://www.usnews.com/news/technology/articles/2026-07-15/youtube-joins-meta-in-appealing-a-jury-verdict-that-faulted-them-for-users-social-media-addiction) (2026-07-15).
+- **State of New Mexico v. Meta** ($375M verdict Mar 24; remedial-phase testimony ended May 21; ~$953M abatement request, decision pending): [NM DOJ press release](https://nmdoj.gov/press-release/new-mexico-department-of-justice-wins-landmark-verdict-against-meta/) (primary); [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/new-mexico-ag-santa-fe-judge-should-order-meta-to-pay-953-million/article_1001f752-95bf-4b90-bde8-cc08d56696a8.html) (2026-06-16); [Source NM](https://sourcenm.com/2026/06/17/new-mexico-ag-seeks-nearly-1-billion-payment-from-meta-in-second-phase-of-trial/) (2026-06-17).
+- **First federal bellwether settlement** (~$27M combined, May-June 2026): [The Daily Record](https://thedailyrecord.com/2026/05/18/youtube-snap-tiktok-settlement-social-media-claims/) (2026-05-18).
+- **Second California bellwether** (YouTube settled Jun 24; TikTok ~Jul 1; Meta and Snap trial Jul 27): [Law.com](https://www.law.com/therecorder/2026/06/24/googles-youtube-settles-second-bellwether-case-over-social-media-addiction/) (2026-06-24); [NBC News](https://www.nbcnews.com/tech/tech-news/tiktok-reaches-settlement-social-media-addiction-trial-florida-teen-rcna352299) (~2026-07-01).
+- **First California bellwether settlements** (Snap, then TikTok at jury selection): [NPR](https://www.npr.org/2026/01/27/nx-s1-5684196/social-media-kids-addiction-mental-health-trial) (2026-01-27); [CNN](https://www.cnn.com/2026/01/26/tech/social-media-youth-mental-health-trial) (2026-01-26).
+- **EU DSA preliminary findings** (Meta addictive design, Jul 10, 2026; Meta under-13s, Apr 29, 2026; TikTok, Feb 6, 2026): [EC press release](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act) (primary); [EC IP/26/920](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920) (primary); [Euronews](https://www.euronews.com/next/2026/07/10/instagram-and-facebook-hook-users-with-addictive-design-commission-finds) (2026-07-10, the remedial specifics).
+
+Figures are as reported and not independently audited here; legal characterizations are directional and for counsel to confirm. Where sources conflict (the count of participating states runs from 29 in the consolidated federal case to more than 40 across all venues, depending on what is counted), this page states the specific, attributable version rather than a bare number. The account of the summary-judgment order's internal-documents finding rests on legal-press coverage; the order itself should be cited directly before anyone relies on it.
+
+---
+
+*Provenance and methodology: this explainer restates and extends section 1 of the companion policy paper (The Brake Integrity Standard) for a search-facing audience. Facts were verified against the sources above in two passes (July 15 and July 16, 2026), the second prompted by an external AI review whose factual corrections were independently re-verified before adoption; that review also contributed the four-numbers framing, the evidence-status labels, the unit-of-violation analysis, and the stopping-distance line. AI-assisted throughout: the framing and judgment are the author's, the drafting was collaborative. This page is updated on dated passes, not live; the as-of line at the top is the honesty backstop.*

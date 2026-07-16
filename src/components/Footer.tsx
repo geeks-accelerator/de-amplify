@@ -20,6 +20,10 @@ export default function Footer() {
             find the brake
           </a>
           <span className="text-bone/15">/</span>
+          <Link href="/lawsuits" className="transition-colors hover:text-bone/70">
+            the lawsuits
+          </Link>
+          <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             read the proposal
           </Link>

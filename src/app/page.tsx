@@ -387,9 +387,9 @@ export default function Home() {
             </h2>
 
             <div className="mt-9 grid grid-cols-2 divide-x divide-y divide-white/[0.06] border border-white/[0.06] sm:grid-cols-5 sm:divide-y-0">
-              <Stat value="34" label="state attorneys general suing" />
-              <Stat value="~3,000" label="lawsuits, consolidated (N.D. Cal.)" />
-              <Stat value="$1.4T" label="penalties four states seek" />
+              <Stat value="29" label="states' consolidated case at trial in August" />
+              <Stat value="~2,900" label="lawsuits, consolidated (N.D. Cal.)" />
+              <Stat value="$1.4T" label="penalty exposure, per Meta's own filing" />
               <Stat value="$375M" label="New Mexico jury verdict" />
               <Stat value="$6M" label="California jury verdict" />
             </div>
@@ -407,6 +407,14 @@ export default function Home() {
               weren&apos;t about addiction at all. They were about{" "}
               <span className="text-signal">deception and consent</span>. That&apos;s the
               tell.
+            </p>
+            <p className="mt-6 font-mono text-[12px]">
+              <Link
+                href="/lawsuits"
+                className="text-bone/60 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/85"
+              >
+                the full record: every case, every number, dated and sourced &rarr;
+              </Link>
             </p>
           </div>
         </section>

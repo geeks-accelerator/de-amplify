@@ -23,8 +23,8 @@ export default function Header() {
           <Link href="/report" className="transition-colors hover:text-brake">
             report
           </Link>
-          <Link href="/#fix" className="hidden transition-colors hover:text-bone/80 sm:inline">
-            the fix
+          <Link href="/lawsuits" className="hidden transition-colors hover:text-bone/80 sm:inline">
+            the lawsuits
           </Link>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             the paper
