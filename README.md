@@ -25,7 +25,7 @@ Not a lawsuit. Not a ban. A design target, one anyone can point a regulator, a p
 
 ## Show up
 
-If the diagnosis is right, make it louder. **Star the repo.** Open an issue. Sharpen the argument (especially the limits, attack them; that's how it gets stronger).
+If the diagnosis is right, make it louder. **Star the repo.** Open an issue. Sharpen the argument (especially the limits, attack them; that's how it gets stronger). See [CONTRIBUTING.md](CONTRIBUTING.md) for how, and [SECURITY.md](SECURITY.md) to report a vulnerability.
 
 ## Stack
 
@@ -53,3 +53,7 @@ The rendered documents live in [`content/`](content/): `proposal.md` (the policy
 **Live** at [de-amplify.com](https://de-amplify.com) (with `www` redirecting to the apex). Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies the domain at the Railway origin. No secrets or database, it's a static-ish content site.
 
 **Port note (a real deploy gotcha):** `next start` binds to Railway's injected `$PORT` (currently 8080), not a fixed port. So the Railway custom-domain **target port must be 8080** to match the app. A mismatched target port returns a 502 even though the build and healthcheck both pass, because Railway's healthcheck hits the app's real port while public traffic is routed to the wrong one. Do NOT hardcode `-p <port>` in the start command to "fix" this; that would move the app off the port the healthcheck probes. Set the domain target (or the `PORT` variable) instead.
+
+## License
+
+Content and code are licensed **CC-BY-4.0** ([`LICENSE`](LICENSE)): use it, adapt it, even commercially, with attribution to de-amplify.com. That is the same ask the site makes of everyone: quote it, cite it, link it.
