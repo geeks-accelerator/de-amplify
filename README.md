@@ -56,4 +56,4 @@ The rendered documents live in [`content/`](content/): `proposal.md` (the policy
 
 ## License
 
-Content and code are licensed **CC-BY-4.0** ([`LICENSE`](LICENSE)): use it, adapt it, even commercially, with attribution to de-amplify.com. That is the same ask the site makes of everyone: quote it, cite it, link it.
+Content and code are copyright Lee Brown and Lucas Brown / Geeks in the Woods, licensed **CC-BY-4.0** ([`LICENSE`](LICENSE)): use it, adapt it, even commercially, with attribution to de-amplify.com. That is the same ask the site makes of everyone: quote it, cite it, link it.
