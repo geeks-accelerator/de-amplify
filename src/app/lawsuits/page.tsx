@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProposalContent from "../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import { contentDate } from "@/lib/contentDate";
 
 const TITLE = "Social Media Addiction Lawsuits, Explained (2026)";
 const DESCRIPTION =
@@ -76,7 +77,7 @@ const FAQ_JSON_LD = {
 export default function LawsuitsPage() {
   const mdPath = path.join(process.cwd(), "content", "lawsuits.md");
   const markdown = fs.readFileSync(mdPath, "utf-8");
-  const dateModified = fs.statSync(mdPath).mtime.toISOString().slice(0, 10);
+  const dateModified = contentDate(mdPath, "2026-07-16");
 
   const articleJsonLd = {
     "@context": "https://schema.org",

@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProposalContent from "../../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import { contentDate } from "@/lib/contentDate";
 
 const TITLE = "State of New Mexico v. Meta: The $375M Child-Safety Verdict";
 // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
@@ -39,7 +40,7 @@ export default function NewMexicoVMetaPage() {
     "new-mexico-v-meta.md",
   );
   const markdown = fs.readFileSync(mdPath, "utf-8");
-  const dateModified = fs.statSync(mdPath).mtime.toISOString().slice(0, 10);
+  const dateModified = contentDate(mdPath, "2026-07-16");
 
   const articleJsonLd = {
     "@context": "https://schema.org",

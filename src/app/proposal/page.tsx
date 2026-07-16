@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProposalContent from "./ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import { contentDate } from "@/lib/contentDate";
 
 const TITLE = "The Brake Integrity Standard: the full policy paper";
 const DESCRIPTION =
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
 export default function ProposalPage() {
   const mdPath = path.join(process.cwd(), "content", "proposal.md");
   const markdown = fs.readFileSync(mdPath, "utf-8");
-  const dateModified = fs.statSync(mdPath).mtime.toISOString().slice(0, 10);
+  const dateModified = contentDate(mdPath, "2026-07-15");
 
   const articleJsonLd = {
     "@context": "https://schema.org",

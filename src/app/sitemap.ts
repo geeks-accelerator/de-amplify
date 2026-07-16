@@ -1,24 +1,17 @@
-import fs from "fs";
-import path from "path";
 import type { MetadataRoute } from "next";
+import { contentDate } from "@/lib/contentDate";
 
 const SITE_URL = "https://de-amplify.com";
 
-function mtime(rel: string): Date {
-  try {
-    return fs.statSync(path.join(process.cwd(), rel)).mtime;
-  } catch {
-    return new Date();
-  }
-}
-
 export default function sitemap(): MetadataRoute.Sitemap {
-  const proposalDate = mtime("content/proposal.md");
-  const notesDate = mtime("content/notes.md");
-  const lawsuitsDate = mtime("content/lawsuits.md");
-  const mdlDate = mtime("content/lawsuits/mdl-3047.md");
-  const kgmDate = mtime("content/lawsuits/kgm-v-meta.md");
-  const nmDate = mtime("content/lawsuits/new-mexico-v-meta.md");
+  // lastmod from git history, not filesystem mtime (a fresh CI checkout would
+  // otherwise stamp every entry with the deploy date). See contentDate.
+  const proposalDate = contentDate("content/proposal.md", "2026-07-16");
+  const notesDate = contentDate("content/notes.md", "2026-07-15");
+  const lawsuitsDate = contentDate("content/lawsuits.md", "2026-07-16");
+  const mdlDate = contentDate("content/lawsuits/mdl-3047.md", "2026-07-16");
+  const kgmDate = contentDate("content/lawsuits/kgm-v-meta.md", "2026-07-16");
+  const nmDate = contentDate("content/lawsuits/new-mexico-v-meta.md", "2026-07-16");
 
   return [
     { url: `${SITE_URL}/`, lastModified: proposalDate, changeFrequency: "weekly", priority: 1 },
