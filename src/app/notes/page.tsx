@@ -22,9 +22,6 @@ export const metadata: Metadata = {
     description: DESCRIPTION,
     url: `https://de-amplify.com${PATH}`,
     siteName: "de-amplify.com",
-    images: [
-      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
-    ],
     type: "article",
     publishedTime: "2026-07-15",
   },
