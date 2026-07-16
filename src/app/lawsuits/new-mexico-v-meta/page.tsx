@@ -31,7 +31,7 @@ export default function NewMexicoVMetaPage() {
     headline: "State of New Mexico v. Meta: the $375 million child-safety verdict",
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "New Mexico is the only U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.",
+      "New Mexico is the first U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.",
     url: "https://de-amplify.com/lawsuits/new-mexico-v-meta",
     datePublished: "2026-07-16",
     dateModified,
