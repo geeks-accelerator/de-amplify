@@ -15,7 +15,7 @@ export default function Footer() {
 
         <p className="mt-6 font-mono text-[12px] text-brake/80">#WheresTheBrake</p>
 
-        <div className="mt-6 flex items-center justify-center gap-5 font-mono text-[11px] lowercase text-bone/40">
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 font-mono text-[11px] lowercase text-bone/40">
           <a href="/#ask" className="text-brake/80 transition-colors hover:text-brake">
             find the brake
           </a>
@@ -26,6 +26,10 @@ export default function Footer() {
           <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             read the proposal
+          </Link>
+          <span className="text-bone/15">/</span>
+          <Link href="/for" className="transition-colors hover:text-bone/70">
+            who it&apos;s for
           </Link>
           <span className="text-bone/15">/</span>
           <a

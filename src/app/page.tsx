@@ -674,6 +674,12 @@ export default function Home() {
               >
                 read the full proposal &rarr;
               </Link>
+              <Link
+                href="/for"
+                className="rounded-md border border-white/15 bg-white/[0.03] px-5 py-2.5 font-mono text-[13px] text-bone/70 transition-colors hover:bg-white/[0.06] hover:text-bone/90"
+              >
+                who it&apos;s for &rarr;
+              </Link>
             </div>
             <p className="mt-8 font-mono text-[11px] lowercase text-bone/30">
               or read the source:{" "}
