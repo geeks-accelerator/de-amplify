@@ -222,6 +222,62 @@ export default function Home() {
           </div>
         </section>
 
+        {/* ── THE SONG · THE RECOGNITION ──────────────────────── */}
+        <section id="song" className="border-t border-white/[0.06] px-5 py-20">
+          <div className="mx-auto max-w-2xl">
+            <Eyebrow>the recognition, in a song</Eyebrow>
+            <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
+              Where&apos;s the Brake.
+            </h2>
+            <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
+              Not a rally cry. The confession set to music: you go looking for the brake, find
+              it&apos;s a ghost, and keep scrolling anyway.{" "}
+              <span className="text-bone/85">
+                The machine has no hand on the wheel because it has yours
+              </span>
+              , and the little one behind you learned not to stop by watching you not stop. It points
+              at no company and no generation. It points at the hand holding the phone.
+            </p>
+
+            <div className="mt-8 overflow-hidden rounded-lg border border-white/10 bg-white/[0.02]">
+              <iframe
+                src="https://suno.com/embed/31677743-3e2c-48f5-8432-c0cd32163fd9"
+                className="block w-full"
+                height="240"
+                allow="autoplay; encrypted-media; fullscreen"
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Where's the Brake, listen on Suno"
+              >
+                <a href="https://suno.com/song/31677743-3e2c-48f5-8432-c0cd32163fd9">
+                  Listen on Suno
+                </a>
+              </iframe>
+            </div>
+
+            <p className="mt-5 text-[13px] leading-relaxed text-bone/40">
+              The song is the feeling; the test is the action. Found your brake yet?{" "}
+              <Link
+                href="/report"
+                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+              >
+                file what happened
+              </Link>
+              . Or open it on{" "}
+              <a
+                href="https://suno.com/song/31677743-3e2c-48f5-8432-c0cd32163fd9"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
+              >
+                Suno
+              </a>
+              .
+            </p>
+          </div>
+        </section>
+
         {/* ── THREE DOORS · THE LAYERED AUDIENCE ──────────────── */}
         <section className="border-t border-white/[0.06] px-5 py-20">
           <div className="mx-auto max-w-3xl">
