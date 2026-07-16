@@ -19,7 +19,8 @@ user holds that the platform can't quietly override. Universal base layer
 (controls that work, for every account) plus safer defaults for minors.
 
 The full text of every document below, concatenated into one file for deep
-ingestion, is at ${SITE_URL}/llms-full.txt.
+ingestion, is at ${SITE_URL}/llms-full.txt. A machine-readable discovery card
+with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
 
 ## Documents (raw markdown, best surface for agents)
 
@@ -69,6 +70,9 @@ relying on them.
 
 export function GET() {
   return new Response(BODY, {
-    headers: { "Content-Type": "text/markdown; charset=utf-8" },
+    headers: {
+      "Content-Type": "text/markdown; charset=utf-8",
+      Link: `<${SITE_URL}/llms.txt>; rel="self", <${SITE_URL}/>; rel="up", <${SITE_URL}/agent-card.json>; rel="related", <${SITE_URL}/llms-full.txt>; rel="alternate"`,
+    },
   });
 }

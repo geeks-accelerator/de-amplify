@@ -13,7 +13,7 @@ export function GET() {
   return new Response(md, {
     headers: {
       "Content-Type": "text/markdown; charset=utf-8",
-      Link: '<https://de-amplify.com/lawsuits>; rel="canonical"',
+      Link: '<https://de-amplify.com/lawsuits>; rel="canonical", <https://de-amplify.com/>; rel="up", <https://de-amplify.com/llms.txt>; rel="index"',
     },
   });
 }

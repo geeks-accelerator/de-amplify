@@ -35,6 +35,7 @@ export function GET() {
   const body = [
     "# de-amplify.com: the thing it broke was the brake.",
     "# Read the machine-readable guide to this site at /llms.txt",
+    "# Structured discovery card with links + next actions (JSON): /agent-card.json",
     "",
     "User-agent: *",
     "Content-Signal: ai-train=yes, search=yes, ai-input=yes",

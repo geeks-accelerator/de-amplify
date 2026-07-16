@@ -37,6 +37,9 @@ export function GET() {
   }).join("\n");
 
   return new Response(header + body, {
-    headers: { "Content-Type": "text/markdown; charset=utf-8" },
+    headers: {
+      "Content-Type": "text/markdown; charset=utf-8",
+      Link: `<${SITE_URL}/llms-full.txt>; rel="self", <${SITE_URL}/>; rel="up", <${SITE_URL}/llms.txt>; rel="index"`,
+    },
   });
 }
