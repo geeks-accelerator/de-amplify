@@ -43,7 +43,7 @@ const AUDIENCES: [slug: string, label: string, blurb: string, ready: string][] =
     "press",
     "For press and organizers",
     "The story under the story: your reaction is the fuel, and the off-switch is fake. Built to be used and adapted, with the boldest demand on the table.",
-    "markdown now, online and PDF coming",
+    "online, PDF, and markdown",
   ],
 ];
 

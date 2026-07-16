@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Briefing from "../Briefing";
@@ -23,6 +25,12 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
+
+const GAMMA = "https://gamma.app/docs/de-amplify-Wheres-the-Brake-kzt354fh7hb4evi";
+
+const pdfExists = fs.existsSync(
+  path.join(process.cwd(), "public", "for", "press.pdf"),
+);
 
 export default function PressBriefingPage() {
   return (
@@ -58,9 +66,13 @@ export default function PressBriefingPage() {
         </>
       }
       actions={[
-        { label: "Read the source", href: "/for/press.md", tone: "signal", sub: "markdown, take and adapt" },
+        { label: "View online", href: GAMMA, external: true, tone: "signal" as const, sub: "the deck on gamma.app" },
+        ...(pdfExists
+          ? [{ label: "Download PDF", href: "/for/press.pdf", sub: "print or share it" }]
+          : []),
+        { label: "Read the source", href: "/for/press.md", sub: "markdown, take and adapt" },
       ]}
-      footnote="A polished online version and a PDF are coming. The markdown is the finished source you can read or adapt now."
+      footnote="The markdown is the source of truth; the online version and PDF are generated from it. Run the thirty-second test at /scorecard and screenshot the result."
     />
   );
 }
