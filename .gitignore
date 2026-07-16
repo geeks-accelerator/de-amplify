@@ -18,10 +18,14 @@
 Thumbs.db
 Desktop.ini
 
-# editors
+# editors / local tooling
 /.vscode
 /.idea
 *.swp
+# Claude Code: local preview launch config and personal settings; the repo
+# ships no shared Claude config. To share team commands/settings later, narrow
+# this to /.claude/settings.local.json instead.
+/.claude/
 
 # secrets / keys
 *.pem
