@@ -15,12 +15,12 @@ export default function Header() {
         </Link>
         <nav className="flex items-center gap-4 font-mono text-[11px] lowercase tracking-wide text-bone/45 sm:gap-5">
           {/* py-2 grows each link's tap target past the 24px WCAG floor */}
-          <a
+          <Link
             href="/#ask"
             className="hidden py-2 text-brake/90 underline decoration-brake/40 underline-offset-4 transition-colors hover:text-brake sm:inline-block"
           >
             find the brake
-          </a>
+          </Link>
           <Link href="/report" className="py-2 transition-colors hover:text-brake">
             report
           </Link>
