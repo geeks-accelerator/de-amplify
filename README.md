@@ -3,7 +3,7 @@
 > Engagement feeds are being sued for addicting kids. The remedies on the table (damages, age bans, or lobbied-for immunity) don't set a standard for what a non-harmful product must *do*. This is a proposal that does: **de-amplify, don't censor.**
 
 **Live:** https://de-amplify.com
-**Read:** the movement brief (the homepage), the policy paper [`/proposal`](https://de-amplify.com/proposal) (*The Brake Integrity Standard*), the experimental appendix [`/notes`](https://de-amplify.com/notes) · **Act:** [`/report`](https://de-amplify.com/report) · [`/scorecard`](https://de-amplify.com/scorecard)
+**Read:** the movement brief (the homepage), the policy paper [`/proposal`](https://de-amplify.com/proposal) (*The Brake Integrity Standard*), the experimental appendix [`/notes`](https://de-amplify.com/notes), the litigation explainer [`/lawsuits`](https://de-amplify.com/lawsuits) with per-case files ([MDL 3047](https://de-amplify.com/lawsuits/mdl-3047) · [K.G.M.](https://de-amplify.com/lawsuits/kgm-v-meta) · [New Mexico](https://de-amplify.com/lawsuits/new-mexico-v-meta)) · **Act:** [`/report`](https://de-amplify.com/report) · [`/scorecard`](https://de-amplify.com/scorecard)
 
 ## What this is
 
@@ -29,7 +29,7 @@ If the diagnosis is right, make it louder. **Star the repo.** Open an issue. Sha
 
 Next.js 14 (App Router) · React 18 · TypeScript · Tailwind CSS · Geist Mono/Sans · `react-markdown` for the proposal. Deployed on **Railway** (`railway.toml` + `nixpacks.toml`), behind **Cloudflare** (DNS/CDN).
 
-**Discovery layer** (search engines + AI agents): JSON-LD structured data ([`JsonLd.tsx`](src/components/JsonLd.tsx), wired into `layout.tsx` and each page), a generated OpenGraph image ([`opengraph-image.tsx`](src/app/opengraph-image.tsx)), `sitemap.xml` / `robots.txt` / `llms.txt`, and raw-markdown routes (`/proposal.md`, `/notes.md`) so the documents can be read plainly by a crawler or an agent, not just the styled pages.
+**Discovery layer** (search engines + AI agents): JSON-LD structured data ([`JsonLd.tsx`](src/components/JsonLd.tsx), wired into `layout.tsx` and each page), a generated OpenGraph image ([`opengraph-image.tsx`](src/app/opengraph-image.tsx)), `sitemap.xml` / `robots.txt` / `llms.txt`, and raw-markdown routes (`/proposal.md`, `/notes.md`, `/lawsuits.md`, and one per case file under `/lawsuits/*.md`) so the documents can be read plainly by a crawler or an agent, not just the styled pages.
 
 ## Develop
 
@@ -40,7 +40,7 @@ npm run build    # production build (typecheck + compile)
 npm run start    # serve the production build
 ```
 
-The rendered documents live in [`content/`](content/): `proposal.md` (the policy paper, at `/proposal`) and `notes.md` (the appendix, at `/notes`), both rendered via `react-markdown`. They are the frontmatter-stripped bodies of the review copies in [`docs/proposals/`](docs/proposals/); edit the doc, regenerate the body. The movement brief and the `/report` + `/scorecard` participation tools are hand-built React in [`src/app/`](src/app/) (`page.tsx`, `report/`, `scorecard/`).
+The rendered documents live in [`content/`](content/): `proposal.md` (the policy paper, at `/proposal`), `notes.md` (the appendix, at `/notes`), `lawsuits.md` (the litigation explainer, at `/lawsuits`), and `lawsuits/` (the three per-case files, at `/lawsuits/mdl-3047`, `/lawsuits/kgm-v-meta`, `/lawsuits/new-mexico-v-meta`), all rendered via `react-markdown`. `proposal.md` / `notes.md` / `lawsuits.md` are the frontmatter-stripped bodies of the review copies in [`docs/proposals/`](docs/proposals/); edit the doc, regenerate the body. **The lawsuit content is ledger-first:** each case has an evidence-tiered claim ledger in [`docs/distillations/`](docs/distillations/) (a generic distillation home, not lawsuit-specific), and the `content/lawsuits/` case files are *seeded from* those ledgers, curated, not a 1:1 render and not a build-time reference. Corrections land in the ledger first, then the case file (and the hub explainer) are re-seeded on a dated pass. The movement brief and the `/report` + `/scorecard` participation tools are hand-built React in [`src/app/`](src/app/) (`page.tsx`, `report/`, `scorecard/`).
 
 ## Deploy
 

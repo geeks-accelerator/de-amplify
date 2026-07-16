@@ -31,6 +31,11 @@ user holds that the platform can't quietly override. Universal base layer
   a dated explainer of the litigation record (MDL 3047, the California
   bellwethers, New Mexico, the EU DSA findings), with evidence-status labels
   and primary sources. Updated on dated passes, not live.
+- Per-case files, seeded from the project's evidence-tiered claim ledgers
+  (corrections land ledger-first, then here):
+  [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md),
+  [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
+  [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md).
 
 ## Pages
 
