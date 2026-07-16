@@ -195,7 +195,7 @@ export default function Home() {
             </p>
 
             <div className="mt-9 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
-              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
                 do this
               </p>
               <p className="mt-3 text-[15px] leading-[1.7] text-bone/75">
@@ -254,7 +254,7 @@ export default function Home() {
               The song is the feeling; the test is the action. Found your brake yet?{" "}
               <Link
                 href="/report"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 file what happened
               </Link>
@@ -274,7 +274,7 @@ export default function Home() {
               Others are remixing it now, in more voices and more languages.{" "}
               <Link
                 href="/remixes"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 hear the remixes &rarr;
               </Link>
@@ -301,7 +301,7 @@ export default function Home() {
                     You already felt the button do nothing. That was the whole argument.
                     Run the test, post the dead switch, and you have made the case without
                     arguing it.{" "}
-                    <span className="font-mono text-[12px] text-brake/80">{TAG}</span>
+                    <span className="font-mono text-[12px] text-brake/90">{TAG}</span>
                   </>
                 }
               />
@@ -516,7 +516,7 @@ export default function Home() {
             </p>
 
             <div className="my-8 rounded-lg border border-brake/25 bg-brake/[0.04] p-6">
-              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
                 the conflict, quantified
               </p>
               <p className="mt-3 text-[14px] leading-[1.7] text-bone/60">

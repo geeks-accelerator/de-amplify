@@ -49,10 +49,9 @@ export function GET() {
     "Disallow: /_next/",
     "",
     ...AI_CRAWLERS.flatMap((ua) => [`User-agent: ${ua}`, "Allow: /", ""]),
+    // IndexNow needs only the key file hosted at the root (it is); "IndexNow:"
+    // and "Host:" are not robots.txt directives and fail Lighthouse validation.
     `Sitemap: ${SITE_URL}/sitemap.xml`,
-    // IndexNow: instant Bing/Yandex recrawl. Key file at the root, contents == key.
-    `Host: ${SITE_URL}`,
-    `IndexNow: ${SITE_URL}/a7f3c9e1b8d245069af1e7c93b04d8e6.txt`,
     "",
   ].join("\n");
 

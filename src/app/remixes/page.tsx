@@ -220,14 +220,14 @@ export default function RemixesPage() {
               The song is the feeling; the test is the action. Haven&apos;t run it yet?{" "}
               <Link
                 href="/#ask"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 find the brake
               </Link>{" "}
               on your own feed, then{" "}
               <Link
                 href="/report"
-                className="text-brake/80 underline decoration-brake/30 underline-offset-4 hover:text-brake"
+                className="text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake"
               >
                 file what happened
               </Link>

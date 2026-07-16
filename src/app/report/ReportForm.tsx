@@ -93,7 +93,7 @@ export default function ReportForm() {
     <div className="mt-8">
       {/* safety + no-storage banner */}
       <div className="rounded-lg border border-brake/25 bg-brake/[0.04] p-5">
-        <p className="font-mono text-[11px] uppercase tracking-wider text-brake/80">
+        <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
           before you file
         </p>
         <p className="mt-3 text-[14px] leading-[1.7] text-bone/70">
