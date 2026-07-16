@@ -23,7 +23,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-/* brake-red text selection — the alarm color */
+/* brake-red text selection, the alarm color */
 ::selection {
   background: rgba(255, 77, 94, 0.85);
   color: var(--void);
@@ -45,7 +45,7 @@ body {
   background: rgba(91, 157, 255, 0.4);
 }
 
-/* a faint horizontal scanline texture on the hero — the screen glow */
+/* a faint horizontal scanline texture on the hero, the screen glow */
 .scanlines {
   background-image: repeating-linear-gradient(
     to bottom,
