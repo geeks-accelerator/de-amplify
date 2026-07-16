@@ -20,6 +20,9 @@ export default function Header() {
           >
             find the brake
           </a>
+          <Link href="/report" className="transition-colors hover:text-brake">
+            report
+          </Link>
           <Link href="/#fix" className="hidden transition-colors hover:text-bone/80 sm:inline">
             the fix
           </Link>

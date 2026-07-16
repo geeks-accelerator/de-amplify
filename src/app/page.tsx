@@ -212,6 +212,12 @@ export default function Home() {
                   every minor&apos;s account gets a brake that works.
                 </span>
               </p>
+              <Link
+                href="/report"
+                className="mt-5 inline-block rounded-md border border-brake/40 bg-brake/10 px-5 py-2.5 font-mono text-[13px] text-brake transition-colors hover:bg-brake/20"
+              >
+                file a structured report &rarr;
+              </Link>
             </div>
           </div>
         </section>
@@ -379,8 +385,7 @@ export default function Home() {
           <div className="mx-auto max-w-2xl">
             <Eyebrow>the reframe</Eyebrow>
             <h2 className="mt-5 font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
-              Stop asking if it&apos;s &quot;addictive.&quot; Ask if your &quot;stop&quot;
-              sticks.
+              Addiction or not, ask if your &quot;stop&quot; sticks.
             </h2>
             <p className="mt-6 text-[15px] leading-[1.75] text-bone/55">
               &quot;Is social-media addiction a real diagnosis&quot; is a swamp of
@@ -390,7 +395,10 @@ export default function Home() {
               it <span className="text-bone/85">last</span>? That is{" "}
               <span className="text-signal">control integrity</span>, and it is the whole
               fix. It regulates the platform&apos;s own control, not anyone&apos;s speech,
-              which is the surface that survives the First Amendment and Section 230.
+              which is the surface that survives the First Amendment and Section 230. This
+              isn&apos;t a claim that addiction isn&apos;t real: the brake works whether or
+              not anyone wins that fight, which is why it doesn&apos;t have to displace the
+              people already litigating it.
             </p>
             <p className="mt-5 text-[15px] leading-[1.75] text-bone/55">
               There is a bigger, riskier idea nearby: that the feed does not just addict,
@@ -585,6 +593,12 @@ export default function Home() {
               >
                 find the brake &uarr;
               </a>
+              <Link
+                href="/report"
+                className="rounded-md border border-brake/40 bg-brake/10 px-5 py-2.5 font-mono text-[13px] text-brake transition-colors hover:bg-brake/20"
+              >
+                file a report &rarr;
+              </Link>
               <Link
                 href="/proposal"
                 className="rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors hover:bg-signal/20"
