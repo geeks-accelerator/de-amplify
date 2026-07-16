@@ -40,6 +40,16 @@ function fieldClass() {
   return "w-full rounded-md border border-white/10 bg-white/[0.03] px-3 py-2.5 font-mono text-[16px] text-bone/90 outline-none transition-colors focus:border-signal/60 sm:text-[13px]";
 }
 
+// Declared at module scope, not inside the render: a component created during
+// render is a new type on every pass and would reset its subtree's state.
+function Label({ children }: { children: React.ReactNode }) {
+  return (
+    <span className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/55">
+      {children}
+    </span>
+  );
+}
+
 export default function ReportForm() {
   const [platform, setPlatform] = useState("");
   const [control, setControl] = useState("");
@@ -78,12 +88,6 @@ export default function ReportForm() {
   }
 
   const xHref = `https://x.com/intent/tweet?text=${encodeURIComponent(report)}`;
-
-  const Label = ({ children }: { children: React.ReactNode }) => (
-    <span className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/55">
-      {children}
-    </span>
-  );
 
   return (
     <div className="mt-8">

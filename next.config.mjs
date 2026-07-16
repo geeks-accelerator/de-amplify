@@ -1,15 +1,24 @@
 /** @type {import('next').NextConfig} */
 
-// Security headers, matching the posture of the sibling family sites. The CSP
-// is scoped to what de-amplify actually loads: same-origin everything, plus
-// the Suno iframe embed on the homepage (frame-src), inline styles/JSON-LD
-// (unsafe-inline), and the X share-intent link (form-action).
+// Security headers. The CSP is scoped to what de-amplify actually loads:
+// same-origin everything, plus the Suno iframe embed on the homepage
+// (frame-src), inline styles/JSON-LD (unsafe-inline), and the X share-intent
+// link (form-action).
+//
+// React 19's development mode uses eval() for debugging features (owner-stack
+// reconstruction); production never does. So 'unsafe-eval' is granted only in
+// dev to keep `next dev` clean, and stays out of the production CSP.
+const isDev = process.env.NODE_ENV === "development";
+const scriptSrc = isDev
+  ? "script-src 'self' 'unsafe-inline' 'unsafe-eval'"
+  : "script-src 'self' 'unsafe-inline'";
+
 const securityHeaders = [
   {
     key: "Content-Security-Policy",
     value: [
       "default-src 'self'",
-      "script-src 'self' 'unsafe-inline'",
+      scriptSrc,
       "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data: https:",
       "font-src 'self' data:",
