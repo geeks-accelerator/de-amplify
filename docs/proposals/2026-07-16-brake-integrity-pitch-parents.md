@@ -1,8 +1,9 @@
 <!--
 Pitch deck: Where's the Brake, for parents.
 Audience: parents and caregivers of kids and teens.
-Purpose: recognition, relief from blame, and concrete action: test the feed, report a dead brake,
-demand working brakes (not bans). Parents are both a constituency and end-users of the scorecard/report tools.
+Purpose: recognition, relief from blame, the wedge diagnosis in parent register (the feed serves
+whatever gets the biggest reaction, so it feeds your kid a diet optimized to agitate), and concrete
+action: test the feed, report a dead brake, demand working brakes and a see-the-machine control, not bans.
 Format: gamma.app "Paste in Text" mode. Each `---` on its own line is a card break; `#` lines are card titles.
 Date: 2026-07-16. Companion to the policymaker deck (2026-07-16-brake-integrity-pitch-policymakers.md),
 the policy paper (2026-07-15-brake-integrity-standard.md), and the site (de-amplify.com).
@@ -40,6 +41,18 @@ You are not losing to your kid. You are both losing to a machine designed to win
 
 ---
 
+# It is not just screen time. It is the diet.
+
+The feed does not serve your kid what is good for them, or even what they would choose. It serves whatever gets the biggest reaction.
+
+And the biggest reaction is usually outrage, fear, or the thing that makes them feel worse about themselves or about each other. So the feed drifts toward what agitates.
+
+> Your kid's reaction is the product being sold. It is shaping how they see the world, not just how many hours they lose.
+
+The same machine does it to you, on your feed. That is the tell.
+
+---
+
 # What is actually broken
 
 Not one bad video. The machine that serves the next one:
@@ -47,7 +60,7 @@ Not one bad video. The machine that serves the next one:
 - Infinite scroll with no stopping point
 - Autoplay that starts the next thing before anyone decides
 - Notifications and streaks that pull them back
-- A feed that refills the second they open the app
+- A feed that refills the second they open the app, tuned to whatever gets a rise out of them
 
 A great video and a garbage one ride the same conveyor belt. The belt is the problem.
 
@@ -124,6 +137,7 @@ Not censorship. Not a ban. A brake that works.
 
 - **For every account:** when a control says it will calm the feed, it has to actually do it, and stay done.
 - **For kids:** the safer settings ON by default, not buried three menus deep.
+- **See the machine:** the feed should tell you why it showed something ("you are seeing this because you watched X"), and let you switch that signal off, so you and your kid can see how you are being steered instead of just being steered.
 
 Turn it off, and it stays off. That is the whole idea.
 
@@ -143,8 +157,8 @@ A floor to stand on, not a silver bullet.
 
 - **Test** your kid's feed with the thirty-second check (de-amplify.com/scorecard).
 - **Report** a dead brake: one that claims to work and does not (de-amplify.com/report). It stores nothing about your kid.
-- **Tell** your representative: "Make the brakes work. Do not ban our kids."
-- **Share** it, so the next parent knows it is not just them: #WheresTheBrake.
+- **Name the machine** with your kid: "it is showing you this to get a reaction." Seeing the trick is a skill, and it travels.
+- **Tell** your representative: "Make the brakes work. Do not ban our kids." **Share** it: #WheresTheBrake.
 
 ---
 
