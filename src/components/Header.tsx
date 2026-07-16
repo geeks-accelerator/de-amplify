@@ -30,6 +30,9 @@ export default function Header() {
           <Link href="/proposal" className="py-2 transition-colors hover:text-signal">
             the paper
           </Link>
+          <Link href="/for" className="py-2 transition-colors hover:text-bone/80">
+            for you
+          </Link>
           <Link href="/notes" className="hidden py-2 transition-colors hover:text-bone/80 sm:inline-block">
             notes
           </Link>

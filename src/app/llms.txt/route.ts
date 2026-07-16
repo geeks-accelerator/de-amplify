@@ -41,11 +41,26 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
   [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md).
 
+## Briefings by audience (the same argument, told per room)
+
+The pitch decks are gamma.app presentation source; the markdown is canonical,
+the online version and PDF are derived from it.
+
+- [For policymakers](${SITE_URL}/for/policymakers.md): the regulable,
+  First-Amendment-defensible standard, grounded in the wedge diagnosis
+  (engagement optimizes for reaction, so it amplifies division) with a
+  user-held brake as the fix. Also online and as a PDF; hub at ${SITE_URL}/for.
+- [For parents](${SITE_URL}/for/parents.md): the recognition (not willpower,
+  not your parenting), the thirty-second test, and the ask.
+- [For press and organizers](${SITE_URL}/for/press.md): the bold advocacy
+  framing (mechanism as villain, never a tribe), built to be used and adapted.
+
 ## Pages
 
 - [Movement brief (homepage)](${SITE_URL}/): the confession, the self-test
   (find the brake, set it, close the app, reopen: did it hold?), the demand,
   #WheresTheBrake.
+- [Who it's for (briefings hub)](${SITE_URL}/for): the argument by audience.
 - [The policy paper, rendered](${SITE_URL}/proposal)
 - [The appendix, rendered](${SITE_URL}/notes)
 - [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
