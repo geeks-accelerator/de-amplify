@@ -1,6 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+/* Tailwind v4 is CSS-first, but the project's design tokens, keyframes, and the
+   typography plugin config live in the JS config; @config loads it unchanged so
+   the palette and prose styling carry over without re-authoring. */
+@config "../../tailwind.config.ts";
 
 :root {
   --void: #070709;
