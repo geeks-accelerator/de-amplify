@@ -18,6 +18,9 @@ autoplay, variable reward), not any individual post; the fix is a brake the
 user holds that the platform can't quietly override. Universal base layer
 (controls that work, for every account) plus safer defaults for minors.
 
+The full text of every document below, concatenated into one file for deep
+ingestion, is at ${SITE_URL}/llms-full.txt.
+
 ## Documents (raw markdown, best surface for agents)
 
 - [The Brake Integrity Standard (policy paper)](${SITE_URL}/proposal.md): the

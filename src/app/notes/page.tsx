@@ -7,11 +7,27 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "Notes: the wedge hypothesis, and the label that might backfire";
+const DESCRIPTION =
+  "The experimental, higher-risk ideas deliberately kept OUT of the Brake Integrity Standard: the wedge hypothesis and recommendation-mechanism labeling. Research, not policy.";
+const PATH = "/notes";
+
 export const metadata: Metadata = {
-  title: "Notes: the wedge hypothesis, and the label that might backfire",
-  description:
-    "The experimental, higher-risk ideas deliberately kept OUT of the Brake Integrity Standard: the wedge hypothesis and recommendation-mechanism labeling. Research, not policy.",
-  alternates: { canonical: "/notes" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "article",
+    publishedTime: "2026-07-15",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 export default function NotesPage() {
@@ -27,6 +43,7 @@ export default function NotesPage() {
     description:
       "The higher-risk research quarantined from the Brake Integrity Standard: the wedge hypothesis and recommendation-mechanism labeling. Hypotheses to study, not rules to pass.",
     url: "https://de-amplify.com/notes",
+    image: "https://de-amplify.com/opengraph-image",
     datePublished: "2026-07-15",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

@@ -7,12 +7,28 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "K.G.M. v. Meta and Google: The $6M California Bellwether Verdict";
+// Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
+const DESCRIPTION =
+  "California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and a second trial starts July 27, 2026.";
+const PATH = "/lawsuits/kgm-v-meta";
+
 export const metadata: Metadata = {
-  title: "K.G.M. v. Meta and Google: The $6M California Bellwether Verdict",
-  // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
-  description:
-    "California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and a second trial starts July 27, 2026.",
-  alternates: { canonical: "/lawsuits/kgm-v-meta" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "article",
+    publishedTime: "2026-07-16",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 export default function KgmVMetaPage() {
@@ -28,6 +44,7 @@ export default function KgmVMetaPage() {
     description:
       "In California state court (not the federal case), about 1,600 youth-harm suits are coordinated as JCCP 5255, and the first test case, K.G.M. v. Meta and Google, produced a $6 million jury verdict in March 2026 that both companies are appealing, so it is not final.",
     url: "https://de-amplify.com/lawsuits/kgm-v-meta",
+    image: "https://de-amplify.com/opengraph-image",
     datePublished: "2026-07-16",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

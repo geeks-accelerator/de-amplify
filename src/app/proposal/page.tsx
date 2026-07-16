@@ -7,11 +7,27 @@ import Footer from "@/components/Footer";
 import ProposalContent from "./ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "The Brake Integrity Standard: the full policy paper";
+const DESCRIPTION =
+  "The policy paper: control integrity as the regulable surface for engagement feeds, with age-differentiated defaults for minors, the current legal record, and its honest limits.";
+const PATH = "/proposal";
+
 export const metadata: Metadata = {
-  title: "The Brake Integrity Standard: the full policy paper",
-  description:
-    "The policy paper: control integrity as the regulable surface for engagement feeds, with age-differentiated defaults for minors, the current legal record, and its honest limits.",
-  alternates: { canonical: "/proposal" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "article",
+    publishedTime: "2026-07-15",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 export default function ProposalPage() {
@@ -26,6 +42,7 @@ export default function ProposalPage() {
     description:
       "Control integrity as the regulable surface for engagement feeds: when a platform offers a control to stop or redirect the feed, it must actually work and persist.",
     url: "https://de-amplify.com/proposal",
+    image: "https://de-amplify.com/opengraph-image",
     datePublished: "2026-07-15",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

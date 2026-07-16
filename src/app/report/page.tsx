@@ -5,11 +5,26 @@ import Footer from "@/components/Footer";
 import ReportForm from "./ReportForm";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "File a brake report: #WheresTheBrake";
+const DESCRIPTION =
+  "Turn one dead brake into structured evidence. Report the platform, the control you tried, and whether your choice held after you closed and reopened the app. No personal data, nothing stored.";
+const PATH = "/report";
+
 export const metadata: Metadata = {
-  title: "File a brake report: #WheresTheBrake",
-  description:
-    "Turn one dead brake into structured evidence. Report the platform, the control you tried, and whether your choice held after you closed and reopened the app. No personal data, nothing stored.",
-  alternates: { canonical: "/report" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "website",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 export default function ReportPage() {

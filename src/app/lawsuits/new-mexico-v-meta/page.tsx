@@ -7,12 +7,28 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "State of New Mexico v. Meta: The $375M Child-Safety Verdict";
+// Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
+const DESCRIPTION =
+  "New Mexico won a $375 million jury verdict against Meta over child safety; a judge is now weighing $953 million more plus court-ordered design changes.";
+const PATH = "/lawsuits/new-mexico-v-meta";
+
 export const metadata: Metadata = {
-  title: "State of New Mexico v. Meta: The $375M Child-Safety Verdict",
-  // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
-  description:
-    "New Mexico won a $375 million jury verdict against Meta over child safety; a judge is now weighing $953 million more plus court-ordered design changes.",
-  alternates: { canonical: "/lawsuits/new-mexico-v-meta" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "article",
+    publishedTime: "2026-07-16",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 export default function NewMexicoVMetaPage() {
@@ -33,6 +49,7 @@ export default function NewMexicoVMetaPage() {
     description:
       "New Mexico is the first U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.",
     url: "https://de-amplify.com/lawsuits/new-mexico-v-meta",
+    image: "https://de-amplify.com/opengraph-image",
     datePublished: "2026-07-16",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

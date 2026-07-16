@@ -4,11 +4,26 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
+const TITLE = "The Brake Scorecard: score a brake the same way every time";
+const DESCRIPTION =
+  "The seven-part brake-integrity test: discoverability, clarity, immediate effect, material effect, persistence, scope, non-circumvention. Run it the same way on every platform so the reports are comparable.";
+const PATH = "/scorecard";
+
 export const metadata: Metadata = {
-  title: "The Brake Scorecard: score a brake the same way every time",
-  description:
-    "The seven-part brake-integrity test: discoverability, clarity, immediate effect, material effect, persistence, scope, non-circumvention. Run it the same way on every platform so the reports are comparable.",
-  alternates: { canonical: "/scorecard" },
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: { canonical: PATH },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `https://de-amplify.com${PATH}`,
+    siteName: "de-amplify.com",
+    images: [
+      { url: "/opengraph-image", width: 1200, height: 630, alt: "de-amplify: the thing it broke was the brake. #WheresTheBrake" },
+    ],
+    type: "website",
+  },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
 const DIMENSIONS = [
