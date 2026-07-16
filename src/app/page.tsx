@@ -1,6 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const GITHUB = "https://github.com/geeks-accelerator/de-amplify";
 const TAG = "#WheresTheBrake";

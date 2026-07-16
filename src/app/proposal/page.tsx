@@ -5,19 +5,38 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProposalContent from "./ProposalContent";
+import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "The Brake Integrity Standard: the full policy paper",
   description:
     "The policy paper: control integrity as the regulable surface for engagement feeds, with age-differentiated defaults for minors, the current legal record, and its honest limits.",
+  alternates: { canonical: "/proposal" },
 };
 
 export default function ProposalPage() {
   const mdPath = path.join(process.cwd(), "content", "proposal.md");
   const markdown = fs.readFileSync(mdPath, "utf-8");
+  const dateModified = fs.statSync(mdPath).mtime.toISOString().slice(0, 10);
+
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "The Brake Integrity Standard",
+    description:
+      "Control integrity as the regulable surface for engagement feeds: when a platform offers a control to stop or redirect the feed, it must actually work and persist.",
+    url: "https://de-amplify.com/proposal",
+    datePublished: "2026-07-15",
+    dateModified,
+    author: { "@id": "https://de-amplify.com/#org" },
+    publisher: { "@id": "https://de-amplify.com/#org" },
+    isPartOf: { "@id": "https://de-amplify.com/#website" },
+  };
 
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={articleJsonLd} />
+      <JsonLd data={breadcrumbs(["The policy paper", "/proposal"])} />
       <Header />
       <main className="flex-1 px-5 py-14">
         <div className="mx-auto max-w-3xl">
