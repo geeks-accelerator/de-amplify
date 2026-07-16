@@ -596,7 +596,7 @@ export default function Home() {
 
             <p className="mt-6 text-[13px] leading-relaxed text-bone/40">
               The through-line: regulate the loop, re-attach consent, de-amplify don&apos;t
-              remove. The tempting next step, a parental{" "}
+              censor. The tempting next step, a parental{" "}
               <Link
                 href="/notes"
                 className="text-signal underline decoration-signal/40 underline-offset-4 transition-colors hover:text-signal"
