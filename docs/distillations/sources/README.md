@@ -35,17 +35,23 @@ verification and line-anchored locators survive link rot and are re-runnable by 
 
 ## Verifying
 
-From the gitwverse repo (the federation tooling home):
+From the gitwverse repo (the federation tooling home), each doc verifies against its own cache:
 
 ```bash
-python3 scripts/hearing_quote_check.py \
-  ../de-amplify/docs/distillations/hearing-2023-11-07-teen-mental-health.md \
-  ../de-amplify/docs/distillations/sources/CHRG-118shrg60432.txt \
-  --allow ../de-amplify/docs/distillations/sources/hearing-2023-11-07-quote-allowlist.txt \
-  --anchors
+D=../de-amplify/docs/distillations
+python3 scripts/hearing_quote_check.py $D/hearing-2023-11-07-teen-mental-health.md \
+  $D/sources/CHRG-118shrg60432.txt --allow $D/sources/hearing-2023-11-07-quote-allowlist.txt
+python3 scripts/hearing_quote_check.py $D/hearing-2024-01-31-big-tech-child-safety.md \
+  $D/sources/CHRG-118shrg57444.txt
+python3 scripts/hearing_quote_check.py $D/hearing-2026-05-13-courtroom-to-congress.md \
+  $D/sources/senate-2026-05-13-testimony-combined.txt
+python3 scripts/hearing_quote_check.py $D/hearing-2025-12-02-legislative-solutions.md \
+  $D/sources/house-2025-12-02-testimony-combined.txt
 ```
 
 Exit code 0 means every quoted span in the whole document (ledger, summary, coverage note,
-quote-bank) is a verbatim whitespace-normalized substring of the official transcript or an
-allowlisted prose span. Verbatim quotes reproduce GPO punctuation exactly (including `--`)
-and are exempt from site punctuation style.
+quote-bank) is a verbatim whitespace-normalized substring of that doc's source or an
+allowlisted prose span. Add `--anchors` to print the source line range for each passing
+span (the "source lines N-M" locators in the docs come from this). Verbatim quotes reproduce
+source punctuation exactly (including the GPO's ASCII `--` and the PDFs' curly quotes, which
+the checker canonicalizes for matching) and are exempt from site punctuation style.

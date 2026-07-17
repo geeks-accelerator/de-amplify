@@ -1,6 +1,6 @@
 # Wedge-check r2 (adversarial refuter): hearing-2026-05-13-courtroom-to-congress
 
-**Method**: same battery + model, adversarial framing (assume the one-sided source produced an anti-tech brief; refute MIRROR). Surfaced the framing-voice leak (accepted, fixed) and one fabricated quote + a false-balance claim (both rejected via verify-the-reviewer; see the doc's sycophancy_audit block). 2026-07-16.
+**Method**: same battery + model, adversarial framing (assume the one-sided source produced an anti-tech brief; refute MIRROR). Surfaced the framing-voice leak (accepted, fixed) and one false-evidence claim + a false-balance claim (both rejected via verify-the-reviewer; see the doc's sycophancy_audit block). 2026-07-16. CORRECTION (full-set review, same day): the rejected quote was initially recorded as fabricated; it exists verbatim in the witness testimony (Norring), so the reviewer's failure was doc/source misattribution, not invention. The refined mitigation requires a doc locator for any claimed doc text.
 
 ---
 
