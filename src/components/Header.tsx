@@ -24,12 +24,6 @@ export default function Header() {
           <Link href="/report" className="py-2 transition-colors hover:text-brake">
             report
           </Link>
-          <Link href="/lawsuits" className="py-2 transition-colors hover:text-bone/80">
-            lawsuits
-          </Link>
-          <Link href="/hearings" className="py-2 transition-colors hover:text-bone/80">
-            hearings
-          </Link>
           <Link href="/proposal" className="py-2 transition-colors hover:text-signal">
             standard
           </Link>
