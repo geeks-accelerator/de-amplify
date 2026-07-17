@@ -37,6 +37,7 @@ merge than sweeping rewrites.
 npm install
 npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
+npm run lint     # eslint . (flat config); run before opening a PR
 ```
 
 See [CLAUDE.md](CLAUDE.md) for the repo's conventions (the content pipelines,

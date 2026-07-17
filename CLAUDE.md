@@ -31,19 +31,30 @@ This repository is self-contained and public. Do **not** add references to any o
 
 Wire it into every discovery surface or it drifts out of sync:
 
-- `src/app/sitemap.ts`, `src/app/llms.txt/route.ts`, and the `_links` in `src/app/agent-card.json/route.ts`.
-- If it is a content page: add `Article` + `BreadcrumbList` JSON-LD and **per-page `openGraph` / `twitter`** metadata. Gotcha: defining a per-page `openGraph` object **drops the inherited file-based OG image**, so re-add `images: ["/opengraph-image"]` explicitly, then confirm `og:image` is in the built HTML.
+- `src/app/sitemap.ts`, `src/app/llms.txt/route.ts`, `src/app/llms-full.txt/route.ts`, and the `_links` (plus a `skill` where it fits) in `src/app/agent-card.json/route.ts`. `_actions` in the agent card is capped at five, so extend `_links`, not `_actions`. A rendered document also gets a raw-markdown route (e.g. `/hearings.md`, `/distillations/<slug>.md`) with RFC 8288 `Link` headers (`up` / `index` / `canonical`), and is listed in llms.txt.
+- If it is a content page: add `Article` + `BreadcrumbList` JSON-LD and **per-page `openGraph` / `twitter`** metadata. The OG image is a **colocated `opengraph-image.tsx`** in the route folder (it calls the shared `ogCard` in `src/lib/og/template.tsx`, brake or signal accent); Next wires it into `og:image` automatically, so the per-page `openGraph` object does **not** set `images`. A dynamic route generates one OG per param via `generateStaticParams` (see `/distillations/[slug]`). Do not build class names dynamically (`text-${accent}`); Tailwind cannot see them, so use literal ternaries.
 - Dates in JSON-LD and the sitemap come from **git author dates** via `src/lib/contentDate.ts`, not `fs.statSync().mtime`. A fresh CI checkout resets mtimes to the deploy time, so mtime would restamp every page on each deploy. Do not reintroduce mtime.
 
 ## The scorecard is the standard (lockstep)
 
 `/scorecard` renders the seven brake-integrity criteria from the policy paper section 3. **Changing the scorecard means changing the standard**, in the paper and on the page together. There is an open revision proposal, `docs/proposals/2026-07-16-scorecard-v2-brake-performance-test.md`; the current seven-part test stays operative until that clears review, so do not quietly edit the dimensions out of band.
 
+## Dependency pins (load-bearing; do not casually bump)
+
+The stack runs current majors (Next 16, React 19, Tailwind 4, ESLint 9, TypeScript 6), but a few pins are deliberate and will break the build if "helpfully" upgraded:
+
+- **ESLint stays at 9, not 10.** `eslint-config-next` 16 only needs `eslint >=9`; ESLint 10 needs a `typescript-eslint` that this registry only ships in broken form.
+- **`typescript-eslint` is pinned to 8.59.4 via `overrides`**, and **`tailwindcss` + `@tailwindcss/postcss` to exact 4.3.0** (4.3.1-4.3.3 and typescript-eslint 8.60+ publish against sibling packages that were never published).
+- **TypeScript stays at 6** (no stable 7 exists yet). Lint runs via `eslint .` (flat config in `eslint.config.mjs`); `next lint` was removed in Next 16.
+
+Dependabot keeps proposing majors and its exact version numbers are sometimes phantom (they 404). Before merging one, confirm the target and its transitive deps actually resolve; land on the newest coherent release, not Dependabot's literal number. The dev CSP grants `unsafe-eval` only when `NODE_ENV=development` (React 19 dev tooling); the production CSP stays tight.
+
 ## Build, deploy, verify
 
 ```bash
 npm run dev     # http://localhost:3333
 npm run build   # typecheck + compile; run before committing nontrivial changes
+npm run lint    # eslint . (flat config); run before opening a PR
 npm run start   # serve the production build
 ```
 
