@@ -5,6 +5,8 @@ export const alt = "A distilled, evidence-tiered claim ledger on de-amplify.com.
 export const size = OG_SIZE;
 export const contentType = OG_CONTENT_TYPE;
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return DISTILLATIONS.map((d) => ({ slug: d.slug }));
 }

@@ -152,14 +152,20 @@ export function loadDistillation(slug: string): LoadedDistillation {
   const searchSnippet = grab(/Search snippet[^:]*:\*\*\s*(.+)/);
   const oneSentence = grab(/One sentence[^:]*:\*\*\s*(.+)/);
 
-  // keep only the reader-facing sections, in document order
-  const bodySections = body
-    .split(/\n(?=## )/)
-    .filter((p) => {
-      const h = p.match(/^## (.+)/);
-      return h ? KEEP_SECTIONS.some((k) => h[1].startsWith(k)) : false;
-    });
-  let bodyMarkdown = bodySections.join("\n\n").trim();
+  // keep only the reader-facing sections, in document order; the lawsuit
+  // ledgers also open with their own bolded "Tier key" calibration paragraph
+  // before the first heading, which is reader-facing (it carries each record's
+  // exact tier semantics) and is kept for fidelity
+  const parts = body.split(/\n(?=## )/);
+  const preamble =
+    parts[0] && !parts[0].startsWith("## ") && parts[0].trim().startsWith("**Tier key")
+      ? parts[0].trim()
+      : "";
+  const bodySections = parts.filter((p) => {
+    const h = p.match(/^## (.+)/);
+    return h ? KEEP_SECTIONS.some((k) => h[1].startsWith(k)) : false;
+  });
+  let bodyMarkdown = [preamble, ...bodySections].filter(Boolean).join("\n\n").trim();
 
   if (sources.length) {
     bodyMarkdown +=
@@ -176,4 +182,33 @@ export function loadDistillation(slug: string): LoadedDistillation {
     sources,
     bodyMarkdown,
   };
+}
+
+// Self-contained raw markdown of a ledger, served at /distillations/<slug>.md
+// (the agent-facing surface, like every other document's raw route) and
+// concatenated into /llms-full.txt. Same reader-facing body the page renders,
+// headed by the title, subject, as-of date, and the tier / tier-down notes so
+// the file stands alone.
+export function distillationRawMarkdown(slug: string, sourceUrl?: string): string {
+  const d = loadDistillation(slug);
+  return (
+    `# ${d.title}\n\n` +
+    (sourceUrl ? `Source: ${sourceUrl}\n\n` : "") +
+    (d.subject ? `> ${d.subject}\n\n` : "") +
+    `As of ${d.asOf}. This is the evidence-tiered claim ledger behind ${d.related.label} ` +
+    `on de-amplify.com, published in full for transparency. Tiers: ESTABLISHED (stated in a ` +
+    `primary source, or said on the official record at a hearing; a fact about what was filed ` +
+    `or said, not necessarily adjudicated true), OBSERVED (secondary coverage, or a document ` +
+    `read into the record), ASSUMED (the distiller's inference, flagged). Provenance flags ` +
+    `([interested-party], [advocacy-witness], [single-witness], [lawmaker characterization]) ` +
+    `mark claims resting on one interested voice: reported, not adjudicated.\n\n` +
+    (d.tierDown
+      ? `TIER-DOWN: this hearing's official transcript is not published yet, so this ledger ` +
+        `is built from the witnesses' written testimony, not the live question-and-answer. ` +
+        `Treat it as the weaker-evidence tier it is; it will be rebuilt to the full standard ` +
+        `when the official transcript publishes.\n\n`
+      : "") +
+    d.bodyMarkdown +
+    "\n"
+  );
 }

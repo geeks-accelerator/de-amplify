@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { DISTILLATIONS, distillationRawMarkdown } from "@/lib/distillations";
 
 // /llms-full.txt: the "deep ingestion" companion to /llms.txt (llmstxt.org).
 // The full text of every rendered document, concatenated into one markdown
@@ -37,7 +38,19 @@ export function GET() {
     return `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`;
   }).join("\n");
 
-  return new Response(header + body, {
+  // the seven evidence ledgers (the distillations), same reader-facing body
+  // the /distillations pages render, each headed by its tier notes
+  const ledgers = DISTILLATIONS.map((d) => {
+    let md = "(source unavailable)";
+    try {
+      md = distillationRawMarkdown(d.slug, `${SITE_URL}/distillations/${d.slug}`).trim();
+    } catch {
+      /* leave the placeholder */
+    }
+    return `---\n\n${md}\n`;
+  }).join("\n");
+
+  return new Response(header + body + "\n" + ledgers, {
     headers: {
       "Content-Type": "text/markdown; charset=utf-8",
       Link: `<${SITE_URL}/llms-full.txt>; rel="self", <${SITE_URL}/>; rel="up", <${SITE_URL}/llms.txt>; rel="index"`,

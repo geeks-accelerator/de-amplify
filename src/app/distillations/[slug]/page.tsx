@@ -10,6 +10,9 @@ import { DISTILLATIONS, distillationMeta, loadDistillation } from "@/lib/distill
 
 const SITE = "https://de-amplify.com";
 
+// only the seven known ledgers exist; anything else 404s at the router
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return DISTILLATIONS.map((d) => ({ slug: d.slug }));
 }
@@ -129,17 +132,17 @@ export default async function DistillationPage({
             </p>
             <ul className="mt-3 space-y-2 text-[13px] leading-[1.6] text-bone/60">
               <li>
-                <span className="font-mono text-bone/85">[ESTABLISHED]</span> &mdash; stated in a
+                <span className="font-mono text-bone/85">[ESTABLISHED]</span>: stated in a
                 primary source (a court order or filing, the docket, an official release) or, for a
                 hearing, said on the official record. A fact about what was filed or said, not
                 necessarily adjudicated true.
               </li>
               <li>
-                <span className="font-mono text-bone/85">[OBSERVED]</span> &mdash; carried by
+                <span className="font-mono text-bone/85">[OBSERVED]</span>: carried by
                 secondary coverage, or by a document read into the record.
               </li>
               <li>
-                <span className="font-mono text-bone/85">[ASSUMED]</span> &mdash; the distiller&apos;s
+                <span className="font-mono text-bone/85">[ASSUMED]</span>: the distiller&apos;s
                 inference, flagged as such.
               </li>
               <li>
