@@ -25,10 +25,13 @@ export default function Header() {
             report
           </Link>
           <Link href="/lawsuits" className="py-2 transition-colors hover:text-bone/80">
-            the lawsuits
+            lawsuits
+          </Link>
+          <Link href="/hearings" className="py-2 transition-colors hover:text-bone/80">
+            hearings
           </Link>
           <Link href="/proposal" className="py-2 transition-colors hover:text-signal">
-            the paper
+            standard
           </Link>
           <Link href="/for" className="py-2 transition-colors hover:text-bone/80">
             for you
