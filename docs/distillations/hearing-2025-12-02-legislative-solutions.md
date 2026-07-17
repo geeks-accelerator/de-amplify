@@ -29,7 +29,7 @@ sources:
   - "PRIMARY (official written testimony, verbatim): the four witness testimony PDFs from the House Energy & Commerce committee repository (docs.house.gov, event 118714), accessed 2026-07-16; plain-text cached at sources/house-2025-12-02-testimony-combined.txt. Every quoted span is verified an exact substring of that cache by gitwverse scripts/hearing_quote_check.py."
   - "SECONDARY (reading aid for the live Q&A this doc does NOT quote): TechPolicy.Press cleaned transcript. https://www.techpolicy.press/transcript-house-hearing-on-legislative-solutions-to-protect-children-and-teens-online/"
   - "CROSS-REFERENCE (this folder + the lawsuit distillations' constitutional-cases track): the First Amendment cases the witnesses debate (NetChoice v. Bonta / the California AADC, Free Speech Coalition v. Paxton, TikTok v. Garland, the 11th Circuit Florida case) are the legal backdrop to whether the 'brake' can be built; and the other three hearing distillations for the harm/mechanism these bills respond to."
-tier_key: "ESTABLISHED = the statement is verbatim in the official written testimony (a fact about what the witness submitted). [advocacy-witness] = a witness's position, reported not adjudicated (here the positions conflict across witnesses, so the flag marks each as one voice in a debate, not a lean of the distillation). OBSERVED = the live Q&A or external context carried only by secondary sources. ASSUMED = distiller inference, flagged."
+tier_key: "ESTABLISHED = the statement is verbatim in the official written testimony (a fact about what the witness submitted). [advocacy-witness] = a witness's position, reported not adjudicated (here the positions conflict across witnesses, so the flag marks each as one voice in a debate, not a lean of the distillation). OBSERVED = the live Q&A or external context carried only by secondary sources. ASSUMED = distiller inference, flagged. (OBSERVED and ASSUMED are defined for transport across the hearing docs but are unused here: the live Q&A they would primarily cover is excluded, per evidentiary_status.)"
 structural_villain: "The engagement-and-data business model remains the named mechanism (even the civil-liberties witness names 'the surveillance capitalism business model' and 'engagement metrics'). But this hearing is not about naming a villain; it is a genuine four-way policy debate about the REMEDY (design mandates vs privacy law vs content regulation) and the First Amendment constraint on all of them."
 ---
 
@@ -57,6 +57,7 @@ For de-amplify, the honest takeaway is not that this hearing confirms the thesis
 ### The consensus (the problem)
 
 - [ESTABLISHED] All four testimonies treat social-media harm to minors as real and serious. Berkman framed it as a public health crisis, citing that "Up to 95% of youth ages 13-17 report using a social media platform" and about half of teens in his organization's UCLA-partnered research self-report more than five hours of daily use. [advocacy-witness] (Berkman testimony.)
+- [ESTABLISHED] Berkman's strongest mechanism receipt is about ACCESS, effectively a fourth remedy class: third-party safety software already exists and, he testified, "Third-party safety software has averted a documented 16 school shootings." But whether it can connect is a platform-by-platform choice: "While many social media platforms, like YouTube, Tumblr, X, and Reddit, do provide access, unfortunately, others used significantly by children, like Snapchat and TikTok, do not." This is the basis of Sammy's Law, and it names choice, not capability, as the barrier. [advocacy-witness] (Berkman testimony.)
 - [ESTABLISHED] Even the civil-liberties witness locates the cause in the business model: Ruane testified that restricting access or "harmful content" "does not address the larger issues underlying the reported increase in youth mental health problems or the surveillance capitalism business model driving many of the content-related concerns". [advocacy-witness] (Ruane testimony.)
 
 ### The remedy debate (where the witnesses split)
@@ -77,19 +78,21 @@ Every quote is a verified verbatim substring of the official written testimony (
 
 ### The safety and pro-regulation witnesses
 
-- "turn our bulwark for free expression into a sword to cut down laws they don't like" Joel Thayer, Digital Progress Institute [pro-regulation: the First Amendment defense is being weaponized] (written testimony)
-- "the Supreme Court categorically rejected TikTok's argument that the mere regulation of an algorithm raises First Amendment scrutiny" Joel Thayer [the pro-regulation reading of the case law] (written testimony)
+- "While many social media platforms, like YouTube, Tumblr, X, and Reddit, do provide access, unfortunately, others used significantly by children, like Snapchat and TikTok, do not." Marc Berkman, Organization for Social Media Safety [the access-refusal mechanism behind Sammy's Law: an external brake exists, and some platforms decline to let it connect] (written testimony; source lines 658-660)
+- "Third-party safety software has averted a documented 16 school shootings." Marc Berkman [advocacy-witness figure for the existing external brake's efficacy] (written testimony; source line 634)
+- "turn our bulwark for free expression into a sword to cut down laws they don't like" Joel Thayer, Digital Progress Institute [pro-regulation: the First Amendment defense is being weaponized] (written testimony; source lines 1023-1025)
+- "the Supreme Court categorically rejected TikTok's argument that the mere regulation of an algorithm raises First Amendment scrutiny" Joel Thayer [the pro-regulation reading of the case law] (written testimony; source lines 1029-1031)
 
 ### The industry witness
 
-- "we support efforts to pass laws that improve youth privacy and safety" ... "we urge members to take care to avoid unintended consequences" Paul Lekas, SIIA [industry: yes to safety law, calibrated] (written testimony)
-- "This scrutiny forces Congress toward less restrictive means, such as regulating design or privacy conduct, rather than content." Paul Lekas [the design-not-content line, from industry] (written testimony)
+- "we support efforts to pass laws that improve youth privacy and safety" ... "we urge members to take care to avoid unintended consequences" Paul Lekas, SIIA [industry: yes to safety law, calibrated] (written testimony; source line 1223)
+- "This scrutiny forces Congress toward less restrictive means, such as regulating design or privacy conduct, rather than content." Paul Lekas [the design-not-content line, from industry] (written testimony; source lines 1246-1247)
 
 ### The civil-liberties witness
 
-- "the surveillance capitalism business model driving many of the content-related concerns expressed by legislators, minors, and their caregivers" Kate Ruane, CDT [names the same mechanism the other hearings did] (written testimony)
-- "Age assurance and verification create significant privacy risks that should be mitigated in legislation if the government requires or incentivizes its use." Kate Ruane [the privacy cost of age-gating] (written testimony)
-- "Protecting children includes protecting their right to express themselves online" Kate Ruane [children have First Amendment rights of their own] (written testimony)
+- "the surveillance capitalism business model driving many of the content-related concerns expressed by legislators, minors, and their caregivers" Kate Ruane, CDT [names the same mechanism the other hearings did] (written testimony; source lines 1707-1708)
+- "Age assurance and verification create significant privacy risks that should be mitigated in legislation if the government requires or incentivizes its use." Kate Ruane [the privacy cost of age-gating] (written testimony; source lines 1687-1688)
+- "Protecting children includes protecting their right to express themselves online" Kate Ruane [children have First Amendment rights of their own] (written testimony; source line 1686)
 
 ## Tensions / open questions
 
@@ -101,7 +104,7 @@ Every quote is a verified verbatim substring of the official written testimony (
 ## Coverage note
 
 - **What this distillation is built from.** The four official written-testimony PDFs (Berkman, Thayer, Lekas, Ruane), verbatim. The live Q&A is deliberately not quoted (no official transcript; the secondary cleaned transcript is a reading aid only).
-- **This source is balanced, and the distillation's job here is not to manufacture balance but to keep it.** Unlike the Senate verdicts tier-down (one-sided by design), this hearing contains its own opposing views. The anti-wedge risk is inverted: the failure mode would be flattening a real four-way policy debate into a single pro-regulation narrative. The ledger and quote-bank deliberately give the industry and civil-liberties witnesses their strongest statements, not caricatures.
+- **This source is balanced, and the distillation's job here is not to manufacture balance but to keep it.** Unlike the Senate verdicts tier-down (one-sided by design), this hearing contains its own opposing views. The anti-wedge risk is inverted: the failure mode would be flattening a real four-way policy debate into a single pro-regulation narrative. The ledger and quote-bank deliberately give the industry and civil-liberties witnesses their strongest statements, not caricatures. A full-set review then flagged the recoil of an earlier framing fix (the safety-advocate side had been left with no quotes at all), so Berkman's strongest mechanism receipt (the third-party-access refusal behind Sammy's Law) is now carried too; all four positions appear in their strongest form.
 - **Thinner on platform mechanism than the other three, by nature.** This is a hearing about the *fix*, with advocacy/policy witnesses, not platform insiders or trial evidence. Its value is the map of the proposed brakes and the constitutional constraints, plus the cross-partisan agreement on the underlying engagement-and-data mechanism.
 - **Cross-references.** The constitutional cases the witnesses debate sit in the lawsuit distillations' §4 track; the harm/mechanism these bills respond to is documented in the other three hearing distillations. This hearing is where that set turns to what Congress should do.
 - **Known un-mined material.** The ~20 bill texts entered into the record, the witnesses' full footnoted analyses, and the eventual official transcript (with the Q&A) are not distilled here.
