@@ -1,0 +1,2641 @@
+================ WITNESS: berkman ================
+         Testimony before Subcommittee on Commerce, Manufacturing, and Trade
+
+                               Committee on Energy and Commerce
+
+                              United States House of Representatives
+
+
+
+                                                 Hearing:
+
+
+
+                                          December 2, 2025
+
+
+
+                                            Marc Berkman
+
+                                       Chief Executive Officer
+
+                               Organization for Social Media Safety
+
+
+
+Good afternoon. Chairman Bilirakis, Ranking Member Schakowsky, Chairman Guthrie,
+
+Ranking Member Pallone, and the distinguished members of the Committee, thank you for the
+
+opportunity to testify on this critical issue.
+
+
+
+My name is Marc Berkman, and I am the CEO of the Organization for Social Media Safety
+
+(OFSMS), the first national, nonprofit consumer protection organization focused exclusively on
+
+social media. Through education, advocacy, technology, and research, we seek to make social
+
+media safer for families. We conduct cutting-edge research on social media safety. We
+
+advocate on a nonpartisan basis to improve public policy regarding social media safety.
+
+We collaborate with K-12 schools nationwide to educate students, caregivers, and educators on
+
+essential social media safety skills. OFSMS works with hundreds of thousands of families and
+educators each year, giving us a uniquely comprehensive view into the emerging and ongoing
+
+threats related to social media use.
+
+
+
+OFSMS expresses its sincere appreciation to the leadership and membership of this Committee
+
+for your strong bipartisan efforts to protect families from the dangers associated with social
+
+media use.
+
+
+
+Social Media-Related Harms Are a Public Health Crisis
+
+
+
+Today, this Committee examines legislation seeking to protect America’s children from online
+
+harm. A reasoned analysis of these proposals requires a review of the threats posed to children
+
+that are caused or exacerbated by social media. While time and space constraints preclude an
+
+exhaustive analysis, even a cursory review demonstrates, with clarity, the severity and
+
+pervasiveness of social media-related injury amongst our children.
+
+
+
+Since 2007, social media use has surged across the world with the number of social media users
+
+reaching about 4.76 billion in 2024. Up to 95% of youth ages 13–17 report using a social media
+
+platform, with more than a third saying they use social media “almost constantly.”1 Nearly 40%
+
+of children ages 8–12 use social media.2 In our own research in partnership with UCLA’s School
+
+
+
+
+1
+  Vogels, E., Gelles‑Watnick, R. & Massarat, N. (2022). Teens, Social Media and Technology 2022. Pew Research Center:
+Internet, Science & Tech. United States of America.
+https://www.pewresearch.org/internet/2022/08/10/teenssocial‑media‑and‑technology‑2022/
+2
+  Rideout, V., Peebles, A., Mann, S., & Robb, M. B. (2022). Common Sense Census: Media use by tweens and teens, 2021. San
+Francisco, CA: Common Sense.
+https://www. commonsensemedia.org/sites/default/files/research/report/818-census-integrated-report-final-web_0.pdf
+of Education and Information Studies, including over 16,000 teens, we have found that about
+
+50% self-report using social media for more than 5 hours daily.3
+
+
+
+With this mass adoption of social media, numerous, serious social media-related dangers
+
+have emerged. Here is a sample of the available research showing that social media is
+
+harming millions of American children:
+
+
+
+      •    Cyberbullying: About 58% of youth have experienced cyberbullying in their lifetimes.4
+
+           Cyberbullying victims are about 2.5 times more likely to attempt suicide.5 Longer time
+
+           spent on social media increases the likelihood of encountering cyberbullying.6
+
+      •    Self-Harm: According to one study, about 43% of young adults had seen self-harm
+
+           content on Instagram. About 32.5% indicated that they had performed the same or
+
+           similar self-harming behavior consequently.7 In a 2021 internal Meta survey, more than
+
+           8% of respondents aged 13 to 15 reported having seen someone harm themselves, or
+
+           threaten to do so, on Instagram during the past week.8
+
+      •    Disordered Eating: According to one study, new TikTok accounts set up by a 13-year-
+
+           old were recommended self-harm and eating disorder content within minutes of
+
+
+3
+  Ding, Z., Hansen, M. & Ong, C. (2025, April 23-27). Adolescents’ exposure to cyberaggression
+and desensitization to cyberhate on social media [Poster session]. American Educational
+Research Association 2025 Conference, Denver, CO, United States. https://doi.org/10.3102/IP.25.2197337
+4
+  Patchin, J. W., & Hinduja, S. (2025). 2025 Cyberbullying data. Cyberbullying Research Center. https://cyberbullying.org/2025-
+cyberbullying-data
+5
+  John, A., Glendenning, A.C., Marchant, A., Montgomery, P., Stewart, A., Wood, S., Lloyd, K. and Hawton, K., (2018). Self-
+harm, suicidal behaviours, and cyberbullying in children and young people: Systematic review. Journal of medical internet
+research, 20(4), e9044.
+6
+  Ding, Z., Hansen, M. & Ong, C. (2025, April 23-27). Adolescents’ exposure to cyberaggression
+and desensitization to cyberhate on social media [Poster session]. American Educational
+Research Association 2025 Conference, Denver, CO, United States. https://doi.org/10.3102/IP.25.2197337
+7
+  Arendt, F., Scherr, S., & Romer, D. (2019). Effects of exposure to self-harm on social media: Evidence from a two-wave panel
+study among young adults. New Media & Society, 21(11-12), 2422-2442. https://doi.org/10.1177/14614448198501
+8
+  Spinks, R. (2025, November 22). Court filings allege Meta downplayed risks to children and misled the public. TIME.
+https://time.com/7336204/meta-lawsuit-files-child-safety/
+          scrolling the app’s For You feed. Eating disorder content was recommended within 8
+
+          minutes.9 An internal research document from Meta reporting that teens who expressed
+
+          body dissatisfaction were sent 3 times more body-image related / eating disorder
+
+          adjacent content.10
+
+      •   Sexting: About 20% of teens have sent or posted a nude or semi-nude photo or video of
+
+          themselves with high rates of reported pressure and coercion.11 Amongst adolescents,
+
+          the prevalences of forwarding a sext without consent and having a sext forwarded
+
+          without consent were 12.0% and 8.4%, respectively.12 (Receiving unwanted sexts or
+
+          coerced sexting is linked to mental health challenges like depressive symptoms and
+
+          suicidality, as well as lower self-esteem.) 13
+
+      •   Drug Trafficking: One in four young people see illicit drugs advertised for sale on
+
+          social media.14
+
+      •   Sextortion and Sexual Exploitation: Approximately 5% of middle and high school
+
+          students reported that they had been the victim of sextortion.15 In 2024, NCMEC
+
+          received more than 546,000 reports concerning online enticement, a 192% increase
+
+          compared to reports in 2023. NCMEC received nearly 100 reports of financial sextortion
+
+
+
+9
+  Center for Countering Digital Hate. (2022). Deadly by design.Cente for Countering Digital Hate Inc.
+https://counterhate.com/wp-content/uploads/2022/12/CCDH-Deadly-by-Design_120922.pdf
+10
+   Reuters. (2021). Viewing content on IG: Internal research document (Redacted). Reuters Investigates.
+https://www reuters.com/investigates/special-report/assets/usa-tech-meta-teens/Viewing-Content-on-IG Redacted.pdf
+11
+   S., P. J. (n.d.). The nature and extent of sexting among a national sample of Middle and high school students in the U.S.
+Archives of sexual behavior. https://pubmed ncbi nlm nih.gov/31309428/
+12
+   Madigan S, Ly A, Rash CL, Van Ouytsel J, Temple JR. Prevalence of Multiple Forms of Sexting Behavior Among Youth: A
+Systematic Review and Meta-analysis. JAMA Pediatr. 2018 Apr 1;172(4):327-335. doi: 10.1001/jamapediatrics.2017.5314.
+PMID: 29482215; PMCID: PMC5875316.
+13
+   Wachs, S., Wright, M. F., Gámez-Guadix, M., & Döring, N. (2021). How are consensual, non-consensual, and pressured
+sexting linked to depression and self-harm? The moderating effects of demographic variables. International journal of
+environmental research and public health, 18(5), 2597.
+14
+   McCulloch, L., & Furlong, S. (2019). DM for details: Selling drugs in the age of social media. Volteface.
+https://volteface me/dm-details-selling-drugs-age-social-media/
+15
+   Patchin, J. W., & Hinduja, S. (2020). Sextortion among adolescents: Results from a national survey of US youth. Sexual
+Abuse, 32(1), 30-54. https://doi.org/10.1177/1079063218800469
+          each day in 2024. Since 2021, NCMEC has identified 36 boys who have died by suicide
+
+          because of being victimized by this financial sextortion. Further, NCMEC shared a
+
+          200% increase in reports involving sadistic online exploitation by violent online groups
+
+          that encourage youth to cause harm to themselves and others; these groups manipulate
+
+          children into behaviors such as self-harm; creating CSAM and sexually exploiting other
+
+          children (including siblings); harming animals; committing murder; and suicide. 16
+
+          About 25% of nine-to-twelve year olds have experienced an online sexual interaction
+
+          with someone that they believe to be an adult; applications where the most minors
+
+          reported having had an online sexual experience were Facebook (14%), Instagram
+
+          (13%), Messenger (13%), Snapchat (12%), and TikTok (11%).17
+
+      •   Human Trafficking: Many child trafficking and sex crimes now originate from social
+
+          media sites where predators gain knowledge of their victims’ likes and habits.18
+
+
+These findings, among many others, indicate acute, verifiable harm related to adolescent social
+
+media use. The extent of social media-related harm is not mere theory; it is proven and ongoing,
+
+and it is distinct from similar threats that impact children in the non-digital world.
+
+
+
+Reviewing just a few of the millions of cases of harm, while horrifying, is necessary to
+
+understand the scope of the human toll. Here are some of the recent tragedies:
+
+
+
+
+16
+   National Center for Missing & Exploited Children. (2025). CyberTipline report 2025.
+https://www missingkids.org/gethelpnow/cybertipline/cybertiplinedata
+17
+   Thorn. (2024). Youth experiences with online image-based abuse and digital risks: 2024 youth monitoring report.
+https://info.thorn.org/hubfs/Research/Thorn 24 YouthMonitoring Report.pdf
+18
+   United Nations Office on Drugs and Crime. (2020). Global Report on Trafficking in Persons 2020. United Nations publication,
+Sales No. E.20.IV.3. https://www.unodc.org/documents/data-and-analysis/tip/2021/GLOTiP_2020_Chapter5.pdf
+     •    After suffering severe cyberbullying over social media, Nate Bronstein, forever 15, died
+
+          by suicide.19
+
+     •    Sammy Chapman, forever 16, died after ingesting Fentanyl- poisoned drugs that he easily
+
+          acquired from a drug dealer operating on social media.20
+
+     •    Mason Bogard, forever 15, died after imitating a dangerous challenge he saw on social
+
+          media.21
+
+     •    Gavin Guffey, forever 17, died by suicide after being sextorted over social media.22
+
+     •    Becca Schmill, forever 15, was raped by a man she met on social media. Cyberbullying
+
+          followed. To cope, Becca started self-medicating with drugs purchased over social media
+
+          which tragically were Fentanyl poisoned.23
+
+     •    In April of this year, a 10-year-old girl was abducted by a 27-year-old-man she met on
+
+          social media.24
+
+
+
+In addition, to the quantitative and qualitative evidence of acute social media-related harms,
+
+many studies suggest a strong link between social media use and negative mental health
+
+outcomes, especially among adolescents. The former Surgeon General issued a public health on
+
+social media and youth mental health on May 23, 2023.25 The advisory, in our opinion,
+
+
+
+19
+   About Nate Bronstein. Buckets Over Bullying. (2023, June 23). https://bucketsoverbullying.org/nates-story/
+20
+   TodayShow. (2021, March 21). Dad of teen who overdosed with drugs from Snapchat recalls moment he discovered son.
+TODAY.com. https://www.today.com/health/dr-laura-berman-s-husband-recalls-finding-teenage-son-after-t212415
+21
+   Bogard, J. (2024, August 4). After her 15-year-old son died trying a viral choking challenge, this mom is fighting for a safer
+internet. People. https://people.com/mom-wants-safer-internet-after-son-died-in-a-viral-choking-challenge-8689773
+22
+   U.S. Attorney’s Office for the District of South Carolina. (2025, January 27). Nigerian man extradited to the U.S. after being
+indicted for sextortion scheme that caused death of S.C. teen. U.S. Department of Justice. https://www.justice.gov/usao-
+sc/pr/nigerian-man-extradited-us-after-being-indicted-sextortion-scheme-caused-death-sc-teen
+23
+   Becca Schmill Foundation. (n.d.). https://beccaschmillfdn.org/
+24
+   Rose, A. (2025, April 17). 10-year-old girl kidnapped by man she met on Roblox, police say. CNN.
+https://www.cnn.com/2025/04/17/us/california-kidnapping-roblox-girl-hnk
+25
+   Office of the Surgeon General (OSG). (2023). Social Media and Youth Mental Health: The U.S. Surgeon General's Advisory.
+U.S. Department of Health and Human Services. https://www.ncbi nlm.nih.gov/books/NBK594759/]
+accurately provides a compelling overview of the available research, including the following
+
+highlights:
+
+
+
+     •   A longitudinal cohort study of U.S. adolescents aged 12–15 that adjusted for baseline
+
+         mental health status found that adolescents who spent more than 3 hours per day on
+
+         social media faced double the risk of experiencing poor mental health outcomes including
+
+         symptoms of depression and anxiety.26
+
+     •   A study conducted among 14-year-olds found that greater social media use predicted
+
+         poor sleep, online harassment, poor body image, low self-esteem, and higher depressive
+
+         symptom scores with a larger association for girls than boys.27
+
+     •   A synthesis of 20 studies demonstrated a significant relationship between social media
+
+         use and body image concerns and eating disorders, with social comparison as a potential
+
+         contributing factor.28
+
+     •   A longitudinal prospective study of adolescents without ADHD symptoms at the
+
+         beginning of the study found that, over a 2-year follow-up, high-frequency use of digital
+
+         media, with social media as one of the most common activities, was associated with a
+
+         modest yet statistically significant increased odds of developing ADHD symptoms.29
+
+
+
+
+26
+   Riehm, K. E., Feder, K. A., Tormohlen, K. N., Crum, R. M., Young, A. S., Green, K. M., Pacek, L. R., La Flair, L. N., &
+Mojtabai, R. (2019). Associations between time spent using social media and internalizing and externalizing problems among US
+youth. JAMA psychiatry, 76(12), 1266–1273. https://doi.org/10.1001/ jamapsychiatry.2019.2325
+27
+   Kelly, Y., Zilanawala, A., Booker, C., & Sacker, A. (2019). Social media use and adolescent mental health: Findings from the
+UK Millennium Cohort Study. EClinicalMedicine, 6, 59–68. https://doi.org/10.1016/j.eclinm.2018.12.005
+28
+   Holland, G., & Tiggemann, M. (2016). A systematic review of the impact of the use of social networking sites on body image
+and disordered eating outcomes. Body image, 17, 100–110. https:// doi.org/10.1016/j.bodyim.2016.02.008
+29
+   Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., Tung, I., Lee, S. S., & Leventhal, A. M.
+(2018). Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among
+adolescents. JAMA, 320(3), 255–263. https://doi.org/10.1001/jama.2018.8931
+More recent research continues to validate the proposition that social media is causing strong
+
+adverse mental health outcomes amongst adolescents:
+
+
+
+     •   Longitudinal research shows that both low and high increases in social media use during
+
+         early adolescents were significantly associated with lower (worse) cognitive functioning,
+
+         including memory and reading.30
+
+     •   A 2024 meta-analysis found that social media use was a significant risk factor for self-
+
+         harm and suicidal ideation.31
+
+     •   In our research, in partnership with UCLA’s School of Education, we have found a
+
+         significant, negative correlation between average daily hours spent on social media and
+
+         ratings of life satisfaction amongst 5th through 12th grade students.32
+
+
+
+The Social Media Industry Concedes the Significant Harms Caused by Their Platforms
+
+
+
+Even social media executives themselves have readily acknowledged the vast safety concerns
+
+here in Congress:
+
+
+
+
+30
+   Nagata, J.M., Wong, J.H., Kim, K.E., Richardson, R.A., Nayak, S., Potes, C., Rauschecker, A.M., Scheffler, A., Sugrue, L.P.,
+Baker, F.C. and Testa, A. (2025). Social media uses trajectories and cognitive performance in adolescents. JAMA. doi:
+10.1001/jama.2025.16613
+31
+   Chen, Z., Liao, X., Yang, J., Tian, Y., Peng, K., Liu, X., & Li, Y. (2024). Association of screen-based activities and risk of
+self-harm and suicidal behaviors among young people: A systematic review and meta-analysis of longitudinal studies. Psychiatry
+research, 338, 115991. doi: 10.1016/j.psychres.2024.115991
+32
+   Ding, Z., Hansen, M. & Ong, C. (2025, April 23-27). Adolescents’ exposure to cyberaggression
+and desensitization to cyberhate on social media [Poster session]. American Educational
+Research Association 2025 Conference, Denver, CO, United States. https://doi.org/10.3102/IP.25.2197337
+     •   Mark Zuckerberg of Meta, conceded among other lapses that Meta, then Facebook,
+
+         “didn’t do enough to prevent these tools from being used for harm.”33
+
+     •   Shou Zi Chew of TikTok, stated that the “security, privacy, and content manipulation
+
+         concerns raised about TikTok are really not unique to us. The same issues apply to the
+
+         other companies.”34
+
+     •   And under questioning from Senator Durbin about ongoing issues with grooming, child
+
+         sexual abuse material, and sextortion, Discord CEO Jason Citron said, “This is an
+
+         ongoing challenge for all of us.”35
+
+
+
+Given the evidence, including statements by the social media platforms’ own leadership, no
+
+ambiguity should remain concerning the extent of the harms caused or exacerbated by social
+
+media use.
+
+
+
+Compelling Evidence of a Durable Conflict of Interest Between Profits and Safety
+
+
+
+The social media industry’s ethical responsibility to protect children from these harms is
+
+unmistakable. Yet, thanks to courageous whistleblowers and the diligent work of state attorneys
+
+general across the country, we now have overwhelming evidence that the industry has repeatedly
+
+chosen to prioritize profits over children’s safety.
+
+
+
+
+33
+   Zuckerberg, M. (2018, April 11). Testimony of Mark Zuckerberg, Chairman and Chief Executive Officer, Facebook. Hearing
+before the United States House of Representatives Committee on Energy and Commerce.
+34
+   Chew, S. (2023, March 23). Testimony of Shou Chew, Chief Executive Officer, TikTok Inc. Testimony before the U.S. House
+Committee on Energy and Commerce.
+35
+   Citron, J. (2024, January 31). Testimony before the United States Senate Committee on the Judiciary: Big Tech and the Online
+Child Sexual Exploitation Crisis. U.S. Senate Committee on the Judiciary.
+Again, even just a few of the highlights from the whistleblowers and various court filings makes
+
+a most compelling argument for a prevailing culture of willful disregard for the health and well-
+
+being of teen and child users:
+
+
+
+     •   New Mexico’s unredacted complaint against Snap Inc. asserts that “Snap also
+
+         complained internally that identifying and protecting minors from sexually explicit
+
+         content and predatory users would overburden its moderators, “create disproportionate
+
+         admin costs,” and should not be its responsibility. Snap employees pointed to a “case
+
+         where an account had 75 different reports against it since Oct. ’21, mentioning nudes,
+
+         minors, and extortion, yet the account was still active.”36
+
+     •   In North Carolina’s case against TikTok, video evidence as released with a TikTok
+
+         executive making the statement: "We obviously wanted people to spend as much time as
+
+         possible on TikTok, which can be in contrast to what is best for your mental health.”37
+
+     •   Utah’s case against TikTok alleges that: TikTok coupled its livestream feature with
+
+         monetization to create an environment built on exchanging TikTok’s virtual currency for
+
+         sexual and illegal acts. TikTok’s internal “Project Meramec” investigation and the
+
+         admissions of its employees document how TikTok LIVE allows adults to pay young
+
+         users to strip, pose, and dance provocatively for “diamonds,” which can be cashed out for
+
+         real money.38
+
+
+36
+   State of New Mexico, Office of the Attorney General. (2024). Amended complaint, State of New Mexico v. Snap, Inc. (First
+Judicial District Court, County of Santa Fe, Sept. 30, 2024). https://www nationalreview.com/wp-content/uploads/2024/10/2024-
+09-30-SNAP-NM-Amended-Complaint Redacted.pdf
+37
+   Cunningham, M. (2025, August 21). TikTok employees raised concerns that app could be addictive, unsealed edited video
+shows. CBS News. https://www.cbsnews.com/news/tiktok-employees-apps-mental-health-court-video-north-carolina-lawsuit/
+38
+   Utah Department of Commerce, Division of Consumer Protection. (2025, January 3). News release: Utah
+Division of Consumer Protections announces release of previously redacted information in TikTok Inc. complaint
+filing. https://blog.commerce.utah.gov/2025/01/03/news-release-utah-division-of-consumer-protections-announces-
+release-of-previously-redacted-information-in-tiktok-inc-complaint-filing/
+    •    Frances Haugen, in her testimony before the Senate Commerce Committee said, “I saw
+
+         that Facebook repeatedly encountered conflicts between its own profits and our safety.
+
+         Facebook consistently resolved those conflicts in favor of its own profits.”39
+
+    •    Sarah Wynn-Williams, said in her testimony before the Senate Commerce Committee,
+
+         “During my time at Facebook, now Meta, Executive Officers, including the CEO and
+
+         COO, frequently minimized, dismissed, or even outright denied the many harms that
+
+         resulted from their platforms. As far as I could tell, they did this to justify their continued
+
+         focus on growth, even when it seemed obvious to me and my peers on the Policy and
+
+         Communications team that the company’s growth strategies would worsen the harm
+
+         caused by Meta’s products.”40
+
+    •    Brian Boland, Meta’s former vice president of partnerships who worked at the company
+
+         for 11 years and resigned in 2020. “My feeling then and my feeling now is that they don’t
+
+         meaningfully care about user safety,” he allegedly said. “It’s not something that they
+
+         spend a lot of time on. It’s not something they think about. And I really think they don’t
+
+         care.”41
+
+    •    Instagram’s former head of safety and well-being Vaishnavi Jayakumar testified that
+
+         when she joined Meta in 2020 she was shocked to learn that the company had a “17x”
+
+
+
+
+39
+   Haugen, F. (2021, October 4). Statement of Frances Haugen [Written testimony before the U.S. Senate Committee on
+Commerce, Science, and Transportation, Subcommittee on Consumer Protection, Product Safety, and Data Security]. U.S. Senate
+Committee on Commerce, Science, and Transportation. https://www.commerce.senate.gov/services/files/FC8A558E-824E-4914-
+BEDB-3A7B1190BD49
+40
+   Wynn-Williams, S. (2025, April 9). Responses to questions for the record [Written responses submitted to the U.S. Senate
+Committee on the Judiciary]. U.S. Senate Committee on the Judiciary. https://www.judiciary.senate.gov/imo/media/doc/2025-04-
+09 qfr responses wynn-williams.pdf
+41
+   Spinks, R. (2025, November 22). Court filings allege Meta downplayed risks to children and misled the public. TIME.
+https://time.com/7336204/meta-lawsuit-files-child-safety/
+         strike policy for accounts that reportedly engaged in the “trafficking of humans for
+
+         sex.”42
+
+
+
+Urgently Needed Federal Response
+
+
+
+The clear record of both pervasive, severe harm suffered pursuant to adolescent social media use
+
+and the demonstrated conflict of interest between profit and safety inherent in today’s social
+
+media industry justifies a significant federal public policy response. Every day without social
+
+media safety reform means more harmed children. That is why we are grateful that the
+
+Committee recognizes on a bipartisan basis that a broad approach with multiple tactics is needed:
+
+resources for education, accountability and rules for platforms, research, privacy reforms, and
+
+safety technology. America’s families have waited years for effective social media safety
+
+reform; we need to get effective legislation passed and signed into law this Congress.
+
+
+
+Sammy’s Law (HR 2657)
+
+
+
+The Organization for Social Media Safety has been closely involved in the development of
+
+Sammy’s Law, as we believe it to enable a proven effective, durable solution in protecting
+
+adolescents from harms related to social media use. I thank the Committee for considering this
+
+bipartisan legislation and would like to detail why we support it.
+
+
+
+
+42
+   Spinks, R. (2025, November 22). Court filings allege Meta downplayed risks to children and misled the public. TIME.
+https://time.com/7336204/meta-lawsuit-files-child-safety/
+Third Party Safety Software. Third-party safety software is an external tool, independent of the
+
+social media platforms themselves, that empowers parents to protect their children by, among
+
+other features, providing alerts when dangerous content is shared through a child’s social media
+
+account. These alerts enable caregivers to intervene with life-saving support at the most critical
+
+moments. For example, if a child is targeted for severe cyberbullying through a social media post
+
+or message, safety software can detect that content and alert the parent, who can then
+
+immediately seek mental health assistance.
+
+
+
+Because millions of families already employ third-party safety software for the social media
+
+platforms and operating systems that permit access, its effectiveness in protecting children is
+
+both well-documented and significant. Over the last several years, leading safety software
+
+companies have delivered hundreds of millions of alerts to parents, helping protect millions of
+
+children from serious harm, including sexual predation, suicides, severe cyberbullying, and
+
+trafficking.43 Third-party safety software has averted a documented 16 school shootings.44
+
+
+
+Sammy’s Law will provide families full access to safety software. For third-party safety
+
+software to function, social media platforms must grant the safety software provider access to a
+
+child’s social media account, via an Application Programming Interface (API), when authorized
+
+by a parent or guardian. An API is a set of technical instructions that, in this case, allows a
+
+parent-authorized safety software provider to securely access specific data from a child’s social
+
+media account.
+
+
+
+43
+   Bark Technologies. (2024). Bark's 2024 Annual Report on Children and Technology. Bark. https://www.bark.us/annual-report-
+2024/?srsltid=AfmBOor-hzZQmrVMuIAoecP35eP4pY1_5CZZE_dmOBoxDq2MglMiSKCs
+44
+   Baig, E. (2019, February 19). Can artificial intelligence prevent the next Parkland shooting? USA Today (Online).
+https://www.usatoday.com/story/tech/2019/02/13/preventing-next-parkland-artificial-intelligence-may-help/2801369002/
+While many social media platforms, like YouTube, Tumblr, X, and Reddit, do provide access,
+
+unfortunately, others used significantly by children, like Snapchat and TikTok, do not. This
+
+hesitation likely stems from business concerns that child users would avoid social media
+
+platforms that support safety software in favor of other less secure platforms. To protect
+
+children, parents and guardians must be empowered to choose whether third-party safety
+
+software is the best option for their children.
+
+
+
+Third-party safety software fills critical safety gaps left by the parental safety tools already
+
+available directly on social media platforms. In-platform tools simply do not show efficacy in
+
+protecting children from the severe and pervasive range of social media-related harms.
+
+
+
+       •   Rudimentary Options: While most major platforms offer some form of parental
+
+           controls, these tools are often limited to basic time restrictions or crude content filters
+
+           and frequently overlook the very places where children face the greatest dangers, like
+
+           private messaging, group chats, and disappearing content. This leaves children
+
+           vulnerable to a range of harms including human and drug trafficking, severe
+
+           cyberbullying, and sexual predation.
+
+
+
+       •   Do Not Adapt to Evolving Threats: Moreover, the platforms have little incentive to
+
+           evolve their controls to keep pace with the ever-changing nature of social media-
+
+           related threats. For example, in recent years, drug traffickers have used emoji-coded
+
+           language to sell narcotics to teens. Third-party safety software companies responded
+              quickly updating algorithms to detect this new threat and alert parents in real time.
+
+              Meanwhile, platforms like Snapchat took years to publicly acknowledge the problem,
+
+              let alone act. And when they did, they said in an October 26, 2021, Senate Commerce
+
+              Committee hearing, “We have employed proactive detection measures to get ahead of
+
+              what the drug dealers are doing. They are constantly evading our tactics, not just on
+
+              Snapchat but on every platform.” (emphasis added)45
+
+
+
+         •    Children Can Bypass: Most built-in tools can be turned off or bypassed by the child,
+
+              undermining their effectiveness entirely.
+
+
+
+         •    Work Only on the Individual Platform: The tools on each social media platform
+
+              only work on that particular platform. Unfortunately, many severe social media-
+
+              related threats today are cross-platform. For example, illicit drugs can be marketed on
+
+              a platform like Instagram and then the transaction conducted on a platform like
+
+              Snapchat. Or a child can encounter a predator on a platform like Roblox and then
+
+              continue interacting with the predator more extensively on a platform like Discord.
+
+              Siloed safety tools are substantially less effective at protecting children.
+
+
+
+The evidence for the ineffectiveness of in-platform tools is clear in that parents do not utilize
+
+them despite an overwhelming parental desire for more effective safety options. According to
+
+Snapchat founder and CEO Evan Spiegel, there are 20 million teen users of Snapchat, but only
+
+
+
+
+45
+  U.S. Senate Committee on Commerce, Science, and Transportation. (2021, October). Protecting Kids Online: Snapchat,
+TikTok, and YouTube. https://www.commerce.senate.gov/2021/10/protecting-kids-online-snapchat-tiktok-and-youtube
+200,000 parents have activated the platform’s Family Center.46 That’s just 1% of families
+
+making use of Snapchat’s safety features, underscoring how poorly suited and poorly adopted
+
+these measures are.
+
+
+
+By contrast, third-party safety software providers are entirely mission-driven and accountable to
+
+parents, not advertisers. Their tools are designed to work across platforms, adapt rapidly to
+
+emerging harms, and empower parents to act before severe harm occurs. Most importantly, the
+
+protection provided is comprehensive, protecting a child from a full range of social media-related
+
+harms throughout the features, spaces, and nooks of the social media platform.
+
+
+
+Sammy’s Law would not only improve protection for children, it also would meaningfully
+
+increase children’s privacy. Today, parents are becoming increasingly aware of the significant
+
+risk that social media poses to their children and seek to follow the recommendations of trusted
+
+professional experts, like the American Psychological Association, and provide responsible
+
+supervision of children’s social media use.47 Without comprehensive third-party safety software
+
+access, many parents must resort to manually reviewing children’s devices, duplicating accounts,
+
+or relying on expansive surveillance tools. According to a November 2022 nationally
+
+representative Morning Consult survey ,79% of parents conduct manual reviews of their
+
+children’s devices and social media accounts.48 Unfortunately, not only are these methods far
+
+
+
+
+46
+   Malik, A. (2024, January 31). Snap CEO says 20 million US teens use Snapchat, but only 200,000 parents use its Family
+Center controls. TechCrunch.
+https://techcrunch.com/2024/01/31/snap-ceo-says-20-million-u-s-teens-use-snapchat-but-only-200000-parents-use-its-family-
+center-controls/
+47
+   American Psychological Association. (2023, May). Health advisory on social media use in adolescence.
+https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use
+48
+   Morning Consult. (2022, November). Nationally representative survey of U.S. parents on social media safety [Unpublished
+survey].
+less effective than safety software at protecting children, but they are also incredibly invasive
+
+revealing private conversations and content not connected to any harm or risk. found that 84% of
+
+parents agree current methods are more intrusive than safety software and less effective.49 By
+
+empowering parents with access to third-party safety software on the platforms their children use
+
+most, Sammy’s Law offers a better solution: more targeted, less invasive, and proven to work.
+
+
+
+Furthermore, Sammy’s Law also strictly limits what safety software may share with parents.
+
+Under the bill, data may only be disclosed if it relates to a current or imminent risk of harm,
+
+including only listed harms, including suicide, cyberbullying, violence, sexual predation, and
+
+eating disorders. This protection, among other stringent safeguards in the bill, ensure children’s
+
+privacy is strengthened while enabling parents to act against real threats.
+
+
+
+The Committee Should Pass Sammy’s Law Without Delay. Sammy’s Law is uniquely
+
+positioned for near-term implementation: it protects children immediately, complements other
+
+proposals under consideration, and avoids many of the constitutional challenges that have
+
+delayed broader state-level reforms. Third-party safety software is an existing, proven solution to
+
+increase safety for young adult social media users; expanding its reach to all major social media
+
+platforms will provide immediate and substantial protection for millions of children, undoubtedly
+
+saving many lives. The status quo is simply unacceptable; parents and guardians need these tools
+
+immediately.
+
+
+
+Conclusion
+
+
+49
+  Morning Consult. (2022, November). Nationally representative survey of U.S. parents on social media safety [Unpublished
+survey].
+The Organization for Social Media Safety again thanks the Committee for holding this hearing
+
+and signaling its intent to pass critical social media safety legislation. We remain available to
+
+provide our insights and assistance in this generationally urgent effort to pass legislation that will
+
+protect America’s children.
+
+
+
+I look forward to answering your questions today.
+
+================ WITNESS: thayer ================
+                                        Testimony of
+                                         Joel Thayer
+                                           President
+                                 The Digital Progress Institute
+
+                                            Before the
+
+                  Subcommittee on Commerce, Manufacturing, and Trade
+                          Energy and Commerce Committee
+                        United States House of Representatives
+
+                                          Hearing titled
+
+                “Legislative Solutions to Protect Children and Teens Online”
+
+                                        December 2, 2025
+
+
+
+       Chairman Bilirakis, Ranking Member Schakowsky, Chairman Guthrie, Ranking Member
+
+Pallone, and members of this esteemed committee, thank you for holding this incredibly
+
+important hearing to advance legislative solutions that ensures the health and safety of kids
+
+online. I am Joel Thayer. I am a practicing attorney and sit as President of the Digital Progress
+
+Institute—a think tank dedicated to finding bipartisan solutions in the tech and telecom policy
+
+spaces. Finding political consensus on incremental solutions to today’s acute concerns in tech
+
+policy is at the core of our advocacy. Indeed, some of the bills before you today are based off
+
+frameworks we helped develop.
+
+       This hearing coupled with its bevy of bills makes a few things abundantly clear. First, we
+
+care about our children and their well-being on and off their devices. Second, we are no longer
+
+satisfied with the status quo. In so many ways, today’s youth are robbed of their innocence far
+
+more easily than ever before. This is thanks to the ubiquity of mobile devices and the services
+
+
+                                                 1
+they host. Large tech platforms are inundating kids with lude and lascivious exhibitions and
+
+even connecting them to child predators. This is well documented. Senator Marsha Blackburn
+
+even went as far as describing Instagram as the “premier sex trafficking site in this country.” 1
+
+           Despite what the tech companies trumpet in their press releases, parents are left with
+
+almost no resources to combat their encroachments. Worse, tech companies are, indeed,
+
+perpetuating the problem.
+
+           Herein lies the rub.
+
+           Quite frankly, Big Tech’s form of child exploitation pays well. As we all know, our
+
+children are not only Big Tech’s users but are also their product. Meta specifically targets young
+
+users and even places a monetary value of $270 on each child’s life. 2 But the issue is worse still;
+
+children are not only feeding Big Tech’s algorithms to sell to advertisers but are also used to
+
+inform their respective AI programs. Programs, like chatbots, have already resulted in some
+
+child deaths by encouraging kids to commit suicide. 3 At DPI, we are all for winning the AI war,
+
+but we do not believe children should serve as its casualties.
+
+           It is why the measures you are considering today are so essential to both ensuring that we
+
+remain dominant in the AI race and we protect our most vulnerable populations—children and
+
+teens.
+
+
+
+
+1
+ NBC News, ‘That’s Ridiculous’: Zuckerberg Pushes Back on Meta Sex Trafficking Accusation, Website (Jan 31,
+2024), https://www.nbcnews.com/video/-that-s-ridiculous-zuckerberg-pushes-back-on-meta-sex-trafficking-
+accusation-203337797724.
+2
+    Heritage Foundation, X @Heritage (Jan 31, 2024), https://x.com/Heritage/status/1752767189663240548.
+3
+ Angela Yang, Laura Jarrett, & Fallon Gallagher, The Family of Teenager Who Died By Suicide Alleges OpenAI’s
+ChatGPT is to Blame, NBC News (Aug. 26, 2025), https://www nbcnews.com/tech/tech-news/family-teenager-died-
+suicide-alleges-openais-chatgpt-blame-rcna226147.
+
+
+                                                        2
+          However, we cannot ignore the long road ahead to get these passed. Big Tech’s lobby is
+
+not only fierce but also unrelenting. They mire the validities of these solutions by instilling fears
+
+of consumers forfeiting privacy and the stifling of speech. But this is all a farse.
+
+          As to privacy, I say consider the source. Indeed, courts, regulators, and consumers have
+
+found every one of these companies to have violated their users’ personal privacy. Take Apple,
+
+for instance, that proclaims your privacy is “a fundamental human right.” 4 Discovery from a
+
+class-action lawsuit reveals that, since October 2011, Apple had “routinely recorded their private
+
+conversations after consumers activated its Siri unintentionally, and disclosed these
+
+conversations to third parties such as advertisers.” 5 Some of these disclosures included private
+
+conversations with their doctors. 6 So much for privacy being a “human right.”
+
+          Google is even worse. In fact, one of Google’s privacy violations was so egregious that
+
+the Federal Trade Commission (FTC) created a first-of-its-kind settlement, requiring Google “to
+
+implement a comprehensive privacy program” that it unbelievably didn’t already have. 7
+
+          Social media companies do not fare much better. An FTC report found that social media
+
+companies, like Snap, Meta, and TikTok, have “engaged in vast surveillance of users with lax
+
+privacy controls and inadequate safeguards for kids and teens.” 8
+
+
+
+
+4
+ Apple, Privacy, Website (last visited Dec. 2, 2025),
+https://www.apple.com/privacy/#:~:text=Privacy%20is%20a%20fundamental%20human,and%20services%20to%2
+0protect%20it.
+5
+ Jonathan Stempel, Apple Must Face Siri Voice Assistant Privacy Lawsuit -U.S. Judge, Reuters (Sep. 2, 2021),
+https://www reuters.com/technology/apple-must-face-siri-voice-assistant-privacy-lawsuit-us-judge-2021-09-02/.
+6
+    Id.
+7
+ Rachel Courtland, Google Agrees to 20 Years of Privacy Audits, IEEE Spectrum (Mar. 20, 2011),
+https://spectrum.ieee.org/google-agrees-to-20-years-of-privacy-
+audits#:~:text=The%20FTC%20says%20this%20is,privacy%20of%20consumers'%20information%22..
+8
+  F.T.C., A Look Behind the Screens: Examining the Data Practices of Social Media and Video Streaming Services,
+Staff Report (2024), https://www ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-
+streaming-services.
+
+
+
+                                                        3
+            Point being, these companies are hardly an authority on proper privacy hygienics.
+
+            As to free speech, I stand on the shoulders of Third Circuit Judge Paul Matey who
+
+poignantly stated that Big Tech “[s]muggles constitutional conceptions of a ‘free trade in ideas’
+
+into a digital cauldron of illicit loves’ that leap and boil with no oversight, no accountability, no
+
+remedy.” 9 And it’s true. Big Tech has leveraged the (admittedly) messy First Amendment
+
+jurisprudence to turn our bulwark for free expression into a sword to cut down laws they don’t
+
+like.
+
+            But there’s good news. The Supreme Court is creating a clearer pathway for these
+
+measures. To start, in TikTok v. Garland, the Supreme Court categorically rejected TikTok’s
+
+argument that the mere regulation of an algorithm raises First Amendment scrutiny. 10 Even
+
+better, the Court clarified that a law regulating a tech platform doesn’t invite First Amendment
+
+review if the law’s primary justification is not content based, even if its ancillary justifications
+
+are. 11
+
+            In sum, it’s clear from my review, that the bills before us today, particularly the App Store
+
+Accountability Act, the SCREEN Act, and the Kids Online Safety Act, have taken these
+
+considerations into account and are poised to resolve many of the challenges parents are facing
+
+in today’s digital age with respect to child safety.
+
+            I appreciate the committee for inviting me to testify and look forward to your questions.
+
+
+
+
+9
+    Anderson v. TikTok, 116 F.4th 180, 185 (3rd Cir. 2024) (Matey, J. concurring).
+10
+     145 S.Ct. 57 (2024).
+11
+     Id. at 72.
+
+
+
+                                                            4
+
+================ WITNESS: lekas ================
+      Testimony before the Subcommittee on Commerce, Manufacturing, and Trade of the
+             Committee on Energy and Commerce, U.S. House of Representatives
+
+                    “Legislative Solutions to Protect Children and Teens Online”
+
+                                             December 2, 2025
+
+                                           Paul Lekas
+              Executive Vice President, Global Public Policy & Government Affairs
+                         Software & Information Industry Association
+
+
+  I. Introduction
+
+  Thank you, Chairman Bilirakis, Ranking Member Schakowsky, and members of the
+  Subcommittee, for the opportunity to appear before you today. My name is Paul Lekas, and I
+  serve as Executive Vice President of Global Public Policy and Government Affairs for the
+  Software & Information Industry Association (SIIA). SIIA shares the goals of this Subcommittee
+  in making the internet a safer place for all. It is a privilege to join with you to urge Congress to
+  pass bipartisan legislation to protect the privacy and safety of children and teens online.
+
+  SIIA represents nearly 400 organizations at the forefront of innovation in the United States
+  around the world. For over forty years, we have advocated for the health of the information
+  lifecycle, advancing favorable conditions for its creation, dissemination, and productive use. Our
+  members range from start-up firms to some of the largest and most recognizable corporations in
+  the world. They include the nation’s leading publishers and innovative developers of digital
+  products and services for K-20 education, global leaders in AI models and applications and in
+  cloud computing, companies specializing in data analytics and information services, academic
+  and scientific publishers, creators of legal research and financial databases, and the global
+  financial information and market data community.
+
+  Whether in the workplace or the classroom, our members are dedicated to responsible data use.
+  SIIA has made it a priority to work with industry to raise the bar on responsible practices. In
+  addition to our Child and Teen Privacy and Safety Principles, discussed below, in the past two
+  years we have collaborated with industry and policymakers to launch the Principles for the
+  Future of AI in Education 1 and the Data Stewardship Best Practices for Data and Analytics
+
+
+
+
+  1
+   SIIA, Principles for the Future of AI in Education (2023), available at https://edtechprinciples.com/wp-
+  content/uploads/2023/11/Education-Technology-Industrys-Principles-for-the-Future-of-AI-in-Education-
+  3.pdf; see also https://edtechprinciples.com/.
+
+
+
+
+SIIA.NET
+Companies. 2 These initiatives reflect industry’s interest in promoting practices that advance the
+interests of those who rely on their services – students and educators, the financial markets and
+consumers – while taking care to protect individuals’ privacy and data security and mitigate the
+risk of data and software misuse.
+
+The pace of technological change surrounding the internet, and in particular the way that our kids
+and teens interact with that technology, has created new risks. The same technology that enables
+close contact with friends, for example, can exacerbate bullying. Thanks to the pressure from
+employees, families, children, advocates, and policymakers, companies are working to build
+guardrails and features into their products to address those risks and build a more robust and safe
+space for youth online. 3
+
+II. The Industry’s Commitment: The SIIA Child and Teen Privacy and Safety Principles
+
+In 2024, SIIA released our Child and Teen Privacy and Safety Principles calling on federal
+policymakers to pass legislation to keep kids safe and connected while holding technology
+companies accountable for doing just that. 4 Many of the themes in the principles are reflected in
+provisions of the bills under consideration today. Our principles seek to advance youth online
+privacy and safety through legislation that requires companies and other stakeholders to do the
+following:
+
+Minimize collection and use of youth data. Companies must minimize the collection of personal
+data from children and teens and restrict the ways that data is used. Data minimization is widely
+recognized and required by many state privacy laws for processing data of children and teens. It
+is especially important for those populations because children and teens are generally more
+trusting and less aware of the risks related to sharing personal information.
+
+Adopt tools that empower children, teens, and families. Companies should implement easy-to-use
+and easy-to-access tools that empower youth and families to maintain control of their data and
+mitigate potential online harms. Legislation can incentivize companies to provide these sorts of
+tools without engaging in content-based regulation.
+
+Foster transparency. Families and youth should have access to clear information about how data
+is being used and the ability to control settings. The internet is a tool that families and youth can
+use to support learning and connection. Companies should provide information about privacy and
+safety provided to children, teens, and families in a manner that is concise, prominent, accessible,
+and use clear and plain language. Transparency is an essential mechanism to build trust and
+
+2
+ SIIA, Data Stewardship Best Practices for Data and Analytics Companies (2025), available at
+https://www.siia.net/wp-content/uploads/2025/06/Best-Practices-in-Data-Stewardship-for-Data-and-
+Analytics-Companies.pdf; see also https://www.siia.net/data-stewardship-best-practices/.
+3
+ This testimony uses the term “youth” to cover both children (under 13 years of age) and teens (under 18
+years of age).
+4
+ SIIA, Child and Teen Privacy and Safety Principles (2024), available at https://www.siia.net/wp-
+content/uploads/2024/03/SIIA-Child-Privacy-and-Safety-Principles-.pdf.
+
+
+
+                                                                                                    2
+demystify what can seem a complicated online landscape. Many state laws require transparency
+for online services. The goal is to ensure parents and youth can make informed decisions about
+their activities online.
+
+Restrict advertising. Companies should not advertise to youth based on their online behavior or
+activity and should not create profiles of youth for the purpose of targeted advertising.
+Companies should be permitted to serve contextual ads; this is important to ensure that children
+are being served age-appropriate and location-appropriate content.
+
+Protect personal information. Protecting user data, especially the data of children and teens, is a
+central tenet of the principles. Companies should implement strong security safeguards
+appropriate to the level of personal information that may be collected, used, or shared.
+
+Enable access to educational material. The internet is a part of children’s lives. News,
+educational materials, information about sports and hobbies as well as other entertainment can be
+online. Youth should be afforded access to information online without the threat that companies
+will over-moderate and prevent access to useful, legal content.
+
+Support K-12 media and digital literacy. Legislation and new policies must be accompanied by
+support for resources in K-12 schools to implement programs for media and digital literacy.
+Children and teens are growing up in a digital world, and it is critical that we prepare them to be
+responsible digital citizens. Platforms should also support those digital literacy efforts.
+
+Require risk assessments. Written risk-based impact assessments keep companies accountable for
+their practices. Several existing legal regimes already require these assessments, and a federal
+requirement should align with existing regimes and encourage adoption of best practices in risk-
+based evaluation and assessment preparation.
+
+Empower enforcement. Effective enforcement requires clarity about which government agencies
+at the federal or state level have enforcement authority and should be designed to improve
+privacy and safety practices. Enforcement should not be watered down with private rights of
+action that can lead to frivolous, excessive lawsuits based on mere statutory violations. For
+example, enforcement under Unfair and Deceptive Acts and Practices laws provide clear paths
+for enforcement action without providing private rights of action that create cottage industries of
+litigation.
+
+Provide consistent rules across the U.S. Federal law should be strong, preemptive, and provide
+the same protections to all children and teens across the U.S. The emerging patchwork
+regulations create confusion among both platforms and consumers. They also create gaps,
+because the internet is not cleanly partitioned along state lines. A national framework would
+allow companies to put consistent programs in place.
+
+
+
+
+                                                                                                3
+III. Specific Legislative Issues
+
+SIIA appreciates the thoughtful approach that the Subcommittee has taken for today’s hearing,
+recognizing that there is no single solution to the concerns that have been raised involving youth
+privacy and safety. Our goal is to ensure kids remain safe online and retain access to information
+and the virtual tools critical in keeping them connected in their communities. Families must also
+be empowered to decide what is best for their own family online and to teach kids and teens best
+practices for protecting themselves while navigating the internet. And companies should be
+encouraged to be proactive in addressing challenges faced on their platforms, apps, or websites in
+a manner that recognizes the need for context-specific solutions and the varying risk profiles that
+each corner of the internet presents.
+
+In short, we support efforts to pass laws that improve youth privacy and safety. Many provisions
+in today’s legislative package achieve that. As the Subcommittee considers these bills in greater
+detail, we urge members to take care to avoid unintended consequences and to advance
+legislation that meaningfully addresses the challenge at hand.
+
+We are providing preliminary input to key issues raised by the legislation under consideration in
+this hearing. As the Subcommittee refines these bills, we look forward to continuing to work with
+all members.
+
+First Amendment and Free Expression
+
+SIIA recognizes youth safety as one of the most important of government interests. At the same
+time, there are other values that must be balanced against the desire to protect kids online: most
+notably those involving free speech. The First Amendment requires that Congress calibrate its
+desire to legislate comprehensive youth online safety measures against the need to foster
+protected speech.
+
+That is a difficult, but not impossible balance. Most online safety laws are inherently content-
+based regulations—they require private businesses to make decisions about speech based on its
+subject matter (e.g., whether it is “harmful” or “detrimental” to minors), thus triggering strict
+scrutiny from the courts. While the government's interest in protecting children is compelling,
+courts have historically struck down federal efforts, like the Child Online Protection Act (COPA),
+because they were overbroad, restricting a substantial amount of constitutionally protected adult
+speech to shield minors. 5 This scrutiny forces Congress toward less restrictive means, such as
+regulating design or privacy conduct, rather than content.
+
+This already challenging landscape has been both clarified and complicated by recent judicial
+decisions. The Supreme Court's 2025 decision in Free Speech Coalition v. Paxton 6 provides a
+
+5
+  See Ashcroft v. Am. Civil Liberties Union, 542 U.S. 656 (2004) (holding COPA unconstitutional); Reno
+v. Am. Civil Liberties Union, 521 U.S. 844 (1997) (holding portions of the Communications Decency Act
+unconstitutional).
+6
+ Free Speech Coalition, Inc. v. Paxton, 606 U.S. ___ (2025), available at
+https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf.
+
+
+
+                                                                                                  4
+narrow pathway for federal regulation by upholding Texas’s age-verification requirement for
+commercial sites hosting unprotected, sexually explicit material, essentially confirming that
+regulation targeting content unprotected as to minors may withstand intermediate scrutiny.
+However, the logic of this decision is unlikely to extend to general-purpose social media
+platforms containing vast amounts of protected, non-sexual speech.
+
+Conversely, the Ninth Circuit's 2024 decision in NetChoice v. Bonta 7 (regarding the California
+AADC) is a major constraint on federal legislation aimed at platform design. The court found that
+requiring platforms to assess and mitigate the risk of “harm” to children transforms a design
+regulation into a content regulation, subject to strict scrutiny and thus likely unconstitutional. It
+found that California had less restrictive means to achieve its goals – for example, incentivizing
+companies to offer content filters, educating children and families, and enforcing existing
+criminal laws. The Ninth Circuit also highlighted concerns raised by the ACLU that vague and
+expansive language would likely prevent youth from accessing content such as mental health
+resources, information about school shootings, and content reflective of minors’ own religious or
+political speech.
+
+A divided three-judge panel of the Eleventh Circuit recently issued an opinion that may provide
+additional guidance to lawmakers but is still the subject of active litigation. 8 In a 2-1 decision, the
+panel stayed a preliminary injunction that prevented Florida from enforcing a law that would
+prohibit users under the age of 14 maintaining or creating accounts on social media platforms and
+permit users aged 14 or 15 to maintain accounts only with parental consent. The majority held
+that by targeting platforms with “addictive features,” the law was content neutral and subject to
+intermediate scrutiny.
+
+In a vigorous dissent, Judge Rosenbaum argued that the Florida law “is not just ‘likely’
+unconstitutional; it’s plainly unconstitutional on its face.” He described how the law “directly
+regulates both expressive activity itself and conduct with an expressive element,” and noted–with
+some force–that the prohibitions not only impermissibly allow the state to control the ideas that
+minors can access but prohibit parents from exposing them to those ideas. In that circumstance,
+he found the burden on the speech rights of both minors and adults to far outweigh the
+government’s interest under either strict or intermediate scrutiny. We think the dissent has the
+better of this argument, as this case remains a minority position and would caution the
+Subcommittee against putting too much weight on it. That said, if the panel majority’s position
+holds, it will support the view that legislation addressing content-neutral design features rather
+than content itself stands on stronger constitutional footing. 9
+
+These decisions provide important guidance to Congress as it develops legislation to address a
+range of issues involving youth online privacy and safety. Legislation such as the Senate version
+of the Kids Online Safety Act (KOSA), which would impose a vague, expansive “duty of care”
+
+7
+ NetChoice, LLC v. Bonta, No. 23-2969 (9th Cir. Aug 16, 2024), available at https://netchoice.org/wp-
+content/uploads/2024/08/Ninth-Circuit-Ruling_NetChoice-v.-Bonta.pdf.
+8
+    Comp. & Comm. Indus. Assoc. v. Uthmeier, No. 25-11881 (11th Cir. Nov. 25, 2025).
+9
+    SIIA filed an amicus brief with the Ninth Circuit supporting the appellee in this matter.
+
+
+
+                                                                                                   5
+that requires platforms to filter content based on subjective harm, would be likely to run afoul of
+the First Amendment.
+
+We are encouraged that several bills the Subcommittee is considering have taken to heart the
+fundamental tension between free expression and the interests of youth online privacy and safety.
+We encourage the Subcommittee to see the evolving case law in this area not as an impediment
+but as a roadmap to identify legislative solutions that address legitimate concerns about online
+safety and privacy while also adhering to core American values. Legislation should avoid broad
+measures that amount to content filtering while focusing on ways to regulate non-expressive
+conduct, narrowly target explicit sexual content, incentivize companies to address gaps in their
+privacy and safety protocol, and leverage non-technical tools such as consumer education and
+criminal laws.
+
+Modernizing COPPA
+
+The Children’s Online Privacy Protection Act of 1998 (COPPA) has served as a critical baseline
+for protecting the personal information of children, defined in COPPA as people under the age of
+13. Most important is COPPA’s requirement that operators obtain verifiable parental consent
+prior to collecting information from a child unless the information is used for internal operations.
+The FTC administers COPPA and earlier this year issued long-awaited amendments to
+regulations.
+
+The new FTC regulations, 10 approved by the Commission on a bipartisan basis, represent the
+latest iteration of an ongoing effort to modernize COPPA. Among other things, the new
+regulations recognize the need to make verifiable parental consent reflective of modern
+technologies. Whereas a signed consent form sent in via fax was appropriate two decades ago, the
+FTC approved newer methods like a knowledge-based authentication process or the use of facial
+recognition technologies. The FTC has also updated the definition of personal information to
+include biometric identifiers and government-issued identifiers, reflecting the variety of
+information on children that could be collected online.
+
+In recent years, the FTC has focused on COPPA enforcement. This year alone, the FTC has
+settled a number of matters involving alleged COPPA violations based on enabling a third party
+in China to collect geolocation information about American children without parental consent, 11
+
+
+
+
+10
+     16 CFR Part 312, available at https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312.
+11
+  FTC, Online docket for United States v. Apitor Tech. Co., Ltd. (Oct. 1, 2025), available at
+https://www.ftc.gov/legal-library/browse/cases-proceedings/apitor.
+
+
+
+                                                                                                       6
+unlawfully collecting information from children, 12 and deceiving children about the real costs of
+in-game transactions. 13
+
+We believe there are further updates that can be made to bring COPPA into the 21st century,
+including codifying recent updates into statute. Such updates include aligning to the regulatory
+requirements and industry best practices of data minimization and ensuring that platforms only
+gather data essential to preserving child safety. Under the current law, companies may engage in
+targeted advertising, among other things, with parental consent. As reflected in the SIIA
+Principles, we believe targeted advertising – as opposed to contextual advertising – should not be
+allowed for youth.
+
+Perhaps most important, given our longstanding work with the educational community, we
+believe COPPA needs to be updated to reflect a conflict with the Family Educational Rights and
+Privacy Act (FERPA). There has long been a lack of clear line between FERPA and COPPA
+despite overlapping requirements. When a school contracts with an operator, the operator should
+not be able to use student information for any purpose other than for the educational purpose for
+which it was disclosed. This educational purpose limitation is required by FERPA but not
+COPPA. Clarifying this by statute would strictly limit operators' use of personal information. The
+updates in COPPA 2.0 clarify that educational data may only be used for educational purposes
+when technology is used at the direction of the school.
+
+Age Assurance Methods
+
+Age assurance covers a variety of methods used to determine a user's age or age range online,
+encompassing age verification, age estimation, and age declaration. Across the spectrum there are
+additional approaches that can be adopted – for example, requiring parental consent, estimating
+age with facial recognition technology or machine-learning models, or using government-issued
+identification. The choice of method depends on the required level of confidence, privacy
+concerns, cybersecurity risk, the risk associated with the content or service, technological
+availability, and other factors such as access and accessibility. Each method inevitably involves
+tradeoffs of important policy goals.
+
+A principal challenge associated with more precise age assurance methods, such as age
+verification, is that they require gathering data from all users – not just those who fall within an
+age range or below an age threshold. 14 That collection creates outsized security risks and works
+
+12
+  FTC, Online docket for United States v. Iconic Hearts Holdings, Inc. (Sept. 29, 2025), available at
+https://www.ftc.gov/legal-library/browse/cases-proceedings/232-3029-iconic-hearts-holdings-inc-us-v;
+FTC, Online docket for United States v. Disney Worldwide Servcs., Inc. (Sept. 2, 2025), available at
+https://www.ftc.gov/legal-library/browse/cases-proceedings/disney.
+13
+  FTC, Online docket for United States v. Cognosphere, LLC (Jan. 17, 2025), available at
+https://www.ftc.gov/legal-library/browse/cases-proceedings/222-3152-cognosphere-llc-us-v.
+14
+  A recent study by the Center for Democracy and Technology (CDT) found that while “[t]he majority of
+participants were not against the concept of online age verification…when discussed in more detail and in
+practical terms, most conversations pertaining to the widespread implementation of age verification raised
+concerns - including concerns about privacy, security of collected and stored data, their limited trust in
+
+
+                                                                                                     7
+against privacy best practices around data minimization. Age verification requires robust data
+collection, making it exceedingly difficult to minimize the sensitive data collected from youth
+users. Websites or platforms holding a rich array of sensitive data are more attractive targets for
+malicious actors, dramatically increasing the likelihood that a data breach will harm young
+people. Requiring technology companies to gather and store that information creates the
+opportunity for bad actors to attack and access that information. This vulnerability is more
+pronounced for small- and medium-sized companies that may have less robust tools and
+resources than larger firms.
+
+The most significant privacy and cybersecurity risk associated with robust age verification
+methods—particularly those requiring the submission of government-issued identification or
+biometric scans—is the potential for mass data breaches and the creation of centralized identity
+dossiers. When platforms or their third-party vendors collect and store highly sensitive PII to
+prove age, this data becomes a high-value target for cybercriminals, raising the risk of identity
+theft, phishing, and blackmail for all users who comply. Recently, for example, a breach of a
+third-party service provider used by Discord to perform age verification led to the exposure of
+70,000 government-issued IDs. 15
+
+Furthermore, as discussed by the dissent in the Uthmeier case, mandating verification systems
+fundamentally undermines anonymity and can lead to surveillance creep, as the act of linking a
+verified identity to online activity transforms the internet experience into a less private space,
+potentially chilling the protected speech of both adults and minors who value their right to
+anonymous expression. 16
+
+Several other age assurance technologies exist that significantly minimize these privacy and
+cybersecurity risks. For example, age estimation, which uses machine learning to predict a user's
+age range based on non-identifiable facial characteristics or aggregated behavioral data, is a far
+less invasive method. While less certain than verification and prone to bias (especially for certain
+demographics), it could be suitable for low-risk contexts and for triggering a higher level of
+
+platforms, and the lack of user agency - all of which left participants uneasy.” Michal Luria and Aliya
+Bhatia, “What Parents Want: Policy Insights for Social Media Safety Features,” CDT (Nov. 2025), at 11,
+available at https://cdt.org/wp-content/uploads/2025/11/2025-11-24-CDT-Research-Social-Media-Report-
+final-1.pdf.
+15
+  Discord, “Update on a Security Incident Involving Third-Party Customer Service” (Oct. 9, 2025),
+available at https://discord.com/press-releases/update-on-security-incident-involving-third-party-
+customer-service.
+16
+   See, e.g., Alice Marwick, et al., Child Online Safety Legislation: A Primer, Princeton Center for
+Information Technology Policy, Duke Sanford School of Public Policy, UNC Center for Information
+Technology, and Public Life (2024), available at https://assets.pubpub.org/bujb2qf1/COSL-06.04-
+11717506843758.pdf; Shoshanna Weissman, “Current age-verification methods threaten our First
+Amendment rights beyond anonymity,” R Street Institute (June 22, 2023), available at
+https://www.rstreet.org/commentary/current-age-verification-methods-threaten-our-first-amendment-
+rights-beyond-anonymity/; Sara Forland, et al., “Age Verification: The Complicated Effort to Protect
+Youth Online, New America Open Technology Institute” (Apr. 23, 2024), available at
+https://www.newamerica.org/oti/reports/age-verification-the-complicated-effort-to-protect-youth-online/.
+
+
+
+                                                                                                     8
+scrutiny only when a user's age is uncertain. At the same time, it does not create the same privacy
+risks as using hard identity documents.
+
+Following the Supreme Court’s opinion in Paxton, age verification requirements are appropriate
+for websites with a significant amount of sexually explicit material. Half the states have laws that
+require verification to access sites with one-third sexually explicit material. Outside of that
+context, however, legislation that requires age verification is likely to raise First Amendment
+challenges on behalf of adult users who believe such requirements limit their ability to access
+legal content. Congress would need to establish that the age assurance method required serves a
+compelling government interest and is the least restrictive means of advancing that interest.
+
+Congress should look to different methods to incentivize the creation of more age-appropriate
+experiences and protect young people online. Creating tools that empower parents and youth with
+control over their data and their online experience, using signals to estimate ages and trigger
+additional guardrails based on company policies, and creating parental monitoring tools can help
+to limit young people’s exposure to harmful content and interactions. 17
+
+Parental Controls
+
+Parental controls are an essential part of youth online safety and privacy. We believe it is
+important to empower families as well as youth to manage their online safety and privacy. Every
+family is different, as are families’ views on what content and experiences are appropriate for
+youth in the online world.
+
+While we support strong privacy standards and giving families tools to exercise appropriate
+oversight over their children, there are inevitable challenges. One challenge is age-old: children
+and teens are smart and resourceful, and the ability to implement controls requires being aware of
+how they can circumvent these controls. This is a challenge that is hard to address through
+legislation as opposed to education and improving communication within a family.
+
+Making tools for controlling security and safety features easier for parents to access, understand,
+and use, as well as fostering digital literacy among parents and youth is also important. Creating
+effective tools and enabling by default is a good start, and ensures that the environment is set up
+as best it can be from the start, but we also want parents to be able to exercise their own agency
+based on their own judgment about what’s best for their children, and making sure they
+understand and can use the tools is essential to that work.
+
+
+
+
+17
+   See, e.g., Shane Tews, “Age Verification Laws vs. Parental Controls: Why the Legislatures, Courts, and
+Tech Aren’t on the Same Page,” American Enterprise Inst. (Feb. 5, 2025), available at
+https://www.aei.org/technology-and-innovation/age-verification-laws-vs-parental-controls-why-the-
+legislatures-courts-and-tech-arent-on-the-same-page/; Amanda Reid, et al., “Nerd Harder: A Typology of
+Techno-Legal Solutionist Logics in Child Online Safety Laws,” Policy & Internet (Sept. 2025), available
+at https://onlinelibrary.wiley.com/doi/epdf/10.1002/poi3.70012.
+
+
+
+
+                                                                                                    9
+Legislation can set and enforce standards, both for the tools themselves and for the information
+made available by platforms to parents. It can also leverage social resources to ensure that parents
+are provided with information in their communities.
+
+Emerging Trends and AI Chatbots
+
+As lawmakers consider risks associated with emerging technologies such as AI chatbots, we
+recommend a focus on clear, evidence-based, and risk-proportionate requirements rather than
+broad restrictions that could unintentionally limit access to beneficial technologies including
+educational tools, accessibility features, or other creative learning and age-appropriate content.
+
+Building on the SIIA’s existing principles on children and teen privacy and safety, we have been
+working closely with our members to develop a comprehensive set of AI chatbot principles, the
+SIIA CHAT SAFE Principles, that simultaneously encourages the development of emerging AI
+tools while protecting the privacy, safety and security of all Americans. These principles outline
+guidance for clear disclosures, harm mitigation, accountability, trust and reliability, security and
+privacy, and adaptability.
+
+Extensive legal frameworks exist in regulated spaces. Developers building tools for use in these
+spaces and deployers implementing tools in these spaces should ensure that tools align with the
+goals of CHAT SAFE as well as other privacy, safety, security, and civil rights requirements.
+
+As Congress considers legislation in this space, we encourage policymakers to align with this
+balanced framework that supports innovation and encourages meaningful protections for children
+and teens.
+
+Third Party Data Collection and Use
+
+The use of data by third parties has also raised attention. As the Subcommittee considers potential
+restrictions on third-party data collection and use, we would urge members to consider the
+possibility for unintended consequences. Data providers come in many stripes and in addition to
+those data brokers who may engage in practices that undermine youth privacy and safety, many
+providers engage in responsible practices that both maintain data security and further the interests
+of youth and are in fact essential to their wellbeing.
+
+SIIA has adopted principles for responsible data use earlier this year: Data Stewardship Best
+Practices for Data and Analytics Companies. 18 Currently, some SIIA members enable the
+limited, but mission-critical use of minors’ data by a range of institutions – colleges and
+universities, insurance companies, financial institutions, government agencies, foundations, and
+non-governmental organizations (NGOs) – that rely on that data to provide services that minors
+and their families rely on. Those include:
+
+
+
+18
+  SIIA, Data Stewardship Best Practices for Data and Analytics Companies (2025), available at
+https://www.siia.net/wp-content/uploads/2025/06/Best-Practices-in-Data-Stewardship-for-Data-and-
+Analytics-Companies.pdf; see also https://www.siia.net/data-stewardship-best-practices/.
+
+
+
+                                                                                                   10
+   ● Extending auto insurance for teen drivers;
+
+   ● Building minors’ credit history;
+
+   ● Targeting colleges’ recruitment efforts to underserved student communities;
+
+   ● Protecting minors against identity theft and fraud;
+
+   ● Identifying candidates for scholarships
+
+   ● Providing financial aid for college;
+
+   ● Assisting in military recruitment;
+
+   ● Suppressing the data of minors who are children of judges and law enforcement officials
+     protected by Daniel’s Law-style legislation;
+
+   ● Maintaining data and whitelists to enable age verification where required; and
+
+   ● Tracking exploitation of minors in connection with human trafficking efforts by NGOs
+     and financial institutions.
+
+We do not believe that it is the intent of the Subcommittee to disrupt these kinds of everyday
+activities. This list demonstrates, however, that too broad of a legislative brush will prevent
+valuable uses of this data that many people rely on and take for granted. Successful legislation in
+this sphere will both target “black hat” data brokers and preserve the essential uses that society
+relies on. We encourage the Subcommittee to use the best practices we developed as a tool to
+guide policymaking: raising the bar for industry by identifying the characteristics of responsible
+data providers, and enabling the pro-social data uses described above.
+
+IV. Conclusion
+
+Building a safer, healthier, and more useful internet for youth and families requires everybody’s
+input and all of us to work together. Our members have taken important steps to provide better
+resources and tools for parents and improve protections for youth safety and privacy. We support
+legislation that will help to make the internet safer while avoiding unintended consequences by
+erecting barriers that expose sensitive data, restricting access to content that ignores children’s
+curiosity and ability to work around safeguards, and encouraging youth to seek out darker,
+harder-to-regulate spaces.
+
+We hear those who have concerns about the impact of technology on today’s youth. But we
+believe the approach must be holistic. Child abuse, CSAM, bullying, and eating disorders existed
+long before social media. These are old problems with complicated causes. We believe there is a
+role for government to play and there is more that industry can be doing. There is also a need to
+focus on non-technical solutions. Education, community building, and support for families are
+part of that equation. Our kids should be safe. They should be safe in schools and at home. They
+should be safe in youth sports and in their houses of worship. And they should be safe on the
+
+
+
+
+                                                                                              11
+internet. Developing these environments requires all of us to work together on solutions that
+acknowledge the constant changes in these problems. There are no silver bullets.
+
+The SIIA Child and Teen Privacy and Safety Principles demonstrate industry’s readiness to act,
+and eagerness for Congress to pass legislation designed to advance these goals. We stand ready to
+work with the Subcommittee to turn these principles into law and provide our best counsel as the
+Subcommittee considers the legislation assembled today.
+
+
+
+
+                                                                                                12
+
+================ WITNESS: ruane ================
+                                          Testimony of Kate Ruane
+                Director of the Free Expression Project, Center for Democracy & Technology
+
+                  For the U.S. House of Representatives Energy & Commerce Committee
+                          Subcommittee on Commerce, Manufacturing, & Trade
+                Hearing Entitled “Legislative Solutions to Protect Children and Teens Online”
+
+                                                   December 2, 2025
+
+
+        Thank you, Chair Bilirakis, Ranking Member Schakowsky, Chair Guthrie, and Ranking Member
+Pallone for the opportunity to testify today on the importance of protecting and empowering kids and
+families online.
+        I am Kate Ruane, the Director of the Free Expression Project at the Center for Democracy &
+Technology (CDT), a nonprofit, nonpartisan organization that defends civil rights, civil liberties and
+democratic values in the digital age.1 For three decades, CDT has advocated for Congress to adopt
+strong privacy protections and protect free expression online for everyone, adults and children alike.
+CDT supported both the American Data Privacy Protection Act (ADPPA) and the American Privacy Rights
+Act (APRA) as reasonable compromises that would have protected everyone’s privacy. These were
+important pieces of legislation spearheaded by this Committee, which has long demonstrated its
+commitment to ensuring everyone in the United States can access and use technology they can trust.
+        Children today will use online services, from web browsers, to social media, to search engines,
+to chatbots, for their entire lives. The best path forward to protecting children and everyone online and
+to addressing root causes of many of the concerns related to minors’ activities on social media and
+other online services would be to enact comprehensive consumer data privacy legislation that
+meaningfully realigns incentives for the business models of covered services. In the absence of
+comprehensive protections for everyone, all stakeholders, including families, companies, civil society,
+academics, researchers, technologists, and policy makers, must work together to ensure that young
+people can grow and learn to use online services in a safe and age-appropriate fashion, regardless of
+
+1
+ This testimony is based on the work and insights of numerous experts within CDT, including Samir Jain, Eric Null, Michal
+Luria, Aliya Bhatia, Nick Doty, Travis Hall, and Kristin Woefel.
+their race, gender, socioeconomic status, disability, or familial situation. The subcommittee is right to
+focus on this critical topic. Our collective future depends on it.
+           The efficacy of the legislation the Committee today considers further depends on the efficacy of
+the agency and actors entrusted to enforce the law. All of the bills under consideration task the Federal
+Trade Commission (FTC) with enforcement or implementation powers. The current Administration is
+undermining the independence of the FTC, by purporting to “fire” several independent commissioners
+without cause, contrary to law and the Supreme Court’s 1935 decision in Humphrey’s Executor v.
+United States.2 The current chair has even taken to calling his agency the “Trump-Vance FTC,” signifying
+who is really in charge. These actions threaten the FTC’s ability to enforce the law fairly, the short and
+long term implications of which should be of bipartisan concern. Laws without meaningful and fair
+enforcement mechanisms are at best just words on a page. At worst, they are political weapons that
+can be wielded by those who hold power against those who do not. As the Committee considers the
+weighty issues of protecting children online, it must also work to ensure that the agency empowered to
+execute its policies will do so fairly and in a manner that protects all children and supports the rule of
+law.
+​          Today I’d like to raise five critical points essential to protecting children online:
+       1.​ Congress should address root causes of online harms including, in particular, privacy.
+       2.​ Protecting children includes protecting their right to express themselves online.
+       3.​ Age assurance and verification create significant privacy risks that should be mitigated in
+           legislation if the government requires or incentivizes its use.
+       4.​ Creating good policy requires taking into account the varied perspectives and experiences of
+           minors and their caregivers.
+       5.​ Congress must not unduly restrict states’ ability to act – ​and, in particular, must reject any
+           false deal that conditions kids' online safety on preempting states' ability to regulate AI.
+
+
+
+
+2
+    Humphrey's Executor v. United States, 295 U.S. 602 (1935).
+                                                                 1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                               2
+    I.​ Congress should address root causes of online harms including, in particular,
+      privacy.
+        Congress should be mindful not to place legislative bandaids over larger issues. Constitutional
+concerns discussed below aside, blocking or restricting minors’ access to social media or “harmful
+content” does not address the larger issues underlying the reported increase in youth mental health
+problems or the surveillance capitalism business model driving many of the content-related concerns
+expressed by legislators, minors, and their caregivers. To the extent possible, Congress should focus on
+addressing the root causes of these problems to improve children’s lives both online and off. That
+requires passing privacy legislation.
+        Currently, many online services’ business models are largely based on advertising sales powered
+by platforms’ collection and use of personal information, leading to an overreliance on immediate
+engagement metrics as a proxy for user-preference and value.3 This business model is both harmful and
+deficient. It is harmful because it is privacy invasive and increases the risks of data breaches and
+inappropriate government access to people’s private thoughts.4 It is deficient because it ignores more
+durable signals of what is valuable to users about social media and other online services.5
+        Congress could disrupt and realign this business model in a way that would benefit not just
+children, but everyone who uses internet-enabled services. This Committee has been a leader in
+demonstrating what meaningful change to consumer data privacy protections could look like. The
+American Privacy Rights Act (APRA) from last Congress included data minimization provisions that
+would have required companies to justify their data collection and processing as being “necessary,
+proportionate, and limited to provide or maintain . . . a specific product or service requested by the
+
+
+
+
+3
+  KGI Expert Report, Better Feeds: Algorithms That Put People First at iv, Knight Georgetown Inst. (March 2025),
+https://kgi.georgetown.edu/wp-content/uploads/2025/02/Better-Feeds -Algorithms-That-Put-People-First.pdf.
+4
+  FTC Staff Report, A Look Behind the Screens: Examining the Data Practices of Social Media and Video Streaming Services,
+FTC (Sept. 2024), https://www.ftc.gov/system/files/ftc gov/pdf/Social-Media-6b-Report-9-11-2024.pdf; Justin Sherman,
+Data Brokers and Data Breaches, Duke Sanford Sch. of Pub. Pol’y (Sept. 27, 2022),
+https://techpolicy.sanford.duke.edu/blogroll/data-brokers-and-data-breaches/.
+5
+  KGI Expert Report, supra note 3.
+                                                              1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                            3
+individual to whom the data pertains” or for a list of other enumerated permissible purposes.6 These
+data minimization protections were designed to better match consumer expectations with reality.7
+Specifically, consumers expect companies to collect and use data that is required to provide the service
+with which they are interacting. APRA would also have provided additional opt-in consent protections
+for transfers of “sensitive covered data,” with additional restrictions on permissible purposes for use,
+retention, and transfer of specific highly personal types of sensitive data such as biometric and genetic
+information.8
+        Enacting data minimization would mark a fundamental change to our current data ecosystem,
+which is currently characterized more by data maximization. Companies have incentives to collect and
+hoard massive amounts of data to develop detailed individual profiles to target advertising, to train AI
+systems, and just in case it becomes useful for some other purpose. Those large data stores become
+targets for hackers and data breaches that result in downstream harms like identity theft, reputational
+damage, or some other type of injury.9 State privacy laws have not filled that gap for the most part, as
+most state laws allow companies to continue setting their own rules with little accountability.10
+Maryland is a notable exception, whose privacy law requiring strict necessity for sensitive data
+collection just went into effect in October. Privacy legislation, including a strong data minimization
+provision, would do the most to reduce and realign incentives for data collection and many of the
+practices that can lead to harms to children (and all users).
+        While a federal law providing comprehensive privacy protections to everyone is the preferable
+path, enhancing children’s privacy protections is also a laudable goal. For more than twenty-five years,
+the Children’s Online Privacy Protection Act (COPPA) has been the primary vehicle for protecting
+
+
+6
+  American Privacy Rights Act, H.R. 8818 (118th Cong., 2d session),
+https://www.congress.gov/bill/118th-congress/house-bill/8818/text.
+7
+  See generally Colleen McClain, Michelle Faverio, Monica Anderson, & Eugenie Park, How Americans View Data Privacy,
+Pew Rsch. Ctr. (Oct. 2023),
+https://www.pewresearch.org/internet/2023/10/18/views-of-data-privacy-risks-personal-data-and-digital-privacy-laws/.
+8
+  CDT supported APRA only prior to the removal of its civil rights and algorithmic transparency provisions.
+9
+  Danielle Keats Citron & Daniel J. Solove, Privacy Harms, 102 Boston U. L. Rev. 793 (2022),
+https://papers.ssrn.com/sol3/papers.cfm?abstract id=3782222.
+10
+   Eric Null, States Are Letting Us Down on Privacy, Ctr. for Democracy & Tech. (Jan 28, 2024),
+https://cdt.org/insights/states-are-letting-us-down-on-privacy.
+                                                            1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                       4
+children’s privacy online.11 We were pleased to see H.R. 6291, the Children and Teens’ Online Privacy
+Protection Act, a long-planned update to COPPA known as “COPPA 2.0,” on the agenda for
+consideration today. CDT has been involved in numerous discussions to refine this legislation to
+improve privacy protections for kids and teens online and to ensure it does not infringe on the First
+Amendment.
+         However, this version of COPPA 2.0 raises new concerns around weakening existing privacy
+protections for minors, similar to the concerns raised by the new version of KOSA discussed below and
+in Section V of this testimony. The bill would preempt “any law, rule, regulation, requirement, standard,
+or other provision having the force and effect of law that relates to the provisions of this Act.”12 This
+preemption standard will very likely lead to unintended and harmful outcomes by preventing the
+enforcement of state privacy laws that provide protections beyond those that COPPA would offer. In
+particular, this standard would weaken existing state privacy laws that protect children’s data as
+“sensitive data,” which is often subject to enhanced protections under these laws. Rather than
+adopting broad “related to” preemption, the House should change the preemption language in COPPA
+2.0 to preempt only “conflicting” state law, to avoid extensive litigation around what state protections
+might “relate to” the new COPPA and to ensure COPPA maximizes protections available to children at
+the state and federal level.13 We hope to work with Representatives Walberg and Lee as well as
+Senators Markey and Cassidy, COPPA 2.0’s main Senate sponsors, to ensure COPPA 2.0 improves and
+adds to the kids’ privacy landscape and avoids unintended consequences.
+         CDT also appreciates H.R. 6292, the “Don’t Sell Kids’ Data” Act. This bill would generally prohibit
+data brokers from collecting, selling, or transferring the personal data of someone they know is a child
+or teen and would empower families with a private right of action to enforce the prohibition and
+
+
+11
+   15 U.S.C. §§ 6501-6506.
+12
+   Children and Teens’ Online Privacy Protection Act, H.R. 6291 (119th Cong. 1st. Sess.),
+https://docs.house.gov/meetings/IF/IF17/20251202/118714/BILLS-119HR6291ih.pdf.
+13
+   See Children and Teens’ Online Privacy Protection Act, S. 836 (119th Cong.) (“The provisions of this title shall preempt any
+State law, rule, or regulation only to the extent that such State law, rule, or regulation conflicts with a provision of this title.
+Nothing in this title shall be construed to prohibit any State from enacting a law, rule, or regulation that provides greater
+protection to children or teens than the provisions of this title.”),
+https://www.congress.gov/bill/119th-congress/senate-bill/836.
+                                                                   1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                                   5
+ensure it is meaningful. Data brokers are uniquely harmful actors in the online monetization ecosystem.
+Mitigating the harm they cause to children and the risks of the exposure of children’s data to bad actors
+is a worthy goal, which CDT supports.
+
+
+     II.​ Protecting children includes protecting their right to express themselves online.
+
+​         Protecting children online is not just about protecting them from harm. It is also about
+protecting their ability to use technology to express themselves, gather information, and communicate
+with their peers, parents, families, and friends. An estimated 5.66 billion people use social media as of
+October 2025.14 Many of the experiences that people, including minors, have on social media are
+positive. Minors use social media to access news,15 organize and engage in protests,16 discuss politics,
+learn about art, history and other topics,17 and to create art themselves. One study reported that “[i]n
+any given day, about one in 10 tweens and teens will use their digital devices to create some type of art
+or music.”18 Many minors also report that social media and online spaces can be important places for
+them to find community, form their identities, and receive support that may not be available to them
+offline.19 Preserving youth’s access to these spaces and their ability to exercise their free expression
+
+
+14
+   See Christy Tila, Number of Internet and Social Media Users Worldwide as of October 2025, Statista (Nov. 19, 2025),
+https://www.statista.com/statistics/617136/digital-population-worldwide/?srsltid=AfmBOorRBPr9l2O3OK2HAUpbP1Lsi4WB
+rnc83N16ip gB1X9Fl2sYHqZ.
+15
+   Christopher St. Aubin & Jacob Liedke, Social Media and News Fact Sheet, Pew Rsch. Ctr., (Sept. 25, 2025),
+https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/; Michelle Faverio & Olivia Sidoti,
+Teens, Social Media and Technology 2024, Pew Rsch. Ctr. (Dec. 12, 2024),
+https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/; Kerry Flynn, How Gen Z
+Gets its News, Axios (Feb. 16, 2024), https://www.axios.com/2024/02/16/tiktok-news-gen-z-social-media.
+16
+   Megan Carnegie, Gen Z: How Young People Are Changing Activism, BBC News (Aug. 8, 2022),
+https://www.bbc.com/worklife/article/20220803-gen-z-how-young-people-are-changing-activism.
+17
+   Jason Kelley, Thousands of Young People Told Us Why the Kids Online Safety Act Will Be Harmful to Minors, EFF (Mar. 15,
+2024),
+https://www.eff.org/deeplinks/2024/03/thousands-young-people-told-us-why-kids-online-safety-act-will-be-harmful-minor.
+18
+   Victoria Rideout, et al., The Common Sense Census: Media Use by Tweens and Teens 2021 at 41, Common Sense Media
+(2021),
+https://www.commonsensemedia.org/sites/default/files/research/report/8-18-census-integrated-report-final-web 0.pdf.
+19
+   Kaitlin Tiches, The Online Experiences of LGBTQ+ Youth, Boston Children’s Digit. Wellness Lab (Jan. 2025),
+https://digitalwellnesslab.org/research-briefs/the-online-experiences-of-lgbtq-youth/; Claire Cain Miller, For One Group of
+Teenagers, Social Media Seems a Clear Net Benefit, N.Y. Times (May 24, 2023),
+https://www.nytimes.com/2023/05/24/upshot/social-media-lgbtq-benefits.html; Asaka Park, I’m a Disabled Teenager, and
+                                                              1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                         6
+rights online, even as the Committee works to improve safeguards against harm, is part and parcel of
+protecting kids online.
+         Minors’ ability to engage and speak online is not only a normative value that supports their
+rights and development. It is also a constitutional mandate. A long line of precedent establishes that
+children have First Amendment rights and “only in relatively narrow and well-defined circumstances
+may government bar public dissemination of protected materials to them.”20 For example, in Brown v.
+Entertainment Merchants Association, the Supreme Court struck down a California statute restricting
+the sale of violent video games to minors. In that decision, the Court noted, “No doubt a State
+possesses legitimate power to protect children from harm, [...], but that does not include a
+free-floating power to restrict the ideas to which children may be exposed.”21 The Seventh Circuit,
+reviewing a similar ban on minors’ access to violent video games, explained, “[minors] must be allowed
+the freedom to form their political views on the basis of uncensored speech before they turn eighteen,
+so that their minds are not a blank when they first exercise the franchise.”22 The court reasoned that
+“[t]o shield children right up to the age of 18 from exposure to [disfavored or harmful ideas] would not
+only be quixotic, but deforming; it would leave them unequipped to cope with the world as we know
+it.”23
+         It is our task to assist minors in the process of becoming adults who are capable of navigating
+online services and digital tools, to ensure they are not “a blank” when they first encounter these
+services, shocked and confused by the content that they encounter. To do so, we must work to protect
+them from harm in a manner that respects constitutional limitations, and we must also protect their
+rights. The government and social media platforms should not be — indeed, with respect to the
+government, cannot be — the sole arbiters of the content children can see and services that they can
+access online. Substituting the judgment of the government or of social media corporations for the
+
+
+Social Media Is My Lifeline, N.Y. Times (Jun. 5, 2019),
+https://www.nytimes.com/2019/06/05/learning/im-a-disabled-teenager-and-social-media-is-my-lifeline.html.
+20
+   Brown v. Ent. Merchs. Ass’n, 564 U.S. 786, 794 (2011) (quoting Erznoznik v. City of Jacksonville,
+422 U.S. 205, 212-13 (1975)).
+21
+   Id. at 794.
+22
+   Am. Amusement Mach. Ass’n v. Kendrick, 244 F.3d 572, 577 (7th Cir. 2001).
+23
+   Id.
+                                                           1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                           7
+judgment of minors and their caregivers about what content is appropriate for them to view or engage
+with will lead to censorship, especially of controversial or poorly understood topics, including speech
+related to LGBTQ issues, firearms, and issues that might increase anxiety like news coverage of armed
+conflict or climate change.24 Bills like the current Senate version of the Kids Online Safety Act (KOSA)
+and the Kids Off Social Media Act (KOSMA),25 which has become the Reducing Exploitative Social Media
+Exposure for Teens (RESET) Act26 in the House, commit precisely this error.
+         The Senate version of KOSA would require covered online services to exercise reasonable care in
+the creation and implementation of any design feature to prevent and mitigate enumerated harms
+such as “depressive disorders and anxiety disorders,” yet the factors that drive these disorders are
+varied, complex, and extend well beyond kids’ online environments.27 Senate KOSA would require
+platforms to make speculative judgments about how certain constitutionally-protected content and
+design features may contribute to these outcomes and how best to prevent them — and put the
+government in charge of adjudicating whether platforms guessed right. But parents and their children
+— not platforms or governments — are best positioned to make these important choices and, indeed,
+have a constitutionally-protected right to do so.28
+         This Committee through Chair Bilirakis’s leadership has rightly recognized that this approach,
+while well-intentioned, gives too much power to the government to decide what ideas children should
+
+
+24
+   See, e.g., Brooke Tanner & Nicol Turner Lee, Children’s Online Safety Laws Are Failing LGBTQ+ Youth, Brookings Inst. (Jul. 9,
+2025), https://www.brookings.edu/articles/childrens-online-safety-laws-are-failing-lgbtq-youth/; Taylor Lorenz, Instagram
+Blocked Teens from Searching LGBTQ-Related Content for Months, User Mag (Jan. 6, 2025),
+https://www.usermag.co/p/instagram-blocked-teens-from-searching; Daysia Tolentino, YouTube Is Implementing Stricter
+Rules Around Gun Videos, NBC News (Jun. 6, 2024),
+https://www.nbcnews.com/tech/tech-news/youtube-implementing-stricter-rules-gun-videos-rcna155896.; Daysia
+Tolentino, YouTube Is Implementing Stricter Rules Around Gun Videos, NBC News (Jun. 6, 2024),
+https://www.nbcnews.com/tech/tech-news/youtube-implementing-stricter-rules-gun-videos-rcna155896.
+25
+   Kids Off Social Media Act, S. 278 (119th Cong. 1st. Sess.), https://www.congress.gov/bill/119th-congress/senate-bill/278.
+26
+   Reducing Exploitative Social Media Exposure for Teens Act, H.R. ___ (119th Cong. 1st. Sess.),
+https://docs.house.gov/meetings/IF/IF17/20251202/118714/BILLS-119pih-HR RESETAct.pdf.
+27
+   Kids Online Safety Act, S. 1748 (119th Cong. 1st Sess.), https://www.congress.gov/bill/119th-congress/senate-bill/1748.
+See danah boyd, KOSA Isn’t Designed to Help Kids, Substack (Jan. 31, 2024),
+https://zephoria.substack.com/p/kosa-isnt-designed-to-help-kids.
+28
+   See Brown, 564 U.S. at 794; NetChoice v. Bonta I, 113 F.4th 1101,1121 (9th Cir. 2024) (upholding a preliminary injunction
+against the enforcement of a requirement for covered services to assess what content might harm children and take action
+to address that content because it regulated constitutionally protected speech and did not survive strict scrutiny).
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                              8
+be able to access online and, for that reason, would likely be held unconstitutional, as other similar
+laws enacted at the state level have been.29 Legislation more narrowly tailored to address harms that
+the constitution permits Congress to regulate is more likely to protect children for the simple reason
+that it will not be overturned. The House version of KOSA has improved on the Senate version by
+narrowing the duty of care to require covered services to establish, implement, maintain, and enforce
+reasonable policies to address threats of violence, sexual exploitation and abuse, distribution, sale, or
+use of narcotic drugs, and financial harm caused by deceptive practices.30 These categories of content
+target speech that is more likely to fall outside constitutional protection.31
+         While the new version has moved in the right direction toward protections and safeguards for
+children online that focus on illegal content,32 we are concerned that the preemption provision
+currently included in the bill would sweep more broadly than intended or advisable. For example, it
+
+29
+   See NetChoice LLC v. Carr, 789 F.Supp. 3d 1200 (N.D. Ga. 2025); NetChoice, LLC v. Yost, 778 F. Supp. 3d 923 (S.D. Ohio
+2025), appeal docketed, No. 25-3371 (6th Cir. May 13, 2025); NetChoice, LLC v. Griffin, No. 23-5105,2025 U.S. Dist. LEXIS
+61278 (W.D. Ark. Mar. 31, 2025), appeal docketed, No. 25-1889 (8th Cir. May 2, 2025); NetChoice, LLC v. Bonta, 770 F. Supp.
+3d 1164 (N.D. Cal. 2025), appeal docketed, No. 25-2366 (9th Cir. Apr. 11, 2025); NetChoice, LLC v. Reyes, 748 F. Supp. 3d 1105
+(D. Utah 2024), appeal docketed sub nom., NetChoice, LLC v. Brown, No. 24-4100 (10th Cir. Oct. 11, 2024).
+30
+   Kids Online Safety Act, H.R.___, (119th Cong. 1st Sess.),
+https://docs.house.gov/meetings/IF/IF17/20251202/118714/BILLS-119pih-HR                 KidsOnlineSafetyAct.pdf.
+31
+   True threats and incitements to violence, child sexual abuse, advertisements for illegal drugs, speech integral to criminal
+conduct, and deceptive commercial speech are not protected by the First Amendment. See Counterman v. Colorado, 600
+U.S. 66, 74 (2023) (true threats); Brandenburg v. Ohio, 395 U.S. 444, 447 (1969) (per curiam) (incitement to violence); New
+York v. Ferber, 458 U.S. 747, 765 (1982) (child sexual abuse material); Central Hudson Gas & Electric Corp. v. PSC, 447 U.S.
+557, 563 (1980) (advertisements for illegal activity and advertisements that are misleading are not protected speech),
+Giboney v. Empire Storage & Ice Co., 336 U.S. 490 (1949) (speech integral to criminal conduct).
+32
+   There also may be lingering constitutional concerns with some of the restrictions included in the pared down version of
+KOSA. Determining whether particular speech falls outside the ambit of the constitution’s protections is a fact-specific
+endeavor. See Counterman, 600 U.S. at 73 (recounting tests for unprotected speech); Central Hudson, 447 U.S. at 563
+(describing false commercial speech as unprotected). When applying restrictions on the distribution of content, even illegal
+content, courts have been wary of the chilling effects the application of liability to distributors of speech might have. See
+Bantam Books, Inc. v. Sullivan, 372 U.S. 58, 71 (1963). KOSA’s duty of care, even the pared down version currently before the
+House, requires covered services to make judgments about what content should be covered by its policies often based upon
+imperfect information and potentially no information regarding the original speaker’s intent. Mike Masnick, Masnick's
+Impossibility Theorem: Content Moderation at Scale Is Impossible To Do Well, TechDirt (Nov. 20, 2019) (“[T}o to make good
+decisions you often need a tremendous amount of context, and there’s simply no way to adequately provide that at scale in
+a manner that actually works.”)
+https://www.techdirt.com/2019/11/20/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.
+In addition, covered services will likely use filtering technologies that are necessarily imperfect to comply with the statute.
+See Natasha Duarte, et al., Mixed Messages? The Limits of Automated Social Media Content Analysis, Ctr. for Democracy &
+Tech. 6 (Nov. 2017), https://cdt.org/wp-content/uploads/2017/11/Mixed-Messages-Paper.pdf. This leaves questions about
+whether the duty of care will work as a prior restraint on protected speech, raising constitutional concerns.
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                             9
+could preempt protections enacted at the state level for children interacting with chatbots, even
+though KOSA would not apply to minors’ use of chatbots. We hope to work with the Committee to
+resolve these concerns.
+         The RESET Act, H.R. ___, is more concerning than both the House and Senate versions of KOSA
+from a constitutional perspective. The RESET Act would ban all users under 16 from creating an account
+on social media services, including ones with appropriate safeguards. As noted above, eliminating
+minors’ access to social media accounts would cut them off from online expression, political
+engagement, and essential educational resources on services like YouTube, Pinterest, and Reddit. At a
+time when books are being banned in schools and curricula are being restricted,33 ensuring young
+people can access a broad range of perspectives online — and a broad community — is more critical
+than ever. The RESET Act, however, would shut kids under 16 off from this world, in violation of the
+First Amendment and contrary to the interests of this Committee in protecting minors. Courts have
+already enjoined numerous state laws that attempted to enact similar restrictions for likely violating
+the First Amendment.34
+
+
+ III.​ Age assurance and verification create significant privacy risks that should be
+       mitigated in legislation if the government requires or incentivizes its use.
+
+         KOSA and the RESET Act, as well as many of the other bills under consideration today, either
+require or incentivize covered services to verify the ages of their users in order to identify which users
+are minors and therefore be able to comply with the law. There are at least two broad concerns with
+government requirements — whether explicit or implicit — to conduct age assurance.35 The first is
+
+33
+   Sabrina Baêta, et al., The Normalization of Book Banning, PEN America (Oct. 1, 2025),
+https://pen.org/report/the-normalization-of-book-banning/.
+34
+   See NetChoice LLC v. Carr, 789 F.Supp. 3d 1200 (N.D. Ga. 2025); NetChoice, LLC v. Yost, 778 F. Supp. 3d 923 (S.D. Ohio
+2025), appeal docketed, No. 25-3371 (6th Cir. May 13, 2025); NetChoice, LLC v. Griffin, No. 23-5105, 2025 U.S. Dist. LEXIS
+61278 (W.D. Ark. Mar. 31, 2025), appeal docketed, No. 25-1889 (8th Cir. May 2, 2025); NetChoice, LLC v. Bonta, 770 F. Supp.
+3d 1164 (N.D. Cal. 2025), appeal docketed, No. 25-2366 (9th Cir. Apr. 11, 2025); NetChoice, LLC v. Reyes, 748 F. Supp. 3d 1105
+(D. Utah 2024), appeal docketed sub nom., NetChoice, LLC v. Brown, No. 24-4100 (10th Cir. Oct. 11, 2024).
+35
+   This testimony will use age assurance as an umbrella term to refer to all techniques to determine the age of users of
+online services. It will use age verification to refer to techniques that assess age based upon government issued identifiers.
+It will use age estimation to refer to techniques that assess age on the basis of biometric scans, company-held data, or other
+methods that do not require the provision of a government ID.
+                                                               1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                           10
+legal. Age assurance requirements often place burdens on access to speech for adults and children
+alike, and, as the Supreme Court recently reiterated, that means the First Amendment applies.36 The
+second is practical. Currently available age assurance methods may have improved upon past iterations
+of the technology, but they have not eliminated the privacy and efficacy concerns raised by their use, as
+forthcoming research from experts at Georgia Institute of Technology will demonstrate, and can likely
+never do so because conducting age assurance will almost invariably require more data collection and
+processing than would otherwise be necessary.37 If the government is going to mandate the use of such
+tools to access online services, at a minimum, certain safeguards must be included in those mandates
+to mitigate privacy risks and chilling effects on access to constitutionally protected speech.38
+
+             A.​ Legal Concerns with age assurance requirements
+
+        Recently, the Supreme Court, in Free Speech Coalition v. Paxton, upheld an age verification
+requirement against constitutional challenge.39 Under that case, states and the federal government are
+allowed to require age verification for the purposes of accessing content that is obscene for minors
+online. In its opinion, the Court reasoned that minors do not have the constitutional right to access
+such content and therefore everyone, both adults and minors, can logically be required to submit to
+age verification in order to effectuate a ban on minors’ access. While the First Amendment did apply to
+the imposition of age assurance in this context, the Court held that it was an incidental restriction on
+speech and therefore permissible.
+        However, the decision should be construed to sweep no more broadly than that. It included
+important limiting language regarding the scope of what can be considered “obscene” for minors and
+therefore subject to age gating. The FSC Court reiterated that content that is obscene as to minors
+
+36
+   Free Speech Coalition v. Paxton, 606 U.S. 461, 478 (2025) (hereinafter “FSC”) (holding that age verification requirements
+burden adults’ access to content they have a constitutional right to view and must withstand First Amendment review).
+37
+   See Shreyas Minocha, Isaac Sheridan, Harry Oppenheimer, Paul Pearce, & Michael Specter, Papers, Please: A First Look at
+Age Verification on the Web. Georgia Inst. of Tech. (forthcoming).
+38
+   Aliya Bhatia & Nick Doty, Mitigating Risk to Rights with Age Verification: Privacy-Preserving Guardrails that Should
+Accompany Deployments of Age Verification Approaches, Ctr. for Democracy & Tech. (Oct. 10, 2025),
+https://cdt.org/insights/mitigating-risk-to-rights-with-age-verification-privacy-preserving-guardrails-that-should-accompany-
+deployments-of-age-verification-approaches/.
+39
+   FSC, 606 U.S. at 465.
+                                                               1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                          11
+includes only “works that (a) taken as a whole, and under contemporary community standards, appeal
+to the prurient interest of minors; (b) depict or describe specifically defined sexual conduct in a way
+that is patently offensive for minors, and (c) taken as a whole, lack serious literary, artistic, political, or
+scientific value for minors.”40 As to what kind of content that might entail, a previous Supreme Court
+case, Ginsberg v. New York, had found that “girlie magazines,” like Playboy, could be considered to fall
+in this category.41 The FSC Court in a footnote gave additional guidance illustrating how limited this
+category of speech is, explaining that it “cannot conceivably be read to cover, say, a PG-13 or R Rated
+movie.”42 The Court was very clear in its reasoning that it was upholding the state statute at issue
+because it barred minors’ access to content they do not have the constitutional right to view, and the
+burden it placed on the speech of adults was tailored to service the goal of restricting access to that
+narrow category of content by minors.
+        Laws creating age assurance burdens for adults and children to access content that is not
+obscene for minors were not addressed in FSC v. Paxton, and earlier precedent holds that these types
+of laws should receive the highest degree of scrutiny a court can apply—in part because they would
+significantly burden adults’ constitutional rights, in addition to unconstitutionally infringing on
+children’s speech rights.43 Where age assurance requires the provision of government identification,
+the requirement “serve[s] as a complete block to adults who wish to access [gated] material [online]
+but do not” have or wish to provide government identification to do so.44 The number of people lacking
+identification is significant: according to the Center for Democracy and Civic Engagement, 21 million
+people do not have a current (non-expired) drivers’ license.45 Non-identification-based methods also
+create barriers to access for adults. For example, methods relying on mortgage data exclude adults that
+
+
+40
+   Id. at 472.
+41
+   Ginsberg v. New York, 390 U.S. 629, 634 (1968).
+42
+   FSC, 606 U.S. at 481 n.7.
+43
+   Ashcroft v. ACLU, 542 U.S. 656 (2004); Reno v. ACLU, 521 U.S. 844 (1997).
+44
+   PSINet, Inc. v. Chapman, 362 F.3d 227, 237 (4th Cir. 2004). See also Reno, 521 U.S at 856 (1997) (noting that requiring
+credit card information to verify age would serve as a complete bar to users who lacked a credit card).
+45
+   Jillian Andres Rothschild, et al., Who Lacks ID in America Today? An Exploration of Voter ID Access, Barriers, and
+Knowledge at 2, Univ. Md. Ctr. for Democracy & Civic Engagement (Jan. 2024),
+https://cdce.umd.edu/sites/cdce.umd.edu/files/pubs/Voter%20ID%202023%20survey%20Key%20Results%20Jan%202024%
+20%281%29.pdf.
+                                                             1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                       12
+do not own a home.46 Methods relying on credit card data also exclude Americans who do not have a
+credit card, particularly young adults who are often “credit invisible.”47 Each of these methods also
+significantly compromises the privacy with which adults can access information online.
+         Thus, while the Supreme Court has ruled that Congress may now require age assurance to
+access material that is obscene as to minors, age assurance requirements that sweep more broadly
+than that to erect barriers to access social media services or reduce access to certain content or
+features that are constitutionally protected for everyone remain constitutionally suspect.48 A number of
+courts have enjoined state social media bans and age appropriate design codes resembling Senate
+KOSA.49 While some appeals courts have stayed or vacated preliminary injunctions against some state
+social media bans,50 Justice Kavanaugh’s concurrence in NetChoice v. Fitch expressing doubts about the
+constitutionality of social media bans indicates that the Supreme Court might not uphold their
+reasoning.51 Accordingly, as this Committee has paid close attention to KOSA to shore up its
+constitutionality, it should do the same for other bills which would erect age assurance barriers to
+access constitutionally protected speech online.
+
+             B.​ Practical Considerations for age assurance implementation
+
+         To the extent that the government is now permitted to impose age assurance requirements for
+accessing certain content, setting aside potential constitutional issues, age assurance techniques
+
+46
+   See Reno, 521 U.S at 856.
+47
+   Id. See also Kenneth P. Brevoort, et al., Data Point: Credit Invisibles at 12, Consumer Fin. Prot. Bureau (May 2015),
+https://files.consumerfinance.gov/f/201505 cfpb data-point-credit-invisibles.pdf.
+48
+   Kate Ruane & Aliya Bhatia, FSC v Paxton Made Bad Law, But It’s Not Carte Blanche for Age Verification, Cntr. for
+Democracy & Tech (Aug. 22, 2025),
+https://cdt.org/insights/fsc-v-paxton-made-bad-law-but-its-not-carte-blanche-for-age-verification/.
+49
+   See NetChoice LLC v. Carr, 789 F.Supp. 3d 1200 (N.D. Ga. 2025); NetChoice, LLC v. Yost, 778 F. Supp. 3d 923 (S.D. Ohio
+2025), appeal docketed, No. 25-3371 (6th Cir. May 13, 2025); NetChoice, LLC v. Griffin, No. 23-5105, 2025 U.S. Dist. LEXIS
+61278 (W.D. Ark. Mar. 31, 2025), appeal docketed, No. 25-1889 (8th Cir. May 2, 2025); NetChoice, LLC v. Bonta, 770 F. Supp.
+3d 1164 (N.D. Cal. 2025), appeal docketed, No. 25-2366 (9th Cir. Apr. 11, 2025); NetChoice, LLC v. Reyes, 748 F. Supp. 3d 1105
+(D. Utah 2024), appeal docketed sub nom., NetChoice, LLC v. Brown, No. 24-4100 (10th Cir. Oct. 11, 2024).
+50
+   See Comput. & Commc’ns Indus. Ass'n v. Uthmeier, No 25-11881 (11th Cir. 2025),
+https://netchoice.org/wp-content/uploads/2025/11/11th-Circuit CCIA-NetChoice-v.-Uthmeier HB-3 Ruling Nov-25-2025.p
+df; NetChoice, L.L.C. v. Fitch, 134 F.4th 799 (5th Cir. 2025).
+51
+   NetChoice v. Fitch, 606 U. S. ____ (2025) (Kavanaugh, J., concurring in the denial of an application to vacate stay),
+https://www.supremecourt.gov/opinions/24pdf/25a97 5h25.pdf.
+                                                               1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                           13
+continue to raise significant concerns for all users’ privacy and free expression rights.52 Requiring users
+to prove their age to access content or services leads to more data collection, processing, and retention
+by already data-rich services. Just as importantly, users of all ages lose the ability to access the web
+anonymously when they have to provide proof of age documents or other identity-revealing
+information beforehand. People go online to access — and speak about— all sorts of sensitive topics
+such as their health status, religious or political views, whistleblowing, sexuality, and experiences with
+domestic violence. Users often want to access and share this information privately. Because removing
+minors’ ability to communicate or access content that may be deemed age-inappropriate requires
+sorting minors from adults, all users’ ability to surf the web privately and speak freely is compromised.
+This is likely to create chilling effects for many users who are reluctant to seek out sensitive and
+important information to which they don’t want to be publicly linked.53
+         Given these and other foreseeable harmful consequences, some services may decide to avoid
+providing service in jurisdictions with particularly invasive age assurance mandates, obviously
+negatively impacting the adults in those jurisdictions who would otherwise want to avail themselves of
+those services. Indeed, Bluesky54 no longer offers service in Mississippi for this reason — a “significant
+blow”55 for Mississippians. Other services, too, have stopped offering service to Mississippi residents,
+ranging from PornHub,56 an adult-content website, to Dreamwidth,57 an open source online j​ournal and
+blogging community. These jurisdiction-by-jurisdiction decisions lead to increased fragmentation of the
+
+
+52
+   Bhatia & Doty, supra note 38.
+53
+   Aliya Bhatia, Age Estimation Requires Verification for Many Users, Ctr. for Democracy & Tech. (Mar. 24, 2025),
+https://cdt.org/insights/age-estimation-requires-verification-for-many-users/. See also Kim Zetter, Hackers Finally Post
+Stolen Ashley Madison Data, Wired (Aug. 18, 2015),
+https://www.wired.com/2015/08/happened-hackers-posted-stolen-ashley-madison-data/.
+54
+   Megan Farokhmanesh, Bluesky Goes Dark in Mississippi Over Age Verification Law, Wired (Aug. 22, 2025),
+https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/,
+55
+   Ashton Pittman, Bluesky Blocks Mississippi IPs, Citing State’s Age Verification Law, Free Speech and Privacy Concerns, Miss.
+Free Press (Aug. 22, 2025),
+https://www.mississippifreepress.org/editors-note-bluesky-blocks-mississippi-ips-citing-states-age-verification-law-free-spe
+ech-and-privacy-concerns/.
+56
+   Jacob Kastrenakes, Pornhub Blocks Access in Mississippi and Virginia Over Age Verification Laws, Verge (Jul. 3, 2023),
+https://www.theverge.com/2023/7/3/23782776/pornhub-blocks-mississippi-virginia-age-verification-laws.
+57
+   Mississippi Legal Challenge: Beginning 1 September, We Will Need to Geoblock Mississippi IPs, Dreamwidth Studios (Aug.
+26, 2025), https://dw-news.dreamwidth.org/44429.html.
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                            14
+web, with peoples’ experience of the internet differing from state to state, harming users who can no
+longer access the information, communities, networks, or other capabilities the service offers.
+           Online safety proposals, including a number of the bills at issue today, often require or
+incentivize the use of invasive age assurance mechanisms without sufficient safeguards to govern the
+secondary use, retention, and third-party sharing of this data.58 Age assurance approaches often
+require platforms to collect hard identifiers of age (such as government ID) or biometric data from all
+users as a prerequisite to access the service. This opens the door for vast data collection and retention
+from users, and risks linking users’ identity to their online activity, which itself can be incredibly
+sensitive. Specifically, biometric data should be treated especially carefully, as it is immutable and easily
+abused.
+           Researchers at the Georgia Institute of Technology are about to publish a study providing
+empirical evidence that the privacy and security concerns related to the use of age verification and
+assurance techniques are significant and are, indeed, playing out in real time as age assurance
+requirements take effect.59 In particular, the study finds that the widespread implementation of age
+assurance, particularly in states that have implemented age assurance requirements, increases privacy
+and security risks for end users, can be ineffective, and has increased the balkanization of the internet
+in the United States for the first time. The researchers further examined one of the dominant
+third-party age assurance vendors and found that the service can require users to share large amounts
+of personally identifiable information (e.g., photos of their face, government IDs, credit card
+information, browser fingerprinting data and more). Moreover, the information is not only shared with
+the contracted service provider. It is also shared with several “fourth parties” that are not as visible to
+users. For most age checks, the provider claims data is deleted when the age-check is complete, but,
+according to the researchers, that is not always the case. For some ID-based checks, for example, the
+provider may hold data for up to 28-days, including a potential data transfer to India. In short, in
+popular “commercially reasonable” third-party age assurance provider services, there is almost
+certainly more data collection, more sharing of that data with additional parties, more cross-border
+
+58
+     See Bhatia & Doty, supra note 38.
+59
+     Shreyas Minocha, et al., supra note 37.
+                                                         1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                          15
+data transfers, and longer data retention than many users or the legislators mandating their use would
+expect or support. The findings of this paper demonstrate that age verification vendors present
+significant privacy concerns and may not be sufficiently incentivized to maximize user privacy.
+        These concerns are far from hypothetical. Just this summer, a popular dating safety app was
+hacked, revealing the personal images and comments of thousands of women. The leak included
+images of women holding their photo ids for verification purposes, despite the app's claims that such
+photos were deleted immediately after authentication.60 Very recently, Discord disclosed that it was
+subject to a data breach, in which part of the data that was inappropriately accessed by an
+unauthorized third party was users’ IDs provided to Discord as part of the company’s process to appeal
+incorrect age estimations made by the platform’s age assurance process.61 And last year, a leading age
+verification provider was hacked, allowing users’ names, drivers’ licenses and nationality to be made
+available to others on the internet.62 Without robust privacy controls baked in, age verification
+mandates significantly increase the risk of such events.
+        If Congress nevertheless feels obligated to require or incentivize age assurance, it should also
+require guardrails to mitigate the risks to users’ privacy and safety. In particular, Congress should
+mandate mechanisms for age assurance are:
+            ●​ proportional and narrowly tailored;
+            ●​ reliant on high quality sources of data to ensure context-dependent accurate
+                verification;
+            ●​ nondiscriminatory and uniformly accessible to all;
+
+
+
+
+60
+   Alana Wise, Tea Encouraged Its Users to Spill. Then the App's Data Got Leaked, NPR (Aug. 2, 2025),
+https://www.npr.org/2025/08/02/nx-s1-5483886/tea-app-breach-hacked-whisper-networks; Emanuel Maiberg & Joseph
+Cox, A Second Tea Breach Reveals Users’ DMs About Abortions and Cheating, 404 Media (Jul. 28, 2025),
+https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/; Isabella Kwai, What to
+Know About the Hack at Tea, an App Where Women Share Red Flags About Men, N.Y. Times (Jul. 26, 2025),
+https://www.nytimes.com/2025/07/26/us/tea-safety-dating-app-hack.html.
+61
+   Discord, Update on a Security Incident Involving Third-Party Customer Service (Oct. 3, 2025),
+https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service.
+62
+   Joseph Cox, ID Verification Service for TikTok, Uber, X Exposed Driver Licenses, 404 Media (Jun. 26, 2024),
+https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/.
+                                                           1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                  16
+           ●​ private and secure, meaning unlinkable, data-minimized, retention-limited,
+               purpose-restricted, securely-implemented, and not shared or distributed;
+           ●​ transparent; and
+           ●​ accountable and remediable.
+       Age assurance approaches should be proportional and narrowly tailored to the harm they seek
+to minimize. This means age assurance measures should be required to be implemented as narrowly as
+possible, particularly on mixed-audience services. For example, if an age assurance mandate applies to
+adult content and only some content on a site falls in that category, the site should be required to apply
+age gates to access only the adult content, rather than the entire site.
+       Age assurance requirements should mandate reliance on high quality sources of data to verify
+age and ensure accurate verification. The data collected by age assurance providers should vary by
+context. For example, some providers may already have relevant data about users and need to collect
+little additional information to verify age; others will have no information. The appropriate degree of
+accuracy may also vary by the particular risks that verification is intended to protect against.
+       Additionally, these approaches should be nondiscriminatory and accessible to all users, as
+demonstrated by periodic audits and pre- and post-deployment testing. User control tools and age
+verification approaches should be uniformly and consistently available and compatible with different
+devices and operating systems. This includes ensuring that mechanisms work with parity for all users
+regardless of their language, age, race, gender, or nationality. Furthermore, it is particularly important
+that age assurance mechanisms are accessible to people with disabilities, including people who are
+blind or low-vision, and comply with accessibility standards enshrined within relevant disability rights
+statutes, including the Americans with Disabilities Act.
+       Companies, including age assurance vendors, should be required to adhere to clear privacy and
+security limits to restrict the collection, use, sharing, and retention of the data collected. Age-related
+data is not only sensitive but also lucrative, making services that collect and store it attractive to data
+brokers or malicious hackers. Information pertaining to a person’s age, date of birth, home address and
+birthplace, as well as biometric data, is either immutable or difficult to change and therefore
+
+
+                                                       1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                              17
+particularly sensitive. In the event of identity theft or improper access, the consequences can be
+devastating and difficult to address.
+        Specific data protections should include:
+             ●​ limiting the collection, sharing, and retention of age-related data for anything other than
+                 verifying age;
+             ●​ preventing any secondary use of data collected for mandatory age verification;
+             ●​ minimizing or entirely preventing linkability between where users provided age-related
+                 data and the issuer of that data — e.g., ensuring that the the entity verifying age does
+                 not disclose to the issuer of the ID (for example: a state DMV) which sites the user is
+                 accessing;
+             ●​ declining to collect or store any information not needed to determine the user’s age or
+                 age range (e.g., if a user provides an ID, the verifier should not collect information such
+                 as a social security number or driver’s license number as well);
+             ●​ limiting data retention and deleting data promptly once age or age range has been
+                 determined, as the raw data is no longer needed; and
+             ●​ implementing cybersecurity measures (e.g., encrypting data in transit and storage) to
+                 prevent malicious access to or uses of age-related data.
+        Linking IDs (and all of the information on them) to users’ online behavior creates a massive
+cyber-security and privacy risk.63 Moreover, the mere spectre of linkability and greater data collection
+will chill users’ inclination to access constitutionally-protected speech, a phenomenon demonstrated in
+the states and other jurisdictions where age verification laws are already in place and VPN usage has
+skyrocketed.64
+
+63
+   See Jacqui Wakefield, My Ex Stalked Me, So I Joined a 'Dating Safety' App. Then My Address Was Leaked, BBC News (Aug.
+22, 2025), https://www.bbc.com/news/articles/ce87rer52k3o. See also Alana Wise, Tea Encouraged Its Users to Spill. Then
+the App's Data Got Leaked, NPR (Aug. 2, 2025),
+https://www.npr.org/2025/08/02/nx-s1-5483886/tea-app-breach-hacked-whisper-networks; Emanuel Maiberg & Joseph
+Cox, A Second Tea Breach Reveals Users’ DMs About Abortions and Cheating, 404 Media (Jul. 28, 2025),
+https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/.
+64
+   See, e.g., David Lang, Benjamin Listyg, Brennah V. Ross, Anna V. Musquera, and Zeve Sanderson, Do Age-Verification Bills
+Change Search Behavior? A Pre-Registered Synthetic Control Multiverse, OSF (Mar. 2025), https://osf.io/z83ev; Dominic
+Preston, The VPN Panic Is Only Getting Started, Verge (Nov. 27, 2025),
+                                                              1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                         18
+        Entities engaged in age verification should be required to delete underlying proof of age data,
+such as biometric scans or images of government ID, after the verifier determines the user’s age or age
+range. Data that is present on proof of age documents, such as place of birth, date of birth, and more,
+are sensitive and difficult or impossible to change; prolonged retention of age-related data or ID-data
+makes users vulnerable to identity theft and misuse of their personal data. There is no legitimate
+reason for age verification providers to retain this data after age determination, given its sensitivity. It
+also opens up companies as targets of malicious attacks by actors seeking to access sensitive data for
+profit or abuse. The impact of data breaches can be profound, forcing victims to shut down or secure
+bank accounts, freeze their credit at the three big agencies, or acquire new IDs to thwart or rectify
+identity theft. Deleting underlying age proof data immediately after verifying age can help verifiers
+minimize data breaches and inappropriate access to data, all while better protecting users. Some age
+verification providers have promised to delete underlying proof of age data (such as a face scan) seven
+days after collecting it to comply with some laws.65 But Georgia Tech’s forthcoming research indicates
+the picture may be more complicated than this depending on differing requirements around the world,
+and there’s no guarantee every service will delete data they acquire quickly unless they are obligated to
+do so.66 Further, proving companies’ compliance with deletion requirements is very difficult for
+government enforcers from the outside, which makes whistleblower protections much more important.
+Verifiers and policymakers should prefer tokenized age proof systems when available, so that they
+never receive the underlying documentation, just an attested proof of age.
+        Services required to conduct age verification should also be required to provide users clear
+transparency and disclosure on the method used, what data is collected and stored, and with whom
+data is shared. Furthermore, users should know who is operating the age assurance system and how to
+
+
+https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act; Bryan Schott, Utahns Search for VPNs
+After Pornhub Blocks Adult Content from the Beehive State, Salt Lake Trib. (May 3, 2023)
+https://www.sltrib.com/news/politics/2023/05/03/utahns-search-vpns-after-pornhub/.
+65
+   See, e.g., Emma Roth, Ready or Not, Age Verification Is Rolling Out Across the Internet, Verge (Jul. 30, 2025),
+https://www.theverge.com/analysis/715767/online-age-verification-not-ready; Jon Brodkin, Reddit’s UK Users Must Now
+Prove They’re 18 to View Adult Content, Ars Technica (Jul. 14, 2025),
+https://arstechnica.com/tech-policy/2025/07/reddit-starts-verifying-ages-of-uk-users-to-comply-with-child-safety-law/.
+66
+   See Shreyas Minocha, et al., supra note 37.
+                                                            1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                     19
+meaningfully request deletion of data and remedy inaccurate age classification if and when it occurs.
+This includes instances where users have already opted into age assurance but change their mind at a
+later point and seek to delete their account and the data that was used to verify or assign them an age.
+         These criteria match or overlap to some degree with principles set by international regulators in
+Europe and beyond. In addition to the forthcoming research mentioned above from Georgia Tech,
+other investigations are revealing popular age assurance providers who are not meeting commitments
+to privacy set by regulators. For example, an evaluation by AI Forensics of France’s AgeGO, an age
+verification provider gating youth access to adult content, found that the provider did not adequately
+mitigate risks to user privacy or meet accuracy, transparency, and other set criteria by ARCOM, France’s
+independent administrative agency.67
+         Each of the bills before this Committee that incentivizes or requires platforms to determine the
+age of all of their users in order to sort out which of them are minors should include the above
+principles. By holding age verification providers and services that conduct age verification to these
+rights-respecting criteria, Congress can minimize the degree to which deployments of age verification
+undermine user rights.
+
+
+    IV.​ Creating good policy requires taking into account the varied perspectives and
+         experiences of minors and their caregivers.
+
+​        Minors and their caregivers have strategies for and opinions about managing minors’ online
+lives. These strategies and opinions are informed by lived experience that undoubtedly could improve
+policymaking by legislators and companies related to minors’ online activities. CDT has conducted
+research where we asked a sample of teens and their parents about features proposed in current child
+safety proposals, including some that are being considered by the Committee today.68 What we found
+can help improve discussions around kids' safety.
+
+
+67
+   Paul Bouchaud, Technical Report: AgeGO Age Verification on Pornographic Platforms, AI Forensics (Sept. 2025),
+https://aiforensics.org/uploads/AIF report AgeGO porn platforms.pdf.
+68
+   Michal Luria & Aliya Bhatia, What Kids and Parents Want: Policy Insights for Social Media Safety Features, Ctr. for
+Democracy & Tech. (2025),
+https://cdt.org/insights/what-kids-and-parents-want-policy-insights-for-social-media-safety-features/.
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                         20
+     ●​ Age assurance: Parents and teens expressed significant safety and privacy concerns with
+        subjecting minors to age assurance methods. They viewed ID-based and face scanning methods
+        as particularly invasive and expressed skepticism of their efficacy. Participants favored
+        parent-centered approaches that enabled parents to declare their children’s age and consent to
+        which apps their children downloaded.
+     ●​ Algorithmic Feed Controls: Teens prefer feeds that provide algorithmic recommendations, and
+        trust algorithmic recommendations to provide interesting, diverse and appropriate content.
+        Their trust is made possible precisely because they feel that they are in control of that content.
+        They prefer lightweight controls such as “not interested” functions and swiping quickly to
+        display disinterest, over more invasive functions like pop-ups.
+     ●​ Screen Time: Parents and teens appreciated reminders of time spent and parent-led limits on
+        screen time, but they did not favor app-based, content-based, or third-party enforced limits.
+        Strict curfews were viewed as draconian and, potentially, counterproductive.
+     ●​ Parental Access and Control: Teen participants were generally accepting of parental visibility
+        into their activities, but strongly opposed parental ability to delete content or apps without
+        their consent. Parents broadly agreed, preferring to engage in high-level approval of app
+        downloads and other significant actions, while viewing controls over every day approvals, like
+        joining a group chat or adding a contact, as excessive and unnecessary.
+
+
+        A number of the bills before the Committee today would require the government to conduct
+studies that lead to best practices for children’s safety online. CDT supports that evidence-based
+approach. The Kids Internet Safety Partnership Act69 explicitly requires the Partnership to coordinate
+with parents and minors, as well as other stakeholders, to identify the risks and benefits for minors
+with respect to the use of websites, online services, and mobile applications and widely accepted or
+evidence based best practices for minors of different ages. This kind of inclusive consultation in the
+
+
+69
+  H.R. ___, Kids Internet Safety Partnership Act (119th Cong. 1st Sess.),
+https://docs.house.gov/meetings/IF/IF17/20251202/118714/BILLS-119pih-HR     KidsInternetSafetyPartnershipActRepFry.
+pdf.
+                                                          1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                21
+development of policy will ensure better outcomes for everyone. Moreover, careful and holistic
+approaches that study complex issues and draw in multiple perspectives allow a fuller consideration of
+the potential interventions all stakeholders can implement. Some interventions, when required by the
+government, are unwise or otherwise legally difficult to implement, but when voluntarily implemented
+in particular contexts by industry, civil society, technologists, families, or other actors in the online
+ecosystem can improve online safety and freedom for minors and adults alike.
+         A study approach might help build nuance into company and legislative children’s safety policy
+in other ways, and could help fill in research gaps. Many proposals before the Committee today and
+many company policies recognize that it is impractical and inappropriate to treat all minors the same as
+they age. This was also a reality reflected by the parents and teens who participated in CDT’s recent
+study.70 What’s appropriate for children under 13 will not be the same as what’s appropriate for a 16
+year old. The content that is appropriate for those age groups will be different and the level of
+independence those age groups should have in conducting their online lives should also, likely, be
+different.
+         Recently, some services have begun to filter and display content differently to teen and minor
+users.71 This task is not without its complications, in part, because content moderation systems
+themselves are complicated, generally employing a combination of human moderators, automated
+recommendations, user reporting tools, and community guidelines to determine what content to
+display to whom and when. Researchers have noted the difficulty in determining what content is “age
+appropriate.”72 For example, some minors exhibit greater maturity at an earlier age, indicating a
+readiness for more adult content, while others take more time to reach certain stages of readiness.
+Moreover, different communities define what content is “age appropriate” differently, adding another
+
+
+70
+   Luria & Bhatia, supra note 68.
+71
+   See, e.g., About Instagram Teen Accounts, Instagram (last visited Nov. 27, 2025),
+https://help.instagram.com/995996839195964; Supervised Experiences for Teens, YouTube (last visited Nov. 27, 2025),
+https://support.google.com/youtube/answer/15253498; Safeguards for Teens, SnapChat (last visited Nov. 27, 2025),
+https://parents.snapchat.com/safeguards-for-teens.
+72
+   Michal Luria & Aliya Bhatia, The Kids Are Online: Research-Driven Insights on Child Safety Policy, at 17, Ctr. for Democracy
+& Tech. (Feb. 2025),
+https://cdt.org/wp-content/uploads/2025/02/2025-02-14-Child-Safety-Symposium-Summary-report-final.pdf.
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                             22
+layer of complexity.73 Finally, some filtering for age appropriateness can limit minors’ access to
+beneficial and educational content. Over-filtering can — and has — led to the reduction in the display
+of appropriate LGBTQ+ content, for example.74 Further study would be helpful to understand how to
+define what content is age-appropriate and how to build flexibility into that definition depending on
+relevant factors. In requiring further study, Congress might also consider ways to assist researchers in
+conducting further study of issues related to kids’ activities online.75
+
+
+     V.​ Congress must not unduly restrict states’ ability to act – ​and, in particular, must
+         reject any false deal that conditions kids' online safety on preempting states'
+         ability to regulate AI.
+
+          States have long played a critical role in protecting against harms to children. State level
+protections specifically applicable to children online run the gamut from restrictions on access to social
+media platforms or constitutional content (laws that raise significant constitutional concerns), to the
+creation of educational programs to help children learn to navigate the online world, to meaningful
+privacy protections that mitigate the monetization of children’s online activities.76 Generally applicable
+laws also provide significant protections for children. These laws might include state unfair and
+deceptive trade practices statutes, tort and common law claims, civil rights statutes, educational
+protections, criminal laws, and comprehensive privacy statutes that contain heightened standards for
+children’s data. Congress should be very careful when seeking to displace that authority and these
+existing laws.
+          As noted earlier, H.R. 6291, COPPA 2.0, H.R. ___, KOSA, and many of the other bills at issue
+today would preempt “any law, rule, regulation, requirement, standard, or other provision having the
+force and effect of law that relates to the provisions of this Act.” We are concerned that this standard
+
+73
+   Id.
+74
+   See, e.g., Brooke Tanner & Nicol Turner Lee, Children’s Online Safety Laws Are Failing LGBTQ+ Youth, Brookings Inst. (Jul. 9,
+2025), https://www.brookings.edu/articles/childrens-online-safety-laws-are-failing-lgbtq-youth/; Taylor Lorenz, Instagram
+Blocked Teens from Searching LGBTQ-Related Content for Months, User Mag (Jan. 6, 2025),
+https://www.usermag.co/p/instagram-blocked-teens-from-searching.
+75
+   Luria & Bhatia, supra note 72.
+76
+   See, e.g., Social Media and Children 2025 Legislation, National Conference of State Legislatures (last updated Oct. 24,
+2025), https://www.ncsl.org/technology-and-communication/social-media-and-children-2025-legislation.
+                                                                1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                             23
+will sweep very broadly to preempt much of the legislation that either specifically protects children or
+provides significant protections to children online, even if the bills at issue today do not specifically
+cover the activities addressed by the state law or the state law provides better protections for children.
+In general, in legislation that provides protections to children, Congress has chosen to narrowly
+preempt, if it chose to preempt at all, state level efforts. The preemption standard contained in many of
+the bills before the Committee represents a problematic break with that precedent that could
+undermine protections in place for children across the country.
+        Preemption of state laws is always a fact-specific analysis. Generally, however, the scope of
+preemption in any given proposal should correspond to the strength and scope of the protections being
+enacted. APRA, for example, was a comprehensive consumer privacy proposal, justifying the
+preemption of state comprehensive privacy laws, but APRA also exempted certain categories of laws
+from the scope of their preemption clauses, including consumer protection laws of general
+applicability, employee privacy laws, student privacy laws, and data breach notification statutes.77
+These exemptions rightly sought to preserve longstanding consumer, employee, and student
+protections and to avoid unintended consequences.
+        The proposed preemption of state laws under APRA and ADDPA also represented what was, in
+the view of its authors and supporters, a fair trade-off. Congress would put in place needed protections
+that would apply nationwide (instead of only in a specific state) and corresponding state level
+protections would be preempted. But the legislation currently under consideration today, even taken
+together, would not justify broader preemption of generally applicable laws as they relate to children,
+nor would it justify the preemption of other state level protections specifically applicable to children. It
+would be both ironic and harmful if Congress’s passage of laws intended to protect children online
+ended up leaving them with fewer protections.
+        To make matters worse, public reporting indicates that Congress may be negotiating a deal to
+pass a kids’ safety package that includes the extremely controversial provision preempting state laws
+
+
+
+77
+  American Privacy Rights Act, H.R. 8818 (118th Cong., 2d session),
+https://www.congress.gov/bill/118th-congress/house-bill/8818/text.
+                                                            1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                            24
+on artificial intelligence.78 That would be wholly unjustified. Many of the bills under consideration today
+do not meaningfully address emerging technologies like generative AI. To the extent that the bills
+before the Committee today do address rapidly emerging AI technologies, they do not do so in a
+comprehensive fashion as applied to children. And, of course, these bills do nothing to provide
+guardrails or protections with respect to the many various ways in which the use of AI increasingly
+impacts everyone in this country, including as to consequential decisions relating to their employment,
+finances, education, and health. Bipartisan state legislators,79 Attorneys General,80 and Governors,81 as
+well as a broad coalition of civil society organizations, including child safety advocates,82 have all come
+out in opposition of such a moratorium. Companies should not get a free pass for committing fraud or
+illegal discrimination just because they use AI to do it. Passing any type of broad preemption, including
+a broad moratorium, on states’ ability to enact laws related to AI without putting in place strong federal
+protections commensurate with the scope of any such preemption would create a situation in which
+lawmakers at all levels were unable to enact laws to address harms and risks as AI rapidly evolves and
+spreads throughout our economy and society.83
+
+
+
+
+78
+   Ruth Reader & Carmen Paun, A Plan to Merge Kids’ Safety with Preempting State AI Laws, Politico (Nov. 26, 2025),
+https://www.politico.com/newsletters/future-pulse/2025/11/26/a-plan-to-merge-kids-safety-with-preempting-state-ai-laws
+-00668767.
+79
+   Letter from Brandon Guffey & Liz Larson, et al., to U.S. House of Representatives and U.S. Senate, NDAA State Policymaker
+Coalition Letter - Oppose AI Preemption (Nov. 24, 2025),
+https://ari.us/wp-content/uploads/2025/11/NDAA-State-Policymaker-Coalition-Letter-11-23-25-Oppose-AI-Preemption.pdf.
+80
+   Letter from National Association of Attorneys General to House Speaker Mike Johnson and House Minority Leader
+Hakeem Jeffries and Senate Majority Leader John Thune and Senator Minority Leader Chuck Schumer, State Attorneys
+General Urge Congress to Preserve Local Authority on AI Regulation (Nov. 25, 2025),
+https://www.naag.org/policy-letter/state-attorneys-general-urge-congress-to-preserve-local-authority-on-ai-regulation/.
+81
+   Letter from Gov. Sarah Huckabee Sanders, et al., to Senate Majority Leader John Thune and House Speaker Mike Johnson,
+Joint Governors Letter on One, Big, Beautiful Bill AI Moratorium (Jun. 27, 2025).
+https://governor.arkansas.gov/joint-governors-letter-on-one-big-beautiful-bill-ai-moratorium/.
+82
+   Letter from Coalition of Civil Society Organizations to Senate Majority Leader John Thune et al. (Nov. 24, 2025),
+https://cdt.org/wp-content/uploads/2025/11/Letter-Opposing-AI-State-Preemption-November-19.pdf.
+83
+   Travis Hall, Throw the AI Regulations Ban out with the Byrd Bath Water, Ctr. for Democracy & Tech. (May 20, 2025),
+https://cdt.org/insights/throw-the-ai-regulations-ban-out-with-the-byrd-bath-water/.
+                                                              1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                                         25
+Conclusion
+       The Committee is right to express concern about the impact of emerging technologies on
+children. The wide range of proposals currently before the Committee contain valuable ideas, including
+ones to increase the evidence base through which parents and young people can make decisions about
+and increase control over their experiences online. Some also raise constitutional and practical
+concerns about young people's access to lawful content, or the ability of adult users to access
+information privately and freely online. For these reasons, we urge the Committee to proceed with
+judgment and prioritize solutions that protect children's safety while also valuing privacy and free
+expression rights.
+       Legislative proposals that would enact meaningful data minimization restrictions and other data
+privacy protections either for everyone or, at a minimum, beginning with enhancing protections for
+children would help to address some of the root causes of many of the concerns for kids’ safety online.
+We look forward to working with the Committee members and staff to enact meaningful protections
+for children and for everyone online.
+
+
+
+
+                                                     1401 K Street NW, Suite 200 Washington, DC 20005
+
+                                                                                                       26
+

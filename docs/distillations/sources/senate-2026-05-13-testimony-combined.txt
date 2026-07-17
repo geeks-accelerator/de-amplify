@@ -1,0 +1,2056 @@
+================ WITNESS: lanier ================
+                              WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+                        United States Senate Committee on the Judiciary
+                       Subcommittee on Privacy, Technology, and the Law
+
+  Hearing “From the Courtroom to Congress: Why Landmark Social Media Verdicts Demand
+                         Federal Action to Protect Kids Online”
+
+                                            May 13, 2026
+
+                                 Testimony of Rachel Lanier
+                    Managing Attorney, The Lanier Law Firm — Los Angeles
+
+
+
+
+I. Introduction
+Chairwoman Blackburn, Ranking Member Klobuchar, and distinguished Members of the
+Committee: thank you for the opportunity to submit this written statement for the record.
+My name is Rachel Lanier. I am a trial lawyer and Managing Attorney of The Lanier Law Firm’s
+Los Angeles office. I had the privilege of trying KGM v. Meta and Google (the first social media
+addiction case ever decided by an American jury) alongside my father Mark Lanier, my sister
+Sarah Lanier, and our trial team. The jury rendered a verdict in favor of our client. This written
+statement expands upon my oral testimony and provides the evidentiary record this Committee
+should have before it as it considers legislation.
+If I may, I would like to focus this statement on three critical points:
+   •   Children’s brains are being hijacked, and big tech built it that way by design.
+   •   The companies knew children were being hurt, and they chose profits over safety.
+   •   This Committee has the power to act, and how you act matters enormously.
+
+II. Children’s Brains Are Being Hijacked, And Big Tech Built It That Way By Design
+Children are the future of America. Children’s brains are being fundamentally altered by these
+companies, and not for the better. Meta, Google, and others operate in what they call the “attention
+economy.” Social media’s entire business model depends on keeping your child’s eyes on their
+apps as long as possible, because attention means advertising revenue.
+These companies are incentivized by profit, not to protect children. They are incentivized to addict
+children young and keep them hooked. Section 230, a law written in 1996, at a time before social
+media even existed, gives these companies a free pass from legal accountability for hurting
+children by design.
+Let me be clear about the double problem we face: these companies are deliberately building and
+operating features that addict children and keep them engaged as long as possible, and with Section
+230, they face minimal legal responsibility for the design decisions that target, manipulate, and
+                                      WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+exploit young minds while they are there. That is a national health crisis for the youth of our
+country.
+
+The Feedback Loop of Harm
+The trial evidence revealed a well-documented feedback loop between social media use and mental
+health harm to children. Internal research showed that the companies understood precisely which
+populations were most at risk and why.
+   ► Exhibit Reference: Internal Diagram: Social Media Use and Mental Health Feedback Loop (Undated)
+
+
+
+
+    EX. 00005.00001 — Meta internal diagram showing the feedback loop between social media use and mental health harm, identifying
+           adolescents, females, those with mental health challenges, and low socio-economic status as highest-risk populations.
+
+As the internal research depicted in the above makes clear, the populations most at risk for
+developing mental health challenges are the same populations most likely to develop unhealthy
+social media use patterns. Those vulnerabilities include:
+   •    Adolescence: a period of heightened neurological susceptibility
+   •    Females: girls are disproportionately harmed by social comparison and body image
+        features
+    • Pre-existing mental health challenges
+    • Low socio-economic status
+Social media use (particularly negative social comparison, online bullying exposure, excessive
+passive use, and nighttime use) drives poor self-esteem and negative body image, which in turn
+drives mental health challenges, which in turn increases the likelihood of more unhealthy social
+media use. These companies’ own internal materials acknowledged this cycle. They continued to
+build features that exploit it.
+These platforms cause documented neurological effects in developing children, forever altering
+the neutral pathways of young brains. Time on these platforms causes tremendous mental health
+                                    WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+harm to children, including addiction, depression, anxiety, eating disorders and suicide. This is
+supported by extensive research, including some of the companies’ own internal studies.
+
+Engineered to Addict
+Our client, Kaley, started using YouTube at age six and Instagram at age nine. By the time she
+was a teenager, she was struggling with depression, body dysmorphia, and suicidal ideation. She
+is not alone. She is one of millions of young people currently suffering so tech companies can
+profit.
+What happened to Kaley is unfortunately not an isolated tragedy. There are currently thousands of
+personal injury cases consolidated in federal multidistrict litigation in the Northern District of
+California, and hundreds of additional claims brought by school districts across this country. These
+are parents, children, teachers, and entire communities saying the same thing that a Los Angeles
+jury just confirmed: something is very wrong, and these companies are responsible. Those cases
+represent real harm done to your constituents’ communities.
+What the evidence at trial revealed is that by design, these platforms were deliberately engineered
+to hijack the brain’s reward systems:
+   •   Infinite scroll: removing natural stopping points to extend session length
+   •   Algorithmic feeds: optimized not for quality or safety, but for engagement and watch
+       time
+   • Push notifications: timed to pull children back in at vulnerable moments
+These are just some of the features built to maximize the time spent on the app, because more time
+means more advertising revenue and data harvesting.
+   ► Exhibit Reference: Email Chain Re: Notes from iOS Creator App Review (June 7, 2012)
+
+
+
+
+            EX. 04504.00001 — An internal email chain from 2012 highlights YouTube’s internal goal – “not viewership, it’s viewer
+                                                         addiction[.]”
+
+   ► Exhibit Reference: YouTube Main App Internal Presentation (Feb. 4, 2016)
+                                        WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+EX. 04502.00011 – This internal YouTube/Google presentation is a Feb. 2016 product “deep dive” by the YouTube Main App team. The goal is
+explicitly clear: “We aspire to be an app that is…Addictive”, further “[o]ur app experience should compel users to come back more and more
+                                                     often.” This is not casual language.
+
+Google explicitly laid out their means to achieve to this “addiction” goal: increasing watch time.
+In 2012, YouTube established a “Big Hairy Audacious Goal” to reach one billion hours of daily
+watch time (up from 175 million hours at the time). This would require growth rates of 45% to
+56% year-over-year to meet that target. (Ex. 6497.00007).
+    ► Exhibit Reference: Google Internal Viewers All Hands Presentation (Mar. 18, 2013)
+
+
+
+
+ EX. 06497.00004 — YouTube internal slide proclaims the “Big Hairy Audacious Goal” – with current rates at time as 175 million hours/day.
+                                        WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+                         EX. 06497.00005 — YouTube internal slide stating the target: 1 billion hours/day by 2016.
+
+The company became laser-focused on a single metric: watch time. The mission and metrics were
+oriented entirely around increasing daily active viewership and watch time per visit. These were
+engineering choices made to serve a growth target of one billion hours per day. The children using
+these products were not customers. They were the product.
+
+
+
+
+   EX. 06497.00010 — The “Big Rocks” initiative: organized around increasing daily active users and watch time per visit, with autoplay,
+                                 queueing, and resume as explicit engagement-maximizing features.
+
+
+III. The Companies Knew Children Were Being Hurt, and They Chose Profits Over Safety
+                                WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+Mark Zuckerberg testified before this body and told you that children under 13 are not allowed on
+his platforms. Our trial revealed that as of 2015, Meta’s own internal estimates showed over four
+million children under the age of 13 were on Instagram (roughly 30% of all 10-to-12-year-olds
+this country). Instagram didn’t even ask for a user’s age until far too late. Meta’s internal
+documents literally say “if we want to win big with teens, we must bring them in as tweens.”
+   ► Exhibit Reference: Meta H2/H1 2018 Youth Team Review (2018)
+
+
+
+
+                    EX. 00582.00005 — Meta H2 Summary highlights the “State of the world with teens.”
+
+Indeed, Meta’s internal documents show that they knew to establish long term retention of users
+and therefore maximize profits for the company, they must captivate users from a young age. But
+not just at any young age, Meta wanted the tweens.
+   ► Exhibit Reference: Meta M&A and Market Landscape Review: Long Term Retention and its Implications
+   (Dec. 13, 2018)
+                               WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+         EX. 00033.00005 — Meta long term retention overview – tweens having the highest retention age group in the U.S.
+
+
+
+
+EX. 00033.00006 — Users joining FB at 11YO have almost 4x LT (long-term retention) of those joining at 20YO.
+                                        WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+                                  EX. 00033.00008 — Meta identifies their goal of bringing in “tweens.”
+
+YouTube is no different. We saw that YouTube is intentionally targeting our youth. YouTube Kids
+is “Focused on Younger Kids” (ages 4–7) and “Available for Tweens” (ages 8–12). Main YouTube
+is “Available for Younger Kids” (4–7) and “Focused on Tweens and Beyond” (8+). The arrows
+make the pipeline explicit: children begin on YouTube Kids and are transitioned to main YouTube
+as they enter the tween years.
+   ► Exhibit Reference: YouTube Kids Strategic Onsite (Aug. 21, 2019)
+
+
+
+
+ EX. 04542.00007 – YouTube target audience listing YouTube main (which you must be over 13 to use) as available for kids of the age 4 and
+                                              under yet focused on those 8 years old plus.
+
+
+Age Enforcement: Known, Deferred, and Deliberately Obstructed
+The internal evidence around age enforcement at Meta is particularly damning. In February 2020,
+senior executives were still debating internally whether to even build the technical capacity to
+enforce age limits.
+   ► Exhibit Reference: Internal Meta Email Titled “Age Management Decisions” (Feb. 2020)
+                                      WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+EX. 00009.00001 — Internal Meta email from Feb. 4, 2020 to Nick Clegg re: age management decisions, acknowledging the company had “no
+                        way of enforcing” its under-13 policy and describing the position as “just indefensible.”
+
+The above is an internal Meta email chain from February 2020, involving Nick Clegg (then VP of
+Global Affairs) and senior policy and product leadership. The email presents two decision
+questions:
+   •    Issue 1: Should Meta proactively enforce its under-13 policy by building AI capacity to
+        detect age falsification?
+    • Issue 2: Should Meta allow its Growth team to test age-gate designs that use color to
+        “steer” users toward answering “yes” to the question “Are you 13?”
+On Issue 1, the author wrote with notable candor that the company’s position was “just
+indefensible”: the company said it did not allow under-13s on its platforms yet had no way of
+enforcing it. The email further acknowledged: “We know there are harms associated with pre-teen
+use of social media (including the evidence that Jon Haidt showed us on IG).”
+The internal response to these harms was not urgency. The product organization objected to
+prioritizing age enforcement, arguing there were “other issues that are more important” and that it
+was “not feasible to staff this without compromising in another area.” The recommendation was
+that if leadership decided not to push forward, “the product organization would not prioritize this
+proactive work until we’re legally required to do it.”
+On Issue 2, the recommendation was to reject the Growth team’s proposed age-gate designs,
+because using color to steer toward the “right answer” was “too far from neutral” and would
+                                         WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+“undermine our ability to say that the age gate is meaningfully protecting against underage users
+joining FB/IG.” In other words, the concern was not child safety; it was legal exposure.
+     ► Exhibit Reference: Age-Gate Registration Flow Mock-Ups (Feb. 2020)
+
+
+
+
+EX. 00009.00004 — Internal Meta mock-ups of age-gate registration flows showing design variants that used color and layout to guide underage
+                                          users toward falsely affirming they were 13 or older.
+
+The email includes mock-up screenshots of the registration flow that Meta was testing: flows that
+were explicitly designed to make it easier for children to falsely claim to be 13. The internal policy
+team recommended against these designs not out of concern for children, but to preserve legal
+defensibility.
+
+Cosmetic Surgery AR Filters and Body Image Harm to Minors
+Instagram has voluminous “beauty” filters that impact especially teenage girls’ body image.
+Meta maintained an internal debate over cosmetic surgery augmented reality (AR) filters: a feature
+that allowed users to see themselves with altered facial and body features replicating the results of
+cosmetic surgery procedures. These filters were temporarily banned in October 2019 following
+expert and press concerns about potential negative wellbeing impacts, especially on minors.
+     ► Exhibit Reference: Internal Meta Email: Pre-read on Cosmetic Surgery AR Effects (May 2020)
+                                        WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+  EX. 00012.00001 — Email from Facebook VP of Product Design to Mark Zuckerberg registering dissent over the decision to lift the ban on
+                      cosmetic surgery AR effects, citing her own daughter’s hospitalization for body dysmorphia.
+
+The above is a May 2020 internal email chain involving Mark Zuckerberg, Sheryl Sandberg, Nick
+Clegg, Monika Bickert, and Mike Schroepfer debating whether to lift, modify, or continue the ban.
+Mark Zuckerberg wrote that he was “supportive of moving forward with option 2 (lifting
+restrictions but not promoting on IG),” adding that he did “not have strong opinions on other
+implementation details.”
+Margaret, identified as VP of Product Design, wrote directly to Zuckerberg to register her dissent
+for the record:
+       “As a parent of two teenage girls - one of whom has been hospitalized twice in part
+       for body dysmorphia - I can tell you the pressure on them and their peers coming
+       through social media is intense with respect to body image. I recognize that my
+       family situation makes me somewhat biased but it also gives me first hand
+       knowledge that most of the people looking at this issue don’t have. There won’t be
+       hard data to prove causal harm for many years, if ever, but I was hoping we could
+       maintain a moderately protective stance here given the risk to minors.”
+Her dissent was noted. The ban was lifted. The feature was restored.
+                                 WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+This is the pattern throughout the internal record: employees raised concerns, those concerns were
+overruled, and growth continued.
+
+The Algorithm Was Optimizing for Addiction
+Perhaps the most striking internal document produced at trial was a Meta internal chat from
+October 2023 in which Meta employees candidly discussed what the company’s recommendation
+algorithm was actually doing.
+    ► Exhibit Reference: Internal Meta Chat Re: Algorithmic Optimization (Oct. 2023)
+
+
+
+
+   EX. 00091.00001 — Internal Meta group chat from Oct. 24, 2023, in which employees acknowledge the core
+recommendation algorithm is optimizing teen engagement for teens the same way it does for all users — contrary to
+                            the company’s public messaging about teen safety tools.
+
+The above captures an internal Meta group chat in which employees reacted to news of state
+attorneys general filing suit against the company. One employee wrote: “does [name redacted]
+realize how the core algo is set up? Like it’s literally just mathematically optimizing for vpvs and
+sessions *for teens* as with everyone else, which is the thing we’re being told we cannot do...”
+                              WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+Another employee responded: “Like nobody is asking us to build 30 tools.” Another: “who asked
+you to build 30 tools.” Response: “nobody.”
+Meta employees questioned why the company was “doing cartwheels to avoid doing the thing”
+they were actually being asked to do which they could allegedly “at very little topline cost!”
+Meta’s own communications are explicit: “IG is a drug… We’re basically pushers.” One employee
+even expressed that Adam Mosseri, Head of Instagram, “freaked out” when they talked about
+dopamine in their fundamental leads review.
+Similarly, Google internally compared their products to slot machines. In a 2015 internal
+presentation titled “A Call to Minimize & Respect Users’ Attention,” Google’s own in-house
+design ethicist, Tristan Harris, identified “Intermittent Variable Rewards” (the same psychological
+mechanism that makes slot machines so addictive) as a core vulnerability that technology products
+were deliberately exploiting. As Harris explained internally, unpredictable rewards, such as a like
+that may or may not appear, or a comment that might be waiting, are the most addictive and the
+hardest to stop, precisely because they operate on the same variable-ratio reinforcement schedule
+used by casino slot machines.
+Harris warned his colleagues that the same psychological mechanism that makes slot machines so
+profitable was being baked into the design of Google’s products, which he called “attention
+casinos.”
+   ► Exhibit Reference: Google Slideshow – “A Call to Minimize Distraction & Respect Users’ Attention”
+   (2015)
+WRITTEN TESTIMONY — RACHEL LANIER
+                                      WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+       EX.06498.00038,53-54,61 – Internal PPT from 2015 created by Tristan Harris, Google’s in-house ethicist, titled “A Call to Minimize
+       & Respect Users’ Attention.” Harris discusses the concerns of making the world more distracted and highlights the vulnerabilities of
+         humans, including Intermittent Variable Rewards, aka, “slot machines” that are “the most addictive and the hardest to stop[.]”
+
+The executives at these companies had the research, they saw the harms, and they made choices
+to keep building features that they knew were addictive to children rather than take meaningful
+steps to keep kids off their platforms.
+                               WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+The Whistleblowers: Company Insiders Who Testified Under Oath
+It is worth noting that some of the most powerful evidence in cases like this came from within
+these companies themselves. Former employees who care have come forward at great personal
+and professional risk because they could not stay silent about what they were seeing. These
+whistleblowers are people of conscience who watched their employers choose profit over the
+safety of children and decided that was not something they could live with. Their courage has been
+indispensable to this litigation.
+Two former senior Meta insiders took the stand and testified against the company under oath at
+trial. Their testimony is among the most powerful in the trial record.
+
+Arturo Bejar: Former Engineering Director, Instagram Safety
+Arturo Bejar was Meta’s own hand-picked expert on safety: one of fewer than ten people in the
+world, by Meta’s own internal assessment, qualified to lead Instagram’s well-being engineering.
+Meta specifically recruited him for the role, describing it as requiring “world-class” expertise in
+understanding user harm and designing engineering solutions.
+Under oath, Bejar testified that he personally brought evidence of harm, “really good data”
+showing harm occurring at “staggering rates”, directly to Adam Mosseri, Sheryl Sandberg, and
+Mark Zuckerberg himself. Zuckerberg did not respond. When asked whether that response was
+satisfactory, Bejar testified simply: “He didn’t respond.”
+Bejar also testified that Meta’s leadership, in his direct observation, prioritized growth over safety;
+that Meta’s safety tools were not effective at protecting children: “Consistently”; that Meta was
+not transparent with Congress or the public; and that Meta had the technological ability to build
+effective AI-powered safety systems using the data Instagram already collected on every user, but
+did not build them.
+Bejar is not a plaintiff’s expert hired for litigation. He is the person Meta itself identified as one of
+the top safety engineers in the world, brought in specifically to fix the problem. His testimony that
+Zuckerberg did not respond, and that growth was consistently prioritized over safety is the
+company’s own conscience on the witness stand.
+
+Brian Boland: Former Vice President, Facebook (11-Year Veteran)
+Boland spent eleven years at Meta, rising to Vice President. He later published a public statement
+describing why he left and testified as a whistleblower. He confirmed his written words still reflect
+his beliefs: that Facebook’s priorities were growth and power, not the safety or well-being of its
+users, and that the company’s stated mission of “bringing the world closer together” was, in
+practice, little more than a marketing slogan.
+Boland was asked directly: in his eleven years, did Mark Zuckerberg ever call a “lockdown” (the
+mechanism by which Zuckerberg communicates what matters most to the entire company) for user
+safety? For teen addiction? For any of the harms being litigated at trial? The answer, each time:
+no. Not once. In eleven years. Zuckerberg called lockdowns for mobile strategy. He called one for
+competing with Google. He never called one for child safety.
+                             WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+Boland also testified that Meta could have placed warnings on users when their usage patterns
+indicated risk, could have used its AI to identify and intervene with at-risk teens, and could have
+tuned the algorithm away from maximizing engagement. It did not do any of these things.
+
+Additional Trial Admissions the Committee Should Have
+On age enforcement: the Age Management Decisions email (Exhibit 9) was read into the record
+verbatim. It stated that Meta knew there were “harms associated with pre-teen use of social media,
+including the evidence that Jon Haidt showed us on Instagram.” Jon Haidt, the social psychologist
+whose research on social media and adolescent mental health has been presented to this body, had
+personally presented his findings directly to Meta’s senior leadership. That research was sitting in
+internal emails the same year the company was assuring Congress that children were protected.
+On age data: a separate internal Meta document admitted at trial stated that Instagram only started
+collecting age data in December 2019. Instagram launched in 2010. For nearly a decade, the
+platform collected no age data whatsoever. Every representation that it was enforcing an age limit
+before that date was built on a foundation of no data at all.
+On “finstas” (the fake Instagram accounts used by teens to hide activity from parents): KGM’s
+trial exposed internal Meta documents showing the company not only knew about finstas but built
+an internal growth team specifically for them. The company’s response to learning that teens were
+using fake accounts to circumvent parental controls was to assign a team to grow their use.
+An internal Meta exhibit (Exhibit 26) introduced at trial showed that eighth graders who use social
+media ten or more hours per week are 56% more likely to be unhappy, and that the risk of
+unhappiness due to social media use is highest for the youngest teens. This research was compiled
+and presented internally.
+Finally, the personal self-review of Instagram’s head, Adam Mosseri (Exhibit 1334), from the
+second half of 2022 while this litigation was active shows that his primary goal was ensuring the
+app remained “culturally relevant as measured by sessions time and sharing, particularly with
+teens.” His stretch goal was to surpass TikTok in time spent worldwide. The document established
+that Instagram had driven daily viewing time on Reels to all-time highs. This is what Instagram’s
+leadership was tracking and celebrating at the same time that the company was publicly claiming
+to prioritize teen safety.
+
+IV. This Committee Has the Power to Act, And How You Act Matters Enormously
+Our founders built a system of justice that puts the power of accountability in the hands of everyday
+Americans. A jury of twelve ordinary people just used that system to tell two of the most powerful
+companies in the world that what they did to children is not acceptable.
+The courtroom is one of the most powerful tools we have to force accountability when there is
+wrongdoing. It was litigation that unlocked these internal documents. The exhibits described in
+this statement were not voluntarily disclosed. They were produced under compulsion of discovery
+and admitted into evidence at trial.
+                             WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+Do Not Strip Away the Accountability Tools That Work
+I urge this Committee: do not take that tool away. Any legislation (whether the Kids Online Safety
+Act, bills that reform Section 230, place guardrails on AI chatbots, or other technology bills) must
+set a floor, not a ceiling, for the standard of protection. Congress can and should establish minimum
+standards. But state laws, tort claims, and consumer protections that go further must also be
+preserved.
+I urge you to not let any preemptive statutory language, however well-intentioned, become the
+mechanism by which these companies escape accountability in a courtroom. These companies
+have lobbied hard for liability protection in the name of child safety legislation. Do not grant it.
+The internal documents described in this statement were only produced because families had the
+legal right to take these companies to court.
+
+Section 230 Must Be Reformed or Repealed
+Section 230 was written in the 1990s, before any of these platforms existed. It was never designed
+for the world we live in now: a world of algorithmic feeds, infinite scroll, and trillion-dollar
+companies that treat our children as products.
+At a minimum, this Committee should seriously consider a total repeal of Section 230 and let the
+courts do what the courts do. If full repeal is not possible:
+   •    Carve out social media platforms entirely from Section 230 protection;
+   •    Or, at a minimum, carve out children: no Section 230 immunity for harm to minors
+        (anyone under the age of 18 years of age);
+    • Carve out algorithmic design decisions: companies should not receive immunity for
+        engineering choices made to maximize engagement.
+For those who worry about free speech: The First Amendment stands on its own. Free speech does
+not require addictive design. Removing Section 230 immunity from algorithmic amplification does
+not silence anyone. It simply means that trillion-dollar companies bear the same responsibility as
+every other business in America when their design choices injure people.
+
+Support Targeted Legislation Focused on Design, Not Speech
+One example of thoughtful legislation is the Algorithmic Accountability Act, introduced by
+Senators John Curtis and Mark Kelly. It targets design decisions, not speech, and sets a floor for
+safety while allowing states to go further to protect their communities. The internal documents
+from this trial confirm that algorithmic design choices (such as recommendation systems, autoplay,
+infinite scroll, the notification timing) cause harm. Legislation that targets those design decisions
+is legislation that will actually protect children.
+
+The Burden Cannot Fall on Parents Alone
+The burden cannot and should not fall on parents. Most parents are doing their absolute best. They
+are setting screen time limits, having hard conversations, and trying to stay one step ahead. But
+they are not engineers. They are not algorithm designers. They are moms and dads, up against
+trillion-dollar companies who have entire teams dedicated to profit and growth on their platforms.
+This is not a fair fight. And it is not a fight we should be asking parents to wage alone. The only
+                             WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+way to protect kids and teens is to require tech companies to act like every other industry in this
+country and design systems and products that are not unreasonably dangerous.
+Meta’s own internal research confirms that parents are fighting a battle that the platform designed
+for them to lose. Meta’s research report from its internal MYST study included a longitudinal
+survey of approximately 1,000 U.S. teens linked to actual behavioral data from their Instagram
+accounts. Its findings are devastating to any claim that parents have the tools or awareness needed
+to protect their children.
+The study found that digital supervision and caregiving activities, such as following teens on
+social media, monitoring their accounts, and setting rules, had no association with teens’ own
+feelings of attentiveness or self-control. In other words, parental supervision tools do not make
+teens feel more in control of their use. They do not improve teens’ ability to resist the pull of the
+platform.
+When Meta’s researchers looked at teens’ actual on-platform behavior, they found that teens with
+more potentially problematic Instagram activity had parents who were more actively
+supervising them. Teens whose parents said they monitored their social media accounts had
+higher composite scores for potentially problematic Instagram use and spent more total time on
+the platform. Teens whose parents said they followed them on social media also spent more time
+on the platform and had more sessions. Parental supervision was not counterweight to problematic
+use; it was a marker of it.
+Meta knew all of this: their data documented it. And yet the public-facing narrative from this
+company has long been that parents have the tools and responsibility to protect their children. The
+MYST exposes that narrative as inaccurate. Even when parents are trying, even when they are
+watching, monitoring, following, and setting rules, the platform’s design overwhelms their efforts
+entirely. That is a platform design failure.
+   ► Exhibit Reference: Meta Internal Research Report — “[WIP] Association Between Parent and Teen
+   Attentiveness to Their Social Media Use (Potential Problematic Use) (MYST)” (Mar. 2024)
+                                    WRITTEN TESTIMONY — RACHEL LANIER
+
+
+
+
+                  EX.00080.12-13 – Meta report discussing relationship between teen problematic use and parent supervision.
+
+
+V. Conclusion
+The internal documents were produced in civil litigation brought by families on behalf of their
+children. They reveal, in the companies’ own words, that they knew, they debated, they weighed
+the harms, and they chose growth.
+A jury of twelve Americans saw that record and rendered a verdict. This Committee now has some
+of that same record. I respectfully urge you to act on it.
+I represent parents and families every single day. I am honored to serve as a resource to this
+Committee, to review legislative language, to share what the evidence showed at trial, and to help
+ensure that whatever this body does moves us closer to protecting children and not further away.
+Thank you for your time and for the important work this Committee is doing on behalf of
+America’s children.
+Respectfully submitted,
+
+
+Rachel Lanier
+Managing Attorney
+The Lanier Law Firm — Los Angeles
+
+Exhibits cited within this statement are here: https://lanierlawfirm.box.com/s/hvjoxr0qggdi02geiw51mfsgrc0q89av
+
+================ WITNESS: bogard ================
+May 11, 2026
+
+The Honorable Marsha Blackburn
+Chairwoman, Judiciary Subcommittee on Privacy, Technology and the Law
+United States Senate
+Washington, DC
+
+The Honorable Amy Klobuchar
+Ranking Member, Judiciary Subcommittee on Privacy, Technology and the Law
+United States Senate
+Washington, DC
+
+SUBJECT: TESTIMONY FOR JUDICIARY SUBCOMMITTEE ON PRIVACY,
+TECHNOLOGY AND THE LAW HEARING ON MAY 13, 2026
+
+Dear Chairwoman Blackburn, Ranking Member Klobuchar and Subcommittee
+Members,
+
+Thank you for inviting me to share our story. My name is Joann Bogard. I am a mother,
+a child online safety advocate, and a founding member of ParentsSOS, and I live in
+Indiana with my husband Steve. We have been blessed with almost 40 years of
+marriage and three beautiful children. Before retiring, Steve served our community as a
+firefighter and I worked at our public school system. We were living a beautiful dream
+life, until our nightmare began.
+
+Seven years ago I made a promise to fight for change. I made that promise to my
+15-year-old son Mason while he was on life support after attempting a dangerous viral
+challenge, so it's a promise that I can’t give up on. It is why I have been advocating for
+the Kids Online Safety Act for over four years, travelling repeatedly to Capitol Hill with
+other ParentsSOS survivor families to ask Congress to stand up to Big Tech on behalf
+of parents. And knowing that our Senate is not only encouraging me to continue
+fighting, but fighting with me, means everything. I’m here today to ask Congress to
+finish the job and pass KOSA, a bill that received 91 votes on the Senate floor last
+session of Congress, and has 76 sponsors today.
+
+Mason was our youngest. He was our creative kid–always taking things apart to create
+something new. Trying to figure out what made things work the way they did and how he
+could, as he would say, “make it work better”. He would watch how-to videos on
+YouTube to make fishing lures and master his woodworking skills. He loved fishing,
+hiking, camping, playing his drums, and entertaining his friends and family with his witty
+humor. He was smart and so funny. He had great friends and went to a good school.
+Mason was very generous and compassionate. When he would see a homeless person,
+he would ask me to turn around so that he could give them his money. I would remind
+him that we don’t know if they are really homeless. His reply was, “we don’t know that
+they aren’t homeless.” Of course, we would turn around and he would share everything
+that he had. Even as a young boy, when he would see someone in a military uniform or
+a veteran’s hat, he would walk up to them, shake their hand, and thank them for their
+service. When someone took something of his without asking, his answer was always,
+“well they must have really needed it, so I’m happy to let them keep it”. His heart was
+pure and wholesome. He brought so much joy to us and completed our family.
+
+In 2019 he had just started his first job at a landscape business and was excited to start
+driver’s ed. He talked often about joining the Army. He was always a protector of others,
+so this seemed like a logical path for him. What I want you to see here is that Mason
+was living a healthy and well-balanced lifestyle as a typical teen.
+
+May 1, 2019 started as a normal day for our family with our typical routines of work,
+school and dinner. That night Mason gave his dad his typical hug, walked upstairs to
+take his shower, and called to me, “I love you Momma.” I replied, “I love you too Buddy.”
+Those were our last words. A few minutes later, we would find Mason’s lifeless body.
+Not breathing. No heartbeat. Thanks to my husband’s quick action, he was able to do
+CPR and get a pulse back and Mason spent a week on life support, but he never woke
+up. Our answer to what happened was on his phone. A self-recorded video where he
+had tried a viral social media trend called “the choking game” that the algorithm fed to
+him unsolicited. This is a trend where kids make themselves pass out, wake up and
+post it. For Mason and too many others, it went horribly wrong and we lost our sweet
+boy.
+
+Just two weeks ago, I was contacted by another parent who said that her son had
+recently died from the choking challenge. I have been notified of over 100 more choking
+challenge deaths just since Mason died. This is just one type of social media harm. One
+type of challenge. And just the children that I know about. Dangerous challenges are
+just one of the many harms that are the result of how social media is designed to keep
+our kids scrolling, posting, and sharing as long as possible: cyberbullying, sextortion,
+illicit drugs sales, eating disorders, self-harm, sanctioned suicide, and more are all
+linked to social media’s business model.
+
+Mason and all of the other children who have died attempting the choking challenge
+were doing exactly what the social media companies want kids to do: scrolling and
+posting to try to earn attention from their friends, classmates, and strangers. Social
+media’s design drives children to seek “likes” and “clicks” that in today’s world are so
+important to make them feel accepted by their peers. And the never-ending algorithmic
+feeds of harmful content give our impulsive and impressionable children a false sense
+of safety. It doesn’t matter if a child is living a healthy well-balanced lifestyle, or if they
+have a natural curiosity about drugs or sex, the algorithm will find whatever it is that will
+heighten their emotions and feed it to them unsolicited to keep them scrolling.
+
+The tech companies are well aware that these online harms exist, but they have failed
+to address them. Since Mason died, each week I search for these choking challenge
+videos on social media. I find dozens within minutes and I report them. Yet they are
+rarely removed. A recent study funded by the Becca Schmill Foundation found that less
+than 5% of the reported dangerous challenges on YouTube, Vimeo, TikTok and
+Instagram were removed. This is unacceptable, especially considering that the
+platforms claim in their Terms of Service that “harmful challenges are not allowed”.
+
+Tech companies’ failure to act on the spread of dangerous viral challenges is just one of
+the ways that platform executives have repeatedly proven that they will not self-regulate
+in a manner that will consistently protect children. They give parents and young users —
+and Congress — a false sense of safety with promises of protections and safety
+measures. For example, Meta has heavily marketed 47 new protections, many under
+the umbrella of its “Teen Accounts” campaign. These new protections and parental tools
+are often announced right before a hearing or markup in Congress. Yet research
+revealed that only 8 of them work as promised. This type of negligent, empty marketing
+contributes to the harm and death of countless children.
+
+Tech executives have also deceived Congress about their commitment to our children. I
+was at the Senate Judiciary Committee Hearing in January 2024 when TikTok CEO
+Shou Zi Chew lied about TikTok having zero challenges on their platform. I still find them
+today. At that same hearing, Meta CEO Mark Zuckerberg also lied when he claimed to
+have no knowledge of a correlation between social media and mental health harms. A
+trove of internal documents released by whistleblowers and obtained through litigation
+has shown that Mr. Zuckerberg and other Meta executives were well aware of the harm
+Instagram was inflicting on teens. At this same hearing, Mr. Zuckerberg was forced to
+apologize to the grieving parents who have lost their children to online harms. His words
+rang hollow, not only because he did not take any responsibility, but because Meta has
+lobbied extensively against KOSA. Parents like me don’t want forced apologies, we
+want Meta to stop blocking legislation that we have been advocating for tirelessly for
+years.
+
+Despite tech executives’ best attempts to deceive us all about the safety of social
+media, recent lawsuits have proven what parents have long known: their products are
+designed to profit off of our kids, not protect them, and they know it. I was at the social
+media trial against Meta and Google in Los Angeles, where Mark Zuckerberg lied again
+about his knowledge of his product being harmful and took no responsibility for
+decisions he made that put youth on Instagram at risk for mental health harms and
+death. Thankfully, a jury of peers found Meta and Google liable and negligent on all
+charges. They heard that Mark Zuckerberg and other Meta executives knowingly
+designed products to be addictive and chose not to heed to the warnings from
+professionals about the likely mental health harms that they would cause. They heard
+that YouTube executives’ highest measure of success is how long users — including
+children — spend on the platform, and that they took years to implement minimal safety
+features for kids, who they knew were struggling.
+
+The trial in California and other lawsuits like it are raising critical awareness about Big
+Tech’s harmful practices, but successful verdicts in social media cases are rare. For
+years, tech companies have used Section 230 of the Communications Decency Act to
+avoid liability for their design choices. My own case against TikTok and Google recently
+faced dismissal on Section 230 grounds and is now on appeal because the current laws
+solely protect the companies instead of children. The platforms can lie, and they hold
+the keys to showing evidence of the lies and dangerous product designs. We need
+legislative reform that requires social media companies to be transparent and puts the
+burden on them to prove these products are safe.
+
+Comments are often made that it is the parents’ responsibility to protect their children
+online. I am here today to say that even the best parenting skills can’t fight these
+companies and their algorithms. I was the engaged parent who did everything that the
+experts advised. I had all of the safety features turned on for Mason’s devices, I had
+watchdog apps in place, I delayed and limited social media, and I had the hard
+conversations about online safety. Yet the harmful content that led to his death still
+found its way into his phone. My experience, and the experience of other survivor
+parents who advocate with me, make it clear that parents can’t fight this alone. The
+recent court cases prove that these companies knew that their products were
+purposefully designed to be addictive and could cause mental harm to young viewers.
+They knew that their safety settings and parental tools were ineffective at keeping kids
+safe and healthy. Parents aren’t asking for a free pass from parenting. We are asking for
+a fighting chance to protect our children. We all have a role to play in keeping them safe
+online: parents, educators, state and federal lawmakers, AND the people who design
+these products–the billion dollar platforms.
+
+So when people ask, “Where are the parents of these children?” I can tell you the
+answer. We survivor parents are here, on Capitol Hill, sitting through countless
+Hearings. We are in the classrooms, in the Town Halls, starting foundations, knocking
+on Meta’s door in Silicon Valley and being escorted off the property, rallying outside the
+Apple office, meeting with President Trump, and still hopeful for a meeting with Speaker
+Johnson. That is where you will find us–fighting for YOUR children and YOUR
+grandchildren, because ours are gone and we don’t want any other family to feel this
+pain. We have started a huge movement, and we aren’t going anywhere until it is
+finished. Spreading awareness, ensuring that education is being added to school
+curriculum, fighting for legislation and the ability to sue these companies when they are
+being irresponsible and negligent. I’m asking every lawmaker to join us in this fight. Do
+what you do best. Pass legislation to protect America’s young people so that our next
+generation has a solid foundation to lead the world.
+
+No other American industry goes unchecked. Big Tech should not be the exception
+simply because they have an endless supply of money to buy their way out of
+accountability using over 300 lobbyists fighting against legislation.
+
+If a company knowingly designs a carseat with substandard plastic and unsafe features
+to increase their profit margin, and puts a label on the box that claims to have safety
+features that don’t actually work as promised, that company can be sued. Children will
+die and people will demand that Congress hold them accountable. This is not the case
+with virtual products. As a parent, I did the research and believed the safety claims. We
+must change this flawed system and create laws that mandate safety features for virtual
+products that match the laws for tangible products.
+This is why we need laws in place like the Kids Online Safety Act to regulate these
+companies and provide parents with real tools to protect our children. KOSA doesn’t
+hamper anyone’s right to search for content. It simply applies some common sense
+guidelines for these platforms that will save young lives and protect their mental health.
+If these platforms were not allowed to design an algorithm to be addictive, or feed
+unsolicited harmful content like dangerous challenges, or suggest connections with
+predators and drug dealers, then kids like Mason and thousands more would still be
+alive.
+
+There isn’t one big fix for this mess. It can’t be fixed with legislation alone. We need to
+see more people fighting back through litigation. We need to spread awareness about
+the reality of the online world, and educate parents and youth leaders. We need to
+educate the kids in the classrooms. There is a huge movement right now, and passing
+KOSA would be the beginning of regaining the traditional moral and ethical standards
+that our great country thrives on.
+
+We are America. The greatest country in the world. And yet, our future leaders of the
+country, our children, face deadly risks. There must be a sensible way to make laws that
+allow our children to prosper, rather than companies prosper at the costs of our children.
+KOSA is our answer.
+
+Mason was one of the most generous kids that I have ever met. His final act of
+generosity was his gift of life to the people who received his organs. News of Mason’s
+death spread and people were asking me, “How can we protect our kids online?” That’s
+when I knew that this wasn’t isolated to our family and that I had to find a way to turn
+this tragedy into something that would honor Mason’s life and save other children. My
+young hero always stood up for those who didn’t have a voice. So I’m trying to follow his
+lead and be his voice.
+
+I pray that this is the very last hearing for KOSA, and that it moves forward quickly in the
+Senate and soon becomes law to honor the lost children listed below and begin
+protecting every child online. Parents are asking Senate Commerce Committee Chair
+Ted Cruz to please schedule KOSA for a markup without delay. Thank you Senator
+Blackburn and Senator Blumenthal for being champions of this bill in the Senate and to
+Ranking Member Klobuchar and the Subcommittee for standing with the survivor
+parents, and allowing me to share our story with you.
+
+
+Sincerely,
+
+
+
+
+Joann Bogard
+Mom of Mason, Forever 15
+Listed below are the children of the ParentsSOS survivor parents. These are just
+a few of the young heroes who are changing the world through their stories.
+
+Alex Peiser, Forever 17 – Alex was 17 years old when he died by suicide after he was
+influenced by anonymous users online. Alex was a fun, sensitive kid who was active in
+Boy Scouts, theater, band and his church youth group. He had good grades in school.
+
+Andrew Riviere, Forever 21 and Stephen Riviere, Forever 19 – Andrew was 21 and
+Stephen was 19 when they died from fentanyl poisoning alongside each other after
+experimenting with Oxycodone pills bought from an online drug dealer. The brothers
+were close to each other and lived and worked together. Andrew loved to make people
+laugh by doing goofy things. He was a mad scientist and enjoyed doing experiments.
+He was also great with his hands and an avid guitarist. Stephen was an academically
+and athletically gifted kid. After graduating from high school with an excellent record, he
+would have been a sophomore at the University of Colorado at Colorado Springs
+(UCCS).
+
+Becca Schmill, Forever 18 – Becca was 18 when she died of fentanyl poisoning from
+drugs she purchased through a social media platform. Becca was a kind, caring person
+with a gift for making those around her feel loved and appreciated.
+
+David Molak, Forever 16 – David was 16 when he died by suicide after months of
+relentless and threatening cyberbullying. In the year leading up to David’s death, he was
+addicted to internet gaming and social media which caused anxiety and depression.
+David was an excellent basketball player who had an amazing recollection of sports
+stats. He was a fantasy football fanatic and never passed up an opportunity to dominate
+his family in Monopoly.
+
+Erik Robinson, Forever 12 – Erik was 12 years old when he died as a result of
+accidental asphyxiation after participating in the online “Choking Game” (nowadays
+popularly known as the “Blackout Challenge”) just one day after learning about it. Erik
+was actively engaged in life at school, in Boy Scouts, and baseball. He had definitive
+plans for the future, including already corresponding with West Point’s admissions
+department to ensure he would meet their physical fitness requirements when the time
+came to apply.
+
+Ethan Burke Van Lith, Forever 13 – Ethan was 13 when he died as a result of
+accidental asphyxiation after participating in the online “Blackout Challenge.” Ethan was
+always the happiest kid in the room and the brightest light in any situation. Any
+challenge excited him: from jumping off a high rock into the water to bouncing on a pogo
+stick while riding his scooter simultaneously.
+
+Grace McComas, Forever 15 – Grace was 15 years old when she died by suicide after
+being viciously cyberbullied and threatened on Twitter, then sexually harassed and
+bullied by her school peers. Grace was a wonderful human being who was well-loved.
+She was a bright light from birth, bouncing and happy, and grew into a deeply kind and
+gregarious teen with a great sense of humor. Grace was active in school activities
+including sports, music, and community service.
+
+Griffin McGrath, Forever 13 – Griffin was 13 years old when he died as a result of
+accidental asphyxiation after participating in the online “Blackout Challenge.” Griffin was
+an extraordinary and wickedly smart child. He placed third in the National Science Bowl
+competition just two weeks before he passed. Most of all he was a kind-hearted soul
+and touched everyone he met with his brilliance, genuineness, and quick wit.
+
+Jack McDonough, Forever 18 – Jack was 18 when he died by fentanyl poisoning after
+taking a Percocet laced with the lethal substance that he procured from an online dealer
+on Facebook. Jack was an adventurous, outdoor enthusiast who enjoyed fishing with
+his friends and working on cars with his Dad. Jack was a kind and loving son, a true
+“giver,” and made himself available to help anyone in need.
+
+Jack Servi, Forever 16 – Jack was 16 years old when he died as a result of accidental
+asphyxiation after participating in the online “Blackout Challenge.” He broadcast his
+challenge on Snapchat while his friends watched the video of him choking and dying
+alone. Jack had an infectious smile and loved to make people laugh. His hobbies
+included building computers and working on motorized bicycles, as well as playing
+video games.
+
+Jordan DeMay, Forever 17 – Jordan was 17 when he died by suicide after he was
+sextorted by an online predator posing as a teenager on Instagram. Jordan was a
+driven young athlete whose love for sports basketball and football reflected his deep
+bonds with his friends, teammates, and community. He was a fierce leader on and off
+the field, and was known for his compassionate spirit, great smile, and fluffy hair. He
+loved his family and the water, and inspired those around him.
+
+Levi Maciejewski, Forever 13 – Levi was 13 when he died after being extorted online
+by a predator who coerced, threatened, and blackmailed him into ending his life. Levi
+was a devoted son and brother who brought light to the lives of everyone around him.
+He was unapologetically himself — a confident athlete, a leader on and off the field, an
+avid outdoorsman, a proud patriot, and an honest friend. In the wake of his passing,
+Levi’s family has worked to raise awareness about the dangers of online harms and the
+urgent need for stronger protections for kids online.
+
+Mason Bogard, Forever 15 – Mason was 15 years old when he died as a result of
+accidental asphyxiation after participating in a viral social media trend called the
+“Choking Challenge.” Mason was a typical teen who went to a good school, had great
+friends, and lived a healthy well-balanced lifestyle. He was generous, kind, spiritual, and
+loved deeply. He was very patriotic and wanted to join the Army. He enjoyed fishing,
+hiking, camping, woodworking, playing his drums, and entertaining his friends and
+family with his witty humor.
+Matthew E. Minor, Forever 12 – Matthew was 12 years old when he died as a result of
+accidental asphyxiation after participating in the online “Blackout Challenge”. Matthew
+was loving, compassionate, and a big hugger with a charismatic personality. Matthew
+was active in martial arts, football, and basketball. He cherished his time at family
+gatherings at the family farm in Tappahannock, Virginia.
+
+Max Osterman, Forever 18 – Max was 18 when he died from fentanyl poisoning after a
+Snapchat drug dealer sold him counterfeit Percocet laced with the deadly substance.
+Max was a warm and loving young man who brought great pleasure to all who entered
+his circle and advocated for those in need. He lettered in lacrosse, wrestling, and
+football, and was a great friend, teammate, and classmate.
+
+McKenna Brown, Forever 16 – McKenna was 16 when she died by suicide after being
+cyberbullied on social media. She was a gifted high school senior who had a way of
+making every person she encountered feel like they were the most important person in
+the room. McKenna had many future plans, including college hockey, flag football, and
+travel. She cared infinitely, was fiercely loyal, and always saw the good in everyone
+around her.
+
+Morgan Pieper, Forever 15 – Morgan was 15 when she died by suicide after social
+media use exacerbated her mental health. Morgan was a smart, funny, charismatic
+teenager and lived life with passion. An animal lover, Morgan was enrolled in the marine
+science program at her high school and planned to become a marine biologist.
+
+Owen Zimmer, Forever 17 – Owen was 17 when he died by suicide after he was
+influenced by online users. Owen was deeply loved by his family, friends, and many
+others. He had a passion for sports, especially football, and played the guitar and
+drums. He had a keen interest in world history and wanted to be a historian. Owen was
+proficient with technology and a skilled coder and had built a gaming computer with his
+grandfather.
+
+Walker Montgomery, Forever 16 – Walker was 16 years old when he died by suicide
+after he was sextorted by an anonymous online predator on Instagram. Walker was a
+well adjusted teenager with a great social circle. He had no depression or social
+problems at all.
+
+================ WITNESS: leary ================
+                     Prepared Written Testimony
+
+
+
+
+                             Mary Graw Leary
+                             Professor of Law
+                     The Catholic University of America
+                         Columbus School of Law
+
+
+
+
+From the Courtroom to Congress: Why Landmark Social Media Verdicts
+           Demand Federal Action to Protect Kids Online
+
+
+
+                        Senate Judiciary Committee
+              Subcommittee on Privacy, Technology, and the Law
+
+
+                               May 13, 2026
+                     226 Dirksen Senate Office Building
+
+
+
+
+                                     1
+Introduction
+
+        Thank you for the invitation to appear before you today to discuss the many reasons why
+recent trial court victories further demand federal legislation to protect children in online
+environments from the platforms which two separate juries have found are designed to exploit
+children’s still developing minds.1 My name is Mary Graw Leary and I am a Professor of Law at
+the Catholic University of America, Columbus School of Law.2 My scholarship focuses on the
+exploitation of marginalized people, especially women and girls; crime victim rights; and the
+intersection of criminal law and technology.3 I have researched and studied the many ways
+people are exploited online and how the current legal framework enables platforms to facilitate
+the exploitation of people, especially children, in a myriad of ways including through child sex
+abuse material (CSAM), human trafficking, and Image Based Sexual Abuse (IBSA). My
+experience includes studying these issues as an academic but also working on issues of online
+exploitation with victim survivors, non-profit organizations, and other stakeholders.
+
+        For decades it has been clear that federal congressional action is needed to respond to the
+epidemic of online harms to children. The numbers alone make this conclusion inescapable. The
+National Center for Missing and Exploited Children (NCMEC) reported 29.2 million separate
+reports of suspected child sexual exploitation in 2024, including 62.9 million images, videos, and
+other files and 546,000 reports concerning online enticement (a 192% increase).4 The FBI issued
+a national public safety alert “regarding an explosion in incidents of children and teens being
+coerced into sending explicit images online and for additional explicit material or money.”5 The
+Surgeon General called for a warning label on social media platforms.6 Although these reports
+and warnings include different forms of exploitation, they share some commonalities. All these
+forms of exploitation occur in an online environment in which tech platforms engage in practices
+without regard to safety - often aware that these actions exploit the developing juvenile brain.
+
+
+1
+  K.G. v. Meta Platforms, Inc., 4:25-cv-02691, (N.D. Cal. 2026); State ex rel. Torrez v. Meta Platforms, Inc., No. D-
+101-CV-2023-02838 (N.M. 1st Jud. Dist. Ct. 2026).
+2
+  The views expressed are my own and not those of The Catholic University of America .
+3
+  E.g., The Failed Experiment of §230 of the Communications Decency Act: How it Facilitates Exploitation and
+How It Must Be Reformed, 70 Vill. L. Rev. 49 (2025); History Repeats Itself: The New Faces Behind Sex
+Trafficking Are More Familiar Than You Think, 68 Emory Law Journal Online 1083 (2020); The Indecency and
+Injustice of the Communications Decency Act, 41 Harvard Journal of Law and Public Policy 553 (2018); The Third
+Dimension of Victimization, 13 Ohio State Journal of Criminal Law 139 (2016); The Digital Nexus of Commercial
+Exploitation of Children and Adolescents in the United States: From the Streets to Cyberspace, Sexual Development,
+The Digital Revolution, and the Law, Oxford University Press (Co-Authored) (2014).
+4
+  2024 CyberTipline Rep., Nat’l Ctr Missing and Exploited Children (2025), available at
+https://www.missingkids.org/gethelpnow/cybertipline/cybertiplinedata.
+5
+  Press Release, Federal Bureau of Investigation, FBI and Partners Issue National Public Safety Alert on Sextortion
+Schemes (Dec. 19, 2023) .
+6
+  Vivek Murthy, Surgeon General: Why I’m Calling for a Warning Label on Social Media Platforms, New York
+Times (June 17, 2024), available at https://www.nytimes.com/2024/06/17/opinion/social-media-health-
+warning.html.
+
+                                                         2
+The platforms appear to do so in part because congressionally constructed legal protections
+insulate them from any oversight or accountability for harms they cause. Consequently, they
+face no deterrence for designing products without regard to safety. Rather, the system
+incentivizes them to increase engagement through any means necessary, even exploiting
+children’s still developing mind and risking them great harm.
+
+         Indeed, Congress itself has been aware of the increasing instances of harm caused by tech
+platforms and has held over 40 hearings since 2019 on issues touching on technology and child
+protection with tech executives testifying in several of those hearings.7 While the harms have
+been increasing in scope and severity, the actual causes of these harms have come more into
+focus in recent years. For many years, because of the distortion of §230 of the Communications
+Decency Act (§230), the public has only been able to speculate that platforms’ internal business
+decisions have been a contributing cause to many of these harms to children. Tech platforms’
+ability to use §230 to prevent transparency has prevented access to their internal decision
+making. However, in recent years whistleblowers,8 internal documents,9 and now public trials10
+have pulled back the curtain and revealed that such platforms have designed their products with
+awareness they harm children so that they can maximize profits for their unregulated industry.
+
+
+
+
+7
+  E.g., Big Tech and the Online Child Sexual Exploitation Crisis: Hearing Before the S. Comm. on the Judiciary,
+118th Cong. (2024); The World Wild Web: Examining Harms Online: Hearing Before the Subcomm. on Com.,
+Mfg., & Trade of the H. Comm. on Energy & Com., 119th Cong. (2025); Protecting Kids Online: Snapchat, TikTok,
+and YouTube: Hearing Before the Subcomm. on Consumer Prot., Prod. Safety, & Data Sec. of the S. Comm. on
+Com., Sci., & Transp., 117th Cong. (2021).
+8
+  E.g., Shannon Bond & Bobby Allyn, Whistleblower Tells Congress that Facebook Products Harm Kids and
+Democracy, NPR (Oct. 5, 2021, 12:09 PM), https://www.npr.org/2021/10/05/1043207218/whistleblower-to-
+congress-facebook-products-harm-children-and-weaken-democracy [https://perma.cc/PB3Y-XBZF]
+(explaining that internal research documents from the companies show that the company is aware of the harm its
+platforms can cause to children, but fail to adapt proper safety measures); Written Testimony of Arturo Bejar Before
+the Subcommittee on Privacy, Technology, and the Law, U.S. Sen. Comm. on the Judiciary (Nov. 7, 2023),
+https://www.judiciary. senate.gov/imo/media/doc/2023-11-07-testimony-bejar.pdf [https://perma.cc/VZ6Z-A33S].
+9
+  E.g., Jeff Horwitz, The Facebook Files: A Wall Street Journal Investigation, Wall St. J. ,
+https://www.wsj.com/articles/the-facebook-files-11631713039 [https://perma.cc/K6DV-JH8X] (last visited Mar. 5,
+2025) (describing internal documentation of harmful effects of products, which demonstrated Meta’s awareness of
+harm it caused and failure to respond).
+10
+   E.g., Cecelia Kang, et al, Meta and YouTube Found Negligent in Landmark Social Media Addiction Case, The
+New York Times (March 25, 2026); (noting that lawyers “presented the jury internal company documents from
+Meta and YouTube that showed tech executives knew of and discussed the negative effects of their products on
+children”); New Mexico Department of Justice, New Mexico Department of Justice Wins Landmark Verdict Against
+Meta (May 5, 2026)(noting “internal Meta documents and testimony obtained by the NMDOJ in the litigation
+reveals repeated warnings from Meta employees and outside child safety experts about dangers present on Meta’s
+platforms.”)
+
+                                                         3
+These recent trials underscore the growing chorus of judges,11 states,12 and the public13 calling
+for congressional action to address tech’s “unconscionable” behavior.14
+
+        In this testimony, I offer three touchstones to frame this important conversation: the
+compelling history of legislative mechanisms to protect citizens; the more compelling specific
+history and obligation of legislative mechanisms to protect children; and the practical need for
+the federal legislative mechanisms to engage in protection of its citizens. Interwoven among
+these is the unique role of federal legislation to first prevent harm and when prevention fails,
+allow for access to justice for the harm experienced.
+
+The Critical Role of Legislation to Protect in General
+
+       Historically, Congress has long understood one of its many functions is to protect citizens
+from harm. As Alexander Hamilton noted in 1787, “Why has government been instituted at all?
+Because the passions of men will not conform to the dictates of reason and justice, without
+constraint.”15 Similarly, the Supreme Court noted that “‘(t)he most basic function of any
+government is to provide for the security of the individual and of his property.’”16 While
+undoubtedly Congress must balance its authority and obligation to protect with other important
+constraints and obligations, there is no question that federal legislation plays an essential and
+unique role in protecting citizens from harm prior to the harm occurring.
+
+        Traditionally, the protection of people from harm, particularly the harm of an
+extraordinarily powerful facilitator of exploitation such as an industrial force, has not been left
+solely to the victims. Rather, a legal regime of deterrence from wrongdoing and incentive for
+law abiding behavior has been accomplished by both the public and private law functioning
+together with each contributing to protection for the public and clear guidelines for potential
+
+11
+   E.g., Doe v. Snap, Inc., 88 F.4th 1069, 1070 (5th Cir. 2023) (Elrod, J., dissenting from denial of reh’g en banc)
+(per curiam)( seven of fifteen judges from the Fifth Circuit Court of Appeals dissented from a denial of rehearing en
+banc, asking their colleagues to revisit its “sweeping immunity for social media companies that the text cannot
+possibly bear.”); Force v. Facebook, Inc., 934 F.3d 53, 77 (2d Cir. 2019) (Katzmann, C.J., concurring in part and
+dissenting in part); Doe v. Facebook, Inc., 142 S. Ct. 1087 (2022) (Thomas, J., statement respecting denial of
+certiorari) (Justice Thomas highlighted the narrow focus on § 230’s text and expressed concern about courts
+granting “sweeping immunity” and the “capacious conception” of what it means to be a publisher that some lower
+courts espouse.)
+12
+   NAAG Supports Amendment to the Communications Decency Act, Nat’l Ass’n of Att’ys Gen. (May 23, 2019),
+https://www. naag.org/press-releases/naag-supports-amendment-to-the-communications-decency-act/
+[https://perma.cc/B8HZ-S4F3] (noting support for a letter signed by forty-seven attorneys general to amend § 230 to
+allow the enforcement of state law).
+13
+   Emily A. Vogels, 56% of Americans Support More Regulation of Major Technology Companies, Pew Rsch. Ctr.
+(July 20, 2021).
+14
+   David Hamilton, Jury Finds Meta’s Platforms Are Harmful to Children in 1st Wave of Social Media Addiction
+Lawsuits, PBS News (May 10, 2026) (noting that “[t]he jury agreed with allegations that Meta made false or
+misleading statements and also agreed that Meta engaged in "unconscionable" trade practices that unfairly took
+advantage of the vulnerabilities of and inexperience of children.”)
+15
+   The Federalist 15 (1787).
+16
+   United States v. U.S. Dist. Ct. for E. Dist. of Mich., S. Div., 407 U.S. 297, 312, (1972)(quoting Miranda v.
+Arizona, 384 U.S. 436, 539, 16 L.Ed.2d 694 (1966) (White, J., dissenting)).
+
+                                                         4
+wrongdoers. Within this legal regime, the public law plays an essential role as it can prevent
+harm by establishing guidelines prior to any wrongdoing. If the public law is followed, then in
+theory, harm is prevented and the need for private litigation to redress harm is minimized.
+
+        This is a historical pattern. As noted by many scholars, when a new industry emerges,
+there may be a period of time when the public law does not address the enterprise.17 This can be
+for many reasons, including the cause of harm is not clear, the appropriate shape the law should
+take has yet to emerge, the potential benefits of the industry, or the threat to society is not fully
+understood. But, as the industry grows and its potential to inflict harm on the public becomes
+more apparent, the public law often responds with a legal framework that incentivizes protection
+and balances advantages of the industry with the potential for harm to the public. This takes
+many forms including but not limited to public welfare offenses, regulation, civil remedies, and
+criminal laws. Similarly, these laws can recognize and deter many of the potential bad actors to
+include direct offenders, those who facilitate harm, or those who benefit from the harmful
+activity.18
+
+       The law typically does not place the entire burden for prevention of victimization on the
+victim herself. Private rights of action and common law torts compliment public law, but do not
+replace the governmental role to provide security and protection to the citizenry.
+
+This Protective Function of Congressional Action is Particularly Necessary in the Context
+of Online Exploitation and Those Entities Who Facilitate It
+        Congressional action to protect and prevent harm online is particularly needed at this
+time for three reasons. First, this exploitation disproportionately affects children. Second,
+congressional inaction is partly responsible for the dire situation that currently exists. Third,
+evidence has emerged in recent years demonstrating that the ecosystem of exploitation that
+currently exists incentivizes these platforms to continue to act without regard to safety.
+
+         The Particular Duty to Protect Children and the Role of Congressional Inaction in
+         Permitting this Harm
+
+       It is beyond dispute that the government has a compelling interest in protecting the
+“physical and psychological well-being of children.”19 Furthermore, the Supreme Court has
+recognized that “parents and others…[who] have this primary responsibility for children's well-
+being are entitled to the support of laws designed to aid discharge of that responsibility.”20
+
+17
+   See generally, e.g., Matthew P. Bergman, Assaulting the Citadel of Section 230 Immunity: Products Liability,
+Social Media, and the Youth Mental Health Crisis, 26 Lewis & Clark L.Rev. 1159 (2023); Danielle Keats Citron &
+Benjamin Wittes, The Internet Will Not Break: Denying Bad Samaritans § 230 Immunity, 86 Fordham L. Rev. 401,
+406 (2017).
+18
+   E.g., 18 U.S.C. 1591 (including among those liable for sex trafficking children one who recruits, entices, harbors,
+transports, provides, obtains, advertises, maintains, patronizes, or solicits by any means a trafficking victim; or
+benefits, financially or by receiving anything of value, of their trafficking).
+19
+   E.g., Free Speech Coal., Inc. v. Paxton, 606 U.S. 461, 496, (2025).
+20
+   Ginsberg v. State of N.Y., 390 U.S. 629, 639 (1968).
+
+                                                          5
+Research indicates that parents are widely supportive of legislation regulating social media
+platforms and would regard such regulation as helpful.21 Therefore, with regard to child
+protection, the government has a compelling interest to legislate.
+
+        This need is arguably compounded because congressional inaction is, in part, responsible
+for the ecosystem of exploitation which threatens children. Although Congress initially did not
+intend to create a climate in which tech platforms were incentivized to maximize profits and
+harm children’s well-being, that is indeed the current world in which our children live and
+demands Congress to self-correct.
+
+        In 1996, when the Internet was in its infancy, Congress recognized the potential and
+threat this new technology posed to society. Therefore, it sought to establish a system that
+protected children prior to harm being inflicted upon them. One example of this was to include
+in the updating of the Telecommunications Act (a public law system) a provision entitled
+Protection for Private Blocking and Screening of Offensive Material.22 This preventative
+measure was intended to incentivize platforms to protect children and families from exposure to
+harmful explicit material or harmful offenders.23 This is explicit in the section entitled
+Protection for “Good Samaritan” Blocking and Screening of Offensive Material wherein
+Congress particularly sought to encourage
+
+        (A) any action voluntarily taken in good faith to restrict access to or availability of
+        material that the provider or user considers to be obscene, lewd, lascivious, filthy,
+        excessively violent, harassing, or otherwise objectionable, whether or not such material is
+        constitutionally protected; or
+
+        (B) any action taken to enable or make available to information content providers or
+        others the technical means to restrict access to [such] material.24
+
+
+As this Committee well knows, however, tech platforms embarked on a campaign in courtrooms
+across the country to expand this narrow limited protection for Good Samaritan action and distort
+it to de facto absolute immunity for all business actions.25 Consequently, tech has been able to
+
+
+21
+   Samantha L. Vigil, Drew P. Cingel, Jane Shawcroft & Sarah M. Coyne, Parental Attitudes and Predictors of
+Support for Youth-Directed Social Media Legislation in the United States, 34 J. Child & Fam. Stud. 2233 (2025)
+(“The high levels of support across provisions suggest policymakers could pursue more comprehensive regulation,
+rather than continuing the piecemeal approach.”)
+22
+   47 U.S.C. 230(b)(1),(2).
+23
+   E.g., 141 Cong. Rec. S8088 (daily ed. June 9, 1997) (statement of Sen. Exon); see also id. at S8089 (“The heart
+and the soul of the Communications Decency Act are its protection for families and children.”); S8087–92
+(statement of Sen. Exon) (discussing the dangers the internet presents to children including exhibits exemplifying
+“online predators”).
+24
+   47 U.S.C. 230(c)2).
+25
+   For a comprehensive discussion of this history see, e.g., Mary Graw Leary, The Failed Experiment of §230 of the
+Communications Decency Act: How it Facilitates Exploitation and How It Must Be Reformed, 70 Vill. L. Rev. 49
+
+                                                        6
+assert immunity – a word noticeably absent from §230 – for such actions as facilitating sex
+trafficking,26 designing a dating app without safety features to protect users from known
+dangerous conduct on its platforms including allowing other users to impersonate victims and
+direct others to victims’ homes for sex; 27 creating algorithms that facilitate and spread
+terrorism,28 refusing to follow court orders,29 advertising and engaging illegal firearms sales,30
+knowingly designing, managing, and promoting an app to be used to groom and sexually abuse
+minors;31 and creating a tool for reprogramming a computer system for cars and providing
+technical assistance and guidance on using the tool to defeat emission controls.32 Tech has even
+argued that it is protected from liability for receipt of CSAM – a federal offense.33
+        Through this litigation campaign tech platforms have actually claimed that §230
+establishes a regime rendering them free from accountability or duty to consumers.34 This was
+the explicit litigation position of TikTok in a hearing for a motion to dismiss CSAM claims.
+Regarding tort and negligence liability, TikTok had the following exchange with the court:
+
+         THE COURT: So, you don’t—you don’t have a duty to—
+         [COUNSEL FOR TIKTOK]: Not as articulated.
+         THE COURT: —to design a platform in a safe way. . . . [T]hat’s what you want to argue.
+         [COUNSEL FOR TIKTOK]: Well, what I’m arguing—
+         THE COURT: Yes or no? Yes or no?
+         [COUNSEL FOR TIKTOK]: Well, yes, I do want to argue that, Your Honor.35
+
+This blatant claim that platforms do not have a duty to design their products with care reflects the
+position of the industry.
+
+       The creation of a climate in which an entire industry believes and acts as if it does not
+have a duty to make business and design decisions with safety of the public in mind is in part due
+
+(2025); Mary Graw Leary, The Indecency and Injustice of the Communications Decency Act, 41 Harvard Journal
+of Law and Public Policy 553 (2018).
+26
+   Doe v. Backpage.com, LLC, 817 F.3d 12, 16-21 (1st Cir. 2016).
+27
+   Herrick v. Grindr LLC, 765 F. App’x 586 (2d Cir. 2019)
+28
+   Force v. Facebook, 934 F.3d 53 (2d. Cir. 2019).
+29
+   Hassell v. Bird, 420 P.3d 776, 789 (Cal. 2018) (Yelp’s refusal to comply with a court injunction is protected by
+Section 230).
+30
+   Daniel v. Armslist, LLC, 926 N.W.2d 710, 715, 726 (Wis. 2019), cert. denied. 140 S.Ct. 562 (2019) (website was
+immune under Section 230, despite allegations that website intentionally designed to evade federal firearm laws).
+31
+   Doe v. Snap, Inc. 2022 WL 2528615 (S.D. TX July 7, 2022), aff’d by 2023 WL 4174061, (5th Cir. June 26,
+2023), re’h en banc den’d by 88 F.4th 1069 (5th Cir. Dec. 18, 2023).
+32
+   United States v. EZ Lynk, et.al, 2024 WL 1349224 (S.D. N.Y. March 28, 2024).
+33
+   WebGroup Czech Republic, 2024 WL 3533426, at *6 (C.D. Cal. July 24, 2024).
+34
+   Calise v. Meta Platforms, Inc., 103 F.4th 732, 742 (9th Cir. 2024) (“Meta invites us to reconsider the limitations
+we have previously recognized and encourages us to adopt a broader rule that would effectively bar ‘all claims’
+‘stemming from their publication of information created by third parties.’” (quoting Doe v. MySpace, Inc., 528 F.3d
+413, 418 (5th Cir. 2008)).
+35
+   Transcript of Hearing on Motion to Dismiss at 146–47, In re Soc. Media Adolescent Addiction/Pers. Inj. Prods.
+Liab. Litig., No. 22-MD-3047 (N.D. Cal. 2023) (emphasis added).
+
+                                                          7
+to the current incentive structure that offers no deterrence for platforms to pursue dangerous
+business models. This structure is a result of the distortion of §230 and congressional inaction to
+correct this distortion. Social media platforms’ concerted effort to distort §230 has severely
+limited access to the courthouse by survivors and survivor families in a manner that Justice
+Thomas described a veritable “get out of jail free card.”36
+
+        Tech has also been just as intentional in preventing Congress from acting to update this
+1996 law. Congress has been aware of this distortion for several years. While individual
+senators and members of the Senate Judiciary Committee have acted in a bipartisan manner to
+propose legislation, Congress as a whole has failed to act. It has been well documented that tech
+lobbying blocked bipartisan child protection legislation.37 According to one study, 8 of the
+largest tech, AI, and social media companies spent a combined $71 million lobbying Congress –
+that equates to $330,000 every day Congress was in session last year.38 That same study reported
+that Meta alone deployed approximately 89 lobbyists representing roughly one lobbyist for every
+six members of Congress.39 This effort demonstrates how valuable to these platforms de facto
+absolute immunity has become to a business model that seems characterized by choosing profits
+over safety. Because Congress is partially responsible for this perverse incentive structure and a
+lack of deterrence for exploitive practices, Congress is especially compelled to act.
+
+           Information Revealed Through Recent Litigation Regarding Tech Platforms Underscore
+           the Need for Congressional Action
+
+        Congressional action is further demanded by new information that has emerged from
+recent trials and events. For years, because of tech companies’ ability to prevent discovery of
+internal documents and prevent legislation that would provide the public with some transparency,
+Congress has had to speculate as to the connection between the design of these platforms and the
+harms children experience in extraordinary numbers. During that time, tech executives came
+before Congress and represented to it that these harms were seemingly collateral side effects of
+the Internet system with which the platforms themselves were struggling. More recently, due to
+congressional investigations, whistleblowers, and leaked documents a very different picture
+emerged.40 As noted by the Tech Oversight Project, tech platforms’ claims before Congress have
+been refuted by evidence presented at trial.41 These trial documents and the subsequent verdicts
+
+36
+     Doe v. Snap, Inc., 144 S. Ct. 2493, 2494 (2024) (Thomas, J., dissenting denial of certiorari) (mem.).
+37
+   E.g., Georgia Wells, Kristina Peterson & Natalie Andrews, Inside Big Tech’s Bid to Sink the Online Kid Safety Bill, Wall St. J.
+(Nov. 17, 2024), https://www.wsj.com/politics/policy/meta-google-lobbying-child-online-safety-bill-5ee63dcc
+https://perma.cc/RQ8K-EGTK]; Thomas Barrabi, Big Tech Mounts ‘Divide and Conquer’ Bid in Washington to Kill Kids
+Online Safety Act: Sources, N.Y Post (Sept. 30, 2024, 6:03 AM), https://nypost.com/2024/09/30/business/big-tech-
+mounts-divide-and-conquer-bid-in-washington-to-kill-kids-online-safety-actsources/[https://perma.cc/GKT9-6J9R].
+38
+   Issue One, Armies of Lobbyists Helped Big Tech Rack up Victories During First Year of Trump’s Second Term
+(Jan. 21, 2026).
+39
+   Id.
+40
+   See, supra notes 8-10.
+41
+   Katie Paul, Mark Zuckerberg Lied to Congress. We Can’t Trust His Testimony, Tech Transparency Project (Jan.
+31, 2024), https://www.techtransparencyproject.org/articles/mark-zuckerberg-lied-to-congress-we-cant-trust-his-
+
+                                                                8
+establish what has long been suspected: these platforms knowingly designed their products to
+maximize profits and ignore safety. The New Mexico case also made clear that tech’s false
+safety claims epitomize an “unconscionable” misrepresentation to the public. Both juries
+awarded significant damages in addition to finding liability.
+        Although recent verdicts represent a positive step forward for victim survivors, this does
+not replace the need for legislative action. These victories came after over a decade of attorneys
+and state attorneys generals trying to hold platforms accountable for platforms’ harmful actions.
+Each time they ran into dubious obstacles as tech used §230 to claim more and more expansive
+immunity for their actions.42 The fact that a growing chorus of judges are noting that tech’s
+claim of sweeping immunity do not appear to be consistent with the text or the history of §230 of
+does not absolve Congress from utilizing its authority to amend §230 and implement other public
+laws that will act as a deterrent to dangerous behavior and prevent some harms, especially to
+children. Such a view would be analogous to a child being poisoned by a dangerous medicine
+which is routinely distributed, labelled, packaged, or delivered improperly by businesses. If that
+child is rushed to an emergency room and survives, due to excellent work of emergency room
+doctors’ locating an antidote, one would not conclude that no preventive action is needed. To the
+contrary, the event would serve as a warning that protections may be needed to be put in place
+regarding distribution, labelling, packaging or delivering of medications to prevent such danger
+from occurring again. Similarly, because the heroic and dogged work of some attorneys generals
+and pro bono attorneys may have achieved a modicum of justice for grieving families – in spite
+of the distortion of §230 – does not mean §230 and the incentive to exploit children for profit is
+no longer a problem. Congress must act.
+
+        Therefore, because protecting children’s physical and psychological well-being is a
+compelling government interest, Congress should act. This is further required because
+congressional inaction is in part responsible for creating an ecosystem in which tech companies
+are not deterred from engaging in dangerous business practices because an outdated and distorted
+law provides them with an incentive to exploit and increase profit rather than protect. Finally,
+Congress and the public now have obtained an insight into exactly what tech is designing their
+products to do and that revelation transforms what was once speculation to confirmation that
+such an industry should have preventive guardrails that only Congress can provide.
+
+The Status Quo is Impractical
+
+       The final compulsion for congressional action is that the status quo is untenable and
+impractical. Individual trials do not have the same preventative power that federal statutes do. If
+a business, any business, knows that it is definitively against the law to design its products
+
+
+testimony. For an outline of evidence from the social media addition trials see Tech Oversight Project, Big Tech on
+Trial, https://techoversight.org/bigtechontrial/.
+42
+   See supra, notes 25-33; Doe v. Snap, Inc., 144 S. Ct. 2493, 2494 (2024) (Thomas, J., dissenting denial of
+certiorari) (mem.).
+
+                                                         9
+without safety in mind, or design a product without adequate testing before its release, or engage
+in other exploitive behaviors, it will more likely be deterred by that clear law than by the
+possibility it might be sued in a regime in which it has cultivated broad de facto absolute
+immunity. The success of hard fought litigation might bring justice to one or even several
+plaintiffs, but that is after the victims have been harmed. It is better to enact a reasonable system
+of protection and prevention, than a reactive system of injury redress.
+
+        Furthermore, while private rights of action are a complement to criminal law and do
+provide some deterrence, they are not designed to replace criminal or public law.43 Phrased
+another way, the legal goal should be to have laws in place so that there are not future victims,
+not to simply provide victims – or in the case of death their families - the right to sue.
+
+         To place on the shoulders of these litigants the herculean task of changing tech platforms’
+current incentive structure is also impractical because of who the potential defendants are in such
+cases. While $375 million dollar and a $6 million dollar verdicts are significant, the revenue for
+Alphabet (Google’s parent company) exceeded $400 billion and for Meta exceeded $200 billion
+last year.44 The financial power of these platforms alone makes it clear that private litigation by
+itself likely cannot create the kind of deterrence that common sense legislation can provide.
+
+         The injustice of such an approach is further exacerbated by the inherent inequities in such
+a legal regime. Such a system would do little to prevent harm, but when harm occurs it would
+allow access to courts only for the relatively few with the resources to navigate the distorted
+§230 landscape, years of litigation, and appeals. Similarly, the recent New Mexico trial was the
+result of a lengthy undercover proactive investigation. Burdening states which have different
+capacities for such investigations further raises inequities among them. With over 60 million
+files reported to NCMEC last year, the few who succeed will likely not make a dent in the
+millions harmed.
+        Finally, courts continue to call on Congress to legislate. For years they have asked
+Congress to update §230 and address the implications of sweeping immunity.45 More recently,
+the judge in the New Mexico case has expressed concerns on the limits of his authority to
+regulate the industry, noting that he is “not a legislator.”46 The defendants in both trials continue
+
+43
+   The trial judge in the New Mexico case expressed concern about his authority to act in a way reserved for the
+legislature. Danielle Prokop, Judge warns New Mexico prosecutors he won’t ‘overreach’ as bench trial against
+Meta begins, Source NM (May 6, 2026),
+44
+   https://companiesmarketcap.com/alphabet-google/revenue/; Nicholas Sutrich, Meta Had a Record Year in 2025,
+Yet the Company Plans to Spend Even More Money in 2026 Despite Massive Reality Labs Restructuring, Android
+Central (Jan. 28, 2026).
+45
+   E.g., Jane Doe No. 1 v. Backpage.com, LLC, 817 F.3d 12, 29 (1st Cir. 2016)(noting the remedy is through
+legislation, not through litigation”); M.A. v. Vill. Voice Media Holdings, 809 F. Supp. 2d 1041, 1058 (E.D. Mo.
+2011)( “Congress has declared such websites to be immune from suits arising from such injuries. It is for Congress
+to change the policy that gave rise to such immunity.”); c.f. Doe v. Snap, Inc., 88 F.4th 1069, 1070 (5th Cir. 2023)
+(Elrod, J., dissenting from denial of reh’g en banc) (per curiam) (calling on the circuit court to revisit precedents).
+46
+   Diana Novak Jones, New Mexico Seeks Changes to Meta Platforms in Youth Harm Trial, Daily Rec. (May 4,
+2026)
+
+                                                          10
+to assert that §230 precludes the juries’ decisions and lengthy appeals will follow. Congress can
+resolve these issues.
+
+Conclusion
+
+         There are many significant aspects of the recent verdicts. One of them is they put in a
+stark light Congress’ failure to heed the requests of a growing chorus of judges, parents, the
+public, and state attorneys generals to take affirmative legislative steps to prevent that harms that
+so many families have endured. Two separate juries with distinct cases and a full throttled
+defense from tech platforms reached clear and resounding conclusions. These juries did what
+Congress has failed to do: examine the mountain of evidence from Big Tech’s own internal
+documents, whistleblowers, and investigations that clearly demonstrate this industry knowingly
+made business decisions that harmed children and held them accountable. Congress must take a
+cue from the public, the states, and now these juries: treat these platforms like any other industry
+and hold them accountable for harmful business practices. Until Congress has the same moral
+and intellectual clarity that these survivors and attorney generals do – and now two separate
+juries – little will change. Without change, including to §230, tech’s bad actors will continue to
+be incentivized to exploit children’s vulnerabilities and facilitate harm, having no deterrent to do
+otherwise.
+
+
+
+
+                                                 11
+
+================ WITNESS: norring ================
+ Bridgette Norring, survivor-parent (MN); Founder, Devin J. Norring
+               Foundation; Co-Founder, Parents Rise!
+                             Testimony
+Senate Judiciary Subcommittee on Privacy, Technology, and the Law,
+  “From the Courtroom to Congress: Why Landmark Social Media
+      Verdicts Demand Federal Action to Protect Kids Online”
+                           May 13th, 2026
+Chairman Blackburn, Ranking Member Klobuchar, and members of the
+
+Subcommittee, thank you for the opportunity to testify at this important
+
+hearing. It is an honor and privilege to be seated before you.
+
+
+
+My name is Bridgette Norring. I am a wife, mother, grandmother, advocate,
+
+founder of the Devin J. Norring Foundation and co-founder of Parents RISE!
+
+
+
+Six years ago, my son Devin Joseph Norring died from fentanyl poisoning
+
+after Snapchat connected him to a drug dealer. Devin was 19. He loved
+
+football, skateboarding, BMX riding, writing and creating his own music.
+
+
+
+Prior to the start of the pandemic, he began suffering from migraines and
+
+dental pain. When critical medical appointments were cancelled, he turned
+
+to what he – and so many other American children – believed was a quick
+
+and safe solution. He turned to Snapchat, and Snapchat connected him with
+
+a local drug dealer selling counterfeit pills.
+
+
+
+One pill ended his life, while Snapchat let the dealer continue selling to
+
+children on its platform long after Devin died.
+In the Spring of 2021, myself and other families who had lost their children
+
+to Snapchat met with Snapchat executives.
+
+
+
+That meeting is what fuels my fight to this day.
+
+
+
+Those executives told us that as parents, we should have been monitoring
+
+our children better and that, because of Section 230, we could not sue
+
+Snapchat. That we could not hold Snapchat accountable no matter what it
+
+had done. And at first, we believed them.
+
+
+
+Then we watched as more kids died, as Snapchat still would not take down
+
+known predators and dealers, and as they did not even warn families of the
+
+harms happening in their digital place of business as we begged them to do.
+
+A few PSAs are not meaningful reform – they are only inadequate Band-Aids
+
+on the bullet holes Snapchat created.
+
+
+
+Section 230 is why these companies think that they have the right to trade in
+
+our children’s lives, to trespass in our homes, and to put digital nicotine in
+
+the products they are stocking on toy store shelves.
+For years, we were ignored and countless more children died.
+
+
+
+Then things began to change. A Facebook whistleblower came forward.
+
+Attorneys collected just enough initial information and evidence to demand
+
+discovery, a process by which a court forces defendants to turn over internal
+
+company information in a court of law. And these lawsuits are how we finally
+
+started to get the truth – the truth in their own words, and their own records.
+
+
+
+I submitted just a few examples of those unsealed records with my written
+
+testimony. Remember all the years these companies swore that they had
+
+done nothing wrong? Remember when they claimed they were not designing
+
+addictive products and were doing their best to protect our children.
+
+
+
+It turns out, none of that was true.
+
+
+
+Instead, we can now prove that these companies deliberately addicted our
+
+children, knew what they were doing, and kept going.
+One YouTube document says “Vision, we aspire to create an app that is …
+
+addictive.” A Meta employee wrote, “[Instagram] is a drug… We’re basically
+
+pushers,” and another, “child safety is an explicit non-goal this half.”
+
+
+
+Internal documents reveal that Meta was aware that it was recommending
+
+known children to known “groomers” and at “nearly four times” the rate it
+
+recommends children to non-groomer adults. How is that not unreasonably
+
+dangerous by design? How is it not criminal?
+
+
+
+The documents prove that there is nothing frivolous about these lawsuits.
+
+
+
+And, yes, we are making progress, but it shouldn’t take a years’ long David
+
+and Goliath battle every time a corporate predator hurts a child … that is
+
+NOT justice, and tech companies shouldn’t be allowed to continue to profit
+
+off of our misery and loss.
+
+
+
+Especially now, as we enter an even more dangerous era with AI.
+
+
+
+In fact, I just learned that while Senator Hawley has been trying to make clear
+
+that it is illegal for AI companies to allow for the sexual exploitation of children
+through the Guard Act, the AI industry is getting harmful state laws passed,
+
+like one on its way to the Colorado Governor’s desk right now. Colorado’s
+
+HB 1263 says that AI companies CAN allow for the sexual abuse of a child,
+
+as long as they can show that it was not “technically feasible” to avoid it. Of
+
+course, it is the AI companies that get to determine what is and is not
+
+feasible.
+
+
+
+We are talking about the sexual abuse of children versus a product you get
+
+from app stores in the “entertainment” category. That any state could excuse
+
+the sexual abuse and exploitation of children just because AI is involved is
+
+crazy to me. It’s like letting a pedophile off the hook because he says he did
+
+his best to avoid hurting a child. These companies can design systems that
+
+don’t hurt, abuse, and manipulate children, they are just choosing not to in
+
+the name of maximizing profit.
+
+
+
+This is what American families are up against. These companies hid behind
+
+the Section 230 immunity that was never meant for them, and now that we
+
+are making progress, they are cleverly pushing bills at the state and federal
+
+level that require them to do virtually nothing, while allowing the abuse and
+manipulation of our children to continue in the name of “innovation”. This
+
+isn’t innovation, it’s just abuse.
+
+
+
+My family and thousands like mine have been sounding the alarm far too
+
+long. Some of you have stood strongly with us, and each day more and more
+
+lawmakers are finding the courage to look beyond political parties to truly
+
+fight for American families, safety by design, and corporate accountability.
+
+
+
+And now, today, I am here to tell Congress that it is time to choose.
+
+
+
+Congress must ensure that the Senate version of KOSA will not risk
+
+preemption of state and victims’ rights, and then it must pass it. Congress
+
+must pass strong, common-sense AI chatbot requirements like the Guard
+
+Act.
+
+
+
+Congress must also pass the Cooper Davis and Devin Norring Act so that
+
+social media companies are required to report illicit drug activity occurring on
+
+their platforms to law enforcement.
+
+
+
+Congress must reform Section 230.
+And now that the courthouse doors are slowly opening, Congress must
+
+ensure they stay that way.         Because the reality is that trillion-dollar
+
+companies do not fear regulatory fines; those are simply a cost of doing
+
+business.
+
+
+
+But they do fear accountability in court.
+
+They do fear discovery.
+
+They do fear the truth being exposed publicly.
+
+
+
+I made a promise to Devin that his life would not be in vain. I have since
+
+extended that promise to countless victims and families, as I carry their loved
+
+ones with me on this painful journey no mother should ever have to endure.
+
+
+
+This is not about politics. This is about whether our elected officials are willing
+
+to protect children in a digital world that has evolved faster than our laws. I
+
+am asking all of Congress to stand with parents and families and against the
+
+wealthy and powerful companies that chose to harm American children and
+
+teens by design and then lied to Congress and the world about what they’d
+
+done. Thank you.
+                             BIG TECH INTERNAL DOCUMENTS
+
+I.   Predatory tech companies claim that they do not allow underage children on their             2-14
+     platforms and that they do not know when a child is underage. Internal documents
+     establish otherwise.
+II. Predatory tech companies claim to have parental controls and similar safety               15-17
+     features when, in fact, they know that their “safety” features are ineffective, hard
+     to find, and/or difficult to use. According to employees, that is the point: these
+     companies prioritize profit over safety, and children pay the price.
+III. Predatory tech companies deny that they are designing for addiction, while               18-33
+     countless internal documents acknowledge that addiction is the goal. This
+     includes specific features, as well as algorithmic programming choices – even, and
+     especially, when aimed at vulnerable minors.
+IV. Meta has known for years that it is contributing to the sexual exploitation of            34-46
+     minors. Instead of warning consumers, it spent years talking about whether it
+     should implement bare minimum safety features for teens, with the determining
+     factor being whether Meta could minimize negative impact to its own engagement.
+V. Miscellaneous Meta Documents: studying the adolescent brain, moving too fast               47-53
+     for safety, and making teen profiles more “stalkable.”
+
+     This packet includes just a small fraction of the tech documents now in the public record.
+                    It’s time to choose: American families or Big Tech money?
+    I.      Predatory tech companies claim that they do not allow underage children on
+            their platforms and that they do not know when a child is underage. Internal
+            documents establish otherwise.
+In 2014, Snap’s CEO was informed via a “simple analysis” that Snapchat had “penetrated 84% of users
+between the age of 10 and 24” – referred to as “massive monetization potential.”
+
+
+
+
+In 2021, a Snap employee expressed concern that the company was not escalating content clearly
+involving underage kids. “The examples I checked in the sheet are pretty clear-cut cases that should be
+escalated to T&S for review/action … I noticed that our UGC Broadcast policy doc does not indicate that
+these need to be escalated, is there a reason for the confusion?”
+
+
+
+
+Snap executives confirmed that this was a deliberate choice, more specifically, because “this would be a
+ton of content.” “Correct, T&S would not be able to take this on right now.”
+In 2020, TikTok partnered with the PTA in a strategic state, and was relieved when the news crew did not
+show. A large number of kids who attended ended up being too young and/or TikTok distributed to them
+while they were still underage. TikTok employees wrote that they “seriously dodged a bullet” and called
+it “learnings for the future.”
+TikTok also misled regulators about its ability to detect underage users. According to TikTok documents
+(confirmed in the deposition of Global TikTok R & D Chief Wenjia Zhu), when regulators asked if the
+company had any age models capable of identifying or removing under 13 accounts, it said that it “didn’t
+have any U13 models online.” That response was false.
+When TikTok realized its error, instead of correcting it, TikTok worried internally that if EU or U.S.
+regulators learned the truth then the company might be forced “to delete a large volume of u13 [under-13]
+users,” resulting in an estimated loss of its user base.
+
+
+
+
+TikTok employee chats from June 2023 further confirm that TikTok knows children are not using their
+real ages and goes out of its way to avoid conflicts arising from this. They wrote, “The weird data point
+is that 85% of ‘teen’ users are age gated 18+” “LMAOOOOO … cuz we are idiots to think a kid these
+days will not cheat the system.” “Yep, and that’s precisely why we don’t want to age restrict the FP
+roles.”
+Google (YouTube) pursued children even more overtly, including kids under the age of 8. It’s internally
+stated goal in 2016 was to “Become a Daily Tool for All U13 Kids Globally.” To make its product “part
+of the daily routine for all kids under 13.”
+YouTube’s “Vision & objectives” remained relatively unchanged in 2019, except that it created more
+refined age categories, including a “target audience” of “4 and under.”
+
+
+
+
+YouTube’s focus on underage children continued and, in 2020, it wrote, “Solving kids is a massive
+opportunity.” “Kids under 13 are the fastest-growing audience in the world.”
+Meta also targets kids under 13 and knows that they are on its products. In a 2017 study, Meta wrote that
+“Instagram sells itself” to kids “ages 11-12.” It examined children’s developmental differences and
+unique vulnerabilities for product development purposes. Meta also went to great lengths to ensure that
+there were “No IG-specific questions asked among A11-12.”
+In 2018, Meta consultants confirmed that underage children were Meta’s most profitable users. Meta
+documents include things like “The young ones are the best ones,” “Tweens (approximate age 10-12) are
+special. People who join Facebook as tweens have the highest long term retention out of all age groups,”
+and “If we want to win big with teens, we must bring them in as tweens.”
+And in 2020, Meta employees discussed that they were not allowed to ask any question that might elicit
+evidence that a user was under 13. In the context of an “approved age question,” one employee noted
+“We can’t give people the ability to say they’re under 13, right? So maybe there’s also an ‘other’
+category?” “I’ve been given a hard no to other category … especially if the upper end if 46+, since other
+would, by definition, be under [13].” “My understanding is that we can’t ask if they’re under 13 because
+it means we’d have to delete their account.”
+In 2021, a Meta employee wrote, “For context on age selection: I have not included younger kids (10-12
+yos) in this research for a number of reasons: … 2) Although there are definitely kids this age on IG, I’m
+concerned about risks of disclosure since they aren’t supposed to be on IG at all.”
+
+
+
+
+In 2023, another Meta document discusses a decision to “not trigger age verification” in certain instances
+due to “the potential revenue impact it can cause.”
+    II.     Predatory tech companies claim to have parental controls and similar safety
+            features when, in fact, they know that their “safety” features are ineffective,
+            hard to find, and/or difficult to use. According to employees, that is the point:
+            these companies prioritize profit over safety, and children pay the price.
+In September 2021, a TikTok employee asked about a “FP [Family Pairing] bug where the teen can easily
+bypass or disable FP.” Another employee responded, “it’s not a bug, I suppose …” and explained that
+TikTok has a “hidden” unlink option kids can use to unpair from their parent. The first employee
+observes, “this renders the feature kinda useless.”
+
+
+
+
+In the words of the TikTok leader responsible for Family Pairing, “Family Pairing is where all good
+product design goes to die[.]”
+
+Snapchat likewise wrote that the primary purpose of Family Center “was to have a feature we can point
+regulators, interested parents, and the press to, rather than broadly tell everyone to adopt this.” Ex. 897.
+Why? It worried parental controls, even weak ones like Family Center, might negatively impact
+“engagement . . . if this lands the wrong way with teens.”
+In 2016, Meta CEO Mark Zuckerberg warned in connection with Facebook’s Live product that notifying
+adults as to what their children were doing on Live “will probably ruin the product from the start” and
+instructed employees “be very good about not notifying parents/teachers.”
+In 2021, Meta discussed looking into making their features “more challenging for parents.” “Both
+Snapchat and TikTok are somewhat confusing to parents, in turn affording teens a protected place to
+play/engage.”
+
+
+
+
+In fact, Meta affirmatively works to ensure that all young users know they can create FINSTA accounts
+(secondary accounts that teens and children typically keep hidden from parents). “Finsta Growth is an
+effort on the Growth team to encourage teens to create their first Finsta account and to teach them to use
+the multi-account switcher.”
+    III.    Predatory tech companies deny that they are designing for addiction, while
+            countless internal documents acknowledge that addiction is the goal. This
+            includes specific features, as well as algorithmic programming choices – even,
+            and especially, when aimed at vulnerable minors.
+         “oh my gosh yall IG is a drug…We’re basically pushers… We are causing Reward Deficit
+         Disorder bc people are binging on IG so much they can’t feel reward anymore…like their
+         reward tolerance is so high…I know Adam [Mosseri] doesn’t want to hear it – he freaked
+         out when I talked about dopamine in my teen fundamentals leads review but its undeniable!
+         Its biological and psychological… the top-down directives drive it all towards making
+         sure people keep coming back for more.” - Meta UX Researcher
+Internal documents discuss the fact that TikTok contains unique “elements of persuasive design” and
+more common “coercive design tactics that detract from user agency such as infinite scroll, constant
+notifications, and the ‘slot machine’ effect.” “TikTok is particularly popular with younger users, who are
+particularly sensitive to reinforcement in the form of social reward and have minimal ability to self-
+regulate effectively.”
+
+
+
+
+TikTok considered giving “vulnerable users” more choice in terms of less addictive feeds (such as “a
+reset option” and “non-personalized feed”) but worried about “Ads revenue.”
+In 2013, YouTube’s “Big Hairy Audacious Goal” was to reach “1 Billion Hours/day in Watch Time by
+the end of 2016.”
+
+
+
+
+It prioritized this goal, even at the expense of children. This YouTube document called out employee
+ideas for how to reach 1 Billion Hours, and the “Honorary Mention: Best Written” suggested “1 Billion
+hours: KidsTube. Suck it up, jump through the legal hoops needed to make it happen.” YouTube
+launched Kids YouTube in early 2015.
+In 2016, YouTube priorities included: “We aspire to create an app that is … Addictive … Our app
+experience should compel users to come back more and more often.”
+
+
+
+
+YouTube documents from 2018 focused on targeting habitual users. “The new initiative focuses on
+making YouTube a daily habit.” “Feed refresh: build an optimal experience for visiting YouTube
+multiple times a day, e.g. user controls to see more new uploads, client and user-based models to predict
+optimal refresh rate.”
+In 2018, a YouTube employee wrote that “if DSM criteria were applied to watching gaming videos, 1 in 5
+teens would be diagnosed with addiction.”
+
+
+
+
+Other YouTube documents conclude that “[f]our video-watching behaviors bring about the majority of
+negative wellbeing effects.”
+While others acknowledge that auto-play contributes to loss of sleep and related harms among young
+users. YouTube knew that “Disabling or limiting Autoplay during the night could result in sleep
+savings.” Likewise as it relates to push notifications creating fear of missing out (FOMO).
+Other YouTube documents talk about dopamine and addiction by design.
+
+
+
+
+According to Snap documents, Snapchat is designed to “drive a phenomenon commonly called FOMO—
+Fear of Missing Out. Knowing that a funny video or a party photo will vanish by tomorrow compels
+teens to open the app frequently, so they don’t ‘miss’ what their friends are doing. It creates a 24/7
+urgency to be online.” And here are some Snap quotes relating to the addictive nature of Snap’s Streaks
+feature.
+Meta documents discuss addiction by design. This first document is from 2017. Meta lists the sending of
+push notifications at night as a “solution” to increase engagement among teens. “US Teen DAP is the
+most important goal of IG this half.”
+In the following 2020 document, Meta employees discuss whether, “we’re creating addicts or facilitating
+them.”
+
+
+
+
+The following is from another Meta document, which refers to “‘Addictive’ – like design.”
+Documents from 2023 also establish that Meta was programming for addiction. A number of discussions
+took place in which employees noted that litigation and legislation concerns were valid, and that Meta
+could have made meaningful changes – but instead, that Meta chose to throw relatively useless tools at
+the issue while more children were harmed.
+   •   “I feel like i'm reading totally different litigation and legislation than our org leaders... We
+       literally are optimizing teen feeds for engagement. We can change that, but none of the
+       YIPs actually address this core issue.” …
+   •   “The whole company is set up to avoid this problem. Like XI is sequenced to be *after*
+       Relevance, and explicitly does not engage with them, to allow Relevance to optimize for
+       engagement and XI runs around trying to pick up the pieces.”
+   •   “I dunno why we’re doing cartwheels to avoid doing the thing we’re actually being asked
+       to do *which we can easily do at very little topline cost!*”
+   •   “this is so funny …
+       Regulators: Stop optimizing for engagement!
+       Meta: we have built 30 tools!”
+   •   “the lawsuit is extremely explicit about the problem … it actually specifically calls out
+       our comms strategy of throwing a bunch of partial mitigations to avoid dealing with the
+       core problem.”
+Meta employees had similar discussions in 2024. “They should audit every surface team’s goal across the
+company, think about whether we would be comfortable telling the world that we are optimizing for x for
+their kid, and when the answer is no, come up with a defensible alternative … imagine going out in public
+and telling people we rank their kid’s facebook by what makes them consume the most content IDs lol …
+and then when they hear what things keep their kid consuming the most content IDs – sorting their feed
+by controversial, eye-popping filth – we’re off to the races on a really fun conversation.”
+
+
+
+
+More Meta quotes:
+“Teens are hooked despite how it makes them feel. Instagram is addictive, and time-spend on platform is
+having a negative impact on mental health.”
+“(1) teens feel addicted to IG and feel a pressure to be present, (2) like addicts, they feel that they are
+unable to stop themselves from being on IG, and (3) the tools we currently have aren’t effective at
+limiting their time on the ap[p]”
+“Are there teens that use too much Instagram? It sure looks like it…. It seems relatively clear that
+younger people are less equipped to handle social media addictions…. In the US alone, there are 550K+
+teens that spend 28 hours a week on Instagram (4 hours a day, 7 days).”
+
+“social media addiction: heavy usage of Facebook correlates with lower happiness.”
+
+“56% of IG teens surveyed say it’s difficult to manage how much time they spend on social media and
+14% say IG makes it worse.”
+Big Tech documents also discuss push notifications, and how they are programmed to push users back
+onto the platforms. The following are screenshots from just one Meta document and more Meta quotes
+from others.
+“Notifications may prompt people to use Facebook at times when they wouldn’t have otherwise, thus
+reducing feelings of control by interrupting other tasks or in-person social interactions. … Previous
+research also found that notifications can cause inattention and hyperactivity, which in turn decreases
+productivity and subjective well-being.”
+
+“Problematic Users found it incredibly difficult avoiding notifications compared to those without PU
+[problematic use]”; and “The majority intended to have a quick look, but would get hooked by something
+on FB, losing all track of time.”
+
+Instagram internal documents describe “frequent checking,” including “clearing of notifications,” as a key
+aspect of Instagram Problematic Use (PU). The document further described that 42% (74 million) global
+teens struggle with frequent checking and clearing of notification, and “21% of US teen WAU [Weekly
+Active Users] say notifications make it harder for them to manage the amount of time they spend on the
+app, and 32% say the number of notifications they receive can be overwhelming.”
+   IV.     Meta has known for years that it is contributing to the sexual exploitation of
+           minors. Instead of warning consumers, it spent years talking about whether it
+           should implement bare minimum safety features for teens, with the determining
+           factor being whether Meta could minimize negative impact to its own
+           engagement.
+In 2019, Meta testing resulted in Instagram “recommending a minor through top suggested to an account
+engaged in groomer-esque behavior.” “Root: The recommendation algorithms worked as intended.”
+Meta determined that “7% of all follow recommendations to adults were minors” while “27% of all
+follow recommendations to groomers were minors.” It concluded that it was “recommending nearly 4x as
+many minors to groomers (nearly 2 million minors in the last three months)” and that “22% of those
+recommendations resulted in a follow request. That equates to roughly 440,000 children who received
+follow requests from “groomers” over just three months.
+Meta ran a similar test in June 2020. When it created a test account and followed accounts sexualizing
+minors, its programming pushed “Minor Sexualization content/accounts.” Even to the point of
+recommending something “as the top result in the Explore section” that Meta then had to action and
+report to NCMEC.
+
+
+
+
+In June 2020, a memo from Instagram’s Safety Product Manager) to FB’s Safety Product Manager related
+to Inappropriate Interactions with Children (IIC) made clear that Meta was not de-platforming adult
+accounts it believed to have engaged in ICC with underage accounts.
+
+
+
+
+The actual figure according to a different Meta employee was “500k victims per DAY in ENGLISH
+markets ONLY” (emphasis in original).
+
+But by 2018 at the latest, Meta understood that it had an issue with its decision decisions pushing and
+making minors vulnerable to sexual predators. Meta waited to study the issue and, when it did (in the fall
+of 2019), the feedback it received was that “younger users and new users should be defaulted to private.”
+Meta’s researcher recommended private mode defaults and, “for private mode defaults, limit tagging,
+mentioning, and group DMs to connected accounts.”
+But Meta pushed back on private by default due to engagement and growth concerns,
+        “What’s the rationale for the push? This will likely smash engagement, DAP, MAP etc”
+        “current climate? policy pressure? potentially contributing to teen suicides?”
+        “what policy pressure?”
+In July 2020, one Meta employee asked what “are we doing for child grooming …?” Another responded,
+“Somewhere between zero and negligible. Child safety is an explicit non-goal this half. I’d argue we’re
+making it work with Interop, but that’s a can of worms.”
+
+
+
+
+In 2020, Meta’s growth team also was asked to examine “the growth and engagement knock-on effects of
+rolling out a private by default feature, including potential “friending losses” and “engagement declines.”
+In August 2020, Meta determined that Private by Default would result in a “HUGE” hit to DAU (Daily
+Active Users), so it did nothing to protect teens in this manner.
+“I see blocking this launch as more impactful than US DAU. We’re ensuring that our core demographic
+for the family (Teens) continue to have a strong experience on the platform. There’s a 2.2% hit on DAU
+… and 2.2% hit to global for teens … that is HUGE”
+In fact, as per a Meta chat dated August 24, 2020, Meta “scrapped [this critical safety feature] due to
+growth concerns.”
+         “…do you happen to know the status of the IG Smart Defaults launch?”
+         “I do – we were initially supposed to launch private by default on september 2 after approval
+         from IG leads, but that has now been scrapped due to growth concerns, and the product team has
+         been given some time to come up with ways to mitigate the drop in growth”
+
+
+
+
+In Sept. 2020, Growth confirmed that it did NOT have the “bandwidth” to “Make teens safe.”
+         “I see that as two workstreams that are separate but related. 1. Keep regulators away, keep teens
+         engaged … 2. Make teens safe … I think where Growth is coming from is that for us, we only
+         really have bandwidth for 1/. We all believe 2/ is important, and the right thing to do, and so the
+         question is, how important is it for Community Leads + IG Leads, and who should invest in it? …
+         I guess the misalignment between where you & I are today is, should we take the hatchet
+         approach or not? As a guardian of ecosystem metrics, of course i'm going to favor the nuanced
+         approach. And you as a guardian of ‘doing the right thing’, will favor safety at all costs. Neither
+         of us is right or wrong! : )”
+Yet by 2020, at the latest, Meta employees knew that it’s platform features, like the People You May
+Know recommendation feature, were contributing to a massive amount of sexual abuse on its platforms.
+“e.g. PYMK was responsible for 80% of violating adult/minor connections.”
+Meta still refused to implement even the most basic safety features, such as “private by default,” and
+because the “growth impact was too high.”
+According to a 2024 document, Meta did not even begin to address this one issue (Meta’s programming
+of its recommendation systems in a harmful manner) until the second half of 2023.
+But it still did not address the issue of private by default for teens. In March 2021, when the issue was
+revisited again, a Meta employee commented, “Guess what, they’re revising private by default LOL …
+mygod”
+
+
+
+
+Then, in March 16, 2021, Meta announced that it would be “restricting DMs between teens and adults
+they don’t follow.” Only Meta cut corners (and did not disclose this fact). For example, it only applied
+these features to “new users under the age of 16” and not existing users, and it opted for a “default
+preselected option on a screen” rather than a “true default setting.”
+But also, Meta’s own employees determined that even those safety settings were defective. After launch,
+they found that 13% of 13- to 15- year-olds still were receiving unwanted sexual advances on Instagram,
+overwhelmingly from strangers. One Meta employee observed, “they are experiencing these issues …
+facilitated by the product design of Instagram.”
+In November 2021, Meta employees discussed how even these ineffective half-step took years, and that
+Meta leadership is unwilling to actually fix things when growth is on the line.
+       “we will never get out of this mess if he/we’re not just prepared to ERR ON THE SIDE
+       OF SAFETY … i know i'm advocating for NOT letting them switch back – but i don’t
+       get why defaulting into private was contentious, given that they CAN just switch back!”
+        “It was mostly adam for sure … it was a huge growth hit … like shockingly so”
+        “would he want any tom dick or harry being able to see all his kids’ content, follow them etc.? is
+        he f****** nuts?”
+    V.      Miscellaneous Meta Documents: studying the adolescent brain, moving too fast
+            for safety, and making teen profiles more “stalkable.”
+Meta designs with the vulnerability of minors in mind.
+Meta opts for speed over safety (because it can),
+Meta also chose to make its profiles more “stalk-worthy,” so it could be an “urgent” app again.
+This packet includes just a small fraction of the tech documents now in the public record.
+
