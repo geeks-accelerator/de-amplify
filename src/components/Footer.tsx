@@ -20,20 +20,28 @@ export default function Footer() {
             find the brake
           </Link>
           <span className="text-bone/15">/</span>
+          <Link href="/report" className="transition-colors hover:text-bone/70">
+            report
+          </Link>
+          <span className="text-bone/15">/</span>
           <Link href="/lawsuits" className="transition-colors hover:text-bone/70">
-            the lawsuits
+            lawsuits
           </Link>
           <span className="text-bone/15">/</span>
           <Link href="/hearings" className="transition-colors hover:text-bone/70">
-            the hearings
+            hearings
           </Link>
           <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
-            read the proposal
+            standard
           </Link>
           <span className="text-bone/15">/</span>
           <Link href="/for" className="transition-colors hover:text-bone/70">
-            who it&apos;s for
+            for you
+          </Link>
+          <span className="text-bone/15">/</span>
+          <Link href="/notes" className="transition-colors hover:text-bone/70">
+            notes
           </Link>
           <span className="text-bone/15">/</span>
           <Link href="/remixes" className="transition-colors hover:text-bone/70">
