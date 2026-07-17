@@ -35,23 +35,19 @@ verification and line-anchored locators survive link rot and are re-runnable by 
 
 ## Verifying
 
-From the gitwverse repo (the federation tooling home), each doc verifies against its own cache:
+Every quoted span in each `hearing-*` distillation (ledger, reader summary, coverage note,
+and quote-bank) was verified as a verbatim, whitespace-normalized substring of that
+document's cached source in this folder, or of the drafter-prose allowlist where one exists.
+Verbatim quotes reproduce their source punctuation exactly, including the GPO transcripts'
+ASCII `--` and the testimony PDFs' curly quotes, and are exempt from the site's punctuation
+style.
 
-```bash
-D=../de-amplify/docs/distillations
-python3 scripts/hearing_quote_check.py $D/hearing-2023-11-07-teen-mental-health.md \
-  $D/sources/CHRG-118shrg60432.txt --allow $D/sources/hearing-2023-11-07-quote-allowlist.txt
-python3 scripts/hearing_quote_check.py $D/hearing-2024-01-31-big-tech-child-safety.md \
-  $D/sources/CHRG-118shrg57444.txt
-python3 scripts/hearing_quote_check.py $D/hearing-2026-05-13-courtroom-to-congress.md \
-  $D/sources/senate-2026-05-13-testimony-combined.txt
-python3 scripts/hearing_quote_check.py $D/hearing-2025-12-02-legislative-solutions.md \
-  $D/sources/house-2025-12-02-testimony-combined.txt
-```
+The caches are committed here precisely so the check is reproducible: any substring-matching
+tool can confirm that a quoted span appears in its named source. Each distillation maps to
+one source cache, and its "source lines N-M" locators refer to line numbers in that file:
 
-Exit code 0 means every quoted span in the whole document (ledger, summary, coverage note,
-quote-bank) is a verbatim whitespace-normalized substring of that doc's source or an
-allowlisted prose span. Add `--anchors` to print the source line range for each passing
-span (the "source lines N-M" locators in the docs come from this). Verbatim quotes reproduce
-source punctuation exactly (including the GPO's ASCII `--` and the PDFs' curly quotes, which
-the checker canonicalizes for matching) and are exempt from site punctuation style.
+- `hearing-2023-11-07-teen-mental-health.md` -> `CHRG-118shrg60432.txt`
+  (plus `hearing-2023-11-07-quote-allowlist.txt` for its deliberate drafter-prose spans)
+- `hearing-2024-01-31-big-tech-child-safety.md` -> `CHRG-118shrg57444.txt`
+- `hearing-2026-05-13-courtroom-to-congress.md` -> `senate-2026-05-13-testimony-combined.txt`
+- `hearing-2025-12-02-legislative-solutions.md` -> `house-2025-12-02-testimony-combined.txt`
