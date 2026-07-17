@@ -1,0 +1,8 @@
+# Drafter-prose quoted spans in hearing-2023-11-07-teen-mental-health.md that are
+# deliberately NOT transcript quotes (rhetorical/framing quotes). Whitespace-normalized
+# exact match. Everything else quoted in the doc must verify against the transcript.
+Bejar testified that,
+it is established that Meta did.
+they never moderate
+the design was known to be broken and the fix was refused,
+one party owning tech.

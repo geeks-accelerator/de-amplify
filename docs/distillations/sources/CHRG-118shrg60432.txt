@@ -1,0 +1,2331 @@
+
+ - SOCIAL MEDIA AND THE TEEN MENTAL HEALTH CRISIS
+
+[Senate Hearing 118-663]
+[From the U.S. Government Publishing Office]
+
+
+
+                                                        S. Hrg. 118-663
+
+                    SOCIAL MEDIA AND THE TEEN MENTAL
+                             HEALTH CRISIS
+
+=======================================================================
+
+
+
+
+                                HEARING
+
+                               before the
+
+                        SUBCOMMITTEE ON PRIVACY,
+                        TECHNOLOGY, AND THE LAW
+
+                                 of the
+
+                       COMMITTEE ON THE JUDICIARY
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                            NOVEMBER 7, 2023
+                               __________
+
+                          Serial No. J-118-42
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+
+
+
+              [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+                        www.judiciary.senate.gov
+                            www.govinfo.gov
+                                                       
+                                ------
+                                
+                  U.S. GOVERNMENT PUBLISHING OFFICE
+
+60-432                    WASHINGTON : 2025                             
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+                            
+                       COMMITTEE ON THE JUDICIARY
+
+                   RICHARD J. DURBIN, Illinois, Chair
+SHELDON WHITEHOUSE, Rhode Island     LINDSEY O. GRAHAM, South Carolina, 
+AMY KLOBUCHAR, Minnesota               Ranking Member
+CHRISTOPHER A. COONS, Delaware       CHARLES E. GRASSLEY, Iowa
+RICHARD BLUMENTHAL, Connecticut      JOHN CORNYN, Texas
+MAZIE K. HIRONO, Hawaii              MICHAEL S. LEE, Utah
+CORY A. BOOKER, New Jersey           TED CRUZ, Texas
+ALEX PADILLA, California             JOSH HAWLEY, Missouri
+JON OSSOFF, Georgia                  TOM COTTON, Arkansas
+PETER WELCH, Vermont                 JOHN KENNEDY, Louisiana
+LAPHONZA BUTLER, California          THOM TILLIS, North Carolina
+                                     MARSHA BLACKBURN, Tennessee
+             Joseph Zogby, Chief Counsel and Staff Director
+      Katherine Nikas, Republican Chief Counsel and Staff Director
+
+
+
+            Subcommittee on Privacy, Technology, and the Law
+
+                 RICHARD BLUMENTHAL, Connecticut, Chair
+AMY KLOBUCHAR, Minnesota             JOSH HAWLEY, Missouri, Ranking 
+CHRISTOPHER A. COONS, Delaware         Member
+MAZIE K. HIRONO, Hawaii              JOHN KENNEDY, Louisiana
+ALEX PADILLA, California             MARSHA BLACKBURN, Tennessee
+JON OSSOFF, Georgia                  MICHAEL S. LEE, Utah
+                                     JOHN CORNYN, Texas
+                Cassie Fields, Democratic Chief Counsel
+            Julissa Milligan Walsh, Republican Chief Counsel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                            C O N T E N T S
+
+                              ----------                              
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+
+Durbin, Hon. Richard J...........................................     5
+Graham, Hon. Lindsey O...........................................     6
+Blumenthal, Hon. Richard.........................................     1
+Hawley, Hon. Josh................................................     3
+Blackburn, Hon. Marsha...........................................
+
+                                WITNESS
+
+Bejar, Arturo....................................................     7
+    Prepared statement...........................................    38
+
+                                APPENDIX
+
+Items submitted for the record...................................    53
+
+
+ 
+                    SOCIAL MEDIA AND THE TEEN MENTAL
+                             HEALTH CRISIS
+
+                              ----------                              
+
+                       TUESDAY, NOVEMBER 7, 2023
+
+                      United States Senate,
+               Subcommittee on Privacy, Technology,
+                                       and the Law,
+                                Committee on the Judiciary,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 10:03 a.m., in 
+Room 226, Dirksen Senate Office Building, Hon. Richard Blumen-
+thal, Chair of the Subcommittee, presiding.
+    Present: Senators Blumenthal [presiding], Klobuchar, Coons, 
+Hirono, Hawley, Kennedy, Blackburn, and Cornyn.
+    Also present: Senators Durbin, Graham, Welch, and Butler.
+
+         OPENING STATEMENT OF HON. RICHARD BLUMENTHAL,
+          A U.S. SENATOR FROM THE STATE OF CONNECTICUT
+
+    Chair Blumenthal. This hearing of the Judiciary 
+Subcommittee on Technology, Privacy, and the Law will come to 
+order. Thank you, everyone, for attending.
+    My thanks to Ranking Member Hawley, and particularly to the 
+Chairman of the Judiciary Committee, Dick Durbin, for giving us 
+this opportunity, and he is vitally interested in this topic, 
+and I'm going to call on him after Senator Hawley for his 
+remarks.
+    We are gathered today to ear testimony from a whistleblower 
+and engineer, widely respected and admired in the industry. And 
+not just any expert, but an engineer hired specifically by 
+Facebook to help protect against harms to children and make 
+recommendations for making Facebook safer.
+    We've known for more than a decade that rates of teens 
+suffering from suicides, hospitalizations for self-harm, and 
+depression have skyrocketed.
+    As he knows, these numbers are more than statistics. 
+They're real people, and his daughter is one of them. Arturo 
+Bejar is the former director of engineering for Protect and 
+Care at Facebook, and he will tell us about the evidence he 
+brought directly to the attention of the top management of 
+Facebook and Meta, Mark Zuckerberg, Sheryl Sandberg, and others 
+in meetings and memos.
+    He resoundingly raised an alarm about statistics showing 
+Facebook's prevalent and pernicious harms to teens--telling 
+Mark Zuckerberg, for example, in a memo that more than half of 
+Facebook users had bad or harmful experience just within the 
+last week.
+    Instead of real reform, he will testify that Facebook 
+engaged in a purposeful public strategy of distraction, denial, 
+and deception.
+    They hid from this Committee and all of Congress evidence 
+of the harms that they knew was credible. And they ignored and 
+disregarded recommendations for making the site safer, and they 
+even rolled back some of the existing protection.
+    Now, Mr. Bejar is not the first or the only whistleblower 
+to come forward. We heard from Frances Haugen who showed that 
+Facebook's own researchers described Instagram itself as a, 
+quote, ``perfect storm,'' end quote, and that it, quote, 
+``exacerbates downward spirals of addiction, eating disorders, 
+and depression.''
+    Mr. Bejar is the first to show in documents--not just in 
+his recollection, but in documents how he warned the top 
+management of Facebook and Instagram of the ongoing harms their 
+products were causing. We're going to present those documents 
+for the record, and they show, for example, that over a quarter 
+of young teens, 13 to 15 years old, report receiving sexual 
+advances on Instagram.
+    [Poster is displayed.]
+    Chair Blumenthal. Nearly a third of young teens have seen 
+discrimination based on gender, religion, race, and sexual 
+orientation.
+    A quarter of young teens report having been bullied or 
+threatened.
+    And nearly a quarter of young teens report experiencing 
+feeling worse about themselves, about their bodies, and their 
+social relationship. The type of experience that lead to 
+serious depression and eating disorders.
+    And when users reported harmful content to Facebook, it 
+took action only 2 percent of the time. Remedies only 2 percent 
+of the time.
+    There's a history here. In August of 2021, Senator 
+Blackburn and I wrote to Facebook about the impact of their 
+products on kids. We asked, quote, ``Has Facebook research ever 
+found that its platforms and products can have a negative 
+effect on children's and teens' mental health or well-being? '' 
+Facebook refused to answer.
+    In October of 2021, Senator Blackburn and I held a hearing. 
+We heard from Frances Haugen about Instagram's harms, and on 
+that same day, Mr. Bejar sent an email to Mark Zuckerberg, 
+Sheryl Sandberg, Adam Mosseri, and other executives validating 
+Ms. Haugen's testimony.
+    That email actually demonstrated even greater harms than 
+were then public--a chilling and searing indictment of 
+Instagram and Facebook. And I'm going to ask that it be made 
+part of the record, without objection.
+    [The information appears as a submission for the record.]
+    In December of 2021, Mr. Mosseri then testified to the 
+Committee--to our Subcommittee, after he met with Mr. Bejar 
+discussing these numbers and statistics relating to suicide. 
+And during that hearing, a number of us asked him about 
+Facebook promoting suicide.
+    Mr. Mosseri knew--but he didn't disclose--that on a weekly 
+basis, around 7 percent of Facebook users overall encounter 
+content promoting suicide and self-harm, with 13- to 15-year-
+olds seeing it more often than others.
+    There's a pattern here with Facebook. It hides risks by 
+saying things like bullying and harassment is only 0.08 percent 
+of content.
+    When in reality, Meta executives know that 11 percent of 
+those 13- to 15-year-olds face bullying every single week--
+every single week on Instagram.
+    And just to be absolutely clear, that's millions of 
+children and teenagers. It's not just a number. Behind every 
+one of those numbers, is a real person, a teenager, a child 
+whose life is changed--maybe forever, by that searing 
+experience of bullying, eating disorder content, suicide 
+promotion.
+    We can no longer rely on social media's mantra, ``Trust 
+us.'' We can no longer depend on its putting the blame or 
+responsibility on parents.
+    What's needed now is legislative reform, the Kids Online 
+Safety Act. Senator Blackburn and I have enlisted more than 45 
+of our colleagues, almost half the United States Senate, in 
+favor of the Kids Online Safety Act.
+    And the final point I would make is that social media, in 
+particular Facebook, still fails to take these threats 
+seriously.
+    This June, The Wall Street Journal found that Instagram was 
+hosting open markets for child abuse material, even 
+recommending pedophiles to each other. Young teens were being 
+extorted and coerced into sexual acts. Instagram was complicit.
+    Mr. Bejar, you provided Mark Zuckerberg, Adam Mosseri, and 
+others in management, with specific recommendation to prevent 
+teens from experiencing this unwanted sexual contact and 
+harassment. Those recommendations were never adopted. You have 
+put your career on the line to come forward--an experienced and 
+trusted industry expert whose job was to make Facebook safer, 
+and your recommendations were purposefully ignored, or 
+disregarded, or rejected.
+    I'm just going to remind my colleagues that we've heard 
+from young people as well as parents about these harms, and one 
+of them told me, ``How many more children have to die before 
+Congress will do something? '' That's why we're here today, and 
+I want to thank all of my colleagues who are present--truly a 
+bipartisan group on behalf of this cause and turn to the 
+Ranking Member, Senator Hawley.
+
+             OPENING STATEMENT OF HON. JOSH HAWLEY,
+           A U.S. SENATOR FROM THE STATE OF MISSOURI
+
+    Senator Hawley. Thank you very much, Mr. Chairman. Thank 
+you for convening this hearing. This is such a vital hearing on 
+a vital topic, and to be honest with you, this hearing 
+concerns, I think, every parent's nightmare.
+    And I see you're nodding, Mr. Bejar. You're a father, that 
+subject composes--that reality composes some of your testimony. 
+I'm also a father of three, and what you have brought to this 
+Committee today is something that every parent in America needs 
+to hear. The numbers are really stunning. That one in four 
+teenagers, minor children will experience sexual solicitation 
+on Meta's platforms at some point. One in eight say that they 
+have experienced unwanted sexual advances.
+    We're talking about children now. These are not adults. 
+Children have experienced unwanted sexual advances just in the 
+last week, within the last 7 days.
+    And, of course, we know from Meta's own internal research 
+that they knew the extent of this problem even as they were 
+ignoring you. And I want to turn to some of that research that 
+Senator Blumenthal just referenced.
+    Here's what Meta--these are Meta's own words from their own 
+internal research on the effect of their own product on 
+children, particularly young women. Quote: ``We make body image 
+issues worse for one in three teen girls.''
+    Quote: ``Teens blame Instagram for increases in the rate of 
+anxiety and depression. This reaction was unprompted and 
+consistent across all groups.''
+    Quote: ``Teens told us they don't like the amount of time 
+they spend on the app, but they feel they have to be present. 
+They often feel addicted and know that what they're seeing is 
+bad for their mental health, but feel unable to stop 
+themselves.''
+    This is the reality that Meta and Instagram, Facebook, they 
+knew these things were happening. These quotes are years old 
+that I just read. You pointed this out to them, too, Mr. Bejar, 
+and still they did nothing.
+    In fact, they did worse than nothing. And what your 
+testimony shows is, when you brought these concerns to them, 
+when you exposed this reality, rather than respond, they cooked 
+the books.
+    If I understand your testimony correctly, they started 
+telling the public, including Congress and, of course, every 
+parent in America that, ``Oh, we get 90 percent of unwanted 
+sexual material, child sex abuse material, pornography, 
+terrorism threats--we take it down. Our AI systems find it and 
+take it down.''
+    But what you expose is, in fact, those AI systems are 
+catching only a small, small percentage of that kind of abusive 
+material online.
+    So when Facebook is out there promoting to the world, ``Oh, 
+we're taking down the vast majority,'' it's simply not true. 
+And in fact, they know it's not true. And that statistic is 
+designed to mislead.
+    They are deliberately misleading parents about what's on 
+their platform. They are deliberately misleading parents about 
+the safety of their children online.
+    And I just want to echo something that Senator Blumenthal 
+has said: It is time for Congress to take action. It was time 
+years ago for Congress to take action. It is--it is an 
+indictment of this body, to be honest with you, that we have 
+not acted. And we all know the reason why.
+    If I could just start with a little plain talk here this 
+morning. Big Tech is the biggest, most powerful lobby in the 
+United States Congress. They spend millions upon millions upon 
+millions of dollars every year to lobby this body. And the 
+truth is, as every reporter in this room knows, and I hope 
+you'll report it after this hearing, they do it successfully.
+    They successfully shut down every meaningful piece of 
+legislation every year. I've only been here for 4 years and I 
+have seen it repeatedly, in the short time I have been here.
+    We'll get all kinds of speeches in Committee, we'll get 
+speeches on the floor about how we have to act, and then this 
+body will do nothing. Why? Money, that's why. Gobs of it. Gobs 
+of it--influencing votes. A hammer hold on this process.
+    It is time for it to be broken. And the only way I know to 
+break it is to bring the truth forward. And that's why we are 
+so glad, Mr. Bejar, that you are here today to do it. Thank 
+you, Mr. Chairman.
+    Chair Blumenthal. Thanks, Senator Hawley. The only footnote 
+I would add is, this time must be different.
+    Senator Hawley. That's right.
+    Chair Blumenthal. They have armies of lawyers and 
+lobbyists. They spend tons of money, but this time must be 
+different. Senator Durbin.
+
+          OPENING STATEMENT OF HON. RICHARD J. DURBIN,
+           A U.S. SENATOR FROM THE STATE OF ILLINOIS
+
+    Chair Durbin. Thank you, Chairman Blumenthal and Senator 
+Hawley.
+    And let me follow up with Senator Hawley's comments. I 
+couldn't agree more. I could not agree more.
+    And in the Senate Judiciary Committee, after some graphic 
+hearings where parents and victims came forward and told us 
+what had happened to them online, we decided to take action.
+    We passed six bills related to this issue--child sexual 
+abuse and similar issues--six bills. And something happened 
+that was miraculous: All six passed unanimously. Every Democrat 
+and every Republican. Take a look at the folks who are up--are 
+on the ends of the table. It's across the political spectrum. 
+We all agreed on this. What has happened since? Nothing.
+    Six bills waiting for a day on the calendar. Six bills 
+waiting for a national debate. Six bills passed unanimously on 
+a bipartisan basis. And they put real teeth in enforcement, 
+too.
+    And I think that's why they've gone nowhere. Big Tech is 
+the big kid on the block when it comes to this issue--and many 
+other issues before us. That's the reality.
+    I want to thank Chairman Blumenthal and Senator Hawley for 
+bringing together so many Members at this hearing.
+    Our philosophy in putting together the Subcommittees was to 
+say to each of the Senators in charge of them, ``Do your best. 
+Take your issue that means something to you and do your best to 
+bring it to the American people and legislation to the floor of 
+the United States Senate.''
+    This Committee is one that I'm counting on to be successful 
+in this regard.
+    Mr. Bejar, thank you for the courage of stepping up and 
+speaking up. The only amendment I would make to the Chairman's 
+remarks and Senator Hawley's is, it's not only a parent's 
+issue, it's a grandparent's issue, too. We see this and it 
+scares the hell out of us.
+    So thank you for what you've brought us today. I'm 
+particularly intrigued by your idea of a survey so that we find 
+out from the source what's really happening.
+    My experience at Capitol Hill goes back several years. I 
+took on a tobacco issue. We were hitting our head against the 
+wall trying to penetrate this vast lobby at the time.
+    The one way we managed to penetrate it was to make it a 
+children's issue. Protecting kids from addiction to tobacco. 
+And then a lot of good things started happening.
+    Why is it that this issue, which relates to our kids so 
+much more and is so much more dangerous even than tobacco, in 
+my estimation, why is it so difficult?
+    Senator Hawley's correct. We're really fighting the biggest 
+kid on the block when it comes to this issue. Thank you, Mr. 
+Chairman.
+    Chair Blumenthal. Thanks very much, Senator Durbin and 
+thank you for your leadership on this issue.
+    I'm going to turn to Senator Graham if he has some opening 
+remarks, and then to Senator Blackburn.
+
+          OPENING STATEMENT OF HON. LINDSEY O. GRAHAM,
+        A U.S. SENATOR FROM THE STATE OF SOUTH CAROLINA
+
+    Senator Graham. Very quickly. Maybe number seven is the 
+magic number of bills--the next bill, I hope.
+    And thank you Senator Blumenthal and Hawley for doing this, 
+is to sunset Section 230. The other bills are going nowhere 
+until they believe they can be sued in court. The day they know 
+the courtroom is open to their business practices, they will 
+flood us with all kind of good ideas.
+    Until that day comes, nothing's going to happen.
+    And I said as we passed them, ``They're going to go to the 
+floor to die and be on Senator Schumer, Senator McConnell.''
+    What's the House doing? Not much.
+    So the bottom line is, a society that cannot take care of 
+its children--or refuses to--has a bleak future.
+    So thank you for doing this.
+    Chair Blumenthal. Thanks, Senator Graham. Senator 
+Blackburn.
+
+          OPENING STATEMENT OF HON. MARSHA BLACKBURN,
+           A U.S. SENATOR FROM THE STATE OF TENNESSEE
+
+    Senator Blackburn. Thank you, Mr. Chairman.
+    And Mr. Bejar, thank you so much. Thank you for the time 
+that you've given Senator Blumenthal's staff, my staff, as 
+you've met with us, and for being so open when you met with 
+Senator Blumenthal and I last week. I really appreciate this.
+    As Senator Blumenthal said--and we have worked on this for 
+years, and he built the timeline out going to 2021.
+    But the work we were doing, looking at Big Tech and looking 
+at some of the problems, the lack of privacy, the frustration 
+of people not being able to control who had access to their 
+virtual ``you,'' is what led us to this point to begin to look 
+at what was happening to our children.
+    And, as I told you in our meeting, the day we had that 
+first hearing--looking at what was happening online with 
+children--it was like the floodgates opened. And we started 
+hearing from moms and dads--not only in Tennessee and not only 
+in Connecticut, but across the country--who were saying, ``Can 
+I please tell you my story? ''
+    The reason they did this is because their hearts were 
+breaking.
+    Their children had committed suicide.
+    Their children had met a drug dealer.
+    Their children had met a pedophile.
+    Their child had met a sex trafficker.
+    They had been exposed to cyber bullying and had committed 
+suicide.
+    They were looking up ways to commit suicide.
+    See, there are laws in the physical world that protect 
+children from all of this. But online, it has been the Wild 
+West. And as my colleagues have said, we have fought this army 
+of lobbyists for years.
+    Big Tech has proven they are completely incapable of 
+governing themselves, of setting up rules, of having 
+guidelines, of designing for safety. And it is so important 
+that we move forward with this.
+    Now, one thing I will add--and I think is so important for 
+your being here and for our colleagues that weren't a part of 
+what we were doing.
+    In 2021, Mr. Mosseri, when he came before us as the CEO of 
+Instagram, indicated they were taking steps.
+    But we find out they were not. We find out from the advice 
+and the awareness that you provided Mark Zuckerberg and Mr. 
+Mosseri, what did they do with that? They made a conscious 
+decision to ignore your advice and guidance and used our kids 
+as the product.
+    The longer they're online, the richer that data is.
+    The richer the data is, the more money they make.
+    So they have monetized what comes from our children being 
+addicted to social media.
+    Thank you so much for being here today. Thank you, Mr. 
+Chairman.
+    Chair Blumenthal. Thanks, Senator Blackburn.
+    Let me introduce--formally introduce the witness. Arturo 
+Bejar is a former security engineer with very significant 
+experience working on user safety and well-being.
+    At Facebook he served as director of engineering for 
+Protect and Care, a specific team at Facebook from 2009 to 
+2015. He reported to the CTO.
+    He then came back as a consultant to help Instagram's Well-
+Being Team from 2019 to 2021. He is also a parent to a 
+courageous young girl--young woman who spoke up about her 
+experiences online.
+    Mr. Bejar, as is our custom, I'm going to administer the 
+oath to you now. If you would stand, please.
+    [Witness is sworn in.]
+    Chair Blumenthal. Thank you. Please go ahead.
+
+ STATEMENT OF ARTURO BEJAR, FORMER DIRECTOR OF ENGINEERING FOR 
+        PROTECT AND CARE, FACEBOOK, BERKELEY, CALIFORNIA
+
+    Mr. Bejar. Chairman Durbin, Ranking Member Graham, Chairman 
+Blumenthal, Ranking Member Hawley, and Members of the 
+Subcommittee, thank you for the opportunity to appear before 
+you and for your interest in addressing one of the most urgent 
+threats to our children today--to American children, and 
+children everywhere.
+    My name is Arturo Bejar, and I appear before you today as a 
+dad with firsthand experience of a child who received unwanted 
+sexual advances on Instagram.
+    As an expert with over 20 years of experience working as a 
+senior leader, including leading online security for--and 
+safety and protection at Facebook, it is unacceptable that a 
+13-year-old girl gets propositioned on social media.
+    Unfortunately, it happens all too frequently today. In a 
+carefully designed survey by Instagram in 2021, we found that 
+one in eight kids age 13 to 15 years old, experienced unwanted 
+sexual advances in the last 7 days.
+    This is unacceptable, and my work has shown that it doesn't 
+need to be this way.
+    Starting in 2009, I was the engineering and product leader 
+for Facebook's efforts to reduce online threats to both 
+children and adults. I met regularly with senior executives, 
+including Mark Zuckerberg, and they were supportive of this 
+work.
+    As a parent, I took the work personally, and I worked hard 
+to help create a safer environment. By the time I left in 2015, 
+I felt the work was going in the right direction.
+    A few years later, my 14-year-old daughter joined 
+Instagram. She and her friends began having awful experiences, 
+including repeated unwanted sexual advances, harassment. She 
+reported these incidents to the company and it did nothing.
+    In large part--because of what I learned as her father--in 
+October of 2019, I returned to Facebook, this time as a 
+consultant with Instagram's Well-Being Team.
+    We tried to set goals based on the experiences of teens 
+themselves. Instead, the company wanted to focus on enforcing 
+its own narrowly defined policies, regardless of whether that 
+approach reduced the harm that teens were experiencing. I 
+discovered that most of the tools for kids that we had put in 
+place during my earlier time at Facebook had been removed.
+    I observed new features being developed in response to 
+public outcry, which were, in reality, kind of a placebo--a 
+safety feature in name only to placate the press and 
+regulators.
+    I say this because rather than being based on user 
+experience data, they were based on very deliberately narrow 
+definitions of harm. The company was creating its own homework.
+    For example, Instagram knows when a kid spends a 
+significant amount of time looking at harmful content, content 
+that they are recommending. Meta must be held accountable for 
+their recommendations and for the unwanted sexual advances that 
+Instagram enables.
+    As soon as I understood this gap, I did what I had always 
+done. I researched the problem, vetted the numbers, and 
+informed Mark Zuckerberg, Sheryl Sandberg, and other 
+executives. I did this because for 6 years, that was my job, to 
+let them know of critical issues that affected the company.
+    It's been 2 years since I left, and these are the 
+conclusions I have come to.
+    One, Meta knows the harm that kids experience on their 
+platform, and the executives know that their measures fail to 
+address it.
+    Two, there are actionable steps that Meta could take to 
+address the problem.
+    And three, they are deciding time and time again to not 
+tackle these issues.
+    Instagram is the largest public directory of teenagers with 
+pictures in the history of the world. Meta, which owns 
+Instagram, is a company where all work is driven by data, but 
+it has been unwilling to be transparent about data regarding 
+the harm that kids experience and unwilling to reduce them.
+    Social media companies must be required to become more 
+transparent, so that parents and public can hold them 
+accountable.
+    Many have come to accept the false proposition that 
+sexualized content, unwanted advances, bullying, misogyny, and 
+other harms are unavoidable evil. This is just not true.
+    We don't tolerate unwanted sexual advances against children 
+in any other public context, and they can similarly be 
+prevented on Facebook, Instagram, and other social media 
+products.
+    What is the acceptable frequency for kids to receive 
+unwanted sexual advances? This is an urgent crisis.
+    When asked, ``Has anyone threatened you, damaged your 
+reputation, insulted you, disrespected you, excluded you, or 
+left you out? '' 11 percent of kids said, ``Yes, in the last 
+week.'' And one in four witnessed it happening, and the company 
+does nothing about that.
+    When asked if they saw a post that made them feel bad about 
+themselves, one in five kids said, ``Yes, in the last week.''
+    Meta executives know this. The public now knows this.
+    When I left Facebook in 2021, I thought the company would 
+take my concerns and recommendations seriously to heart--and 
+act. Yet years have gone by and millions of teens are having 
+their mental health compromised and are still being traumatized 
+by unwanted sexual advances, harmful content on Instagram and 
+other social media platforms.
+    There was a time when at home, on the weekend at least, a 
+kid could escape these things, these harms.
+    But today, just about every parent and grandparent has seen 
+their kids' faces change from happiness, to grief, to distress, 
+the moment that they check social media. Where can a child seek 
+refuge?
+    It's time the public and parents understand the true level 
+of harm enabled by these products, and it's time for Congress 
+to act. Thank you for your time.
+    [The prepared statement of Mr. Bejar appears as a 
+submission for the record.]
+    Chair Blumenthal. Thanks, Mr. Bejar.
+    We're going to now begin with questions and each of us will 
+ask 5 minutes of questions and because of the turnout, I'm 
+going to limit it to 5 minutes and then we'll have a second-
+round if folks want to do that.
+    You know, we put in the record your memo to Mark Zuckerberg 
+of October 5th where you recommend that there be, in effect, 
+not only a change in the business practice of the company, but 
+a culture shift, as you call it. And then you wrote to Mr. 
+Mosseri separately on October 14th--I'm going to ask that that 
+document be made part of the record as well--where you 
+presented more of these statistics and very powerful evidence 
+of harm.
+    [The information appears as a submission for the record.]
+    Chair Blumenthal. And it seems to me that the reaction was 
+to pat you on the head and, in effect, tell you to go away, be 
+a good boy, and pull the curtain.
+    Senator Hawley has referred to cooking the books.
+    I think what they did was bury this evidence, conceal it, 
+hide it, and deny it, in effect, to Congress and to the public.
+    And then, in the past year, they've actually cut around 
+21,000 jobs or a quarter of the global workforce in what Mark 
+Zuckerberg has called the year of efficiency. Hundreds of jobs 
+involving content moderators and safety jobs, including from 
+Instagram's Well-Being Team. What is the impact of cutting 
+those resources devoted to online safety?
+    Mr. Bejar. Thank you for the question. If you start from 
+the point that the work was already heavily under-resourced 
+when I was there, that we were dealing 20 percent, 10 percent 
+of people experiencing this, and that there was a small 
+fraction of people dedicated to address that harm, and then 
+they take more resources away from that, including the people 
+who are doing the work to understand the harm that kids are 
+experiencing, then it seems to me that the company culture is 
+one of see no evil, hear no evil. We don't want to understand 
+what people are experiencing and we were not willing to invest 
+in that and the tools that will help.
+    Chair Blumenthal. Thank you. We spoke in advance of the 
+hearing and you told me a story about meeting with another 
+senior executive, Chris Cox, Facebook's chief product officer. 
+And it was just so striking to me that he already knew a lot of 
+the numbers and statistics and evidence of harm that you were 
+bringing to Mark Zuckerberg's attention. Why was this meeting 
+so memorable to you?
+    Mr. Bejar. When I returned in 2019, I thought they didn't 
+know. Like, when I began seeing a culture that was consistently 
+ignoring what teens were experiencing, I thought that 
+executives did not know.
+    And I did spend a year researching, vetting, validating 
+with people across the organization. And I would ask people, 
+``Do you know what percentage of people are experiencing this? 
+''
+    And nobody was able to answer off the top of their head.
+    The first person to do that was Chris Cox. And I found it 
+heartbreaking because it meant that they knew and that they 
+were not acting on it.
+    Chair Blumenthal. In effect, their expressed caring about 
+teens and safety and protecting children was all a charade, a 
+mockery. They already had the evidence that you were bringing 
+to their attention. They knew about it and they disregarded it. 
+Correct?
+    Mr. Bejar. Yes, that's correct.
+    Chair Blumenthal. And then they rejected your 
+recommendations for making Facebook and Instagram safer. 
+Correct?
+    Mr. Bejar. That's correct.
+    Chair Blumenthal. And let me ask you before we go to our 
+next Senator, do you think that we, the Congress of the United 
+States, should now act? Don't you think action is long overdue 
+in this area, given the total lack of credibility on the part 
+of social media?
+    Mr. Bejar. Yes. My experience after sending that email and 
+seeing what happened afterwards, is that they knew, there are 
+things they could do about it, they chose not to do them, and 
+we cannot trust them with our children. And it's time for 
+Congress to act. The evidence, I believe, is overwhelming.
+    Chair Blumenthal. I'm very hopeful that your testimony 
+added to the lawsuit that's been brought by attorneys general--
+State attorneys general, across the country--I'm a former State 
+attorney general, I believe strongly in enforcement by them--
+added to the interests that I think is evidenced by the turnout 
+of our Subcommittee today, will enable us to get the Kids 
+Online Safety Act across the finish line, along with measures 
+like Senator Durbin's proposals and others that can finally 
+break the straitjacket that Big Tech has imposed on us.
+    Big Tech is the next Big Tobacco. I fought Big Tobacco in 
+the 1990s. I sued Big Tobacco. I urged Congress to act. The 
+same kind of addictive product that Big Tobacco pedaled to kids 
+now is advanced to them and promoted and pitched by Big Tech. 
+And we need to break the straitjacket they've imposed through 
+their armies of lobbyists and lawyers. Thank you. Senator 
+Hawley.
+    Senator Hawley. Thank you, Mr. Chairman.
+    Mr. Bejar, thank you again for being here. I just want to 
+first establish a fact or two, just to make sure everybody 
+understands.
+    So on October the 5th, 2021, you composed an email, which 
+is now, I think, in the record, to Mark Zuckerberg, Sheryl 
+Sandberg, and a group of other executives at Meta. Am I right 
+so far?
+    Mr. Bejar. That's correct.
+    Senator Hawley. In that memo, you disclosed to them that 
+according to your own research, one in eight children--children 
+now, had experienced unwanted sexual advances within the last 7 
+days. Is that correct?
+    Mr. Bejar. That's correct.
+    Senator Hawley. And about one in three, I think it was 27 
+percent, had experienced unwanted sexual advances outside of 
+the 7-day window. So that is more than 7 days. Is that correct?
+    Mr. Bejar. That is correct.
+    Senator Hawley. Those numbers are astounding. I just want 
+to let that sink in. One in eight, within 7 days. A third of 
+children outside of that window. Mark Zuckerberg, did he reply 
+to you?
+    Mr. Bejar. He did not reply.
+    Senator Hawley. Did he meet with you?
+    Mr. Bejar. He did not meet with me.
+    Senator Hawley. Sheryl Sandberg, did she meet with you?
+    Mr. Bejar. She did not meet with me.
+    Senator Hawley. So in other words, the people who had 
+recruited you to come back to Facebook--Meta--whatever--it's 
+hard to keep up, they ignored your findings. When you presented 
+data to them, they didn't want to see. They turned a blind eye.
+    Let me ask you about something else. This is from The Wall 
+Street Journal's report earlier this year.
+    This is June of this year. They found the following, I'm 
+going to quote: ``Instagram helps connect and promote a vast 
+network of accounts openly devoted to the commission and 
+purchase of underage sex content. Pedophiles have long used the 
+internet, but, unlike the forums and file transfer services 
+that cater to people who have an interest in illicit content, 
+Instagram doesn't merely host these activities, Instagram's 
+algorithms promote them. Instagram connects pedophiles and 
+guides them to content sellers via recommendation systems that 
+excel at linking those who share these interests, The Journal 
+and academic researchers found.''
+    This is a stunning, stunning report, Mr. Bejar, that--that 
+more than buttresses, bears out what you were telling, trying 
+to tell the executives who ignored you. Just give us a sense, 
+in your own view, why do you think this is happening?
+    Why has Instagram become, in the words of The Wall Street 
+Journal, ``a vast pedophile network''? Why are people like your 
+daughter every time they get on Instagram, they're being 
+bombarded with unwanted sexual advances, sexual content. Why is 
+this happening?
+    Mr. Bejar. My experience of that is that most of the 
+resources, isn't close to all that they invest in this, go 
+toward this very narrow definition of harm. And so I would 
+encourage anybody here, when you're looking at this issue, if 
+you find an account that seems to be a pedophile account, 
+selling things, try and act on it. Try and raise it, see what 
+the company does with that.
+    But see what happens if you like it or follow it, what you 
+start getting recommended. And of all of the things that get 
+surfaced by the systems, how many of them are they acting on? 
+It's a fraction of a percent.
+    Senator Hawley. One of the things that you said changed 
+from the time you left Facebook in 2015, I think it was, and 
+came back in 2019, was that Facebook had shifted to an 
+automated driven process of safety standards, safety 
+inspection, monitoring for things like this, which they boast 
+about. They say that their AI is great, it's doing great work. 
+That doesn't appear, however, to be the actual fact. It appears 
+that these harms are proliferating. Tell us about the shift 
+toward automated safety monitoring and what that has meant in 
+your experience.
+    Mr. Bejar. I was not there for the shift, but what I can 
+say is that algorithms are as good as their inputs. So if you 
+don't allow a child to be, ``Oh, that is gross, it makes me 
+uncomfortable,'' right--which is something that you can do for 
+an ad today.
+    You can take an ad and say that is sexually inappropriate. 
+But there's no way for a child to do that when they get a 
+message or other areas.
+    How do these systems like even have a hope of addressing 
+these issues? How can they as a company have a hope of 
+addressing these issues if they're not willing to listen when a 
+teen is trying to tell them that they're experiencing gross 
+content, unwanted sexual advances? I mean, that's how you find 
+predators. That's how you find the bad things.
+    Senator Hawley. So what--what your research found, and what 
+you elevated to leadership was, at least in part, that these 
+automated systems were not catching the vast majority of this 
+unwanted content out there. I mean, the sexual advances of this 
+pedophile material, it simply doesn't begin to capture. Yet 
+Facebook didn't shift more resources, didn't change their 
+process.
+    And here's the thing that really gets me, and I'll end with 
+this, Mr. Chairman, I know there's others who want to question.
+    I have been reading over and over and over again [holds up 
+documents] this case filed by my home State, Missouri v. 
+Biden--landmark First Amendment case--in which two Federal 
+courts, a Federal district court and a Federal court of 
+appeals, have found that Facebook, among others, actively 
+coordinated with the present administration to censor First 
+Amendment-protected speech.
+    Not this garbage that is not protected by anything in our 
+Constitution, but First Amendment-protected speech.
+    Here's what gets me. What the courts found--this is in the 
+record, this is factual findings--is that Facebook devoted all 
+kinds of resources and people, actual human people to doing 
+things like monitoring posts on COVID-19 vaccine efficacy. 
+There's one example of a parent in my home State of Missouri 
+who wanted to post something about a school board meeting. 
+Facebook used human moderators to go and take down that post. 
+That was important. That has to come down. We can't have them 
+posting about school board meetings for heaven's sake.
+    But the things that your daughter experienced, this [holds 
+up documents]--this ring of pedophiles--rings, plural, that 
+Facebook just can't find the time for. They just don't have the 
+resources for it. That we just have to leave to, you know, let 
+the market have its effect. Let AI do its job. We just don't 
+have the resources for it.
+    They had plenty of resources to censor First Amendment 
+speech. No resources to protect our children. Absolutely 
+unconscionable.
+    Chair Blumenthal. Thanks, Senator Hawley. Senator Durbin.
+    Chair Durbin. Thanks for being here, Mr. Bejar. You said 
+earlier in your opening statement that when you worked for 
+these companies, they were data driven. What do you mean by 
+that?
+    Mr. Bejar. Everything at--everything at Meta--there's goals 
+based on numbers. There's fine-grained understanding of what is 
+happening. People set their jobs on that. The next 6 months, 
+I'm going to make this number go from this to that.
+    Chair Durbin. But the ultimate answer is they were dollar 
+driven, too. Correct?
+    Mr. Bejar. What I can speak to very directly is that in my 
+question to Adam was, you know, what percentage of teens should 
+be experiencing unwanted sexual advances? If there's not a team 
+that that's their goal, if they can't answer your questions 
+about, well, how many teens are impacted by this? And if they 
+cannot give you detailed data as to who's initiating those 
+contacts, then it's just not a priority.
+    Chair Durbin. But I--bottom line is this, they've made a 
+decision that it's not a priority to them because of profit 
+motive. Have they not? In terms of what it's going to cost them 
+in their business model if they have to interrupt it and 
+monitor the content.
+    Mr. Bejar. I think that would be a wonderful question to 
+ask Mark and Sheryl--well, Sheryl's no longer there--and Adam 
+because they can speak to why they made these choices. I can 
+only speak to the fact that they keep making these choices over 
+and over again.
+    Chair Durbin. Well, I would just back up what Senator 
+Graham said. If this becomes expensive to them to continue this 
+outrageous conduct, then they may pay closer attention. That's 
+for sure. But you have suggested here, as well, that we need a 
+survey of young people, as to their experience. You want to 
+explain that?
+    Mr. Bejar. Yes. The way that harm should be tracked on 
+these products is, you go up to teens and ask them, did you 
+receive an unwanted sexual advance in the last 7 days? And they 
+are going to know, it doesn't matter what the message is.
+    And then what you can do to help that teen is give them a 
+chance to tell you. And the measures that I talk about are not 
+even expensive to implement.
+    Chair Durbin. We were also briefed by the DEA in terms of 
+narcotics transactions and the use of platforms for that 
+purpose. Did you ever look into that issue?
+    Mr. Bejar. I did not directly, but what you can do is, if 
+you look at the numbers that I provided the Committee, there is 
+a category for that class of issues. And you should ask the 
+company how much of that content, which teens experience as 
+that, they take down.
+    Chair Durbin. It's interesting to me that if one of my 
+kids, when they were kids--our grandkids now--came home and 
+said there was somebody lurking outside the playground at 
+school that make the kids feel uncomfortable. We would know 
+what to do and to move on it quickly. We'd find it 
+unacceptable.
+    And yet what we know for a reality is that there is danger 
+lurking in the iPhones that they're opening up every single 
+day. And yet we seem to feel that we are unable to respond to 
+this. I hope we can change that.
+    Senator Graham's suggestion about 230, I don't know. Do you 
+have any thoughts on that? Section 230?
+    Mr. Bejar. No, I'm not qualified to talk about 230. But I 
+can say that these companies should be held accountable for the 
+content they recommend.
+    Chair Durbin. Well, I certainly agree with that. I think 
+that is the bottom line. Thank you for your testimony.
+    Mr. Bejar. Thank you.
+    Chair Blumenthal. Thanks, Senator Durbin. Senator Graham.
+    Senator Graham. Thank you. You're doing the country great 
+service here.
+    Did they contest your memo? Did anybody call you up and say 
+you don't know what you're talking about, you're wrong?
+    Mr. Bejar. No. I must have spoken to 20 or 30 people, 
+including Adam Mosseri, saying, ``Do you have any feedback? 
+Any--anything that's inaccurate in my data? '' And nobody did.
+    Senator Graham. Okay. Is it--to sum up your testimony, is 
+it fair to say that in its current form what you're describing 
+is a dangerous product?
+    Mr. Bejar. Correct.
+    Senator Graham. And that millions of families are affected 
+by this dangerous, dangerous product?
+    Mr. Bejar. Correct.
+    Senator Graham. As a father who had a 13-year-old affected 
+by this product, did you feel helpless?
+    Mr. Bejar. I did. And I was, if one that could help, it 
+would've been me.
+    Senator Graham. If you could have sued them, would you?
+    Mr. Bejar. I apologize, could you repeat the question?
+    Senator Graham. If you could sue on behalf of your 
+daughter, would you?
+    Mr. Bejar. I believe they just have to be held to account 
+and being transparent about----
+    Senator Graham. Okay. Well one way of doing that is to sue 
+them. Do you know you can't sue them under the current law?
+    Mr. Bejar. I did not know that.
+    Senator Graham. Okay. All right. So they--your daughter 
+felt harmed. Your testimony is, millions of people are in the 
+same situation as your daughter. They know what they're doing 
+and they keep doing it anyway. Is that all correct?
+    Mr. Bejar. That is correct.
+    Senator Graham. I can't think of a company in the world 
+that can do this crap and not get sued except these people. 
+Now, if you had to give sovereign immunity, basically what 
+we've done here, to a group of people, this would be on the 
+bottom of my list, not the top of my list. So I've just asked 
+my office to find out how much money I've received from 
+Facebook, Instagram, and other companies. I'm going to give it 
+back.
+    I think we all--ought to all boycott the giving because if 
+Senator Hawley's right, I think you are, their leverage here is 
+just power over the political system.
+    So I'm calling on every Member of Congress today, don't 
+take their money until they change. Don't accept what they're 
+offering you until they change. Because the money you're 
+receiving is coming from people that have created a dangerous 
+product for children and they seem not to be willing to change.
+    That'd be on the bottom of my list, now that I know what 
+you've told me, of people I want to associate myself with. Have 
+you ever heard them talk about being afraid of anything or 
+anybody?
+    Mr. Bejar. I have not.
+    Senator Graham. That's amazing, isn't it? Companies this 
+big, he's telling them what you're doing is hurting people, 
+they're indifferent to it. But they feel like they're immune 
+from action because they pretty much are.
+    Bottom line, if we did create a system where parents like 
+you could sue and hold them liable in court, do you think that 
+may change your behavior?
+    Mr. Bejar. That is not for me to say. I just want my 
+daughter, our kids to have the tools that they need when 
+they're experiencing these things.
+    Senator Graham. Yes. Well what I will tell you is that I 
+believe it would. We'll never know till we try. I think we 
+should dedicate ourselves on this Committee--which has been a 
+pleasure to serve on Senator Durbin, all of you have been great 
+on this issue--to not just pass bills, but insist on change.
+    The ultimate change comes, my colleagues, is when they can 
+be held liable in a court of law. Until you open up the 
+courthouse, nothing's going to change. The day you do, you'll 
+be amazed how many good ideas they knew about they didn't tell 
+us. So I'm going to dedicate what time I have left in this 
+business to opening up the courtroom because I don't think 
+nothing else will do. And until that day comes, I'm not going 
+to take any of their money.
+    If every Member of Congress says, ``Your money is not 
+welcome till you change,'' that might be the first step toward 
+change.
+    Thank you for your bravery. Sorry, what happened to your 
+daughter. We owe you and everybody in your situation better. 
+Thank you.
+    Chair Blumenthal. Thanks, Senator Graham. And that's why 
+many of us have joined you in the call for abolishing Section 
+230, including the Ranking Member and myself. Senator 
+Klobuchar.
+    Senator Klobuchar. Thank you very much, Senator Blumenthal. 
+Thank you for those words, Senator Graham.
+    I am a strong believer in, ``We can talk about this and 
+have hearings and keep reminding people that we need to get 
+things done, but until we change the law, these are no longer 
+companies that started in a garage with two guys tinkering 
+around with platforms or computers or in their college dorm 
+room.'' Okay?
+    This is real lives that are getting lost, and I really 
+appreciate Mr. Bejar that you are willing to come forward and 
+testify.
+    I'm going to focus on one area that I don't think we've 
+talked about enough, and that is the platform's inability and 
+refusal to take down sites that are selling dangerous drugs.
+    Recently the DEA found that one-third of drug cases had 
+direct ties to social media. I was just in Minnesota with a 
+mom, Bridget who lost her kid. And the kid literally ordered 
+one pill--as we say, one pill kills--on the internet thinking 
+it was something else. It was laced with fentanyl. As the mom 
+said--as Bridget said, ``All of the hopes and dreams we as 
+parents had were erased in the blink of an eye. And no mom 
+should have to bury their kid.''
+    That's why Senator Durbin and I and others on this 
+Committee have been working with Senators Shaheen and Marshall, 
+as well as Senator Grassley on this bill that has come through 
+this Committee already, and needs to go to the floor along with 
+another of other bills we've talked about--to require social 
+media companies to report fentanyl and other dangerous drug 
+sales on their platforms.
+    In the words of our DEA Administrator, they have 
+basically--the cartels, who don't really care if people die or 
+not because no one knows it--in Mexico and China, have 
+basically harnessed these platforms. Do social media companies 
+have the correct incentives to identify and eliminate drug 
+sales to kids?
+    Mr. Bejar. Thank you for the question and the concern on 
+all of those important things. Until there is disclosure of 
+what kids experience as drug content, sexual content, until 
+there is transparency about these things, I don't know what the 
+incentive is. Which is why I think transparency is so 
+essential.
+    You know, as parents and grandparents, we see it, we 
+understand it, we know how frequent it is. That's what the 
+numbers they have to share. And if I would want one thing for 
+everybody here to know, is that when we talk about any category 
+that you care about, for example, drugs, and then when the 
+company talks about that category, they're likely talking about 
+a fraction of a percent of what we as a society are 
+experiencing.
+    Senator Klobuchar. Exactly. And we all know there's a lot 
+of other things to do with fentanyl including at the border, 
+but this would be a major game changer for the ability to take 
+these cases on.
+    Prosecutors have also reported an emerging trend where 
+offenders collect photos of children that may fall just shy of 
+the definition of child pornography and distribute them on 
+websites with the intent to harass or abuse the child victims. 
+And there was a major story on this in The Washington Post.
+    Senator Cornyn and I have a Bill, the SHIELD Act, to fill 
+in gaps in Federal law so that prosecutors can hold those who 
+abuse kids in this way accountable. In your role as a person at 
+Facebook who was responsible for efforts to keep users safe, 
+can you talk about the deficiencies in current policies?
+    Mr. Bejar. Thank you for the question. If you look at 
+content that sexualizes minors, again, the question is, is that 
+something that actually violates company policy and would be 
+removed, and is that what the company is acting on?
+    Or does it end up being something that, because it is 
+content that the company does not act on, they actually end up 
+recommending and distributing? Right?
+    And as a parent, we see this. Right? If you were to look 
+and open the app and look for it, you can find it, and then if 
+you like it, you get recommended it. And these are all things 
+that the company is, I believe, aware of, in terms of reach, 
+and can do things about and have chosen not to do so.
+    Senator Klobuchar. Okay, very good. I think--I was 
+listening to Senator Graham, and he's right that there's one 
+big thing we can do is to allow these cases to go forward in 
+court. But I also think some of these things I'm discussing, 
+actually makes it easier for people to proceed with these cases 
+and create incentives.
+    And one thing I'd add, I'll ask it on the record, is that 
+Senator Coons, Senator Cassidy--and I think Senator 
+Blumenthal's involved--have a bill to allow independent 
+researchers to look at the algorithms that you know are 
+designed in a way that manipulates these kids and can lead to 
+their deaths, to require these digital platforms to give 
+independent researchers access to data. And I just--yes or no, 
+I figure you think this would be helpful?
+    Mr. Bejar. Yes.
+    Senator Klobuchar. Yes. Okay, very good. Just again, thank 
+you. And we can, again, talk about this all we want and we'll 
+remember you and your story. But until we get these things and 
+are allowed floor time by both sides and can maybe put them 
+together into one package, we're just not going to get the 
+solutions that we need. Because just getting mad at these 
+platforms haven't changed their conduct.
+    Chair Blumenthal. Thanks. Thanks, Senator Klobuchar. 
+Senator Kennedy.
+    Senator Kennedy. Mr. Bejar, social media can make people 
+less lonely. Can it not?
+    Mr. Bejar. It can do that.
+    Senator Kennedy. Social media can deliver insight. Can it 
+not?
+    Mr. Bejar. It can.
+    Senator Kennedy. Social media when used properly can give 
+voice to the timid. Can it not?
+    Mr. Bejar. It can.
+    Senator Kennedy. Social media can also spread hate. Can't 
+it?
+    Mr. Bejar. It can.
+    Senator Kennedy. And isn't it a fact that much of social 
+media, not all, but much of social media has become a cesspool 
+of snark?
+    Mr. Bejar. What I can speak to Senator, is, it happens all 
+so often and it doesn't need to be that way.
+    Senator Kennedy. Yes. But is it that way for much of, not 
+all, but much of social media?
+    Mr. Bejar. One of the numbers that I talk about is this 20 
+percent of kids who witnessed bullying in the last 7 days. And 
+this is content that does not get taken down. If people comment 
+on it, it gets promoted.
+    Senator Kennedy. Yes. Well, let me put it another way. I'm 
+trying to sum this up for us. Isn't it a fact that social media 
+has lowered the cost of being an a-hole?
+    [Laughter.]
+    Mr. Bejar. Yes.
+    Senator Kennedy. And isn't it true that social media 
+removes any geographical border to the harassment of others?
+    Mr. Bejar. Yes.
+    Senator Kennedy. And isn't it true that some forms of 
+social media optimize for engagement?
+    Mr. Bejar. Yes. I think using your term, they reward being 
+an a-hole.
+    Senator Kennedy. Yes. And isn't it true that some forms of 
+social media use surveillance to identify our and our kids' hot 
+buttons?
+    Mr. Bejar. I cannot speak to that.
+    Senator Kennedy. Isn't it true that some forms of social 
+media use algorithms to show us and our kids stuff that pushes 
+those hot buttons?
+    Mr. Bejar. I will say this. Recently, my daughter had 
+somebody go into one of her posts about cars and said, ``You 
+know, you'd like to drive and you like cars because you saw a 
+man doing it.'' And she said, ``I'm studying automotive 
+restoration. I've been doing this for years. I know a lot about 
+cars. I am more than qualified.'' And the person shot back, 
+``No--women just belong in the passenger seat.''
+    And to every point that you just made, I will say that when 
+I asked her about that post, if she would delete it, because 
+she knows reporting would do nothing, she said, ``I will not 
+delete it because I'm worried that that will mean that less 
+people will see my posts.''
+    Senator Kennedy. All right. I'm not going to ask you this 
+question. I'm going to make the statement because you're 
+probably not familiar with Louisiana. But in my State, social 
+media has impacted the news media, particularly print media. 
+Thank God for our TV news and our radio news. But when it comes 
+to our print media, we're--we in Louisiana--and that's print 
+media and paper, paper and print media, which is on the 
+internet--when it comes to print media, we in Louisiana are a 
+news desert. We've only got about two real non-news print media 
+journalists left who are fair and aren't opinion journalists. 
+Most of our print media members are now sports journalists--
+which is fine, I love sports. But there's a lot else going on 
+in the world. Let me wrap up this way. What you do is what you 
+believe. Isn't it?
+    Mr. Bejar. It is.
+    Senator Kennedy. And everything else is just cottage 
+cheese. Isn't it?
+    Mr. Bejar. It is.
+    Senator Kennedy. Yes. I look forward to the day when 
+Members of the United States Senate will come together and 
+establish a new rule, not used every day or every week, or 
+every month, or even every year. But that rule would say, when 
+there is a consensus, and when you, as a Senator, can 
+demonstrate that you have 60 votes to pass a bill, that you 
+have the right to bring that bill to the floor of the United 
+States Senate, no matter who doesn't want it. Thank you, Mr. 
+Chairman.
+    Chair Blumenthal. Thanks, Senator Kennedy. Senator Hirono.
+    Senator Hirono. Thank you, Mr. Chairman. Thank you, Mr. 
+Bejar for testifying.
+    I was curious about the fact that so many of the young 
+people on these platforms are exposed to cyber bullying, and 
+that can be anything. Your daughter experienced some of that 
+because of some of the things that she posted online.
+    So--but there is also an addictive quality to keeping these 
+kids online. And for the platforms, keeping these kids online 
+means money for them. What is it that--is there anything we can 
+do to address the addictive aspect of what is happening to our 
+young people where they continue to go on to these platforms 
+and expose themselves to this kind of harmful content?
+    Mr. Bejar. Thank you for the question. I think that it is 
+essential to have good data about the impact that this product 
+has. And it's not that difficult. You could take a teenager 
+after half an hour and go, like, ``How are you doing? ''----
+    Senator Hirono. Mm-hmm.
+    Mr. Bejar [continuing]. ``Are you feeling better or worse? 
+'' And then use that information.
+    Senator Hirono. Let's say that we have this kind of data as 
+to the harmful impact. What do you think we should do?
+    Mr. Bejar. I think that products should adopt measures, and 
+where appropriately compelled, to figure out a good way to help 
+teens have a use of the product that serves them.
+    Because I think what happens right now is it distresses 
+them. And what I experienced as a parent, and I think every 
+parent here has experienced, is that sense of urgency, of 
+needing to be on there, and the impact that it has on their 
+emotions.
+    Senator Hirono. Do the young people understand the harmful 
+impact themselves? Would it help if--part of your testimony is 
+about how all of us should be--should understand what is 
+happening. Would it help if the kids themselves also understand 
+the harmful impacts? This is also an aspect of education, for 
+example, of the young people. Would that help?
+    Mr. Bejar. I think it helps to educate young people. I 
+think what helps in my experience the most is changes to the 
+product so that it's less harmful. And it's those changes and 
+the refusal to do those changes is why I'm here.
+    Senator Hirono. So right now, there's not much incentive 
+for these platforms to change their product because they face 
+no consequences for the content.
+    So meanwhile, dozens of States, including the State of 
+Hawaii, where I come from, have sued these companies, including 
+Meta, alleging that they designed their products to harm users. 
+And I think all or most of these cases have been consolidated 
+in California. The defendants are saying that they are limited 
+in their liability exposure because of Section 230.
+    You're not a lawyer, but if these companies were exposed to 
+legal liability and of these lawsuits--they are still pending, 
+by the way. And if the companies are found liable and forced to 
+pay money as a result of these lawsuits, do you think that 
+would change their behavior as far as them paying attention to 
+the harmful impact of the contents on their platforms?
+    Mr. Bejar. I'm not a lawyer, and I'm not qualified to weigh 
+in on that.
+    Senator Hirono. No. But you did testify that it's all about 
+money for these companies. That's why they keep doing what they 
+do. And if they were exposed to--if they had to pay money as a 
+result of their content, do you think that would change their 
+behavior?
+    Mr. Bejar. My hope is, and what I believe will change their 
+behavior is, it's the moment that Mark Zuckerberg, when he 
+declares earnings, he has to say, ``Last quarter we made $34 
+billion''----
+    Senator Hirono. Mm-hmm.
+    Mr. Bejar [continuing]. And the next thing he has to say 
+is, ``And in Instagram, this is the percentage of teens that 
+experienced unwanted sexual advances.'' That number would go 
+down very quickly.
+    Senator Hirono. How would it go down?
+    Mr. Bejar. Because it would be incentivized to work on it. 
+Because right now, there are no goals to reduce unwanted sexual 
+advances, as far as I am aware.
+    Senator Hirono. Except that if they are--if there's no law 
+that prevents them from having these kinds--this kind of 
+content, or there are no court cases, they're not held 
+responsible for content, then the fact that people know that 
+they have an incentive, that they have exposed these kids, so 
+what? Right?
+    They--and this is why there's so much attention being paid 
+to Section 230 and the limited liability, in fact, no 
+liability. They are protected from content of--they do try, I 
+suppose, and you say that they have a very limited definition 
+of what is harmful content.
+    But on the other hand, I'm all for doing more than we are 
+currently doing. But, you know, one of the things that can also 
+happen, I read a letter asking the FTC to investigate matters--
+alleged practice of censoring advertisements for health 
+products related to menstruation.
+    And there Meta decided that this kind of advertisements was 
+harmful. I hardly call that a very narrow definition of harm.
+    So all these companies, left to their own devices, they get 
+to choose what they deem to be harmful. And the examples that 
+you cite, it's a very limited definition. But this, the example 
+I cite, they've decided that women's health products, that is 
+harmful and they're going to censor those kinds of products.
+    So, you know, this is--it's a lot more complicated than at 
+first, I guess, glimpse. But I know we're going to try and do 
+something. So thank you, Mr. Chairman.
+    Chair Blumenthal. Thanks, Senator Hirono. Senator 
+Blackburn.
+    Senator Blackburn. Thank you, Mr. Chairman. And thank you 
+for your testimony and your frankness. I know that we 
+appreciate it.
+    And my State of Tennessee, we have attorneys here from our 
+Attorney General's office today, and they are pushing to also 
+get something done about the overreach of Facebook. And we're 
+grateful that so many States have stepped up to hold Facebook 
+and Meta to task. So we appreciate this.
+    I want to return us to December 2021, and Chairman 
+Blumenthal mentioned this. He and Ic, at the Senate Commerce 
+Consumer Protection Subcommittee that we led, had Mr. Mosseri 
+in front of us. And you were consulting for Instagram at that 
+time. Correct?
+    Mr. Bejar. So what is the date again?
+    Senator Blackburn. December 2021.
+    Mr. Bejar. I had left at that point.
+    Senator Blackburn. You had left at that point. Okay. And a 
+few months earlier, you sent him two emails that talked about 
+youth harms on the platform. Correct?
+    Mr. Bejar. Correct.
+    Senator Blackburn. Okay. Now I'm going to quote you some 
+things from his testimony. He said, and I quote, ``We care 
+deeply about the teens on Instagram, which is in part why we 
+research complex issues like bullying and social comparison and 
+make changes.'' Do you agree with that characterization?
+    Mr. Bejar. I agree with that they make research. I don't 
+agree that they make changes.
+    Senator Blackburn. Okay. So they have the info, they take 
+no action. He also said, ``We don't allow people to bully or 
+harass other people on Instagram, and have rules in place that 
+prohibit this type of conduct. We've also built tools that 
+prevent bullying from happening in the first place, and empower 
+people to manage their accounts so they never have to see it,'' 
+end quote. Do you agree with that?
+    Mr. Bejar. I think it's profoundly misleading, because at a 
+time at which the public statistic was a fraction of a percent. 
+Right? One in five teens had watched it happening--like 10 
+percent experienced it. And you have to bear in mind they're 
+standing right there. And if this was a school, that would be 
+completely unacceptable.
+    Senator Blackburn. I agree. Let me give you one more.
+    Talking about the executives, and I'm interested to see how 
+they reacted to the information that came out in 2021 about 
+their disregard for harms to minors.
+    Do you think that Meta executives were motivated to do more 
+or to address the problem? Or were they interested in covering 
+up what was going on at Meta at the time?
+    Mr. Bejar. I think you will need to ask them about their 
+intentions. But I also deeply believe that actions speak louder 
+than words.
+    Senator Blackburn. Did any of the members of Meta's team, 
+whether it was Zuckerberg, Sandberg, Cox--did any of them 
+respond to your email in a way that suggested that they were 
+going to take an action to correct the wrongs?
+    Mr. Bejar. No. For 6 years, when I sent that kind of 
+message, I would get a meeting within 24 hours to spend 
+meaningful amount of time talking with them and what needed to 
+be dealt with.
+    And in this case, the lack of response, the meeting 
+sometime later, and then the lack of action, again speaks about 
+the fact that they, you know----
+    Senator Blackburn. So they sloughed it off----
+    Mr. Bejar. It was----
+    Senator Blackburn [continuing]. Money was more important 
+than protecting children?
+    Mr. Bejar. I think you should ask them that question.
+    Senator Blackburn. Okay. I would be interested to know who 
+took responsibility for making policy determinations about 
+youth safety? And one conversation you had with my staff, you 
+suggested that Mark Zuckerberg had a hand in such decisions 
+during your first stint at the company. But that when you 
+returned, he would tell employees not to raise youth safety 
+issues to him. Is that accurate?
+    Mr. Bejar. In my first stint, he would be--he, Chris Cox, 
+and Sheryl, would be who you raise these issues to, and they 
+would engage very proactively. Having done that for 6 years, 
+that's why I felt I was probably one of the most qualified 
+people in the world to bring it to their attention.
+    I was not aware when I brought--sent my email that it was 
+hard to talk to Mark about this, but I could say that my 
+experience of how the entire company was behaving when it came 
+to the harms that teens were experiencing, was a culture issue 
+that was grinding on that decision, which in my experience, 
+prioritizing prevalence over harm, is something that Mark sets 
+direction for that whole executive team. And that's why I 
+realized it was necessary to appeal directly to them.
+    Senator Blackburn. So they were aware.
+    Mr. Bejar. Correct.
+    Senator Blackburn. They knew that harms were taking place.
+    Mr. Bejar. Correct.
+    Senator Blackburn. They had the research that pointed this 
+out--their own research.
+    Mr. Bejar. Correct.
+    Senator Blackburn. And they made a conscious decision to do 
+nothing about it.
+    Mr. Bejar. Correct.
+    Senator Blackburn. Did they ever talk about profits as 
+opposed to enacting these protections?
+    Mr. Bejar. Not in my presence.
+    Senator Blackburn. Not in your presence. Okay.
+    So other than Mark Zuckerberg, who would've claimed 
+responsibility for dealing with youth safety and youth harms?
+    Mr. Bejar. It would have----
+    Senator Blackburn. Anyone?
+    Mr. Bejar [continuing]. Adam Mosseri for Instagram.
+    Senator Blackburn. So, Adam. Okay. Thank you for that. My 
+time's expired. Thank you, Mr. Chairman.
+    Chair Blumenthal. Thanks, Senator Blackburn. Senator Welch.
+    Senator Welch. Thank you very much. I just want to start by 
+acknowledging my gratitude to my colleagues on this Committee 
+for the work that you have been doing on a bipartisan basis. 
+Senator Blackburn and I began working together when we were 
+both in the House together and introduced, I think, the first 
+Privacy bill.
+    So I haven't been with you in this effort, but I was with 
+Senator Blackburn. And I can't elaborate on the excellent 
+opening statements Senator Blumenthal and Senator Hawley, that 
+you made, and I guess in our phrase, I'd like to associate 
+myself with your remarks.
+    But I do want to, on my own behalf, express my shock at 
+what's happening to our kids and how it's all because there's a 
+lot of money to be made. And your questions Senator Blackburn 
+revealing just the disregard for the mental health of our kids 
+is--is truly shocking. So I'm all in with you on your efforts 
+here.
+    I'm also delighted that in Vermont, our attorney general 
+has joined the lawsuit. And also I want to thank you for your 
+stepping forward and providing such clarity, and also embedded 
+in the concern that you have, not just for your daughter, but 
+for all of our kids.
+    A couple of issues that have come up from letters that I've 
+received and comments--and I know you're getting the same 
+questions as well is from--and I want to make sure we can do 
+this legislation that doesn't do any harm. And I've been 
+receiving a number of letters from folks in the LGBT community 
+who are concerned that some of this legislation included the 
+KOSA Act would compromise their ability to get together online 
+and be mutually supportive. And I support that.
+    So is it, I just want you to talk a little bit about how, 
+if we proceed with the legislation, which I hope we do, we're 
+not in any way going to interfere with the capacity of kids who 
+legitimately are getting together, mutually supporting, none of 
+the exploitive stuff. Can we accomplish that?
+    Mr. Bejar. Thank you for the question. I cannot speak to 
+the legislation. I think--I trust that you are extraordinarily 
+qualified for that part. I think that my job here is to help 
+bring light to the harms----
+    Senator Welch. Right.
+    Mr. Bejar [continuing]. That these teams are experiencing. 
+And the fact that the way the company talks about them, in my 
+experience, is misleading.
+    Senator Welch. Okay. And that's based on all your years 
+really at the forefront of Facebook.
+    Mr. Bejar. Correct. And then the other thing I really would 
+want you to know, and for any kid that, again, ends up having 
+these awful experiences, it does not need to be this way. 
+Right? There ought--Instagram is standing right next to them as 
+these things are happening, and they should be able, and I know 
+because I built these kinds of things for 6 years, they should 
+be able to turn and say, ``Can you please help me with this? 
+''----
+    Senator Welch. Right.
+    Mr. Bejar [continuing]. And then get help with whatever's 
+happening for them. And today, that is not the case.
+    Senator Welch. So it's the exploitative content that's in 
+the algorithms that you're focusing on, and I think all of us 
+are.
+    Mr. Bejar. I think you--no, it's--it's actually--it's when 
+somebody says in front--you're talking at school and you're in 
+the hallway and somebody comes to you and says, ``I'm going to 
+make sure that you don't get invited to any party ever again.'' 
+Right? The only people around you hear that. And if that 
+happens online, that is a post that implies a person--doesn't 
+name them----
+    Senator Welch. Right.
+    Mr. Bejar [continuing]. Never gets removed, is incredibly 
+distressing to the teen. And the kind of stuff I am talking 
+about, because I deeply care about every child we can talk 
+about in every context, is that, that child who gets like left 
+out, insulted because of the reasons that Chairman Blumenthal 
+outlined, that child should be able to get help independent of 
+what the content is. And I believe that's important for all 
+children, no matter what their gender or----
+    Senator Welch. Right. No, I share that. By the way, another 
+question that's come up is about encryption. And there's real 
+privacy benefits to maintaining an encryption. So I would hope 
+that any legislation that we have wouldn't compromise the 
+privacy rights of individuals who are on the internet.
+    Mr. Bejar. I deeply believe in privacy and in everything 
+that I'm talking about. Right? If a child gets a direct 
+message, right, that makes them uncomfortable, hurts them, it 
+doesn't matter what the content is, it ought to be, ``My house, 
+my rules.''
+    Senator Welch. Right.
+    Mr. Bejar. It only matters that that child feels 
+uncomfortable, and is able to say, which is what I asked Adam, 
+can we please add a button when a child receives this message 
+that says like, ``Please help me.'' ``What's going on? '' 
+``Somebody's being like, really mean to me.''
+    Senator Welch. Right.
+    Mr. Bejar. And it doesn't matter what the content is, that 
+child deserves help.
+    And if somebody's initiating those messages, sending those, 
+going into those kids' houses and telling them these things, 
+then step number one----
+    Senator Welch. Yes.
+    Mr. Bejar [continuing]. They should know that's not 
+appropriate. And if they keep doing it, then other things can 
+be brought to bear.
+    Senator Welch. Thank you. So kids first.
+    Mr. Bejar. Absolutely.
+    Senator Welch. Thank you. I yield back.
+    Chair Blumenthal. Thanks, Senator Welch. Senator Cornyn.
+    Senator Cornyn. Thank you. Thank you, Mr. Bejar for being 
+here and your courage and your testimony.
+    You know, I think we've met the enemy, and the enemy is us. 
+We actually have six bills that Senator Durbin referred to that 
+were voted out of the Judiciary Committee. But in the Senate, 
+the only person who can actually schedule those bills for vote 
+is the Majority Leader, Senator Schumer.
+    And so I would suggest that we focus our attention on 
+trying to get Senator Schumer to schedule a vote on those six 
+pieces of legislation. There's--that would be a good start. But 
+we can talk about it, but without that happening, nothing is 
+going to happen in the Senate.
+    So one wise person said one time, when trying to figure out 
+a complex topic like this, follow the money.
+    You keep--you've mentioned a number of times that data--do 
+social media applications like Instagram and Facebook collect 
+huge volumes of data about the users?
+    Mr. Bejar. They do.
+    Senator Cornyn. And that data is then used mainly for 
+advertising products. For example, it's amazing to me when I go 
+to a website and I look at something, let's say a piece of 
+hunting gear, next thing I know on my Instagram, an 
+advertisement from that same company shows up.
+    And the way that that happens is that Instagram, Facebook, 
+X or formerly known as Twitter, sells that data to companies 
+who then use that information to promote their products. Isn't 
+that correct?
+    Mr. Bejar. I'm not an expert in that domain.
+    Senator Cornyn. Well, that's what--that's how they make 
+money. Right?
+    Mr. Bejar. They make money through advertising.
+    Senator Cornyn. Yes. Well, I was shocked to read an article 
+here in the MIT Technology Review, which talks about, it's 
+shockingly easy to buy sensitive data about U.S. military 
+personnel.
+    Duke University did a study at the request of West Point 
+and others, and determined for as little as 12 cents per record 
+that data brokers would sell sensitive information on U.S. 
+military members and veterans. Does that--would that surprise 
+you?
+    Mr. Bejar. Again, this is not an area where I have any 
+expertise. I mean, I have expertise from the perspective of 
+being a security professional and ensuring that the systems do 
+what they're set to do. But I don't have expertise on how the 
+data gets brokered.
+    Senator Cornyn. Well, I think it's pretty much common 
+knowledge that that's the case--that this data accumulated by 
+social media companies is then sold. And that's the reason why 
+when you go on Instagram or Facebook, you don't actually have 
+to pay a subscription or a fee.
+    And they've talked about if they couldn't recover that 
+revenue from selling that data about me, Chairman Blumenthal, 
+the Ranking Member Hawley and others, or your daughter, then 
+they would have to charge a fee in order to make this 
+economical. But they don't do that because they can sell your 
+data.
+    And as shocking as what you have discovered, and you shared 
+with us today about this one social media company, the truth is 
+this is not unique to Instagram or Facebook. Correct?
+    Mr. Bejar. Correct. It's the entire social media sector 
+that serves teens.
+    Senator Cornyn. And here in the Congress, we've talked a 
+lot about our concern about China's increasing belligerency, 
+and militancy, and buildup of its, not only its economy, but 
+its military, and threatening peace in Asia and elsewhere.
+    But we're also--have talked a lot about apps like TikTok, 
+for example, that are Chinese applications that then do much as 
+Instagram does and vacuum up all this data, addict our children 
+by using the algorithms or codes to figure out what to 
+recommend to them.
+    And again, this is all about the data, and all about the 
+money.
+    And of course, Senator Durbin mentioned the use of social 
+media applications when it comes to selling drugs. You know, 
+fentanyl, synthetic opioid is a single leading cause of death 
+for 18- to 45-year-olds in America today. And much of it is 
+transacted, those sales and promotions through the use of 
+social media. And then there's other scary things like 
+deepfakes. Do you know what a deepfake is?
+    Mr. Bejar. I do.
+    Senator Cornyn. What is it?
+    Mr. Bejar. It is when you use technology to create an image 
+that appears to be a person, but it's not an actual video or a 
+photograph of that person.
+    Senator Cornyn. And I've read in the last couple of days 
+that deepfakes are now being used to basically portray young 
+girls for sexual--sexual gratification using these deepfakes--
+fake, false images due to this incredible technology. Which, as 
+Senator Kennedy pointed out, could be used for a lot of good, 
+but it could be also used for ill, as well.
+    I know our time is short here today. I just want to thank 
+you for answering some of these questions. We have a lot of 
+work to do here in the Senate and in the Congress, and as 
+parents and grandparents and to try to protect our children. 
+I'm just--thank goodness my daughters are adults now, and they 
+don't live in the--you know, they aren't of an age of Senator 
+Hawley's kids or others'. But the first thing we need to do, 
+Mr. Chairman, is ask the one person who can actually schedule a 
+floor vote on some of the bills that passed unanimously out of 
+the Senate Judiciary Committee to schedule a vote. We could do 
+that next week, but he's got to make it happen. Thank you.
+    Chair Blumenthal. Thanks, Senator Cornyn. I can't speak for 
+Senator Schumer, but I know he is vitally interested in reform 
+in this area, and I'm sure that he will make that interest real 
+on the floor of the Senate at the right time. Senator Butler.
+    Senator Butler. Thank you, Chair Blumenthal and Ranking 
+Member Hawley. As a mom, this is a topic that I could not not 
+show up to engage in.
+    And I want to--appreciate your leadership, Mr. Bejar, for 
+fighting for and leading on behalf of not just my daughter, but 
+America's children--and I know not just your own.
+    I appreciate very much also your comments to my colleague 
+here, Senator Welch. Specifically, when you're talking about 
+taking an all children approach. I want to direct my comments 
+to really engage in a space that where maybe all children--the 
+all children approach hasn't necessarily been taken. And I'd 
+love to get your thoughts on some gaps that we could try to 
+fill.
+    Now you know and we know that the internet can be a hateful 
+place. We've talked about that today.
+    I understand that among your research in Meta's user 
+experience, you looked into instances of identity-based 
+hostilities on the platform, and you found that over a quarter 
+of Instagram users under the age of 16 said they witnessed 
+hostility against someone based on their race, religion, or 
+identity, within the last week.
+    One study published in the Journal of American Academy of 
+Children and Adolescent Psychiatry looked at the issue of 
+online racial discrimination between March and November of 
+2020. It found that Black youth experienced increases on online 
+racial discrimination that their white counterparts did not. 
+And those instances of discrimination predicted worsened same 
+day and next day, mental health amongst Black youth.
+    Mr. Bejar, can you talk with us a little bit about what 
+more you think the company should be doing to protect against 
+these kinds of racial and ethnic harassments and hostility 
+online?
+    Mr. Bejar. Sorry. The fact that a child today, white, 
+Black, any identity, right, gets called out in front of the 
+entire shared audience--again, the difference between when this 
+happens in a school and when it happens online. Right? Go home, 
+ask him, ask your child, what would you do? What can you do?
+    And there's no way for that child to say, ``This is what's 
+happening to me: Somebody's being really mean to me.'' And I 
+use that language because 10 years ago, Facebook knew this. We 
+knew that in order to help a child dealing with an issue and 
+help them, you have to hear the words that they use.
+    A 13-year-old does not like to report things because 
+they're worried they're going to get in trouble and get other 
+people in trouble. So you tell them, ``Would you like some 
+help? '' And if you look at the work that I submitted from 10 
+years ago, you should be able to say, you know, ``This is like 
+awful for me because of my identity''--any form of that.
+    And the company should be able to take that into account to 
+help that child be protected, and then get them resources. And 
+then also make sure that that is not acceptable behavior in the 
+community.
+    Because the most tragic thing about that 20 percent number 
+witnessing these kinds of attacks, is that the lack of action 
+on part of the company and the very narrow definition of the 
+content that they would take down, means that they're 
+normalizing the behavior----
+    Senator Butler. Yes.
+    Mr. Bejar [continuing]. Children watch and children learn 
+from the way other children are behaving.
+    Senator Butler. And just to follow up a little bit, what 
+would it look like to create a good experience? Is it the--just 
+the simple, the ability to sort of exercise some agency and the 
+button that you're asking--that you're making reference to?
+    Mr. Bejar. It's a process. So if it's on direct messages, 
+you have a button, you record that somebody initiated that 
+message. And one of the questions for the platforms is, you 
+know, how many, like, hateful or harassing messages should 
+somebody be able to send before you tap them on the shoulder 
+and you tell them that it's not appropriate behavior. Right?
+    So it creates information that you can then act on----
+    Senator Butler. Right.
+    Mr. Bejar [continuing]. If somebody keeps doing it, then 
+you know that they're up to no good, and then you can take 
+further measures. And so without this data, any systems 
+cannot--do not have a hope of making a safer environment for 
+youth.
+    Senator Butler. And what do you think has been the barrier 
+for companies? We're talking about the companies that you have 
+the most experience with. What do you think is the barrier to 
+change, and what do you think could help to create that--to 
+overcome that barrier?
+    Mr. Bejar. I think they're just not incentivized to make 
+this change. That's why nothing has changed. It's been 2 years. 
+And, you know, our kids do not have that button in their direct 
+messaging where the content doesn't matter, to say, ``This 
+makes me uncomfortable.'' But you can say it about an ad, for 
+example. Right? You can go into an ad and say, ``Oh, that's 
+sexually inappropriate.'' Right? Or, ``It's not for me.''
+    The thing about this is, until the information is 
+transparent, and I would strongly encourage that that includes 
+identity-based youth, because if it turns out that the overall 
+number is 10 percent, but that 90 percent, 80 percent of youth 
+that experience these things is because of an identity issue, 
+the data is there to be had if the company makes it a priority 
+and collects it. And that is at the heart of why I am here 
+today.
+    Senator Butler. Thank you so much, Mr. Bejar, again, for 
+your leadership and advocacy on behalf of America's children. 
+Mr. Chair.
+    Chair Blumenthal. Thanks, Senator Butler.
+    A number of our colleagues may be joining us, returning in 
+the next few minutes. But why don't we begin a second round of 
+questions now. Speaking of which, Senator Coons is arriving, 
+and I can give you a couple of minutes to get comfortable, or 
+you can begin right now.
+    [Voice heard off microphone.]
+    Chair Blumenthal. Senator Coons.
+    Senator Coons. Thank you very much, Mr. Chairman, Ranking 
+Member, for convening this important and timely hearing. And 
+Mr. Bejar Arturo, thank you so much for taking of your own 
+personal experience as the senior engineer responsible for the 
+Well-being section within this unbelievable platform.
+    Quick survey suggests that something like two-thirds of all 
+American teens are currently on Meta's platforms, in particular 
+Instagram.
+    I am very concerned about the likely impact on our children 
+and our future. And I wanted to make sure that I had a chance 
+to question you for just a few moments about a possible path 
+forward.
+    As you testified to this Committee today, your own research 
+was hidden, was ignored, was marginalized by the very team that 
+had recruited you to return to a leadership role at Meta.
+    Your testimony highlights the dangerous lack of 
+transparency at social media companies, the dangerous 
+consequences of this ongoing global experiment with our 
+children, and documents ways in which they are on the receiving 
+end of both images that make them feel worse about themselves, 
+and unwanted sexual advances.
+    Our own U.S. Surgeon General has issued a clarion call for 
+Congress to act, to recognize we are experiencing a crisis in 
+mental health, in particular amongst our children, and to find 
+ways to restrain these platforms and their impact.
+    A bipartisan bill--I suspect Senator Klobuchar, or Senator 
+Blumenthal may have referred to before--called the Platform 
+Accountability and Transparency Act, that's co-sponsored by 
+Senator Cornyn, and Senator Cassidy, and Senator Graham, would 
+make critical advances in transparency and require platforms to 
+disclose some of the public safety information that they 
+currently hide.
+    Can you give just two or three examples of the kinds of 
+data and the kinds of insights into algorithms and how they 
+work, that would be critical for our public to know, and that 
+companies like Meta refuse to report?
+    And do you expect that companies will ever voluntarily 
+fully disclose what it is about their algorithms that make 
+these platforms addictive or even dangerous for our children?
+    Mr. Bejar. Apologies. Thank you for the question. I think 
+that for as long as these companies get to make up their own 
+definitions of what is harmful, of what is, for example, 
+addiction--I looked into that issue when I was in the company 
+asking around about the understanding of it.
+    And what I found is that it was an internal term called 
+problematic usage. And the definition of that was so narrow, 
+right, that--does it really capture what we as parents all see?
+    And so I think without transparency of the harms that teens 
+are experiencing by their own word, right, without instruments 
+that help us understand the role that social media plays in 
+their lives, and without ensuring that, for example, there's 
+something that when they need help, actually helps them, this 
+was something that we proposed saying, let's measure our help 
+by whether it helped--and that was not adopted.
+    And so I think that without these things, I don't think 
+anything is going to change, and that's why I'm here today.
+    Senator Coons. Could you explain for us how empowering 
+independent researchers would provide a much more balanced 
+understanding of how safe or dangerous social media platforms 
+really are, and say something about what kinds of safety 
+research could be done in order to facilitate a better mental 
+health and better safety outcomes for our teenagers?
+    Mr. Bejar. I can speak well to that because that's what I 
+did and my team did for 6 years. Right?
+    Ten years ago, we brought in experts from different 
+universities in the United States, including Yale, who 
+understood that, for example, a 13-year-old is more liable to 
+take risks, right, because of where they are developmentally, 
+and they knew that it was important that the most important 
+thing that you can do for a child that's having a distressing 
+experience, is to make sure that they feel supported at that 
+moment.
+    Us as product engineers and designers are not qualified to 
+give teens tools, and that's why independent research and the 
+data that enables that is absolutely necessary to help our 
+understanding of what people are experiencing online.
+    Senator Coons. Thank you. My colleague, Senator Hawley said 
+earlier that Instagram's algorithm doesn't just promote, but 
+accelerates the connections between pedophiles and our kids. 
+For anyone who is a caring and concerned parent, for anyone who 
+cares about our community, that should be a chilling sentence.
+    And the fact that you dedicated years to conducting 
+research on safety, and did everything you could to get it to 
+the attention of the leadership of the company, and are only 
+here before us as a last gasp attempt, should motivate all of 
+us to advance legislation that will unlink what I think is a 
+corrosive, harmful, malign connection between algorithms, and 
+self-harm, and assaults on our children. Thank you for your 
+testimony today.
+    Chair Blumenthal. Thanks, Senator Coons.
+    We're going to have a second round of questions limited in 
+length I want to assure you, but thank you for your patience 
+and your perseverance here today.
+    Let me just begin by saying that the lawsuit filed by the 
+Commonwealth of Massachusetts yesterday, which is one of nine 
+individual lawsuits filed around the country by States, and it 
+is complimentary to the Federal lawsuit filed by 33 States in 
+District Court, Connecticut, joined that lawsuit--I'm going to 
+ask that the complaint be made part of the record, without 
+objection--says that 90 percent of young people in the United 
+States--90 percent of young people use Instagram.
+    [The information appears as a submission for the record.]
+    Chair Blumenthal. So we're talking about millions of young 
+people. Are we not?
+    Mr. Bejar. Yes, we are.
+    Chair Blumenthal. And it cites Mark Zuckerberg saying in 
+October 2021, in response to Frances Haugen's whistleblower 
+testimony before our Committee, quote, ``At the heart of these 
+accusations, is this idea that we prioritize profit over safety 
+and well-being. That's just not true.'' He said further, ``It 
+is very important to me that everything we build is safe and 
+good for kids,'' end quote.
+    Taking your admonition that actions speak louder than 
+words, his actions certainly demonstrate the falsehood of those 
+claims. Do they not?
+    Mr. Bejar. They do. And if I have a moment, there's 
+something from that same note that I would like to bring to the 
+Committee's attention.
+    Chair Blumenthal. Sure.
+    Mr. Bejar [holds up document]. In the same note, Mark 
+Zuckerberg wrote, ``But when it comes to young people's health 
+or well-being, every negative experience matters. It is 
+incredibly sad to think of a young person in a moment of 
+distress who instead of being comforted, has their experience 
+made worse.'' And I believe that is what Instagram does today.
+    Chair Blumenthal. The reference was made earlier to the 
+policies of Facebook and social media in general being data 
+driven. In fact, they are dollar driven. Correct?
+    Mr. Bejar. My experiences of extensive data driven 
+culture----
+    Chair Blumenthal. Or in this case Facebook and Meta 
+doctored the data to drive the dollars.
+    Mr. Bejar. In my experience, what happened is this data 
+that should be public, right, they shouldn't need to be here to 
+talk about it, should be public about harm.
+    Chair Blumenthal. You know, I was struck in the memo that 
+you wrote to Adam Mosseri dated October 14th, it's now part of 
+the record, you made the point, first of all--and I'm quoting, 
+``Everyone in the industry has the same problems right now.''
+    Mr. Bejar. Correct.
+    Chair Blumenthal. You made that point to Mr. Mosseri and, 
+in effect, urged Meta to be a leader--Instagram and Facebook 
+could be a leader. And you said, quote, ``There is a great 
+product opportunity in figuring out the features that make a 
+community feel safe and supportive,'' end quote. ``A great 
+product opportunity''--in effect, you were inviting them to 
+design a better product that consumers would prefer because it 
+was safer. Correct?
+    Mr. Bejar. Correct.
+    Chair Blumenthal. And the history of capitalism--I don't 
+want to be too philosophical here, is that consumers go to 
+products that are more efficient, more effective, but also 
+safer. As in safer cars, safer ovens, safer washing machines, 
+safer everything. And you were appealing to the better 
+instincts of Mosseri and Zuckerberg and the whole team. 
+Correct?
+    Mr. Bejar. That is correct. I mean, Instagram is a product. 
+Right? Like ice cream, or a toy, or a car.
+    I ask you, right, how many kids need to get sick from a 
+batch of ice cream, or be hurt by a car, before there's all 
+manners of investigations? And there was an opportunity because 
+they're standing right next to the teen.
+    They're the company that's delivering the unwanted sexual 
+advance. They're the company that's delivering the content that 
+is upsetting to them, and they're standing right there. And 
+they should be able--like there's the opportunity for them to 
+be told, ``Hey, there's something really awful happening here. 
+Will you help me? '' And be like, ``Yes I can.'' Right? And 
+then use that to make the community be one that's safer.
+    Chair Blumenthal. Right. And the Kids Online Safety Act is 
+also about the product. It's about product design.
+    If you have consumers, give them some choices about what 
+they want to see and hear, so as to be able to disconnect the 
+algorithms that drive something people don't want to see or 
+hear. It's not censorship, it's not content blocking. Do you 
+favor that approach to protecting young people and others on 
+the internet?
+    Mr. Bejar. Completely. In a world where, as in the third 
+paragraph on my email to Mark, and in my experience from 10 
+years earlier--that's 5 years of looking at this--where 90 
+percent of the content that teens experience as harassment, 
+right, it might not be discernible for policies. The only way 
+to address this is through the kind of measures that you're 
+describing. It's a product. It needs to be different. It has to 
+change.
+    Chair Blumenthal. And the Kids Online Safety Act is also 
+about holding social media and Big Tech accountable when they 
+harm people. Right now, as you've heard, they feel no sense of 
+accountability in terms that really affect their bottom line, 
+when Mark Zuckerberg gives his quarterly report or his 
+discussion to analysts. Would you favor that kind of 
+accountability so that they are held responsible?
+    Mr. Bejar. Absolutely. I was, again, within the Well-Being 
+Team, which I want to take a moment to say that in my 
+experience, the Integrity and Well-being professionals, which 
+are working on these issues firsthand, are incredibly good 
+people with wonderful ideas and management couldn't be letting 
+them down more. But----
+    Chair Blumenthal. And----
+    Mr. Bejar. Sorry.
+    Chair Blumenthal. Go ahead, sorry.
+    Mr. Bejar. All I was going to say, during that time, one of 
+the issues that it's in one of the materials, is we talk about 
+a kind of content that we know is bad for body image issues. It 
+has a name, the inspiration, it's being recommended. They know 
+it is being recommended. They know teens are spending a 
+meaningful time looking at it, and they were unwilling as a 
+product to address that. So without being to held to account 
+for what they're recommending, I can't imagine that ever 
+changing.
+    Chair Blumenthal. And another part of our Kids Online 
+Safety Act provides for more transparency about the algorithm 
+so that there can be more public knowledge and also expert 
+knowledge. Would you favor that approach?
+    Mr. Bejar. Yes. I believe transparency is essential. And I 
+will say that algorithms are as good as their inputs and can be 
+measured by their outputs. So you can take an algorithm and if 
+the algorithm doesn't know that a kid experiences something as 
+obscene, then why won't it recommend it? And if you look at 
+what it's recommending, if it's recommending obscene things 
+that should be held to account, then the only way there is with 
+transparency about these aspects.
+    Chair Blumenthal. And before I go to Senator Hawley for his 
+second round of questions, you know, you mentioned that the 
+people who worked on your team, the people who work in these 
+companies--to quote you, are generally good people who want to 
+do the right thing.
+    And I noticed in your memo to Mr. Mosseri, you said, and 
+I'm quoting, ``A point, which might be good for you to know, 
+which I did not put in the document reviewed by the team, is 
+that many employees I've spoken to who are doing this work and 
+are of different levels, are distraught, are distraught about 
+how the last few weeks have unfolded. These people who love FB/
+IG''--Facebook, Instagram, I assume--``and are heart/mission-
+driven to the work.''
+    They were distraught by the public exhibition of Facebook's 
+knowing that it was profiting by toxic content driven at kids 
+and the company, in effect, concealing and hiding the truth, 
+rejecting recommendation for improvement, and rolling back 
+safety measures. Correct?
+    Mr. Bejar. Correct. They were distraught. They were afraid 
+that because the company was externally disavowing, like, body 
+image issues, while at the same time there were studies and 
+data that were saying otherwise, features getting proposed that 
+were saying otherwise.
+    They were afraid that the work would be stopped, that they 
+wouldn't get the support they needed, or they wouldn't be able 
+to build what they needed to build. And I say that the amount 
+of investment that this company ought to do for those people, 
+should be commensurate to that table of harms that you now 
+have.
+    Chair Blumenthal. Thank you. Senator Hawley.
+    Senator Hawley. Thank you, again, Mr. Chairman.
+    Mr. Bejar, thank you for being here and thank you, you have 
+been extraordinarily patient, but also incredibly forthcoming 
+in your responses. And it's just been tremendously helpful. So 
+thank you so much.
+    I just want to come back to something that you said over 
+and over, because you've been asked about it over and over to 
+quote you in response to an earlier question. You said that, 
+``Changes to the product''-- and you were just explaining that 
+Instagram is a product like ice cream or opioids maybe--
+``Changes to the product would be most helpful, but there is no 
+incentive.''
+    And by no incentive, I mean, that really just means there's 
+no money in it for the company. Right? I mean, isn't that what 
+it gets down to at the bottom? If they could make money on it, 
+wouldn't they do it?
+    Mr. Bejar. You're going to have to ask them. I really am, 
+I'm very excited for the day that Mark or Adam are sitting 
+here.
+    Senator Hawley. Me too.
+    Mr. Bejar. And then you can ask them, ``So why did you not 
+invest? '' Because one of the things that is in each 
+recommendation you see there, ``Do you understand what data's 
+causing these things? '' Like, here's the button that you can 
+build in the systems.
+    Those are not a matter of significant investment. It would 
+not cost them as much. It is a matter of how much they 
+prioritize the work, and whether they're willing to set their 
+goals based on what teens are experiencing.
+    Senator Hawley. I think that's very well said. And, you 
+know, I would just add this, you commented earlier that it 
+would be great to hear Mark Zuckerberg say, you know, ``We made 
+$34 billion this quarter.'' That was a hypothetical you threw 
+out. And then here also have to report, ``Here's the amount of 
+harm that teenagers suffered.''
+    I'd tell you what else I'd love to hear him say: ``We made 
+$34 billion this quarter, and we have $34 billion in jury 
+judgments pending against us.'' That would get their attention.
+    And I just have to say, at the end of the day, if you want 
+to incentivize changes to these companies, you have got to 
+allow people to sue them. You've got to open up the courtroom 
+doors.
+    The FTC fined Facebook, what was it? A billion dollars or 
+something a couple of years ago. It made no discernible 
+difference to their business practices. None. They changed 
+nothing. They don't care.
+    But I tell you what they fear, they fear parents going into 
+court and holding them accountable. That's the hammer. That's 
+what happened with Big Tobacco. That's what happened with 
+opioids. That's the hammer. And that's what we have got to do.
+    And so I'll just say this, you know, we talked about the 
+bills that were passed by this Committee. One of them is 
+Senator Durbin's bill along with me, it's our bill together on 
+child sexual exploitation, abuse material, CSAM exploitative 
+material. And for my money, the best part about that bill is it 
+contains a private right of action.
+    So I'll just say this, it's November, I think the 7th 
+today, is that right? I'll make you a pledge. We're going to 
+vote before the end of the year.
+    Before the end of this calendar year, I will go to the 
+floor of the United States Senate and I will demand a vote on 
+the bills that we have passed in this Committee.
+    And we'll just find out. We're going to put people on 
+record because I'm tired of waiting.
+    I've waited 4 years. Many folks on this Committee have 
+waited far longer. So we're going to vote. Any Senator can go 
+to the floor and call up a piece of legislation and ask for a 
+vote on it. And I'm going to do it. Before the end of this 
+year, I'm going to do it.
+    So we're going to find out. We have all this talk about, 
+oh, we love it, we need to do stuff. Okay, fine, let's do 
+something.
+    And the other thing I'll just say is on the money. The 
+money that is flowing into this Capitol from Big Tech is 
+obscene. It's totally obscene. And if we really wanted to 
+change something, we'd get the corporate money out of politics. 
+We would stop these mega corporations from making political 
+contributions. That would change things.
+    But either way, we're going to vote before the end of 2023, 
+and we'll just put people on record and we'll see where we go 
+from there.
+    Mr. Bejar, thank you. I hope your testimony today will 
+really motivate people. I know it will motivate parents. I 
+think every parent listening to this will say, ``You know what, 
+that's been my experience, too.''
+    And I think to have someone who is an engineer as you are, 
+has your level of expertise, and been inside the company, I 
+think so often parents feel isolated and they feel like, 
+``Maybe I just don't understand this technology. Maybe I'm the 
+only one.'' And I just say, listening to you today, I think 
+parents are going to say, ``I'm not the only one. My kid is not 
+the only one.'' Yes, go ahead.
+    Mr. Bejar. If I may say something about that. Parents know 
+they see this every day. And the other thing that it's been my 
+experience in all my years doing this, is that parents know how 
+to parent.
+    And sometimes when I've had a parent of a child that's been 
+groomed and come and talk to me about it, about their 
+experience, they're like, ``Well, I don't understand this 
+technology.'' The best way I've experienced of people to think 
+about these things, is just take social media out of the 
+conversation.
+    Like, as a parent of a young kid, you know who your kids 
+are spending time with. You keep an eye out on that. Right? 
+This--you get a sense of that. You want to make it very safe 
+for your kid to come up to you and say, ``Hey dad, like there's 
+this thing that's happening.'' That's what happened with me at 
+home. And you want to make it safe for a kid to bring up an 
+issue to you.
+    And then when you see that these things are happening on 
+these devices, right, if these things were happening at a 
+school and you knew that like one in five kids were witnessing 
+or one in 10 were experiencing about the unwanted sexual 
+advances, and the kid turns to somebody in the school, right, 
+for help, and they're like, ``Oh, I'm sorry. I cannot help you 
+with that.'' As a parent, what would you do? Right? You would 
+hold the school's administration into account. And that's one 
+of the reasons that I am here today.
+    Chair Blumenthal. Thanks, Senator Hawley.
+    I would just, again, make the point that the Kids Online 
+Safety bill imposes accountability. And I want to join the 
+pledge to seek a vote before the end of the year. I'm very 
+hopeful we'll have not only a vote, but an overwhelmingly 
+positive bipartisan vote in favor of the Kids Online Safety 
+bill.
+    And I challenge social media and Big Tech to come forward 
+and put your money where your mouth is--put your actions where 
+your rhetoric is, support this bill.
+    For years, in fact, before our Committee they have said, 
+``Oh, well we want regulation, but just not that regulation.'' 
+And that has been their mantra, ``Trust us.''
+    No longer will kids or parents trust social media to impose 
+the right safeguards, and we want to give them the tools that 
+their products need, so that kids can take back their lives 
+online. Senator Blackburn.
+    Senator Blackburn. Thank you, Mr. Chairman. And thank you, 
+again, for your patience today.
+    I wish that my colleague from Vermont was still here. It 
+was 2012 when he and I started on Privacy, and filed the first 
+Privacy bill in the House. And as Senator Welch was saying, 
+we've been at this for a long time and we've been fought by Big 
+Tech every single step of the way--every way.
+    And it's been really quite amazing to see, because they 
+are--and sometimes people will say, how did tech companies grow 
+this big this fast? And they didn't have the guidelines, the 
+rules, and restraints that the physical world has. And it's 
+kind of been the Wild West. And we've seen that in how they 
+choose to gather data and data mine, and use that to make the 
+dollar--the eyeballs. They've got to keep these eyeballs on the 
+page. The longer they keep 'em, the more money they make.
+    Now I want to go back to the hearing we had with Mr. 
+Mosseri in December 2021. And for the record, I want us to 
+build out a little bit more of this framework because I think 
+it's important to the States that have joined the lawsuit. I 
+think it's important to us as we work to get the Kids Online 
+Safety Act passed.
+    Now, when you were with Facebook, you built a structure 
+that would allow for some online governance and you put in 
+place what you thought was a pretty good process for keeping 
+people safe online. Correct?
+    Mr. Bejar. That's correct.
+    Senator Blackburn. And basically, you had embarked on 
+safety by design. Is that correct?
+    Mr. Bejar. That is correct.
+    Senator Blackburn. Okay. And you were putting in place a 
+duty of care for the social media company to be responsive to 
+the users that were on those platforms.
+    Mr. Bejar. That is correct. And as I was going through one 
+of these materials, I remember talking about bullying and 
+teenagers and said that we as a company had the responsibility 
+not only to the teens within the product, but to also improve 
+the world's understanding of these issues so that the field 
+could be moved forward. And that is the spirit with which we 
+engaged the work.
+    Senator Blackburn. And then in 2013, Facebook decided they 
+were going to change the rules and allow kids ages 13 to 17 to 
+post content on Instagram. Correct?
+    Mr. Bejar. I don't know the exact date that change 
+happened.
+    Senator Blackburn. Okay. I think that that is accurate. And 
+allowing them--what do you think changed? What motivated them 
+to drop that age and allow 13-year-olds?
+    Mr. Bejar. I cannot speak to their motivation, but what I 
+can say is that if you look at those 2013 presentations and 
+2012, one of the things that is written about there, is the 
+fact that a 13-year-old, right, will do riskier behavior and 
+feels things more intensely because that's where they are 
+developmentally. And so making a change that potentially 
+increases their audience, I think would be inconsistent with 
+that understanding.
+    Senator Blackburn. I find it so interesting that whether it 
+was Zuckerberg, or Sandberg, or Cox, when you highlighted with 
+them how readers were responding to the survey--users were 
+responding and you kept trying to direct this toward the 
+experience--not the perception, but the experience. And that is 
+noted several times in your emails to them.
+    Even though 51 percent of the users may say they've had a 
+negative experience, they chose not to address that issue. And 
+in most corporations allowing issues like that to just slide 
+would never be tolerated. So it is left when I ask myself, why 
+did they do that? It has to be because they were motivated by 
+profit, over motivation to protect their users in the virtual 
+space.
+    I do want to ask you just a couple of things to go back on 
+your memo to Adam Mosseri, the October 14th email, and you laid 
+out an agenda and an opportunity for items for discussion so 
+that you would make good use of your time. And you explicitly 
+and specifically went through the numbers on kids that had 
+received different negative interactions. And then you broke 
+out the data by age, and you created a chart so that he could 
+look at it in a Google doc.
+    Mr. Bejar. Correct.
+    Senator Blackburn. How did he respond when you broke it out 
+by age? Or did he take the time to look at it?
+    Mr. Bejar. It is my experience of all the years in Meta, 
+that an executive gets that email, reads it thoroughly, looks 
+at all of the attachments. And so it would be my expectation 
+that he had read it.
+    Senator Blackburn. Okay.
+    Mr. Bejar. My conversation with him, he demonstrated 
+understanding of everything I spoke about, and we specifically 
+talked about the button for a teen girl who received unwanted 
+advances.
+    Senator Blackburn. Okay. Thank you for that. I think that 
+what troubles me is knowing that harm was being done to kids 
+and then to tell us, and I quoted back to you some of his 
+comments from his testimony that he gave to us, and for him to 
+allude to the fact--to give the impression that they've built 
+tools that prevent these adverse activities.
+    But then, you know, it's that old thing of the truth, the 
+whole truth, and nothing but the truth. It was true. They had 
+built tools. You built them. That was true.
+    But they chose to remove that. And in doing that, there are 
+hundreds of children that we have met with their parents and we 
+have heard about the suicides, the attempted suicides, and the 
+adverse impact on these children. Thank you.
+    Chair Blumenthal. Thanks, Senator Blackburn. Thank you so 
+much for being here today.
+    As you can tell from the turnout, there is very strong 
+bipartisan support for reform because actions do speak louder 
+than words.
+    And my hope is that colleagues will join Senator Hawley, 
+and me, and Senator Blackburn, and Senator Durbin, and others 
+in seeking action on a very doable, practical, politically 
+achievable bill that targets the design of this product, much 
+as we would a safer car, or stopping addiction to cigarettes 
+and tobacco and nicotine.
+    Big Tech is very much in danger. I would say it is the next 
+Big Tobacco, and I'm hoping that it will join in this effort to 
+make its product safer.
+    In some ways, what we face here is a garden variety 
+challenge to improve the reliability and safety of a product 
+that uses a black box that very few people understand, which 
+makes it more complex and mysterious, but no less urgent and 
+ultimately understandable by everyday Americans.
+    Everyday Americans understand the harm that's being done. 
+We have seen and heard it from moms and dads, from teenagers 
+who have come to us and pleaded, absolutely implored us to act 
+now--not at some distant point in the future.
+    And so by the end of the year, I'm very hopeful that we 
+will have a vote, and that it will be an overwhelmingly 
+bipartisan vote, in part thanks to the testimony that you have 
+offered today.
+    It has been tremendously impactful and moving and very 
+powerful in its science-based persuasion. You're an engineer, 
+as you have stated, you're not a lawyer, but ultimately 
+engineering is what may save Facebook from the perils and 
+dangers that it's creating along with other social media. It's 
+not alone.
+    And my hope is that we will move forward so that, in 
+effect, we can make Big Tech the next Big Tobacco in terms of a 
+concerted effort to reduce its harm and inform the public about 
+how they can do it, as well.
+    So thank you for your testimony today and this hearing will 
+be adjourned now, but the record will remain open for a week in 
+case colleagues have any questions they want to submit in 
+writing.
+    And in the meantime, again, my thanks to you for your very 
+impactful and important testimony today.
+    The meeting is adjourned.
+    [Whereupon, at 12:11 p.m., the hearing was adjourned.]
+    [Additional material submitted for the record follows.]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+
+
+                            A P P E N D I X
+
+
+The following submissions are available at:
+
+  https://www.govinfo.gov/content/pkg/CHRG-118shrg60432/pdf/CHRG-
+    118shrg
+    60432-add1.pdf
+
+
+Submitted by Chair Blumenthal:
+
+ Bejar, Arturo, email to Mark Zuckerberg, et al., October 5, 2021.     2
+
+ Bejar, Arturo, attachment to email to Mark Zuckerberg, et al., 
+    October 5, 2021...............................................     4
+
+ Bejar, Arturo, email to Adam Mosseri, October 14, 2021, source: 
+    The Wall Street Journal.......................................     5
+
+ Commonwealth of Massachusetts v. Meta Platforms, Inc. and 
+    Instagram, LLC, November 6, 2021..............................     7
+
+                                 [all]
+
