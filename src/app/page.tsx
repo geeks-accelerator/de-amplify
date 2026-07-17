@@ -3,6 +3,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SunoEmbed from "@/components/SunoEmbed";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -10,6 +11,42 @@ export const metadata: Metadata = {
 
 const GITHUB = "https://github.com/geeks-accelerator/de-amplify";
 const TAG = "#WheresTheBrake";
+
+// FAQ structured data targeting the informational question intent the site is
+// uniquely positioned to answer ("why is social media addictive", "is social
+// media addictive"): high-volume, non-transactional queries the law-firm pages
+// do not serve. Answers are restated from this page's diagnosis and reframe
+// sections; do not let them drift from the visible copy.
+const HOME_FAQ_JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "Why is social media addictive?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "The harm does not live in the content; it lives in the delivery loop: infinite scroll with no end, autoplay, a slot-machine reward schedule, and an algorithm optimizing for time on the platform. A brilliant post and a banal one ride the same loop. The loop is what compels, which is why the thing to regulate was never the speech. It was the brake: the control that lets you stop or redirect the feed.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Is social media addiction real, or is it just a lack of willpower?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "You do not have to settle the clinical debate to see the problem. Ask a smaller, measurable question instead: when a platform gives you a control to stop or change the feed, and you use it, does your choice actually take effect and stay? On most feeds it does not; the setting resets, misses the Reels and notifications, or nags you back. That is consent present in form and absent in effect, and it is testable on your own phone in thirty seconds.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "How do you fix social media addiction without censoring content?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Regulate the loop and the controls over it, not the speech. The proposal is called brake integrity: when a platform offers a control to stop, limit, reset, or redirect the feed, that control must actually work and persist, and for minors the safer settings should be on by default. It never classifies or removes a single post, which is what makes it the most defensible surface under the First Amendment and Section 230.",
+      },
+    },
+  ],
+};
 
 function Eyebrow({ children }: { children: React.ReactNode }) {
   return (
@@ -80,6 +117,7 @@ function Door({
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={HOME_FAQ_JSON_LD} />
       <Header />
 
       <main className="flex-1">
