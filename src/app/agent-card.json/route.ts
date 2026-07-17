@@ -3,7 +3,8 @@
 // Every response tells you where to go next: _links maps the resources,
 // _actions lists the next steps with priority, reason, and timing so an
 // agent (or any client) can navigate and act using only this document.
-// See docs/guides/hateoas conventions in the sibling platform repos.
+// HATEOAS (hypermedia as the engine of application state) means the response
+// itself carries the navigation, so no out-of-band API knowledge is needed.
 
 export const dynamic = "force-static";
 
