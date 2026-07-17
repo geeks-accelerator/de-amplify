@@ -412,6 +412,21 @@ export default function Home() {
               is what addicts. So the thing to regulate was never the speech. It was the
               brake.
             </p>
+
+            {/* the question people actually search, answered plainly, in its own
+                heading so an answer engine can lift it. Restated from the loop
+                diagnosis above; keep it in sync with that paragraph. */}
+            <h3 className="mt-12 font-mono text-lg leading-tight tracking-tight text-bone">
+              Why is social media addictive?
+            </h3>
+            <p className="mt-4 text-[15px] leading-[1.75] text-bone/55">
+              Not because of any single post, and not because you lack willpower.
+              It is the <span className="text-bone/85">delivery loop</span>: infinite
+              scroll with no end, autoplay, a slot-machine reward schedule, and ranking
+              tuned to maximize time on the platform. The loop is engineered to be hard
+              to put down, which is why the fix is a brake you hold, not a lecture about
+              self-control.
+            </p>
           </div>
         </section>
 
