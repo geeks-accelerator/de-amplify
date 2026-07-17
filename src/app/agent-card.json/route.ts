@@ -67,6 +67,16 @@ const BODY = {
       outputModes: ["text/markdown"],
     },
     {
+      id: "read-evidence-ledgers",
+      name: "Read the evidence ledgers (distillations)",
+      description:
+        "The source-of-truth claim ledgers behind the lawsuit and hearing pages: every claim tiered ([ESTABLISHED]/[OBSERVED]/[ASSUMED]) and traced, with the hearings' full verbatim quote-banks.",
+      tags: ["distillation", "evidence", "transparency", "ledger", "sources"],
+      examples: ["What is the evidence behind the $375M New Mexico verdict?", `GET ${SITE}/distillations`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/html"],
+    },
+    {
       id: "file-brake-report",
       name: "File a brake report",
       description:
@@ -101,6 +111,7 @@ const BODY = {
     "lawsuits-markdown": { href: `${SITE}/lawsuits.md`, type: "text/markdown" },
     hearings: { href: `${SITE}/hearings`, title: "The Congressional hearings, distilled (the mechanism, on the record)" },
     "hearings-markdown": { href: `${SITE}/hearings.md`, type: "text/markdown" },
+    distillations: { href: `${SITE}/distillations`, title: "The evidence ledgers (distillations) behind the lawsuit and hearing pages" },
     scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
     report: { href: `${SITE}/report`, title: "File a structured brake report" },
     remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },

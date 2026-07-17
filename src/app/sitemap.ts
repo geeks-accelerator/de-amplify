@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { contentDate } from "@/lib/contentDate";
+import { DISTILLATIONS } from "@/lib/distillations";
 
 const SITE_URL = "https://de-amplify.com";
 
@@ -31,5 +32,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/report`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.8 },
     { url: `${SITE_URL}/scorecard`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.8 },
     { url: `${SITE_URL}/remixes`, lastModified: proposalDate, changeFrequency: "monthly", priority: 0.6 },
+    // the evidence ledgers: the index plus one page per distillation, dated from
+    // the ledger's own git history
+    { url: `${SITE_URL}/distillations`, lastModified: contentDate("docs/distillations", "2026-07-16"), changeFrequency: "monthly", priority: 0.6 },
+    ...DISTILLATIONS.map((d) => ({
+      url: `${SITE_URL}/distillations/${d.slug}`,
+      lastModified: contentDate(`docs/distillations/${d.slug}.md`, "2026-07-16"),
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    })),
   ];
 }

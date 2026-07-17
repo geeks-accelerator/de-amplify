@@ -32,6 +32,10 @@ export default function Footer() {
             hearings
           </Link>
           <span className="text-bone/15">/</span>
+          <Link href="/distillations" className="transition-colors hover:text-bone/70">
+            distillations
+          </Link>
+          <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             standard
           </Link>
