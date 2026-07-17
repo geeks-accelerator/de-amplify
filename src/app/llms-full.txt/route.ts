@@ -17,6 +17,7 @@ const DOCS: [title: string, file: string, url: string][] = [
   ["MDL 3047 (case file)", "content/lawsuits/mdl-3047.md", `${SITE_URL}/lawsuits/mdl-3047`],
   ["K.G.M. v. Meta and Google (case file)", "content/lawsuits/kgm-v-meta.md", `${SITE_URL}/lawsuits/kgm-v-meta`],
   ["State of New Mexico v. Meta (case file)", "content/lawsuits/new-mexico-v-meta.md", `${SITE_URL}/lawsuits/new-mexico-v-meta`],
+  ["The hearings: the mechanism, on the record", "content/hearings.md", `${SITE_URL}/hearings`],
 ];
 
 export function GET() {

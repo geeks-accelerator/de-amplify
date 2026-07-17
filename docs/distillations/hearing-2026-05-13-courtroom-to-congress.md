@@ -5,7 +5,7 @@ mode: multi-source (record of one hearing), TIER-DOWN (see evidentiary_status)
 subject: "Senate Judiciary Subcommittee on Privacy, Technology, and the Law; May 13, 2026; Chair Blackburn (R-TN), Ranking Member Klobuchar (D-MN); witnesses Rachel Lanier (plaintiffs' trial counsel, KGM v. Meta and Google), Mary Graw Leary (law professor), Joann Bogard and Bridgette Norring (survivor parents). No S.Hrg. number yet."
 as_of: 2026-07-16
 audience: general public reader
-verified_by: pending
+verified_by: Lee + Claude, 2026-07-16
 evidentiary_status: >
   DELIBERATE TIER-DOWN, flagged throughout. This hearing is recent (May 13, 2026); the official
   GPO/govinfo verbatim transcript has NOT been published yet (those typically lag a year or more). This

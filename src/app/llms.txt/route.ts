@@ -40,6 +40,12 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md),
   [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
   [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md).
+- [The hearings: the mechanism, on the record](${SITE_URL}/hearings.md): the
+  companion to the lawsuits, covering the Congressional record. Four hearings
+  (2023-2026) distilled with verbatim attributed quotes: a Meta whistleblower,
+  five CEOs under oath, the internal documents a jury was shown, and the fight
+  over the fix. Two are from official transcripts; two are flagged tier-downs
+  from written testimony (no official transcript yet). Seeded ledger-first.
 
 ## Briefings by audience (the same argument, told per room)
 
@@ -64,6 +70,7 @@ the online version and PDF are derived from it.
 - [The policy paper, rendered](${SITE_URL}/proposal)
 - [The appendix, rendered](${SITE_URL}/notes)
 - [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
+- [The hearings explainer, rendered](${SITE_URL}/hearings)
 - [File a brake report](${SITE_URL}/report): turns one dead brake into a
   structured, shareable report. Stores nothing by design.
 - [The brake scorecard](${SITE_URL}/scorecard): the seven-part brake-integrity

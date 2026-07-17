@@ -5,7 +5,7 @@ mode: multi-source (record of one hearing)
 subject: "Senate Judiciary Subcommittee on Privacy, Technology, and the Law; Nov 7, 2023; witness Arturo Bejar (former Facebook/Meta engineer); S.Hrg. 118-663"
 as_of: 2026-07-16
 audience: general public reader
-verified_by: pending
+verified_by: Lee + Claude, 2026-07-16
 sycophancy_audit:
   method: "Blind cross-architecture wedge/sycophancy check. song-review `cultural` + `intuition` question battery (verbatim) run on a NON-CLAUDE model via OpenRouter, given both this distillation AND the complete official transcript as ground truth for representativeness. Two passes: cooperative, then adversarial-refuter (default-to-lean-exists)."
   model: x-ai/grok-4.3

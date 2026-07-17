@@ -5,7 +5,7 @@ mode: multi-source (record of one hearing), TIER-DOWN (see evidentiary_status)
 subject: "U.S. House Energy & Commerce, Subcommittee on Commerce, Manufacturing, and Trade; Dec 2, 2025; Chair Bilirakis, Ranking Member Schakowsky; a legislative hearing on a package of child-safety bills (14 numbered bill texts in the committee repository, plus discussion drafts including the Kids Online Safety Act and the RESET Act); witnesses Marc Berkman (Organization for Social Media Safety), Joel Thayer (Digital Progress Institute), Paul Lekas (Software & Information Industry Association), Kate Ruane (Center for Democracy & Technology). No Serial No. yet."
 as_of: 2026-07-16
 audience: general public reader
-verified_by: pending
+verified_by: Lee + Claude, 2026-07-16
 evidentiary_status: >
   DELIBERATE TIER-DOWN, flagged throughout, and the counterpart to the May-2026 Senate tier-down in this
   folder. The official House hearing transcript is not published yet (recent; official records lag). This

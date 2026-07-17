@@ -5,7 +5,7 @@ mode: multi-source (record of one hearing)
 subject: "Senate Judiciary Committee; Jan 31, 2024; witnesses the CEOs of Discord (Jason Citron), Meta (Mark Zuckerberg), Snap (Evan Spiegel), TikTok (Shou Chew), and X (Linda Yaccarino); S.Hrg. 118-497"
 as_of: 2026-07-16
 audience: general public reader
-verified_by: pending
+verified_by: Lee + Claude, 2026-07-16
 sycophancy_audit:
   method: "Two-pass blind cross-architecture wedge check: song-review `cultural` + `intuition` battery (adapted for a 5-CEO hearing: added company-balance and China-thread-exclusion questions) run on a NON-CLAUDE model, given this distillation AND the complete official transcript. Cooperative pass, then adversarial-refuter pass (default-to-lean-exists)."
   model: x-ai/grok-4.3
