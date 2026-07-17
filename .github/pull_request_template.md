@@ -9,6 +9,7 @@
 ## Checklist
 
 - [ ] `npm run build` passes (typecheck + compile)
+- [ ] `npm run lint` passes
 - [ ] No em-dashes or smart quotes (house style; see CLAUDE.md)
 - [ ] Any legal or factual claim traces to a primary source, with an as-of date
 - [ ] No references to other or sibling repositories
