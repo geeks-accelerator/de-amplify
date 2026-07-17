@@ -24,6 +24,10 @@ export default function Footer() {
             the lawsuits
           </Link>
           <span className="text-bone/15">/</span>
+          <Link href="/hearings" className="transition-colors hover:text-bone/70">
+            the hearings
+          </Link>
+          <span className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             read the proposal
           </Link>

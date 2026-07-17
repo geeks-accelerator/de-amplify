@@ -57,6 +57,16 @@ const BODY = {
       outputModes: ["text/markdown"],
     },
     {
+      id: "read-hearings-record",
+      name: "Read the Congressional hearings, distilled",
+      description:
+        "Four hearings (2023-2026) with verbatim, attributed quotes: a Meta whistleblower, five CEOs under oath, the internal documents a jury was shown, and the fight over the fix.",
+      tags: ["hearings", "congress", "testimony", "mechanism", "section-230"],
+      examples: ["What did the CEOs admit to the Senate?", `GET ${SITE}/hearings.md`],
+      inputModes: ["text/plain"],
+      outputModes: ["text/markdown"],
+    },
+    {
       id: "file-brake-report",
       name: "File a brake report",
       description:
@@ -89,6 +99,8 @@ const BODY = {
     "appendix-markdown": { href: `${SITE}/notes.md`, type: "text/markdown" },
     lawsuits: { href: `${SITE}/lawsuits`, title: "The social media addiction lawsuits, explained" },
     "lawsuits-markdown": { href: `${SITE}/lawsuits.md`, type: "text/markdown" },
+    hearings: { href: `${SITE}/hearings`, title: "The Congressional hearings, distilled (the mechanism, on the record)" },
+    "hearings-markdown": { href: `${SITE}/hearings.md`, type: "text/markdown" },
     scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
     report: { href: `${SITE}/report`, title: "File a structured brake report" },
     remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },
