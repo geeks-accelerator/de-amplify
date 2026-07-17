@@ -5,7 +5,7 @@ The lawsuits ask who pays for the harm. The Congressional hearings ask how the m
 
 Where [the lawsuits](/lawsuits) establish that courts are willing to find harm, the hearings establish the design choice underneath it: safety tools that are off by default, unmeasured, or shipped to answer criticism rather than to work. That is the same brake-integrity question the rest of this site asks, when you tell the feed to stop, does anything actually stop, answered by the people who built the feed and the lawmakers who questioned them.
 
-> **About this page.** These four accounts are distilled from the official record of each hearing, seeded from the project's evidence-tiered claim ledgers, where corrections land first. Two of them (2023 and 2024) are built from the **official Senate transcripts**. The other two (2025 and 2026) are recent enough that no official transcript is published yet, so they are a flagged **tier-down**, built from the witnesses' written testimony rather than the live question-and-answer, and marked as such below. Every quotation is verbatim from the record and attributed to the speaker and their role. Quotes were chosen for what they reveal about the mechanism, not for the viral moment: the selection is deliberately mechanism-not-tribe, and lines cut for being theater are named in the ledgers. As of July 16, 2026.
+> **About this page.** These four accounts are distilled from the official record of each hearing, seeded from the project's evidence-tiered [claim ledgers](/distillations), where corrections land first (each ledger, with its full quote-bank, is published in full). Two of them (2023 and 2024) are built from the **official Senate transcripts**. The other two (2025 and 2026) are recent enough that no official transcript is published yet, so they are a flagged **tier-down**, built from the witnesses' written testimony rather than the live question-and-answer, and marked as such below. Every quotation is verbatim from the record and attributed to the speaker and their role. Quotes were chosen for what they reveal about the mechanism, not for the viral moment: the selection is deliberately mechanism-not-tribe, and lines cut for being theater are named in the ledgers. As of July 16, 2026.
 
 ## Four hearings, one mechanism
 
@@ -28,6 +28,8 @@ The most concrete receipt in the hearing is a feedback brake that exists for adv
 
 No platform testified, so the companies appear here only as quoted documents. Their live answers are the next hearing.
 
+**Full ledger:** every tiered claim and all the verbatim quotes are in [the Nov 2023 Bejar distillation](/distillations/hearing-2023-11-07-teen-mental-health).
+
 ## January 2024: five platforms, and the tools do not hold
 
 *Senate Judiciary Committee. Witnesses: the CEOs of Discord, Meta, Snap, TikTok, and X. Official transcript, S.Hrg. 118-497.*
@@ -37,6 +39,8 @@ On January 31, 2024, the CEOs of Discord, Meta, Snap, TikTok, and X testified to
 The brake is optional: Meta's Mark Zuckerberg confirmed that teens can opt out of the restrictive default settings he had just described. The brake is unmeasured: asked whether Meta reports the total amount of harmful content or only the share it catches, he answered, "No. I believe we focus on prevalence." The brake reaches almost no one: Snap's Evan Spiegel could name his parental-tool adoption, "approximately 200,000 parents use Family Center," against roughly 20 million teen users, about one percent; Discord's Jason Citron, asked whether his teen-safety tool works, said, "I do not have a study off the top of my head." And the brake was defunded: pressed on an internal memo, Zuckerberg was questioned about a rejected request for dozens of safety engineers that would have cost about $50 million in a quarter Meta earned $9.2 billion.
 
 Senator Jon Ossoff (D-GA) named the tension at the heart of it before reading Meta's own SEC filing aloud: "You have a fiduciary obligation to your shareholders to get kids to use your platform more." Senator Richard Durbin (D-IL) reduced it to a sentence, put to Discord: "if that were working, we wouldn't be here today." The companies split on the child-safety bills: Snap and X endorsed specific ones ("we strongly support the Kids' Online Safety Act," said Spiegel), while Meta, Discord, and TikTok declined to commit to any.
+
+**Full ledger:** every tiered claim and all the verbatim quotes are in [the Jan 2024 five-CEO distillation](/distillations/hearing-2024-01-31-big-tech-child-safety).
 
 ## May 2026: the documents behind the mechanism
 
@@ -52,6 +56,8 @@ A law professor, Mary Graw Leary, named the legal cause and the limit of litigat
 
 The litigation posture, including the appeals, is in [the lawsuit case files](/lawsuits).
 
+**Full ledger (tier-down):** the claim ledger and quote-bank is at [the May 2026 verdicts distillation](/distillations/hearing-2026-05-13-courtroom-to-congress).
+
 ## December 2025: the fight over the fix
 
 *House Energy & Commerce, Subcommittee on Commerce, Manufacturing, and Trade. Witnesses: a safety advocate, a pro-regulation lawyer, an industry association, and a civil-liberties group.*
@@ -63,6 +69,8 @@ On December 2, 2025, a House Energy & Commerce subcommittee held a legislative h
 The design-regulation case came from Joel Thayer of the Digital Progress Institute, who argued the First Amendment is being weaponized to "turn our bulwark for free expression into a sword to cut down laws they don't like," and that the Supreme Court "categorically rejected TikTok's argument that the mere regulation of an algorithm raises First Amendment scrutiny." The industry position, from Paul Lekas of the Software & Information Industry Association, accepted safety law but pushed its shape toward "regulating design or privacy conduct, rather than content," to survive constitutional scrutiny. And the sharpest objection came from the civil-liberties witness, Kate Ruane of the Center for Democracy & Technology, who named the same mechanism the other hearings did, "the surveillance capitalism business model," but named it to argue the opposite remedy: that the durable fix is comprehensive privacy law, that age-verification mandates "create significant privacy risks," and that "Protecting children includes protecting their right to express themselves online."
 
 Read honestly, this hearing does not confirm the brake-integrity thesis. It maps where that thesis meets its most legitimate objections, constitutional and strategic, and those objections belong on the record next to the mechanism the other three establish. The First Amendment cases the witnesses fight over are the same ones engaged in [the policy paper](/proposal).
+
+**Full ledger (tier-down):** the claim ledger and quote-bank is at [the Dec 2025 legislative distillation](/distillations/hearing-2025-12-02-legislative-solutions).
 
 ## What the four establish together
 
@@ -83,4 +91,4 @@ Cleaned third-party transcripts were used only as a reading aid and cross-check,
 
 ---
 
-*Provenance and methodology: this page is a companion to [the lawsuits explainer](/lawsuits), covering the Congressional record rather than the litigation. The case content is sourced ledger-first: each hearing has an evidence-tiered claim ledger with a verbatim, attributed quote-bank, verified as an exact substring of the official record; this page is seeded from those ledgers, curated and not a full render, and corrections land in the ledgers first. Quotes are selected for mechanism, not for the tribal or viral moment, and the two tier-down hearings are flagged as the weaker-evidence artifacts they are until their official transcripts publish. AI-assisted throughout: the framing and judgment are the author's, the drafting was collaborative. Updated on dated passes, not live; the as-of line above is the honesty backstop.*
+*Provenance and methodology: this page is a companion to [the lawsuits explainer](/lawsuits), covering the Congressional record rather than the litigation. The case content is sourced ledger-first: each hearing has an evidence-tiered claim ledger with a verbatim, attributed quote-bank, verified as an exact substring of the official record; this page is seeded from those ledgers, curated and not a full render, and corrections land in the ledgers first; the full ledgers, with their complete quote-banks, are published at [/distillations](/distillations). Quotes are selected for mechanism, not for the tribal or viral moment, and the two tier-down hearings are flagged as the weaker-evidence artifacts they are until their official transcripts publish. AI-assisted throughout: the framing and judgment are the author's, the drafting was collaborative. Updated on dated passes, not live; the as-of line above is the honesty backstop.*

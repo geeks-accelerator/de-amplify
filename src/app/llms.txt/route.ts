@@ -46,6 +46,19 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   five CEOs under oath, the internal documents a jury was shown, and the fight
   over the fix. Two are from official transcripts; two are flagged tier-downs
   from written testimony (no official transcript yet). Seeded ledger-first.
+- [The distillations (evidence ledgers)](${SITE_URL}/distillations): the
+  source-of-truth claim ledgers behind the lawsuit and hearing pages, published
+  in full for transparency. Every claim is tagged by the strength of its source
+  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Seven ledgers
+  (raw markdown per ledger):
+  [MDL 3047](${SITE_URL}/distillations/mdl-3047.md),
+  [the California bellwethers](${SITE_URL}/distillations/california-state-bellwethers.md),
+  [New Mexico v. Meta](${SITE_URL}/distillations/new-mexico-v-meta.md),
+  and the four hearings with their full verbatim quote-banks:
+  [Nov 2023 Bejar](${SITE_URL}/distillations/hearing-2023-11-07-teen-mental-health.md),
+  [Jan 2024 five-CEO](${SITE_URL}/distillations/hearing-2024-01-31-big-tech-child-safety.md),
+  [May 2026 verdicts (tier-down)](${SITE_URL}/distillations/hearing-2026-05-13-courtroom-to-congress.md),
+  [Dec 2025 legislative (tier-down)](${SITE_URL}/distillations/hearing-2025-12-02-legislative-solutions.md).
 
 ## Briefings by audience (the same argument, told per room)
 
@@ -71,6 +84,7 @@ the online version and PDF are derived from it.
 - [The appendix, rendered](${SITE_URL}/notes)
 - [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
 - [The hearings explainer, rendered](${SITE_URL}/hearings)
+- [The distillations (evidence ledgers hub)](${SITE_URL}/distillations)
 - [File a brake report](${SITE_URL}/report): turns one dead brake into a
   structured, shareable report. Stores nothing by design.
 - [The brake scorecard](${SITE_URL}/scorecard): the seven-part brake-integrity
