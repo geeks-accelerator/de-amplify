@@ -72,7 +72,7 @@ export default function ReportPage() {
           <ReportForm />
 
           <div className="mt-12 border-t border-white/[0.06] pt-8">
-            <p className="text-[13px] leading-relaxed text-bone/40">
+            <p className="text-[13px] leading-relaxed text-bone/60">
               Want to see the test written down so everyone scores it the same way? Read{" "}
               <Link href="/scorecard" className="text-bone/60 underline decoration-white/15 underline-offset-4 hover:text-bone/80">
                 the brake scorecard

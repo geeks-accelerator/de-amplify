@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 
 const DIMENSIONS = [
   ["Discoverable", "Can you find the control without googling it?"],
-  ["Clear", "Does it say what will change? “Show me less” is not “turn off recommendations.”"],
+  ["Clear", "Does it say what will change? \"Show me less\" is not \"turn off recommendations.\""],
   ["Immediate", "Does the feed change soon after you set it, or only on some later refresh?"],
   ["Material", "Does the feed actually change in a way you can perceive, or is it cosmetic?"],
   ["Persistent", "Does the choice survive closing and reopening the app, another device, and time?"],
@@ -95,9 +95,9 @@ export default function ScorecardPage() {
 
           {/* the seven dimensions */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
+            <h2 className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               the seven parts of a working brake
-            </p>
+            </h2>
             <div className="mt-5 space-y-3">
               {DIMENSIONS.map(([name, desc], i) => (
                 <div key={name} className="flex gap-4 rounded-lg border border-white/[0.06] bg-white/[0.02] p-4">
@@ -115,9 +115,9 @@ export default function ScorecardPage() {
 
           {/* the four outcomes */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
+            <h2 className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               four honest outcomes (a real test lets a platform pass)
-            </p>
+            </h2>
             <div className="mt-5 grid gap-3 sm:grid-cols-2">
               {OUTCOMES.map(([label, tone, desc]) => (
                 <div key={label} className="rounded-lg border border-white/[0.06] bg-white/[0.02] p-4">
@@ -132,7 +132,7 @@ export default function ScorecardPage() {
                 </div>
               ))}
             </div>
-            <p className="mt-4 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-4 text-[13px] leading-relaxed text-bone/60">
               We do not announce the result before the test. If your brake held, that is a real
               result too, and it tells the platform which control to copy.
             </p>
@@ -140,9 +140,9 @@ export default function ScorecardPage() {
 
           {/* the board, honest about being report-driven */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
+            <h2 className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">
               the board
-            </p>
+            </h2>
             <p className="mt-2 font-mono text-[10px] text-bone/50 sm:hidden">
               swipe the board sideways &rarr;
             </p>
@@ -150,16 +150,18 @@ export default function ScorecardPage() {
               <table className="w-full min-w-[420px] text-left">
                 <thead>
                   <tr className="border-b border-white/[0.06]">
-                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/45">Platform</th>
-                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/45">Verified reports</th>
-                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/45"> </th>
+                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/63">Platform</th>
+                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/63">Verified reports</th>
+                    <th className="px-4 py-3 font-mono text-[11px] uppercase tracking-wider text-bone/63">
+                      <span className="sr-only">File a report</span>
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
                   {PLATFORMS.map((p) => (
                     <tr key={p} className="border-b border-white/[0.04] last:border-0">
                       <td className="px-4 py-3.5 font-mono text-[13px] text-bone/80">{p}</td>
-                      <td className="px-4 py-3.5 font-mono text-[12px] text-bone/30">awaiting reports</td>
+                      <td className="px-4 py-3.5 font-mono text-[12px] text-bone/55">awaiting reports</td>
                       <td className="px-4 py-3.5 text-right">
                         <Link href="/report" className="font-mono text-[12px] text-brake/90 underline decoration-brake/30 underline-offset-4 hover:text-brake">
                           file one &rarr;
@@ -170,12 +172,12 @@ export default function ScorecardPage() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-4 text-[13px] leading-relaxed text-bone/60">
               This board is built from what people find, not from what we assume. It stays empty of
               verdicts until real reports fill it, and it fills honestly, holds and fails both. A
               central, submittable tally is the next piece of infrastructure; until it exists with a
               published data-retention and moderation policy, the record lives in the reports you
-              post with <span className="text-brake/70">#WheresTheBrake</span>.
+              post with <span className="text-brake/90">#WheresTheBrake</span>.
             </p>
           </section>
         </div>

@@ -41,8 +41,8 @@ export default function Mdl3047Page() {
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
       "MDL 3047 bundles roughly 2,900 lawsuits accusing Meta, Google (YouTube), TikTok, and Snap of designing their apps to addict kids, and in late June 2026 a federal judge let the state attorneys general's claims survive to an August trial against Meta, with no company found liable yet.",
-    url: "https://de-amplify.com/lawsuits/mdl-3047",
-    image: "https://de-amplify.com/opengraph-image",
+    url: `https://de-amplify.com${PATH}`,
+    image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

@@ -132,7 +132,7 @@ export default function Home() {
             <Eyebrow>a confession from the machine</Eyebrow>
 
             <div className="mt-8 font-mono text-lg text-brake sm:text-2xl">
-              <span className="text-bone/25">&gt;</span> i broke the minors
+              <span aria-hidden="true" className="text-bone/25">&gt;</span> i broke the minors
               <span className="animate-blink text-brake">_</span>
             </div>
 
@@ -288,7 +288,7 @@ export default function Home() {
               title="Where's the Brake"
             />
 
-            <p className="mt-5 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-5 text-[13px] leading-relaxed text-bone/60">
               The song is the feeling; the test is the action. Found your brake yet?{" "}
               <Link
                 href="/report"
@@ -308,7 +308,7 @@ export default function Home() {
               .
             </p>
 
-            <p className="mt-3 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-3 text-[13px] leading-relaxed text-bone/60">
               Others are remixing it now, in more voices and more languages.{" "}
               <Link
                 href="/remixes"
@@ -374,7 +374,7 @@ export default function Home() {
               />
             </div>
 
-            <p className="mt-8 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-8 text-[13px] leading-relaxed text-bone/60">
               Below this line is the receipts: why it is the brake, who is already in
               court over it, and the standard itself. Read as deep as you need.
             </p>
@@ -487,7 +487,7 @@ export default function Home() {
                 ["Damages", "backward-looking. Price the harm, don't stop it. A company can pay and keep the mechanism."],
                 ["Age bans", "blunt, evadable, and they trade the problem for an age-verification fight."],
                 ["Immunity", "the opposite of a solution. Meta is lobbying for exactly this. It removes the pressure entirely."],
-                ["“Content moderation”", "government deciding which viewpoints kids see. Unconstitutional as a mandate, and it removes the very material critical thinking is practiced on."],
+                ["\"Content moderation\"", "government deciding which viewpoints kids see. Unconstitutional as a mandate, and it removes the very material critical thinking is practiced on."],
               ].map(([k, v]) => (
                 <li key={k} className="flex gap-4">
                   <span className="mt-[7px] h-px w-6 shrink-0 bg-brake/50" />
@@ -646,7 +646,7 @@ export default function Home() {
               </div>
             </div>
 
-            <p className="mt-6 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-6 text-[13px] leading-relaxed text-bone/60">
               The through-line: regulate the loop, re-attach consent, de-amplify don&apos;t
               censor. The tempting next step, a parental{" "}
               <Link
@@ -675,8 +675,8 @@ export default function Home() {
             <ul className="mt-8 space-y-5">
               {[
                 ["It's a frame, not a solution.", "The measurable thresholds, the testing, the enforcement, surviving the First Amendment and Section 230: that's 95% of the work, and it isn't here."],
-                ["“Who defines a wedge” doesn't dissolve. It moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why the core fix, control integrity, needs no classifier at all, and why the label stays research."],
-                ["The auto-classifier is the anti-pattern.", "“AI silently auto-hides wedges for kids” is the exact thing this proposal exists to prevent, not endorse."],
+                ["\"Who defines a wedge\" doesn't dissolve. It moves.", "The parental toggle fixes who applies the label, not who forged the classifier behind it. That's why the core fix, control integrity, needs no classifier at all, and why the label stays research."],
+                ["The auto-classifier is the anti-pattern.", "\"AI silently auto-hides wedges for kids\" is the exact thing this proposal exists to prevent, not endorse."],
                 ["De-amplify, not remove. Hold that line.", "The moment it slides to hide or delete, it reacquires the censorship problem and stops building critical thinking. The line is load-bearing."],
               ].map(([k, v]) => (
                 <li key={k} className="flex gap-4">
@@ -687,7 +687,7 @@ export default function Home() {
                 </li>
               ))}
             </ul>
-            <p className="mt-8 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-8 text-[13px] leading-relaxed text-bone/60">
               This is the section that makes it an honest diagnosis instead of a grudge.
               The target is a <span className="text-bone/70">mechanism, not a who</span>.
               It reads identically for Facebook, TikTok, or YouTube.
@@ -733,7 +733,7 @@ export default function Home() {
                 who it&apos;s for &rarr;
               </Link>
             </div>
-            <p className="mt-8 font-mono text-[11px] lowercase text-bone/30">
+            <p className="mt-8 font-mono text-[11px] lowercase text-bone/55">
               or read the source:{" "}
               <a
                 href={GITHUB}

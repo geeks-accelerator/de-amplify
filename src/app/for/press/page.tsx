@@ -36,6 +36,9 @@ export default function PressBriefingPage() {
       title="Where's the Brake?"
       crumbLabel="For press and organizers"
       crumbPath={PATH}
+      headline={TITLE}
+      description={DESCRIPTION}
+      sourceFile="docs/proposals/2026-07-16-brake-integrity-pitch-press-organizers.md"
       intro={
         <>
           <p>

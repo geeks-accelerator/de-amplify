@@ -13,7 +13,7 @@ export default function Header() {
           <span className="text-brake">de</span>-amplify
           <span className="text-brake animate-blink">_</span>
         </Link>
-        <nav className="flex items-center gap-4 font-mono text-[11px] lowercase tracking-wide text-bone/45 sm:gap-5">
+        <nav className="flex items-center gap-4 font-mono text-[11px] lowercase tracking-wide text-bone/63 sm:gap-5">
           {/* py-2 grows each link's tap target past the 24px WCAG floor */}
           <Link
             href="/#ask"
@@ -37,7 +37,7 @@ export default function Header() {
             href={GITHUB}
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden py-2 text-bone/45 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/70 sm:inline-block"
+            className="hidden py-2 text-bone/63 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/70 sm:inline-block"
           >
             github
           </a>

@@ -1,5 +1,14 @@
-"use client";
-
+// Deliberately a SERVER component. Nothing here is interactive, and react-markdown
+// 10's default export has no "use client" and no hooks (useState/useEffect live only
+// in its MarkdownHooks export), so it renders fine on the server. Adding "use client"
+// back would ship react-markdown + remark-gfm + micromark + rehype-slug (~47 KB gzipped)
+// to every route that renders a document, and would also serialize the whole markdown
+// string into the flight payload on top of the HTML it already rendered.
+//
+// One contrast note: prose-li:marker: below is the ::marker bullet, which is pure
+// decoration (the list semantics live in the ul/li markup), so it is exempt from the
+// 4.5:1 AA floor the rest of the palette is held to. It is still bumped off the old
+// near-invisible value for low-vision readers.
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
@@ -19,7 +28,7 @@ export default function ProposalContent({ markdown }: { markdown: string }) {
         prose-blockquote:border-l-2 prose-blockquote:border-brake/50 prose-blockquote:bg-white/[0.02] prose-blockquote:rounded-r-md prose-blockquote:py-1 prose-blockquote:px-5 prose-blockquote:not-italic prose-blockquote:text-bone/70 prose-blockquote:text-[15px]
         prose-code:font-mono prose-code:text-signal prose-code:bg-signal/10 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-[13px] prose-code:font-normal prose-code:before:content-none prose-code:after:content-none
         prose-em:text-bone/70 prose-em:italic
-        prose-li:font-sans prose-li:text-[15px] prose-li:text-bone/[0.62] prose-li:leading-[1.7] prose-li:marker:text-brake/40
+        prose-li:font-sans prose-li:text-[15px] prose-li:text-bone/[0.62] prose-li:leading-[1.7] prose-li:marker:text-brake/70
         prose-hr:border-white/[0.06]
         prose-table:text-[13px]
         prose-thead:border-white/10
