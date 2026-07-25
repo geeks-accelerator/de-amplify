@@ -12,7 +12,9 @@ attacking it:
 - Find a hole in the reasoning, the legal analysis, or the standard.
 - Correct a fact. This site is about a live public issue and cites primary
   sources; if a claim is wrong or a citation is stale, open an issue with the
-  primary source.
+  primary source. **Corrections land in the ledger first, not on the page.**
+  See "Fixing a fact" below; a PR that patches only the visible page is the
+  exact drift the architecture exists to prevent.
 - Sharpen the framing, the self-test, or the campaign-safety rules.
 
 Open an issue, or open a PR. Small, focused changes are easier to review and
@@ -23,13 +25,46 @@ merge than sweeping rewrites.
 - **Accuracy is load-bearing.** Legal and factual claims must trace to a
   primary source (a court order or filing, an official release). Secondary
   coverage is tiered down and flagged. Everything carries an as-of date.
+- **Posture precision.** "Announced intent" is not "filed" is not "affirmed";
+  a summary-judgment ruling is not a motion to dismiss; a jury verdict is not
+  "upheld on appeal." This project was burned once by a "$6M upheld on appeal"
+  error, so this class of edit gets read closely.
+- **Event date is not coverage date.** An order "filed June 29" may be
+  "announced June 30", and a settlement "reported June 23" was not necessarily
+  agreed that day. Record the event date; note the coverage date separately.
 - **House style: no em-dashes.** Use commas, colons, parentheses, or
-  restructure. Straight quotes only.
+  restructure. Straight quotes only. **Two directories are exempt and must not
+  be "fixed":** `docs/distillations/sources/` holds verbatim official
+  transcripts, and `docs/distillations/reviews/` holds raw output from external
+  review models. Normalizing punctuation in either edits a record of what
+  someone else said, and would break the line-anchored quote locators the
+  hearing ledgers depend on.
 - **Aim at the loop, not at people.** The movement targets a mechanism, never
   a company or a person. Keep contributions the same way: show the behavior,
   never a person.
 - **Standalone.** This repo is self-contained; do not add references to other
   repositories.
+
+## Fixing a fact (read this before opening a content PR)
+
+The lawsuit and hearing content is **ledger-first**. The evidence-tiered claim
+ledgers in [`docs/distillations/`](docs/distillations/) are the source of truth;
+the pages you read on the site are *seeded from* them, curated, not a 1:1
+render. So:
+
+1. Land the correction in the ledger, against a primary source, with its
+   evidence tier ([ESTABLISHED] / [OBSERVED] / [ASSUMED]).
+2. Then re-seed the curated page (`content/lawsuits.md`, `content/hearings.md`,
+   `content/lawsuits/*.md`) on a dated pass.
+
+The `/distillations` pages publish the ledger directly, so step 1 alone already
+corrects a public surface. Never fix a fact only on the page: that leaves the
+ledger and the page disagreeing, with nothing to say which is right.
+
+One caution learned the hard way: a quote being **verbatim** and being
+**correctly attributed** are different facts, and only the first is checked by
+tooling. In the hearing ledgers' witness quote-banks, the senator named in the
+parenthetical is the *questioner*, not the speaker.
 
 ## Running it locally
 
@@ -39,6 +74,10 @@ npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
 npm run lint     # eslint . (flat config); run before opening a PR
 ```
+
+If you touched styling, check contrast: real text must clear WCAG AA 4.5:1
+against the `#070709` background, which means `text-bone/50` is the floor.
+Anything dimmer has to be genuinely decorative and marked `aria-hidden="true"`.
 
 See [CLAUDE.md](CLAUDE.md) for the repo's conventions (the content pipelines,
 the discovery layer, the deploy gotchas) and [README.md](README.md) for what

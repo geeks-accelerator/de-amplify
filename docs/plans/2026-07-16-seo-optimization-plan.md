@@ -30,12 +30,13 @@ The technical foundation from earlier passes is live and should not be re-planne
 - Agent-discovery layer: `llms.txt`, `llms-full.txt`, `agent-card.json`, raw `.md` routes with canonical `Link` headers.
 - JSON-LD: `Organization` + `WebSite` (layout), `Article` + `BreadcrumbList` on content pages, `HowTo` on the scorecard, `FAQPage` on the homepage and `/lawsuits` (the question-intent cluster, added after the Trends review).
 - Mobile pass (targets, 16px inputs, contrast, theme chrome) and the perf pass (Suno facade: mobile PageSpeed 37 to 85).
+- **Structure and payload pass (2026-07-24), which feeds both the snippet goal in section 3 and Core Web Vitals in section 5:** `/scorecard`, `/for`, `/report`, and `/distillations` had a single `<h1>` and styled `<p>` for every section title; they now carry real `<h2>` structure, which is the same visible-heading argument section 3 makes for featured snippets. The markdown renderer became a server component, removing **42 KB gzipped** of client JavaScript from every document route. The muted text palette was raised to clear WCAG AA 4.5:1. Six pages' `Article` JSON-LD had `url`/`image` pointing at the site root instead of their own page and card, a live instance of exactly the metadata drift item 5 in section 5 asks to audit for.
 
 ## 3. On-page and content: target the winnable cluster
 
 The technical layer is done; the content targeting is the gap.
 
-1. **Lead the winnable questions with real headings, not just JSON-LD.** FAQ structured data is placed, but a featured snippet usually wants a visible `<h2>` phrased as the query with a concise answer directly under it. Candidate: a short "so is it actually addiction?" style block on the homepage or `/proposal` whose H2 is literally "Why is social media addictive?" with a 40-to-60-word answer, then the deeper argument. Restate from existing copy; do not invent claims.
+1. ~~**Lead the winnable questions with real headings, not just JSON-LD.**~~ **DONE 2026-07-16** (commit `18abe15`): the visible "Why is social media addictive?" answer block ships on the homepage (`src/app/page.tsx:420`), matching the FAQ entry in the homepage and `/lawsuits` structured data. The general principle stands for any future question target: a featured snippet wants a visible `<h2>` phrased as the query with a concise answer directly under it, restated from existing copy, never invented.
 2. **Keep `/lawsuits` on its clean niche term, not the polluted head term.** "Social Media Addiction Lawsuits, Explained" is the right title: lower volume than "meta lawsuit," but clean intent and no law-firm wall to climb. Do not retitle toward "meta lawsuit."
 3. **The case pages and the ledgers are a long-tail asset.** `/lawsuits/mdl-3047`, `/kgm-v-meta`, `/new-mexico-v-meta`, `/hearings`, and the distillation ledgers own low-competition, high-intent terms ("MDL 3047," "K.G.M. v. Meta," "new mexico meta verdict," named hearings). Ensure each has a unique title leading with its proper-noun term, an `Article` + `BreadcrumbList`, and a first paragraph that states the entity and disposition in plain terms (answer-engine friendly). Audit that none share a title or description.
 4. **Internal linking toward the question intent.** The pages that answer "why is social media addictive" should interlink with descriptive anchor text ("why the feed is addictive," "the delivery loop") rather than "read more," so the topic cluster reads as authoritative to a crawler.
@@ -78,7 +79,7 @@ Structured data intercepts searches; it does not generate them. For this site th
 1. ~~Google Search Console + Bing verification and sitemap submission.~~ **DONE 2026-07-16 AM.** Measurement is now unblocked.
 2. Founder audits and the first share wave before July 27 / August 12 (section 6.1). The demand engine, and now the top remaining item.
 3. Freshness discipline on the litigation pages through the trial window (section 4); manually request indexing in Search Console ahead of each spike.
-4. Visible question-intent H2s and the case/ledger title-and-first-paragraph audit (section 3).
+4. ~~Visible question-intent H2s~~ (done 2026-07-16) and the case/ledger title-and-first-paragraph audit (section 3), still open.
 5. Press outreach with the `/for/press` briefing (section 6.2).
 6. The small technical follow-ups (section 5); use the Search Console coverage report to catch any accidental `noindex` or duplicate canonical on the newer routes.
 
