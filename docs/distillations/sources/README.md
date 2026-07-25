@@ -25,11 +25,28 @@ verification and line-anchored locators survive link rot and are re-runnable by 
   as the Senate transcripts. **Read this before citing it: the HTML carries the SPOKEN hearing
   only** (opening statements, the four oral statements, and the live question and answer), ending
   at "[Whereupon, at 1:10 p.m., the subcommittee was adjourned.]". The witnesses' **prepared
-  statements are in the official record as page images, not text**, so they are absent from this
-  cache and from any text extraction of the 65 MB PDF. Publication of a transcript is therefore
-  not the same as verifiability of everything printed in it. As of 2026-07-25 the Dec 2025 ledger's
-  quote-bank has not been re-anchored to this file; use `house-2025-12-02-testimony-combined.txt`
-  for its written-testimony quotes and this file only for live Q&A.
+  statements are inserted as TIFF images, not text.** Each one appears as the line
+  `[The prepared statement of Mr. X follows:]` immediately followed by
+  **`[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]`**, which is GPO's marker for exactly this. There are
+  9 such markers in this file and the PDF carries 237 embedded images. **Grep for that marker
+  string first on any new GPO hearing**; it tells you in one command how much of the record is
+  unreachable by a substring check.
+
+  Two further wrinkles specific to this hearing:
+
+  - **Kate Ruane's prepared statement is not in the official record at all**, not even as an image.
+    The record carries a footnote instead: "Ms. Ruane's prepared statement has been retained in
+    committee files and is available at" a docs.house.gov URL. So for one of the four witnesses,
+    the committee-repository PDF is the only source that will ever exist.
+  - **The spoken record contains material the written testimony does not.** Thayer's
+    "categorically rejected TikTok's argument" is in this transcript and absent from
+    `house-2025-12-02-testimony-combined.txt`. The re-seed is therefore not only a re-anchoring
+    exercise; there is genuinely new quotable material in the live Q&A.
+
+  Publication of a transcript is not the same as verifiability of everything printed in it. As of
+  2026-07-25 the Dec 2025 ledger's quote-bank has not been re-anchored to this file; use
+  `house-2025-12-02-testimony-combined.txt` for its written-testimony quotes and this file only
+  for the spoken hearing.
 - `CHRG-118shrg60432.txt`: official transcript of the Nov 7, 2023 Senate Judiciary
   Subcommittee hearing "Social Media and the Teen Mental Health Crisis" (S.Hrg. 118-663).
   U.S. Government work, public domain. Derived 2026-07-16 from
