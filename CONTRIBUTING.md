@@ -61,10 +61,16 @@ The `/distillations` pages publish the ledger directly, so step 1 alone already
 corrects a public surface. Never fix a fact only on the page: that leaves the
 ledger and the page disagreeing, with nothing to say which is right.
 
-One caution learned the hard way: a quote being **verbatim** and being
-**correctly attributed** are different facts, and only the first is checked by
-tooling. In the hearing ledgers' witness quote-banks, the senator named in the
-parenthetical is the *questioner*, not the speaker.
+Two cautions learned the hard way:
+
+- A quote being **verbatim** and being **correctly attributed** are different
+  facts, and only the first is checked by tooling. In the hearing ledgers'
+  witness quote-banks, the senator named in the parenthetical is the
+  *questioner*, not the speaker.
+- If you report that something is **not** in a source, prove your search first
+  by running it against a string you know is there. A search that finds nothing
+  is a claim that the search was right, and that claim is easy to skip past
+  because an empty result looks like a finding.
 
 ## Running it locally
 
