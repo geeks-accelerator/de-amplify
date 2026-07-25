@@ -19,6 +19,34 @@ verification and line-anchored locators survive link rot and are re-runnable by 
   (Berkman, Thayer, Lekas, Ruane) for the Dec 2, 2025 House Energy & Commerce "Legislative
   Solutions to Protect Children and Teens Online" hearing (docs.house.gov event 118714),
   downloaded 2026-07-16 and combined the same way (TIER-DOWN source).
+- `CHRG-119hhrg62241.txt`: official transcript of that same Dec 2, 2025 House hearing
+  (Serial No. 119-44). U.S. Government work, public domain. Derived 2026-07-25 from
+  https://www.govinfo.gov/content/pkg/CHRG-119hhrg62241/html/CHRG-119hhrg62241.htm the same way
+  as the Senate transcripts. **Read this before citing it: the HTML carries the SPOKEN hearing
+  only** (opening statements, the four oral statements, and the live question and answer), ending
+  at "[Whereupon, at 1:10 p.m., the subcommittee was adjourned.]". The witnesses' **prepared
+  statements are inserted as TIFF images, not text.** Each one appears as the line
+  `[The prepared statement of Mr. X follows:]` immediately followed by
+  **`[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]`**, which is GPO's marker for exactly this. There are
+  9 such markers in this file and the PDF carries 237 embedded images. **Grep for that marker
+  string first on any new GPO hearing**; it tells you in one command how much of the record is
+  unreachable by a substring check.
+
+  Two further wrinkles specific to this hearing:
+
+  - **Kate Ruane's prepared statement is not in the official record at all**, not even as an image.
+    The record carries a footnote instead: "Ms. Ruane's prepared statement has been retained in
+    committee files and is available at" a docs.house.gov URL. So for one of the four witnesses,
+    the committee-repository PDF is the only source that will ever exist.
+  - **The spoken record contains material the written testimony does not.** Thayer's
+    "categorically rejected TikTok's argument" is in this transcript and absent from
+    `house-2025-12-02-testimony-combined.txt`. The re-seed is therefore not only a re-anchoring
+    exercise; there is genuinely new quotable material in the live Q&A.
+
+  Publication of a transcript is not the same as verifiability of everything printed in it. As of
+  2026-07-25 the Dec 2025 ledger's quote-bank has not been re-anchored to this file; use
+  `house-2025-12-02-testimony-combined.txt` for its written-testimony quotes and this file only
+  for the spoken hearing.
 - `CHRG-118shrg60432.txt`: official transcript of the Nov 7, 2023 Senate Judiciary
   Subcommittee hearing "Social Media and the Teen Mental Health Crisis" (S.Hrg. 118-663).
   U.S. Government work, public domain. Derived 2026-07-16 from
@@ -54,6 +82,31 @@ one source cache, and its "source lines N-M" locators refer to line numbers in t
 
 Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and to
 `content/hearings.md`; all resolve against `CHRG-118shrg60432.txt`.
+
+## Three normalizations the check is sensitive to (2026-07-25)
+
+A full re-run over all four hearing ledgers on 2026-07-25 verified **245 of 246** quoted spans.
+Getting there required three normalizations, and each one flips a *different* set of quotes, so a
+checker that applies some but not others produces false failures that look like fidelity problems:
+
+1. **Curly punctuation.** The testimony PDFs use curly apostrophes and quotes; the ledgers use
+   straight ones. Without folding these together, roughly twenty spans in the May 2026 ledger
+   fail. None of them is a real defect.
+2. **Elision.** A ledger quote containing `...` is not one string, it is several fragments with
+   material deliberately omitted between them. It must be split on the ellipsis and each fragment
+   checked separately, or every elided quote fails.
+3. **GPO hyphenated line wraps.** The Senate transcripts break words across lines, and the
+   extraction preserves the space: `core well- being topics`. The ledger correctly quotes
+   `well-being`. Rejoining `-\s+` before comparing is what makes that quote verify.
+
+**The single span that does not verify under any combination** is in the Dec 2025 ledger:
+`Up to 95% of youth ages 13-17`, where the written testimony reads `13–17` with an EN DASH and
+the ledger wrote a hyphen. That is a real, if trivial, deviation from verbatim, and it exposes a
+tension worth naming: the ledgers state that their verbatim quotes reproduce source punctuation
+exactly and are exempt from house style, but the house-style sweep exempts only `sources/` and
+`reviews/`, not the ledgers themselves. Restoring the en dash would make the ledger fail the
+sweep. It is left as a hyphen deliberately, inside a numeric range where the dash carries no
+meaning, and recorded here rather than silently carried.
 
 ## What this check does NOT cover (read before trusting a green result)
 

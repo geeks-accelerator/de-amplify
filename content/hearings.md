@@ -14,7 +14,7 @@ Where [the lawsuits](/lawsuits) establish that courts are willing to find harm, 
 | **Nov 2023, Senate** (Bejar) | official transcript | A former Meta safety engineer told the Senate in 2023 that the company knew its apps were harming kids and chose not to fix it. |
 | **Jan 2024, Senate** (five CEOs) | official transcript | In 2024 the CEOs of Meta, TikTok, Snap, Discord and X faced the Senate over child safety, and senators showed the safety tools do not hold. |
 | **May 2026, Senate** (the verdicts) | tier-down (written testimony) | In 2026 the lawyer who won California's child-safety verdict against Meta and Google (now on appeal) showed the Senate the companies' internal documents. |
-| **Dec 2025, House** (the bills) | tier-down (written testimony) | In 2025 a House hearing on child-safety bills heard four witnesses split over design mandates, privacy law, and the First Amendment. |
+| **Dec 2025, House** (the bills) | tier-down (written testimony; official transcript now published) | In 2025 a House hearing on child-safety bills heard four witnesses split over design mandates, privacy law, and the First Amendment. |
 
 ## November 2023: the fake brake, named from inside
 
@@ -62,7 +62,7 @@ The litigation posture, including the appeals, is in [the lawsuit case files](/l
 
 *House Energy & Commerce, Subcommittee on Commerce, Manufacturing, and Trade. Witnesses: a safety advocate, a pro-regulation lawyer, an industry association, and a civil-liberties group.*
 
-> **Tier-down.** Same caution as above: no official transcript yet, so this account is built from written testimony, not the live exchange. Unlike the others, this hearing was built to disagree, and the witnesses genuinely do.
+> **Tier-down, narrowing.** The official transcript has since published (GPO CHRG-119hhrg62241, Serial 119-44) and is now cached alongside the other two official transcripts. That fixes the original problem but not the whole of it: the GPO text carries the spoken hearing only, and the witnesses' prepared statements sit in the official record as page images that cannot be machine-verified. This account is still built from those written statements rather than the live exchange, so it stays flagged until it is re-seeded from the transcript's question-and-answer. Unlike the others, this hearing was built to disagree, and the witnesses genuinely do.
 
 On December 2, 2025, a House Energy & Commerce subcommittee held a legislative hearing on a package of child-safety bills, including the Kids Online Safety Act, COPPA 2.0, and Sammy's Law. Its four witnesses, a safety advocate, a pro-regulation lawyer, an industry association, and a civil-liberties group, all agreed the harm is real. They split, sharply, on the fix, and that split is the most useful thing on this page: it is where the brake-integrity argument meets its hardest objections.
 
@@ -85,7 +85,7 @@ Each account is seeded from the official record of the hearing. Transcripts and 
 - **Nov 7, 2023, Bejar** (S.Hrg. 118-663): official Senate transcript, [govinfo CHRG-118shrg60432](https://www.govinfo.gov/content/pkg/CHRG-118shrg60432/html/CHRG-118shrg60432.htm) (primary); [Senate Judiciary hearing page](https://www.judiciary.senate.gov/committee-activity/hearings/social-media-and-the-teen-mental-health-crisis).
 - **Jan 31, 2024, five CEOs** (S.Hrg. 118-497): official Senate transcript, [govinfo CHRG-118shrg57444](https://www.govinfo.gov/content/pkg/CHRG-118shrg57444/html/CHRG-118shrg57444.htm) (primary); [Senate Judiciary hearing page](https://www.judiciary.senate.gov/committee-activity/hearings/big-tech-and-the-online-child-sexual-exploitation-crisis).
 - **May 13, 2026, the verdicts** (tier-down; no official transcript yet): witness written testimony via the [Senate Judiciary hearing page](https://www.judiciary.senate.gov/committee-activity/hearings/from-the-courtroom-to-congress-why-landmark-social-media-verdicts-demand-federal-action-to-protect-kids-online) (primary for the written statements).
-- **Dec 2, 2025, the bills** (tier-down; no official transcript yet): witness written testimony via the [House Energy & Commerce committee repository](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=118714) (primary for the written statements).
+- **Dec 2, 2025, the bills** (tier-down, narrowing): official House transcript, [govinfo CHRG-119hhrg62241](https://www.govinfo.gov/content/pkg/CHRG-119hhrg62241/html/CHRG-119hhrg62241.htm), Serial No. 119-44 (primary; published and cached 2026-07-25, covers the spoken hearing); witness written testimony via the [House Energy & Commerce committee repository](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=118714) (primary for the written statements, which appear in the official record only as page images). Quotes on this page are still from the written statements.
 
 Cleaned third-party transcripts were used only as a reading aid and cross-check, never as the quoted source. Every quotation on this page is verbatim from the official record above and attributed; the two tier-down hearings will be rebuilt to the full standard when their official transcripts are published.
 

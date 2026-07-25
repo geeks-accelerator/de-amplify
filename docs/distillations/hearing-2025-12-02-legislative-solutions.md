@@ -7,16 +7,26 @@ as_of: 2026-07-16
 audience: general public reader
 verified_by: Lee + Claude, 2026-07-16
 evidentiary_status: >
-  DELIBERATE TIER-DOWN, flagged throughout, and the counterpart to the May-2026 Senate tier-down in this
-  folder. The official House hearing transcript is not published yet (recent; official records lag). This
+  PARTIAL TIER-DOWN, narrowed on 2026-07-25 and no longer for the original reason. THE OFFICIAL TRANSCRIPT
+  HAS SINCE PUBLISHED: GPO CHRG-119hhrg62241 (Serial 119-44), fetched and cached at
+  sources/CHRG-119hhrg62241.txt on 2026-07-25. That resolves the original tier-down cause, but it does NOT
+  by itself upgrade this document, and the distinction matters. The GPO HTML carries the SPOKEN hearing
+  only (opening statements, the four oral statements, and roughly 135,000 characters of live Q&A), ending
+  at the adjournment line. The witnesses' PREPARED STATEMENTS are in the official record as PAGE IMAGES,
+  not text: the GPO PDF runs 65 MB and extracts to 190,000 characters in which every distinctive phrase
+  from the written statements is absent. Measured directly on 2026-07-25: of 37 quoted spans in this
+  document, 3 verify against the official transcript, 2 more appear only there, and 29 exist only in the
+  witnesses' own submitted PDFs. So the quote-bank below still rests predominantly on written testimony
+  and is still flagged as such. THE REMAINING WORK is to re-seed this ledger's claims from the live Q&A
+  that is now available and to re-anchor what can be re-anchored; until that pass happens, treat every
+  quote here as written-testimony-sourced unless its locator says otherwise. This
   distillation is built from the four OFFICIAL WRITTEN-TESTIMONY PDFs (docs.house.gov committee repository),
   NOT a verbatim transcript, so the live Q&A is NOT captured here. One important difference from the Senate
   tier-down: this hearing is NOT one-sided. Its four witnesses span the spectrum: a social-media-safety
   advocate (Berkman), a pro-regulation lawyer (Thayer), an industry association (Lekas/SIIA), and a
   civil-liberties group (Ruane/CDT); so the disagreement is inside the record, not absent from it. Each
   witness still carries an [advocacy-witness] flag (each came with a position), but the positions genuinely
-  conflict, which is what makes this the most balanced of the four hearing sources. When the official
-  transcript publishes, this doc should be rebuilt to the full standard.
+  conflict, which is what makes this the most balanced of the four hearing sources.
 sycophancy_audit:
   method: "Two-pass blind cross-architecture wedge check on a non-Claude model, framed for the INVERTED risk (flattening a balanced four-witness debate into the site's pro-regulation narrative), given the distillation + the testimony source."
   model: x-ai/grok-4.3
@@ -27,7 +37,8 @@ sycophancy_audit:
   raw_audit_trail: "reviews/hearing-2025-12-02-wedge-check-r1-cooperative.md ; reviews/hearing-2025-12-02-wedge-check-r2-adversarial.md"
 sources:
   - "PRIMARY (official written testimony, verbatim): the four witness testimony PDFs from the House Energy & Commerce committee repository (docs.house.gov, event 118714), accessed 2026-07-16; plain-text cached at sources/house-2025-12-02-testimony-combined.txt. Every quoted span is verified an exact substring of that cache by the project's quote-fidelity checker."
-  - "SECONDARY (reading aid for the live Q&A this doc does NOT quote): TechPolicy.Press cleaned transcript. https://www.techpolicy.press/transcript-house-hearing-on-legislative-solutions-to-protect-children-and-teens-online/"
+  - "PRIMARY (official transcript, public domain; ADDED 2026-07-25, supersedes the cleaned secondary below as the reference for the live Q&A): U.S. House of Representatives, LEGISLATIVE SOLUTIONS TO PROTECT CHILDREN AND TEENS ONLINE, Serial No. 119-44, govinfo CHRG-119hhrg62241. https://www.govinfo.gov/content/pkg/CHRG-119hhrg62241/html/CHRG-119hhrg62241.htm (fetched 2026-07-25; plain-text copy cached at sources/CHRG-119hhrg62241.txt). SCOPE LIMIT, read before citing: this HTML contains the SPOKEN hearing only and ends at the adjournment line. The witnesses' prepared statements are in the official record as page images and are NOT machine-verifiable; the 65 MB PDF extracts to text in which every distinctive written-testimony phrase is absent. Quotes in this document are therefore NOT yet re-anchored to this cache; see evidentiary_status."
+  - "SECONDARY (reading aid only, now superseded by the official transcript above): TechPolicy.Press cleaned transcript. https://www.techpolicy.press/transcript-house-hearing-on-legislative-solutions-to-protect-children-and-teens-online/"
   - "CROSS-REFERENCE (this folder + the lawsuit distillations' constitutional-cases track): the First Amendment cases the witnesses debate (NetChoice v. Bonta / the California AADC, Free Speech Coalition v. Paxton, TikTok v. Garland, the 11th Circuit Florida case) are the legal backdrop to whether the 'brake' can be built; and the other three hearing distillations for the harm/mechanism these bills respond to."
 tier_key: "ESTABLISHED = the statement is verbatim in the official written testimony (a fact about what the witness submitted). [advocacy-witness] = a witness's position, reported not adjudicated (here the positions conflict across witnesses, so the flag marks each as one voice in a debate, not a lean of the distillation). OBSERVED = the live Q&A or external context carried only by secondary sources. ASSUMED = distiller inference, flagged. (OBSERVED and ASSUMED are defined for transport across the hearing docs but are unused here: the live Q&A they would primarily cover is excluded, per evidentiary_status.)"
 structural_villain: "The engagement-and-data business model remains the named mechanism (even the civil-liberties witness names 'the surveillance capitalism business model' and 'engagement metrics'). But this hearing is not about naming a villain; it is a genuine four-way policy debate about the REMEDY (design mandates vs privacy law vs content regulation) and the First Amendment constraint on all of them."
