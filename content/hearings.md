@@ -11,10 +11,10 @@ Where [the lawsuits](/lawsuits) establish that courts are willing to find harm, 
 
 | Hearing | The record | What it puts on the record |
 |---|---|---|
-| **Nov 2023, Senate** (Bejar) | official transcript | A former Meta safety engineer: the company measured the harm and chose not to act. |
-| **Jan 2024, Senate** (five CEOs) | official transcript | Five platforms under oath; senators show the safety tools do not hold. |
-| **May 2026, Senate** (the verdicts) | tier-down (written testimony) | The internal company documents a jury was shown. |
-| **Dec 2025, House** (the bills) | tier-down (written testimony) | The genuine, unresolved fight over what Congress should do. |
+| **Nov 2023, Senate** (Bejar) | official transcript | A former Meta safety engineer told the Senate in 2023 that the company knew its apps were harming kids and chose not to fix it. |
+| **Jan 2024, Senate** (five CEOs) | official transcript | In 2024 the CEOs of Meta, TikTok, Snap, Discord and X faced the Senate over child safety, and senators showed the safety tools do not hold. |
+| **May 2026, Senate** (the verdicts) | tier-down (written testimony) | In 2026 the lawyer who won California's child-safety verdict against Meta and Google (now on appeal) showed the Senate the companies' internal documents. |
+| **Dec 2025, House** (the bills) | tier-down (written testimony) | In 2025 a House hearing on child-safety bills heard four witnesses split over design mandates, privacy law, and the First Amendment. |
 
 ## November 2023: the fake brake, named from inside
 
@@ -24,7 +24,7 @@ On November 7, 2023, a Senate Judiciary subcommittee heard sworn testimony from 
 
 His most load-bearing line describes the exact pattern this site is about, a control that looks like a brake but does not stop the car: the safety features Meta shipped were, in his words, "a safety feature in name only to placate the press and regulators." He described the company "creating its own homework," narrow definitions of harm that let it grade itself. He asked for a help button a child could press when a message hurt them; it was not built. And when he proposed the obvious test, "let's measure our help by whether it helped," that "was not adopted."
 
-The most concrete receipt in the hearing is a feedback brake that exists for advertisers and is withheld from children: "You can take an ad and say that is sexually inappropriate. But there's no way for a child to do that when they get a message." Senators from both parties named the design, not the speech, as the problem. Senator Josh Hawley (R-MO) called the company's public safety statistic "designed to mislead"; Senator Richard Blumenthal (D-CT) put it plainly: "It's a product. It needs to be different. It has to change."
+The most concrete receipt in the hearing is a feedback brake that exists for advertisers and is withheld from children: "You can take an ad and say that is sexually inappropriate. But there's no way for a child to do that when they get a message." Senators from both parties named the design, not the speech, as the problem. Senator Josh Hawley (R-MO) called the company's public safety statistic "designed to mislead"; Senator Marsha Blackburn (R-TN) put the removal of the earlier safety tools as a choice, "They had built tools. You built them. That was true. But they chose to remove that."; and Senator Richard Blumenthal (D-CT) framed the remedy the same way, "the Kids Online Safety Act is also about the product. It's about product design." Bejar agreed without hedging: "It's a product. It needs to be different. It has to change."
 
 No platform testified, so the companies appear here only as quoted documents. Their live answers are the next hearing.
 
