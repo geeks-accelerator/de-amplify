@@ -12,14 +12,14 @@ import path from "path";
 
 export type DistillationKind = "lawsuit" | "hearing";
 
+// Routing/structural config only. Every reader-facing STRING for a ledger comes
+// from that ledger's TLDR block (see LoadedDistillation), never from this array:
+// a string hand-authored here would be an unvalidated variant of a summary the
+// ledger already owns, which is the drift the ledger-first rule exists to stop.
 export interface DistillationMeta {
   slug: string;
   kind: DistillationKind;
   tierDown: boolean;
-  /** short label for the index and cross-links */
-  navLabel: string;
-  /** short title for the OG card (the ledger titles run long) */
-  ogTitle: string;
   /** the curated surface this ledger sits behind */
   related: { href: string; label: string };
 }
@@ -29,56 +29,42 @@ export const DISTILLATIONS: DistillationMeta[] = [
     slug: "mdl-3047",
     kind: "lawsuit",
     tierDown: false,
-    navLabel: "MDL 3047 (the federal case)",
-    ogTitle: "MDL 3047: the evidence ledger",
     related: { href: "/lawsuits/mdl-3047", label: "the MDL 3047 case file" },
   },
   {
     slug: "california-state-bellwethers",
     kind: "lawsuit",
     tierDown: false,
-    navLabel: "K.G.M. and the California bellwethers",
-    ogTitle: "The California bellwethers: the evidence ledger",
     related: { href: "/lawsuits/kgm-v-meta", label: "the K.G.M. case file" },
   },
   {
     slug: "new-mexico-v-meta",
     kind: "lawsuit",
     tierDown: false,
-    navLabel: "State of New Mexico v. Meta",
-    ogTitle: "New Mexico v. Meta: the evidence ledger",
     related: { href: "/lawsuits/new-mexico-v-meta", label: "the New Mexico case file" },
   },
   {
     slug: "hearing-2023-11-07-teen-mental-health",
     kind: "hearing",
     tierDown: false,
-    navLabel: "Nov 2023: the Bejar hearing",
-    ogTitle: "The 2023 Bejar hearing: the full ledger",
     related: { href: "/hearings", label: "the hearings hub" },
   },
   {
     slug: "hearing-2024-01-31-big-tech-child-safety",
     kind: "hearing",
     tierDown: false,
-    navLabel: "Jan 2024: the five-CEO hearing",
-    ogTitle: "The 2024 five-CEO hearing: the full ledger",
     related: { href: "/hearings", label: "the hearings hub" },
   },
   {
     slug: "hearing-2026-05-13-courtroom-to-congress",
     kind: "hearing",
     tierDown: true,
-    navLabel: "May 2026: the verdicts hearing",
-    ogTitle: "The 2026 verdicts hearing: the full ledger",
     related: { href: "/hearings", label: "the hearings hub" },
   },
   {
     slug: "hearing-2025-12-02-legislative-solutions",
     kind: "hearing",
     tierDown: true,
-    navLabel: "Dec 2025: the legislative hearing",
-    ogTitle: "The 2025 legislative hearing: the full ledger",
     related: { href: "/hearings", label: "the hearings hub" },
   },
 ];
@@ -103,7 +89,18 @@ export interface LoadedDistillation extends DistillationMeta {
   title: string;
   subject: string;
   asOf: string;
-  /** budgeted summary variants, parsed from the TLDR block (not rendered) */
+  /**
+   * Budgeted summary variants, parsed verbatim from the ledger's TLDR block
+   * (which is itself excluded from the rendered body). Each has exactly one
+   * consumer: label -> the hub card, navLabel -> the /distillations index card
+   * and breadcrumb, ogTitle -> the share card, searchSnippet -> the meta
+   * description, oneSentence -> the JSON-LD description. If a consumer needs a
+   * length none of these carries, add that variant to the ledger; do not adapt
+   * one here.
+   */
+  label: string;
+  navLabel: string;
+  ogTitle: string;
   searchSnippet: string;
   oneSentence: string;
   sources: string[];
@@ -149,6 +146,9 @@ export function loadDistillation(slug: string): LoadedDistillation {
   // budgeted summary variants from the TLDR block (parsed for metadata, not rendered)
   const tldr = (body.match(/## TLDR[\s\S]*?(?=\n## )/) || [""])[0];
   const grab = (re: RegExp) => ((tldr.match(re) || [])[1] || "").trim();
+  const label = grab(/One line \(label\):\*\*\s*(.+)/);
+  const navLabel = grab(/Nav label[^:]*:\*\*\s*(.+)/);
+  const ogTitle = grab(/OG title[^:]*:\*\*\s*(.+)/);
   const searchSnippet = grab(/Search snippet[^:]*:\*\*\s*(.+)/);
   const oneSentence = grab(/One sentence[^:]*:\*\*\s*(.+)/);
 
@@ -177,6 +177,9 @@ export function loadDistillation(slug: string): LoadedDistillation {
     title,
     subject,
     asOf,
+    label,
+    navLabel,
+    ogTitle,
     searchSnippet,
     oneSentence,
     sources,

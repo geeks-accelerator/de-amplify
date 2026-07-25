@@ -41,8 +41,8 @@ export default function KgmVMetaPage() {
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
       "In California state court (not the federal case), about 1,600 youth-harm suits are coordinated as JCCP 5255, and the first test case, K.G.M. v. Meta and Google, produced a $6 million jury verdict in March 2026 that both companies are appealing, so it is not final.",
-    url: "https://de-amplify.com/lawsuits/kgm-v-meta",
-    image: "https://de-amplify.com/opengraph-image",
+    url: `https://de-amplify.com${PATH}`,
+    image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

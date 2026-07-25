@@ -93,7 +93,7 @@ export default async function DistillationPage({
               {d.title}
             </h1>
             {d.subject ? (
-              <p className="mt-3 text-[13px] leading-relaxed text-bone/45">{d.subject}</p>
+              <p className="mt-3 text-[13px] leading-relaxed text-bone/63">{d.subject}</p>
             ) : null}
           </div>
 
@@ -159,7 +159,7 @@ export default async function DistillationPage({
             <ProposalContent markdown={d.bodyMarkdown} />
           </div>
 
-          <div className="mt-12 border-t border-white/[0.06] pt-8 font-mono text-[12px] lowercase text-bone/45">
+          <div className="mt-12 border-t border-white/[0.06] pt-8 font-mono text-[12px] lowercase text-bone/63">
             <p>
               <Link href={d.related.href} className="transition-colors hover:text-bone/70">
                 &larr; {d.related.label}

@@ -51,3 +51,42 @@ one source cache, and its "source lines N-M" locators refer to line numbers in t
 - `hearing-2024-01-31-big-tech-child-safety.md` -> `CHRG-118shrg57444.txt`
 - `hearing-2026-05-13-courtroom-to-congress.md` -> `senate-2026-05-13-testimony-combined.txt`
 - `hearing-2025-12-02-legislative-solutions.md` -> `house-2025-12-02-testimony-combined.txt`
+
+Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and to
+`content/hearings.md`; all resolve against `CHRG-118shrg60432.txt`.
+
+## What this check does NOT cover (read before trusting a green result)
+
+**Substring matching proves a quote is verbatim. It says nothing about who said it.**
+
+This is not hypothetical. On 2026-07-24 the `/hearings` page was found attributing
+Arturo Bejar's line "It's a product. It needs to be different. It has to change."
+to Sen. Blumenthal. It passed every check described above, because the string
+genuinely is in the transcript, at line 1951. Only Bejar said it; Blumenthal was
+the questioner.
+
+The trap is a convention in the ledgers themselves. In a witness quote-bank the
+speaker is the **subsection heading**, and the senator named in each parenthetical
+is the **questioner whose round the line came in**. Read as an attribution, that
+parenthetical says the opposite of what it means. The Nov 2023 ledger now states
+the convention explicitly at the top of its witness quote-bank; the other hearing
+ledgers use the same convention.
+
+So the verification protocol has two halves, and only the first is mechanical:
+
+1. **Verbatim** (tooling): the span is an exact whitespace-normalized substring
+   of the named cache, or is in the allowlist.
+2. **Attribution** (by eye, every time a quote is re-seeded onto a page): open
+   the cache at the locator line and read upward to the nearest `Mr./Ms. <name>.`
+   or `Chair/Senator <name>.` speaker marker. That marker, not the parenthetical,
+   is the speaker.
+
+## Punctuation exemption
+
+The `.txt` caches in this folder are verbatim government publications and
+**must never be normalized to the site's punctuation style**: their ASCII `--`,
+curly quotes, and hard line wraps are part of the record, and the ledgers' line
+locators point at specific lines in these exact files. The sibling
+`docs/distillations/reviews/` folder is exempt for the same reason (raw output
+from external review models, referenced as `raw_audit_trail` in ledger
+frontmatter). Both are excluded from the house-style sweep in CLAUDE.md.

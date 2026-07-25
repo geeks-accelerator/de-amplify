@@ -35,6 +35,9 @@ export default function ParentsBriefingPage() {
       title="Where's the Brake?"
       crumbLabel="For parents"
       crumbPath={PATH}
+      headline={TITLE}
+      description={DESCRIPTION}
+      sourceFile="docs/proposals/2026-07-16-brake-integrity-pitch-parents.md"
       intro={
         <>
           <p>

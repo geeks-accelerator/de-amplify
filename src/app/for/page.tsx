@@ -3,7 +3,9 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import { contentDate } from "@/lib/contentDate";
 
+const SITE = "https://de-amplify.com";
 const TITLE = "Who it's for: the argument in your language";
 const DESCRIPTION =
   "The same case, told for whoever is in the room: policymakers, parents, press and organizers. The machine runs on your reaction, and the brake it gave you is decorative.";
@@ -45,8 +47,23 @@ const AUDIENCES: [slug: string, label: string, blurb: string, ready: string][] =
 ];
 
 export default function ForHubPage() {
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Who it's for: the argument in your language",
+    description: DESCRIPTION,
+    url: `${SITE}${PATH}`,
+    image: `${SITE}${PATH}/opengraph-image`,
+    datePublished: "2026-07-16",
+    dateModified: contentDate("docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md", "2026-07-16"),
+    author: { "@id": `${SITE}/#org` },
+    publisher: { "@id": `${SITE}/#org` },
+    isPartOf: { "@id": `${SITE}/#website` },
+  };
+
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={articleJsonLd} />
       <JsonLd data={breadcrumbs(["Who it's for", "/for"])} />
       <Header />
       <main className="flex-1 px-5 py-14">
@@ -81,8 +98,8 @@ export default function ForHubPage() {
                 className="block rounded-lg border border-white/[0.06] bg-white/[0.02] p-5 transition-colors hover:border-white/[0.12]"
               >
                 <div className="flex items-baseline justify-between gap-4">
-                  <p className="font-mono text-[15px] text-bone/90">{label}</p>
-                  <span className="shrink-0 font-mono text-[10px] lowercase tracking-wide text-bone/35">
+                  <h2 className="font-mono text-[15px] text-bone/90">{label}</h2>
+                  <span className="shrink-0 font-mono text-[10px] lowercase tracking-wide text-bone/57">
                     {ready}
                   </span>
                 </div>
@@ -91,7 +108,7 @@ export default function ForHubPage() {
             ))}
           </div>
 
-          <p className="mt-10 text-[13px] leading-relaxed text-bone/40">
+          <p className="mt-10 text-[13px] leading-relaxed text-bone/60">
             The formal policy position, with its legal analysis and honest limits, is{" "}
             <Link href="/proposal" className="text-signal underline decoration-signal/40 underline-offset-4 hover:text-signal">
               the paper

@@ -19,6 +19,12 @@ const DOCS: [title: string, file: string, url: string][] = [
   ["K.G.M. v. Meta and Google (case file)", "content/lawsuits/kgm-v-meta.md", `${SITE_URL}/lawsuits/kgm-v-meta`],
   ["State of New Mexico v. Meta (case file)", "content/lawsuits/new-mexico-v-meta.md", `${SITE_URL}/lawsuits/new-mexico-v-meta`],
   ["The hearings: the mechanism, on the record", "content/hearings.md", `${SITE_URL}/hearings`],
+  // The three audience briefings. These are gamma.app deck source rather than
+  // web essays, but they are rendered documents with their own raw .md routes,
+  // so "every rendered document" in the header above has to include them.
+  ["For policymakers (briefing deck)", "docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md", `${SITE_URL}/for/policymakers`],
+  ["For parents (briefing deck)", "docs/proposals/2026-07-16-brake-integrity-pitch-parents.md", `${SITE_URL}/for/parents`],
+  ["For press and organizers (briefing deck)", "docs/proposals/2026-07-16-brake-integrity-pitch-press-organizers.md", `${SITE_URL}/for/press`],
 ];
 
 export function GET() {

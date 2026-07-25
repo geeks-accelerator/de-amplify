@@ -39,8 +39,8 @@ export default function ProposalPage() {
     headline: "The Brake Integrity Standard",
     description:
       "Control integrity as the regulable surface for engagement feeds: when a platform offers a control to stop or redirect the feed, it must actually work and persist.",
-    url: "https://de-amplify.com/proposal",
-    image: "https://de-amplify.com/opengraph-image",
+    url: `https://de-amplify.com${PATH}`,
+    image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-15",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

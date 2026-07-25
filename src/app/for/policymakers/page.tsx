@@ -37,6 +37,9 @@ export default function PolicymakersBriefingPage() {
       title="The Brake Integrity Standard"
       crumbLabel="For policymakers"
       crumbPath={PATH}
+      headline={TITLE}
+      description={DESCRIPTION}
+      sourceFile="docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md"
       intro={
         <>
           <p>

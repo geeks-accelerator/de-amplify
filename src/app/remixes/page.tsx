@@ -75,11 +75,11 @@ export default function RemixesPage() {
           <div className="mb-8">
             <Link
               href="/#song"
-              className="font-mono text-[11px] lowercase tracking-wide text-bone/40 transition-colors hover:text-brake"
+              className="font-mono text-[11px] lowercase tracking-wide text-bone/60 transition-colors hover:text-brake"
             >
               &larr; back to the song
             </Link>
-            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+            <p className="mt-6 font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
               the recognition, in more voices
             </p>
           </div>
@@ -99,11 +99,11 @@ export default function RemixesPage() {
 
           {/* the anthem */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/57">
               the anthem
             </p>
             <h2 className="mt-4 font-mono text-xl text-bone">Where&apos;s the Brake</h2>
-            <p className="mt-1 font-mono text-[12px] text-bone/40">
+            <p className="mt-1 font-mono text-[12px] text-bone/60">
               by{" "}
               <a
                 href="https://suno.com/@geeksinthewoods"
@@ -119,7 +119,7 @@ export default function RemixesPage() {
 
           {/* the remixes */}
           <section className="mt-14">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
               the remixes
             </p>
             <div className="mt-5 rounded-lg border border-brake/20 bg-brake/[0.03] p-5">
@@ -127,7 +127,7 @@ export default function RemixesPage() {
                 <span className="font-mono text-[13px] tabular-nums text-brake/90">01</span>
                 <div>
                   <h3 className="font-mono text-lg text-bone">No Brake</h3>
-                  <p className="mt-1 font-mono text-[12px] leading-[1.5] text-bone/40">
+                  <p className="mt-1 font-mono text-[12px] leading-[1.5] text-bone/60">
                     by{" "}
                     <a
                       href="https://suno.com/@twobular"
@@ -143,7 +143,7 @@ export default function RemixesPage() {
               </div>
               <SongEmbed id={NO_BRAKE_ID} title="No Brake, a remix of Where's the Brake, listen on Suno" />
             </div>
-            <p className="mt-5 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-5 text-[13px] leading-relaxed text-bone/60">
               Yours could be next. This list is short on purpose; it grows one real remix at a time.
             </p>
           </section>
@@ -187,14 +187,14 @@ export default function RemixesPage() {
                 ],
               ].map(([n, body]) => (
                 <li key={n as string} className="flex gap-4">
-                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-signal/60">
+                  <span className="mt-[2px] font-mono text-[13px] tabular-nums text-signal/80">
                     {n}
                   </span>
                   <p className="text-[14px] leading-[1.7] text-bone/60">{body}</p>
                 </li>
               ))}
             </ol>
-            <p className="mt-5 text-[13px] leading-relaxed text-bone/45">
+            <p className="mt-5 text-[13px] leading-relaxed text-bone/63">
               Any language is welcome, encouraged even. The argument in the policy paper is about US
               law; the recognition the song carries, the machine has your hand, and the little one
               behind you learned not to stop by watching you not stop, belongs to everyone.
@@ -203,10 +203,10 @@ export default function RemixesPage() {
 
           {/* how a remix gets here */}
           <section className="mt-12">
-            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/35">
+            <p className="font-mono text-[10px] uppercase tracking-widest2 text-bone/57">
               how a remix gets here
             </p>
-            <p className="mt-4 text-[13px] leading-relaxed text-bone/40">
+            <p className="mt-4 text-[13px] leading-relaxed text-bone/60">
               A curated list, not a live feed. You post your remix with {TAG}; we find it, check it
               is on message (aimed at the loop, not at anyone), and add it here with your credit and a
               link, on a dated pass. The site stores nothing you did not publish yourself, which is
@@ -216,7 +216,7 @@ export default function RemixesPage() {
 
           {/* CTA back to the test */}
           <div className="mt-14 border-t border-white/[0.06] pt-8">
-            <p className="text-[13px] leading-relaxed text-bone/40">
+            <p className="text-[13px] leading-relaxed text-bone/60">
               The song is the feeling; the test is the action. Haven&apos;t run it yet?{" "}
               <Link
                 href="/#ask"

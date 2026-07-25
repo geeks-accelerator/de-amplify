@@ -9,49 +9,49 @@ export default function Footer() {
         <p className="font-mono text-[13px] text-bone/70">
           the thing it broke was the brake.
         </p>
-        <p className="mx-auto mt-4 max-w-md text-[13px] leading-relaxed text-bone/35">
+        <p className="mx-auto mt-4 max-w-md text-[13px] leading-relaxed text-bone/57">
           not a lawsuit. not a ban. a design target. de-amplify, don&apos;t censor.
         </p>
 
         <p className="mt-6 font-mono text-[12px] text-brake/90">#WheresTheBrake</p>
 
-        <div className="mt-6 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 font-mono text-[11px] lowercase text-bone/40">
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 font-mono text-[11px] lowercase text-bone/60">
           <Link href="/#ask" className="text-brake/90 transition-colors hover:text-brake">
             find the brake
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/report" className="transition-colors hover:text-bone/70">
             report
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/lawsuits" className="transition-colors hover:text-bone/70">
             lawsuits
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/hearings" className="transition-colors hover:text-bone/70">
             hearings
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/distillations" className="transition-colors hover:text-bone/70">
             distillations
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/proposal" className="transition-colors hover:text-signal">
             standard
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/for" className="transition-colors hover:text-bone/70">
             for you
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/notes" className="transition-colors hover:text-bone/70">
             notes
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <Link href="/remixes" className="transition-colors hover:text-bone/70">
             remixes
           </Link>
-          <span className="text-bone/15">/</span>
+          <span aria-hidden="true" className="text-bone/15">/</span>
           <a
             href={GITHUB}
             target="_blank"
@@ -62,12 +62,12 @@ export default function Footer() {
           </a>
         </div>
 
-        <p className="mt-10 font-mono text-[10px] tracking-widest2 text-bone/20">
+        <p className="mt-10 font-mono text-[10px] tracking-widest2 text-bone/52">
           DE-AMPLIFY.COM
         </p>
-        <p className="mt-2 text-[11px] text-bone/20">
+        <p className="mt-2 text-[11px] text-bone/52">
           a proposal, not a verdict. the honest limits are{" "}
-          <Link href="/proposal#7-the-honest-limits-load-bearing-do-not-skip" className="underline decoration-white/10 underline-offset-2 hover:text-bone/40">
+          <Link href="/proposal#7-the-honest-limits-load-bearing-do-not-skip" className="underline decoration-white/10 underline-offset-2 hover:text-bone/60">
             section 7
           </Link>
           .

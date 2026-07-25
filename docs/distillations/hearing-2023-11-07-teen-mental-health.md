@@ -28,6 +28,8 @@ structural_villain: "The design and the incentive, not a person or a party. The 
 ## TLDR (summary surfaces, plain text, derived from the ledger)
 
 - **One line (label):** A former Meta safety engineer told the Senate in 2023 that the company knew its apps were harming kids and chose not to fix it.
+- **Nav label (~40 chars, for the /distillations index card, breadcrumb, and cross-links):** Nov 2023: the Bejar hearing
+- **OG title (~50 chars, for the share card):** The 2023 Bejar hearing: the full ledger
 - **Search snippet (~155 chars, for the meta-description tag):** In 2023 former Meta engineer Arturo Bejar told the Senate the company measured the harm to kids, knew the numbers, and repeatedly chose not to act.
 - **One sentence (card):** In November 2023 Arturo Bejar, an engineer Meta twice hired to make its products safer, testified to a Senate subcommittee that the company measured how often children were harmed, reported the numbers to Mark Zuckerberg, and repeatedly chose not to act, calling safety features shipped in response to public outcry "a safety feature in name only".
 - **One paragraph (meta description):** In November 2023 Arturo Bejar, a former Meta safety engineer, told a Senate subcommittee that the company measured how often children were harmed on Instagram, reported the numbers to Mark Zuckerberg, and repeatedly chose not to act; he described safety features shipped in response to public outcry as "a safety feature in name only", and a help button he asked the company to build was never built. No platform testified, so the record is one witness's account, backed by his own memos entered into the record. (As of July 16, 2026.)
@@ -86,6 +88,8 @@ These map directly onto the movement's homepage self-test (set a limit, close th
 Every quote is a verified verbatim substring of the official transcript (S.Hrg. 118-663). Speaker, role, the moment in the hearing, and the line range in the cached transcript (sources/CHRG-118shrg60432.txt) are given so each can be located and re-verified.
 
 ### The witness: Arturo Bejar (former Facebook/Meta safety engineer)
+
+**Speaker convention, read this before re-seeding.** Every quote in this subsection is **Bejar speaking**. The senator named in each parenthetical is the **questioner** whose round the line came in, never the speaker. Lawmakers' own words are in the next subsection, where the speaker is named after the quote. A 2026-07-24 re-seed read a parenthetical as an attribution and put Bejar's "It's a product. It needs to be different. It has to change." in Sen. Blumenthal's mouth on the `/hearings` page; that is the failure mode this note exists to prevent.
 
 - "a safety feature in name only to placate the press and regulators" [mechanism: the fake brake, named from inside the company] (opening statement; transcript lines 622-624)
 - "The company was creating its own homework." [mechanism: narrow harm definitions let the company grade itself] (opening statement; transcript line 627)

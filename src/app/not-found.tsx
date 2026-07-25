@@ -44,7 +44,7 @@ export default function NotFound() {
       <Header />
       <main className="flex-1 px-5 py-20">
         <div className="mx-auto max-w-2xl">
-          <p className="font-mono text-[10px] uppercase tracking-widest2 text-brake/70">
+          <p className="font-mono text-[10px] uppercase tracking-widest2 text-brake/90">
             error 404
           </p>
           <h1 className="mt-6 font-mono text-3xl font-bold leading-[1.05] tracking-tight text-bone sm:text-4xl">
@@ -81,7 +81,7 @@ export default function NotFound() {
             ))}
           </ul>
 
-          <p className="mt-8 font-mono text-[11px] lowercase text-bone/30">
+          <p className="mt-8 font-mono text-[11px] lowercase text-bone/55">
             or read the machine-readable index:{" "}
             <a
               href="/llms.txt"

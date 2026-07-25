@@ -40,8 +40,8 @@ export default function NotesPage() {
       "Experimental Appendix: the wedge hypothesis, and the label that might backfire",
     description:
       "The higher-risk research quarantined from the Brake Integrity Standard: the wedge hypothesis and recommendation-mechanism labeling. Hypotheses to study, not rules to pass.",
-    url: "https://de-amplify.com/notes",
-    image: "https://de-amplify.com/opengraph-image",
+    url: `https://de-amplify.com${PATH}`,
+    image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-15",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

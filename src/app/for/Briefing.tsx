@@ -3,6 +3,9 @@ import type { ReactNode } from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import { contentDate } from "@/lib/contentDate";
+
+const SITE = "https://de-amplify.com";
 
 type Action = {
   label: string;
@@ -24,6 +27,9 @@ export default function Briefing({
   note,
   crumbLabel,
   crumbPath,
+  headline,
+  description,
+  sourceFile,
 }: {
   eyebrow: string;
   title: string;
@@ -33,9 +39,30 @@ export default function Briefing({
   note?: ReactNode;
   crumbLabel: string;
   crumbPath: string;
+  /** Article headline; the page's own TITLE, since `title` here is the shared H1 */
+  headline: string;
+  /** the page's meta description, reused verbatim as the Article description */
+  description: string;
+  /** repo-relative deck source, for the git-derived dateModified */
+  sourceFile: string;
 }) {
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline,
+    description,
+    url: `${SITE}${crumbPath}`,
+    image: `${SITE}${crumbPath}/opengraph-image`,
+    datePublished: "2026-07-16",
+    dateModified: contentDate(sourceFile, "2026-07-16"),
+    author: { "@id": `${SITE}/#org` },
+    publisher: { "@id": `${SITE}/#org` },
+    isPartOf: { "@id": `${SITE}/#website` },
+  };
+
   return (
     <div className="flex min-h-screen flex-col">
+      <JsonLd data={articleJsonLd} />
       <JsonLd data={breadcrumbs(["Who it's for", "/for"], [crumbLabel, crumbPath])} />
       <Header />
       <main className="flex-1 px-5 py-14">
@@ -98,13 +125,13 @@ export default function Briefing({
                     {a.label}
                   </p>
                   {a.sub ? (
-                    <p className="mt-1 text-[13px] leading-[1.5] text-bone/45">{a.sub}</p>
+                    <p className="mt-1 text-[13px] leading-[1.5] text-bone/63">{a.sub}</p>
                   ) : null}
                 </a>
               ))}
             </div>
             {footnote ? (
-              <p className="mt-4 text-[13px] leading-relaxed text-bone/40">{footnote}</p>
+              <p className="mt-4 text-[13px] leading-relaxed text-bone/60">{footnote}</p>
             ) : null}
           </section>
         </div>

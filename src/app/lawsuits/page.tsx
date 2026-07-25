@@ -90,8 +90,8 @@ export default function LawsuitsPage() {
     headline: "The social media addiction lawsuits, explained",
     description:
       "Four proceedings, four numbers people keep confusing, and the question underneath all of it: when you tap the brake, does anything actually stop?",
-    url: "https://de-amplify.com/lawsuits",
-    image: "https://de-amplify.com/opengraph-image",
+    url: `https://de-amplify.com${PATH}`,
+    image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
     dateModified,
     author: { "@id": "https://de-amplify.com/#org" },

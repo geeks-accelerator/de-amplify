@@ -16,7 +16,7 @@ const CONTROLS = [
   "Following / chronological feed",
   "Personalized recommendations off",
   "Autoplay off",
-  "“Show me less”",
+  "\"Show me less\"",
   "Notifications off",
   "Other",
 ];
@@ -42,13 +42,28 @@ function fieldClass() {
 
 // Declared at module scope, not inside the render: a component created during
 // render is a new type on every pass and would reset its subtree's state.
-function Label({ children }: { children: React.ReactNode }) {
+//
+// Takes an optional id because this renders a bare <span>. Inside a <label>
+// wrapper the association is implicit, but the button group and the generated
+// report are not form controls, so they point at the id with aria-labelledby.
+function Label({
+  children,
+  id,
+  as: Tag = "span",
+}: {
+  children: React.ReactNode;
+  id?: string;
+  as?: "span" | "h2";
+}) {
   return (
-    <span className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/55">
+    <Tag id={id} className="mb-2 block font-mono text-[10px] uppercase tracking-widest2 text-bone/55">
       {children}
-    </span>
+    </Tag>
   );
 }
+
+const ACTION_CLASS =
+  "rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors hover:bg-signal/20";
 
 export default function ReportForm() {
   const [platform, setPlatform] = useState("");
@@ -93,14 +108,14 @@ export default function ReportForm() {
     <div className="mt-8">
       {/* safety + no-storage banner */}
       <div className="rounded-lg border border-brake/25 bg-brake/[0.04] p-5">
-        <p className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
+        <h2 className="font-mono text-[11px] uppercase tracking-wider text-brake/90">
           before you file
-        </p>
+        </h2>
         <p className="mt-3 text-[14px] leading-[1.7] text-bone/70">
           Report the <span className="text-bone/90">setting and the behavior, never a person</span>.
           No usernames, no DMs, no faces, no kids, no locations. Aim at the loop, not each other.
         </p>
-        <p className="mt-3 text-[13px] leading-[1.7] text-bone/45">
+        <p className="mt-3 text-[13px] leading-[1.7] text-bone/63">
           This form stores nothing. It builds a structured post for you to share, so ten thousand
           reports read the same way. Keeping your data without asking would be the exact thing
           we&apos;re asking platforms to stop.
@@ -130,12 +145,13 @@ export default function ReportForm() {
       </div>
 
       <div className="mt-5">
-        <Label>what happened when you set it, closed the app, and reopened</Label>
-        <div className="grid gap-2.5 sm:grid-cols-2">
+        <Label id="result-label">what happened when you set it, closed the app, and reopened</Label>
+        <div role="group" aria-labelledby="result-label" className="grid gap-2.5 sm:grid-cols-2">
           {RESULTS.map((r) => (
             <button
               key={r.key}
               type="button"
+              aria-pressed={result === r.key}
               onClick={() => setResult(r.key)}
               className={`rounded-md border px-4 py-3 text-left font-mono text-[13px] transition-colors ${
                 result === r.key
@@ -187,14 +203,18 @@ export default function ReportForm() {
 
       {/* generated report */}
       <div className="mt-8">
-        <Label>your report</Label>
+        <Label as="h2" id="report-label">your report</Label>
         <div
+          role="status"
+          aria-live="polite"
+          aria-atomic="true"
+          aria-labelledby="report-label"
           className={`rounded-lg border p-5 font-mono text-[14px] leading-[1.7] ${
             ready
               ? resultObj?.fail
                 ? "border-brake/30 bg-brake/[0.04] text-bone/85"
                 : "border-signal/30 bg-signal/[0.04] text-bone/85"
-              : "border-white/10 bg-white/[0.02] text-bone/30"
+              : "border-white/10 bg-white/[0.02] text-bone/55"
           }`}
         >
           {ready ? report : "Pick a platform, a brake, and what happened. Your report builds here."}
@@ -209,19 +229,22 @@ export default function ReportForm() {
           >
             {copied ? "copied ✓" : "copy report"}
           </button>
-          <a
-            href={ready ? xHref : undefined}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-disabled={!ready}
-            className={`rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors hover:bg-signal/20 ${
-              ready ? "" : "pointer-events-none opacity-30"
-            }`}
-          >
-            post on X &rarr;
-          </a>
-          <span className="font-mono text-[11px] text-bone/30">
-            or paste it anywhere with <span className="text-brake/70">#WheresTheBrake</span>
+          {/* An <a> without href is neither a link nor focusable, so aria-disabled on
+              one announces nothing. Render the real control for each state instead. */}
+          {ready ? (
+            <a href={xHref} target="_blank" rel="noopener noreferrer" className={ACTION_CLASS}>
+              post on X &rarr;
+            </a>
+          ) : (
+            <button type="button" disabled className={`${ACTION_CLASS} cursor-not-allowed opacity-30`}>
+              post on X &rarr;
+            </button>
+          )}
+          <span className="sr-only" role="status" aria-live="polite">
+            {copied ? "Report copied to clipboard" : ""}
+          </span>
+          <span className="font-mono text-[11px] text-bone/55">
+            or paste it anywhere with <span className="text-brake/90">#WheresTheBrake</span>
           </span>
         </div>
       </div>
