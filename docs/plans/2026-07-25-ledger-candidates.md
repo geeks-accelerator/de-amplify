@@ -75,7 +75,15 @@ A research pass independently flagged that K.G.M. is a **first-instance jury ver
 - Package: `CHRG-119hhrg62241`, Serial No. 119-44, printed 2026
 - URL: `https://www.govinfo.gov/content/pkg/CHRG-119hhrg62241/html/CHRG-119hhrg62241.htm` (FETCHED, 185 KB, confirmed to contain full verbatim question and answer, not a written-testimony compilation)
 
-`docs/distillations/hearing-2025-12-02-legislative-solutions.md` can be rebuilt to the full standard and its tier-down banner retired. This is the cheapest quality win available: the ledger already exists, the sourcing work is done, and the upgrade removes a caveat from `/hearings`, `/distillations`, and the raw markdown routes at once.
+**CORRECTED 2026-07-25, same day, on first contact with the actual files. The sentence that stood here ("can be rebuilt to the full standard and its tier-down banner retired") was wrong, and it was wrong in the project's most familiar way: it treated the existence of a document as equivalent to the retrievability of its contents.** What the record actually contains:
+
+- The **GPO HTML carries the spoken hearing only**: opening statements, the four witnesses' oral statements, and the live question and answer. It ends at "[Whereupon, at 1:10 p.m., the subcommittee was adjourned.]" with 148 characters after it. That is roughly 135,000 characters of live Q&A that was genuinely unavailable when the ledger was built, and it is a real gain.
+- The **prepared statements are page images, not text.** The GPO PDF is 65 MB and extracts to 190,000 characters, and every distinctive phrase from the witnesses' written statements is absent from that extraction. They are in the official record, and they cannot be substring-verified without OCR.
+- Consequence, measured directly: of 37 quoted spans in the current ledger, **3 verify against the official transcript, 2 more appear only there, and 29 exist only in the witnesses' own submitted PDFs.**
+
+So the honest upgrade is **not a banner flip**. It is: cache the official transcript (done), re-seed the ledger's claims from the live Q&A that is now available, and rewrite the tier-down banner to say what is actually true, which is that the transcript is published and cached but the ledger's quote-bank still rests predominantly on written testimony. Retiring the banner outright would assert a verification that has not happened.
+
+This correction is itself the best argument for section 1 of this document.
 
 Two bonuses in that printed record:
 
