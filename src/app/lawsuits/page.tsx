@@ -46,6 +46,14 @@ const FAQ_JSON_LD = {
     },
     {
       "@type": "Question",
+      name: "Why is social media addictive?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "The compulsion is not in any single post; it is in the delivery loop: infinite scroll with no end, autoplay, a variable-ratio reward schedule (the slot-machine effect), push notifications, and ranking tuned to maximize time on the platform. A brilliant post and a banal one ride the same loop. That is why the lawsuits target product design rather than content, and why the fix this project proposes regulates the loop and the controls over it, not anyone's speech.",
+      },
+    },
+    {
+      "@type": "Question",
       name: "Is social media addiction a recognized medical diagnosis?",
       acceptedAnswer: {
         "@type": "Answer",
