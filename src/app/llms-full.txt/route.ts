@@ -45,7 +45,7 @@ export function GET() {
     return `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`;
   }).join("\n");
 
-  // the seven evidence ledgers (the distillations), same reader-facing body
+  // the evidence ledgers (the distillations), same reader-facing body
   // the /distillations pages render, each headed by its tier notes
   const ledgers = DISTILLATIONS.map((d) => {
     let md = "(source unavailable)";

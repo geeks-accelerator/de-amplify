@@ -40,7 +40,7 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md),
   [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
   [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md),
-    [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md) (in trial as of July 2026).
+  [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md) (in trial as of July 2026).
 - [The hearings: the mechanism, on the record](${SITE_URL}/hearings.md): the
   companion to the lawsuits, covering the Congressional record. Four hearings
   (2023-2026) distilled with verbatim attributed quotes: a Meta whistleblower,
@@ -55,7 +55,7 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   [MDL 3047](${SITE_URL}/distillations/mdl-3047.md),
   [the California bellwethers](${SITE_URL}/distillations/california-state-bellwethers.md),
   [New Mexico v. Meta](${SITE_URL}/distillations/new-mexico-v-meta.md),
-    [Tennessee v. Meta](${SITE_URL}/distillations/tennessee-v-meta.md),
+  [Tennessee v. Meta](${SITE_URL}/distillations/tennessee-v-meta.md),
   and the four hearings with their full verbatim quote-banks:
   [Nov 2023 Bejar](${SITE_URL}/distillations/hearing-2023-11-07-teen-mental-health.md),
   [Jan 2024 five-CEO](${SITE_URL}/distillations/hearing-2024-01-31-big-tech-child-safety.md),

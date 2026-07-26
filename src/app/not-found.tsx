@@ -85,7 +85,7 @@ export default function NotFound() {
             or read the machine-readable index:{" "}
             <a
               href="/llms.txt"
-              className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
+              className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/80"
             >
               llms.txt
             </a>

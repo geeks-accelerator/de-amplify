@@ -157,15 +157,41 @@ export function loadDistillation(slug: string): LoadedDistillation {
     }
   }
 
-  // budgeted summary variants from the TLDR block (parsed for metadata, not rendered)
+  // Budgeted summary variants from the TLDR block (parsed for metadata, not
+  // rendered). One tolerant pass keyed on the bullet's leading words, so every
+  // variant gets identical matching. The previous six hand-written regexes were
+  // not equally tolerant: `label` alone demanded the exact parenthetical
+  // "(label)", so renaming it would have silently yielded "".
   const tldr = (body.match(/## TLDR[\s\S]*?(?=\n## )/) || [""])[0];
-  const grab = (re: RegExp) => ((tldr.match(re) || [])[1] || "").trim();
-  const label = grab(/One line \(label\):\*\*\s*(.+)/);
-  const navLabel = grab(/Nav label[^:]*:\*\*\s*(.+)/);
-  const ogTitle = grab(/OG title[^:]*:\*\*\s*(.+)/);
-  const searchSnippet = grab(/Search snippet[^:]*:\*\*\s*(.+)/);
-  const ledgerSnippet = grab(/Ledger snippet[^:]*:\*\*\s*(.+)/);
-  const oneSentence = grab(/One sentence[^:]*:\*\*\s*(.+)/);
+  const variants = new Map(
+    [...tldr.matchAll(/^-\s*\*\*(.+?):\*\*\s*(.+)$/gm)].map(([, k, v]) => [
+      k.replace(/\s*\(.*$/, "").trim().toLowerCase(),
+      v.trim(),
+    ]),
+  );
+  const grab = (key: string) => variants.get(key) ?? "";
+  const label = grab("one line");
+  const navLabel = grab("nav label");
+  const ogTitle = grab("og title");
+  const searchSnippet = grab("search snippet");
+  const ledgerSnippet = grab("ledger snippet");
+  const oneSentence = grab("one sentence");
+
+  // Fail the build rather than shipping a blank. A missing variant used to
+  // surface as an empty index-card label, an empty BreadcrumbList name, or an
+  // empty title in the public agent card, all with a passing build. The
+  // ledger-snippet requirement is kind-specific: it exists to stop a lawsuit
+  // ledger sharing a meta description with its curated case page, and the
+  // hearing ledgers have no curated per-hearing page to collide with.
+  const required = ["one line", "nav label", "og title", "search snippet", "one sentence"];
+  if (meta.kind === "lawsuit") required.push("ledger snippet");
+  const missing = required.filter((k) => !variants.get(k));
+  if (missing.length) {
+    throw new Error(
+      `Ledger "${slug}" is missing TLDR variant(s): ${missing.join(", ")}. ` +
+        `Add the bullet(s) to its TLDR block; do not hand-author the string in a consumer.`,
+    );
+  }
 
   // keep only the reader-facing sections, in document order; the lawsuit
   // ledgers also open with their own bolded "Tier key" calibration paragraph

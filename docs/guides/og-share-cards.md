@@ -8,7 +8,7 @@ Companion pattern: this is the **static-site half** of the design space. If your
 
 - **`ImageResponse` from `next/og`** (Next's wrapper around Satori + resvg). You write JSX with a strict CSS subset; it rasterizes to PNG on the server. No headless browser.
 - **One colocated `opengraph-image.tsx` per route segment** (`src/app/lawsuits/opengraph-image.tsx`, `src/app/for/parents/opengraph-image.tsx`, ...). Next's file convention turns each into the route's `og:image` automatically, emitting `og:image`, `og:image:width/height/type`, and `og:image:alt` (from the file's `alt` export) with no manual metadata wiring.
-- **A dynamic segment stays in this half of the design space if it is a closed set.** `src/app/distillations/[slug]/opengraph-image.tsx` is one file that emits seven cards, one per evidence ledger. What keeps it build-time and abuse-proof is not the absence of a param but two exports: `generateStaticParams()` enumerating the known set, and **`export const dynamicParams = false`** so an unknown slug 404s at the router instead of rendering. Without that second line you have quietly built the query-param endpoint this pattern exists to avoid.
+- **A dynamic segment stays in this half of the design space if it is a closed set.** `src/app/distillations/[slug]/opengraph-image.tsx` is one file that emits one card per evidence ledger. What keeps it build-time and abuse-proof is not the absence of a param but two exports: `generateStaticParams()` enumerating the known set, and **`export const dynamicParams = false`** so an unknown slug 404s at the router instead of rendering. Without that second line you have quietly built the query-param endpoint this pattern exists to avoid.
 - **A shared template lib** (`src/lib/og/template.tsx`) holds everything the route files have in common: design tokens, font loading, the alpha-flattening helper, the card layout. Each route file is ~12 lines: export `alt`/`size`/`contentType`, call `ogCard({...})` with that page's copy.
 - **Everything renders at `next build`.** On a fully static site the images are prerendered PNGs; there is no runtime function, no cold start, no cache to manage, and nothing for a stranger to abuse.
 
@@ -125,7 +125,7 @@ Platforms cache scraped images hard and **do not re-scrape on your redeploy**. N
 
 ## Verification checklist
 
-- [ ] `next build` succeeds; every `/route/opengraph-image` appears in the route list as static. For a dynamic segment, confirm the number of prerendered params matches the registry length (seven ledgers, seven cards), not merely that the route built.
+- [ ] `next build` succeeds; every `/route/opengraph-image` appears in the route list as static. For a dynamic segment, confirm the number of prerendered params matches the registry length (it is derived from DISTILLATIONS, so compare against that array rather than a number written here), not merely that the route built.
 - [ ] `curl` a built page: `og:image` points at the route's own image URL, not a shared one.
 - [ ] Fetch each image; confirm 200, `image/png`, and a sane size (flat art should be well under 150KB).
 - [ ] Eyeball every card at full size AND at ~200px wide (DM-app scale); anything under ~28px of type is illegible small.
@@ -137,7 +137,7 @@ Platforms cache scraped images hard and **do not re-scrape on your redeploy**. N
 
 | Question | Colocated build-time (this project) | API route + cache (dynamic sites) |
 |---|---|---|
-| How many shareable pages? | Known, finite (here: 23, from 16 fixed routes plus one dynamic route generating 7) | Unbounded (per-article, per-user) |
+| How many shareable pages? | Known, finite (here: one per fixed route, plus one per registry entry from the dynamic route) | Unbounded (per-article, per-user) |
 | Content source | Authored copy in the repo | Database/CMS at request time |
 | Images in cards | None or bundled assets | Remote covers/avatars (data-URI fetch, timeout, fail-soft) |
 | Cache | The build is the cache | Disk cache + TTL + stale-while-revalidate |

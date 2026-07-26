@@ -24,12 +24,12 @@ export const metadata: Metadata = {
     url: `https://de-amplify.com${PATH}`,
     siteName: "de-amplify.com",
     type: "article",
-    publishedTime: "2026-07-16",
+    publishedTime: "2026-07-25",
   },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
-export default function NewMexicoVMetaPage() {
+export default function TennesseeVMetaPage() {
   const mdPath = path.join(
     process.cwd(),
     "content",

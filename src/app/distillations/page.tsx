@@ -71,7 +71,7 @@ export default function DistillationsIndex() {
     datePublished: "2026-07-16",
     // From git, matching this URL's sitemap lastmod. A hardcoded date here would
     // drift from the sitemap the moment any ledger changed.
-    dateModified: contentDate("docs/distillations", "2026-07-16"),
+    dateModified: contentDate("docs/distillations/*.md", "2026-07-16"),
     author: { "@id": `${SITE}/#org` },
     publisher: { "@id": `${SITE}/#org` },
     isPartOf: { "@id": `${SITE}/#website` },

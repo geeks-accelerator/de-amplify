@@ -5,12 +5,12 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProposalContent from "../../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
-import { contentDate } from "@/lib/contentDate";
+import { contentDate, contentCreatedDate } from "@/lib/contentDate";
 import { DISTILLATIONS, distillationMeta, loadDistillation } from "@/lib/distillations";
 
 const SITE = "https://de-amplify.com";
 
-// only the seven known ledgers exist; anything else 404s at the router
+// only the registered ledgers exist; anything else 404s at the router
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -25,6 +25,9 @@ export async function generateMetadata({
   const { slug } = await params;
   if (!distillationMeta(slug)) return {};
   const d = loadDistillation(slug);
+  // Per-slug FIRST-commit date. Hardcoding one literal stamped every ledger,
+  // including ones added months later, with the date the first ledgers shipped.
+  const published = contentCreatedDate(`docs/distillations/${slug}.md`, "2026-07-16");
   // This page's own budgeted variant, so it does not ship the same meta
   // description as the curated case page (which copies searchSnippet verbatim).
   // The hearing ledgers have no curated per-hearing page, so they fall back.
@@ -40,7 +43,7 @@ export async function generateMetadata({
       url: `${SITE}${path}`,
       siteName: "de-amplify.com",
       type: "article",
-      publishedTime: "2026-07-16",
+      publishedTime: published,
     },
     twitter: { card: "summary_large_image", title: d.title, description },
   };
@@ -57,6 +60,7 @@ export default async function DistillationPage({
 
   const path = `/distillations/${slug}`;
   const dateModified = contentDate(`docs/distillations/${slug}.md`, "2026-07-16");
+  const published = contentCreatedDate(`docs/distillations/${slug}.md`, "2026-07-16");
   // literal class strings (Tailwind cannot see dynamically-built class names)
   const eyebrowClass = d.kind === "hearing" ? "text-signal/90" : "text-brake/90";
   const backHoverClass = d.kind === "hearing" ? "hover:text-signal" : "hover:text-brake";
@@ -68,7 +72,7 @@ export default async function DistillationPage({
     description: d.oneSentence || d.searchSnippet,
     url: `${SITE}${path}`,
     image: `${SITE}${path}/opengraph-image`,
-    datePublished: "2026-07-16",
+    datePublished: published,
     dateModified,
     author: { "@id": `${SITE}/#org` },
     publisher: { "@id": `${SITE}/#org` },

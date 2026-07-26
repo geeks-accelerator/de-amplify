@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-// Raw markdown of the New Mexico v. Meta case file. Linked from /llms.txt.
+// Raw markdown of the State of Tennessee v. Meta case file. Linked from /llms.txt.
 
 export const dynamic = "force-static";
 

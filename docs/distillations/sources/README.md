@@ -105,7 +105,7 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
 ## Four normalizations the check is sensitive to (2026-07-25)
 
 A full re-run over all four hearing ledgers on 2026-07-25 verified **245 of 246** quoted spans.
-Getting there required three normalizations, and each one flips a *different* set of quotes, so a
+Getting there required four normalizations, and each one flips a *different* set of quotes, so a
 checker that applies some but not others produces false failures that look like fidelity problems:
 
 1. **Curly punctuation.** The testimony PDFs use curly apostrophes and quotes; the ledgers use

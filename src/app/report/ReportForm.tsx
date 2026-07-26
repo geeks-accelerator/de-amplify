@@ -62,8 +62,12 @@ function Label({
   );
 }
 
+// Shared by the ready <a> and the disabled <button>, so it carries NO hover.
+// A disabled button does not get pointer-events:none for free, so an
+// unconditional hover here lit up the greyed-out control as if it were live.
+// The live branch adds hover:bg-signal/20 itself.
 const ACTION_CLASS =
-  "rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors hover:bg-signal/20";
+  "rounded-md border border-signal/40 bg-signal/10 px-5 py-2.5 font-mono text-[13px] text-signal transition-colors";
 
 export default function ReportForm() {
   const [platform, setPlatform] = useState("");
@@ -204,10 +208,12 @@ export default function ReportForm() {
       {/* generated report */}
       <div className="mt-8">
         <Label as="h2" id="report-label">your report</Label>
+        {/* NOT a live region, deliberately. This div's text is derived from two
+            free-text inputs (taps, country), so announcing it would re-read the
+            whole report on every keystroke: typing "United States" queued 13 full
+            announcements. The one transition worth announcing is not-ready ->
+            ready, which the sr-only status below does once. */}
         <div
-          role="status"
-          aria-live="polite"
-          aria-atomic="true"
           aria-labelledby="report-label"
           className={`rounded-lg border p-5 font-mono text-[14px] leading-[1.7] ${
             ready
@@ -232,7 +238,7 @@ export default function ReportForm() {
           {/* An <a> without href is neither a link nor focusable, so aria-disabled on
               one announces nothing. Render the real control for each state instead. */}
           {ready ? (
-            <a href={xHref} target="_blank" rel="noopener noreferrer" className={ACTION_CLASS}>
+            <a href={xHref} target="_blank" rel="noopener noreferrer" className={`${ACTION_CLASS} hover:bg-signal/20`}>
               post on X &rarr;
             </a>
           ) : (
@@ -240,8 +246,11 @@ export default function ReportForm() {
               post on X &rarr;
             </button>
           )}
+          {/* The single announcement this form needs: the report became usable.
+              The copy confirmation is not announced here because the button's own
+              accessible name flips to "copied" while it still holds focus. */}
           <span className="sr-only" role="status" aria-live="polite">
-            {copied ? "Report copied to clipboard" : ""}
+            {ready ? "Your report is ready to copy or post." : ""}
           </span>
           <span className="font-mono text-[11px] text-bone/55">
             or paste it anywhere with <span className="text-brake/90">#WheresTheBrake</span>

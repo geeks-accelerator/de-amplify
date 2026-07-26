@@ -13,7 +13,7 @@ export const dynamic = "force-static";
 const SITE = "https://de-amplify.com";
 const AS_OF = "2026-07-25";
 
-// The seven per-ledger routes, built from the registry rather than hand-listed,
+// The per-ledger routes, built from the registry rather than hand-listed,
 // so registering a new ledger wires it into the card automatically. Titles are
 // the ledgers' own nav-label variant, not strings written here.
 const ledgerLinks = DISTILLATIONS.map((d) => ({
@@ -125,7 +125,7 @@ const BODY = {
     hearings: { href: `${SITE}/hearings`, title: "The Congressional hearings, distilled (the mechanism, on the record)" },
     "hearings-markdown": { href: `${SITE}/hearings.md`, type: "text/markdown" },
     distillations: { href: `${SITE}/distillations`, title: "The evidence ledgers (distillations) behind the lawsuit and hearing pages" },
-    "distillations-all-markdown": { href: `${SITE}/llms-full.txt`, type: "text/markdown", title: "All seven ledgers concatenated (per-ledger .md is on each entry in `ledgers`)" },
+    "distillations-all-markdown": { href: `${SITE}/llms-full.txt`, type: "text/markdown", title: `All ${DISTILLATIONS.length} ledgers concatenated (per-ledger .md is on each entry in \`ledgers\`)` },
     scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
     report: { href: `${SITE}/report`, title: "File a structured brake report" },
     remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },
@@ -169,7 +169,7 @@ const BODY = {
       href: `${SITE}/lawsuits.md`,
       priority: "medium",
       reason:
-        "Four proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
+        "Five proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
       timing: "soon",
     },
     {
