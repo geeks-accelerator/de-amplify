@@ -1,7 +1,7 @@
 
 # K.G.M. v. Meta and Google: the California bellwether verdict
 
-> **About this page.** Where the record stood as of July 16, 2026; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for the California state cases; corrections land in the ledger first, then here.
+> **About this page.** Where the record stood as of July 25, 2026; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for the California state cases; corrections land in the ledger first, then here.
 
 ## The case in one paragraph
 
@@ -22,9 +22,15 @@ JCCP 5255 (captioned "Social Media Cases," Department 12, Spring Street Courthou
 - **Court-held (trial court):** in early June 2026 (the ruling was announced June 10), Judge Kuhl **denied** the defendants' motions for a new trial and for judgment notwithstanding the verdict, leaving the full award intact.
 - Both defendants then filed **notices of appeal** in Los Angeles County Superior Court: Meta in early July, YouTube on **July 13, 2026**. A notice starts a potentially long process; **no appellate court has reviewed the verdict**, and honest reporting keeps that caveat attached.
 
-## The second bellwether: July 27
+## The second bellwether: it never reached a jury
 
-**Scheduled:** trial begins **July 27, 2026**, before Judge Kuhl. **YouTube settled its part confidentially** (reported June 23, 2026) and **TikTok followed on June 30**, so **Meta and Snap** remain. The plaintiff is a 15-year-old identified as R.K.C. ("Russell"); he lives in Florida, but the case is this California proceeding, not a Florida or federal matter. Pretrial coverage reports the judge tentatively allowing testimony from senior executives, including Meta's Mark Zuckerberg.
+The second test case was set for trial on **July 27, 2026** before Judge Kuhl, and it dissolved in the month before that date. **YouTube settled its part confidentially** (reported June 23, 2026), **TikTok followed on June 30**, and **Snap reached a tentative settlement announced July 20**. On **July 22, 2026**, with every other defendant resolved, the plaintiff **voluntarily dismissed his claims against Meta**.
+
+Read the posture precisely, because the four events are not the same kind of thing. Three companies settled. The fourth did not: this was the plaintiff withdrawing, **not a settlement with Meta, not a defense verdict, and not a continuance**, and on the available reporting **Meta paid nothing**. Plaintiff's counsel said he "has elected to withdraw his claims against Meta" given "the overall successful result of the litigation" and the prospect of a weekslong trial. Whether the dismissal was with or without prejudice is not established, which matters, because without prejudice the claim could be refiled.
+
+The plaintiff is a 15-year-old identified as R.K.C. ("Russell"); he lives in Florida, but the case is this California proceeding, not a Florida or federal matter. Pretrial coverage had reported the judge tentatively allowing testimony from senior executives including Meta's Mark Zuckerberg; that testimony never happened.
+
+**A sourcing caveat this page owes you.** The Los Angeles Superior Court docket is not publicly retrievable online, so the settlement and the dismissal above rest on **news coverage, not a court filing**. They are corroborated across several independent outlets and a Meta statement, and they are recorded in the case ledger at the weaker evidence tier for exactly that reason.
 
 ## Why this case matters for the brake
 
