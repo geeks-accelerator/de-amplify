@@ -33,13 +33,14 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   recommendation-mechanism labeling ("you are seeing this because...").
 - [The social media addiction lawsuits, explained](${SITE_URL}/lawsuits.md):
   a dated explainer of the litigation record (MDL 3047, the California
-  bellwethers, New Mexico, the EU DSA findings), with evidence-status labels
+  bellwethers, New Mexico, Tennessee, the EU DSA findings), with evidence-status labels
   and primary sources. Updated on dated passes, not live.
 - Per-case files, seeded from the project's evidence-tiered claim ledgers
   (corrections land ledger-first, then here):
   [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md),
   [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
-  [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md).
+  [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md),
+  [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md) (in trial as of July 2026).
 - [The hearings: the mechanism, on the record](${SITE_URL}/hearings.md): the
   companion to the lawsuits, covering the Congressional record. Four hearings
   (2023-2026) distilled with verbatim attributed quotes: a Meta whistleblower,
@@ -49,11 +50,12 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
 - [The distillations (evidence ledgers)](${SITE_URL}/distillations): the
   source-of-truth claim ledgers behind the lawsuit and hearing pages, published
   in full for transparency. Every claim is tagged by the strength of its source
-  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Seven ledgers
+  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Eight ledgers
   (raw markdown per ledger):
   [MDL 3047](${SITE_URL}/distillations/mdl-3047.md),
   [the California bellwethers](${SITE_URL}/distillations/california-state-bellwethers.md),
   [New Mexico v. Meta](${SITE_URL}/distillations/new-mexico-v-meta.md),
+  [Tennessee v. Meta](${SITE_URL}/distillations/tennessee-v-meta.md),
   and the four hearings with their full verbatim quote-banks:
   [Nov 2023 Bejar](${SITE_URL}/distillations/hearing-2023-11-07-teen-mental-health.md),
   [Jan 2024 five-CEO](${SITE_URL}/distillations/hearing-2024-01-31-big-tech-child-safety.md),

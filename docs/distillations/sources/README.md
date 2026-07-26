@@ -83,10 +83,29 @@ one source cache, and its "source lines N-M" locators refer to line numbers in t
 Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and to
 `content/hearings.md`; all resolve against `CHRG-118shrg60432.txt`.
 
-## Three normalizations the check is sensitive to (2026-07-25)
+## Court-filing caches (added 2026-07-25)
+
+- `tennessee-2023-10-24-unredacted-complaint.txt`: the Tennessee Attorney General's civil
+  enforcement complaint against Meta and Instagram, as unredacted and published by the AG on
+  2024-01-10. Extracted from the AG's PDF on 2026-07-25.
+  **EXTRACTION WARNING, this one is a trap.** `pdftotext` in its default and `-layout` modes
+  produces **more than 160 doubled word pairs** on this file (`platform platformfeatures features
+  (such (such as`), apparently because the unredacted version was produced by overlaying revealed
+  text on the redacted original and both layers extract. Quoting from those modes yields corrupted
+  text that looks plausible. **This cache is the `-raw` extraction, which has zero doubling** but
+  interleaves footnote markers into the body. Every quoted span in the Tennessee ledger was
+  verified individually against this file.
+- `tennessee-2024-03-13-mtd-order.txt`: Chancellor Perkins's 34-page order denying Meta's motion
+  to dismiss, 2024-03-13. This document is public only because the California Attorney General
+  filed it as an exhibit on the federal MDL 3047 docket. **It is a scan and the OCR is poor**:
+  `Int'l Shoe` renders as `In! '1 Shoe`, `CHANCELLOR` as `CI-IANCELLOR`, `set` as `sct`, and the
+  introductory paragraph renders `Section 230` as `Section 320` while the Conclusion renders it
+  correctly. Quote from the Conclusion and verify anything else by eye.
+
+## Four normalizations the check is sensitive to (2026-07-25)
 
 A full re-run over all four hearing ledgers on 2026-07-25 verified **245 of 246** quoted spans.
-Getting there required three normalizations, and each one flips a *different* set of quotes, so a
+Getting there required four normalizations, and each one flips a *different* set of quotes, so a
 checker that applies some but not others produces false failures that look like fidelity problems:
 
 1. **Curly punctuation.** The testimony PDFs use curly apostrophes and quotes; the ledgers use
@@ -98,6 +117,12 @@ checker that applies some but not others produces false failures that look like 
 3. **GPO hyphenated line wraps.** The Senate transcripts break words across lines, and the
    extraction preserves the space: `core well- being topics`. The ledger correctly quotes
    `well-being`. Rejoining `-\s+` before comparing is what makes that quote verify.
+4. **Typographic ligatures, added 2026-07-25 with the Tennessee order.** Scanned court filings
+   carry `ﬁ` (U+FB01) and friends as single characters, so the order reads `sufﬁcient minimum
+   contacts` and `speciﬁc personal jurisdiction`. A ledger quoting the ordinary spellings will
+   never match. Fold `ﬀ ﬁ ﬂ ﬃ ﬄ` to their letter pairs before comparing. This one is nastier than
+   the other three because the two strings are visually identical at normal reading size, so the
+   failure looks like a fabricated quote rather than an encoding mismatch.
 
 **The single span that does not verify under any combination** is in the Dec 2025 ledger:
 `Up to 95% of youth ages 13-17`, where the written testimony reads `13–17` with an EN DASH and

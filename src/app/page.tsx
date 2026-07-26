@@ -301,7 +301,7 @@ export default function Home() {
                 href="https://suno.com/song/31677743-3e2c-48f5-8432-c0cd32163fd9"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
+                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/85"
               >
                 Suno
               </a>
@@ -739,7 +739,7 @@ export default function Home() {
                 href={GITHUB}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
+                className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/80"
               >
                 star the repo
               </a>

@@ -18,6 +18,7 @@ const DOCS: [title: string, file: string, url: string][] = [
   ["MDL 3047 (case file)", "content/lawsuits/mdl-3047.md", `${SITE_URL}/lawsuits/mdl-3047`],
   ["K.G.M. v. Meta and Google (case file)", "content/lawsuits/kgm-v-meta.md", `${SITE_URL}/lawsuits/kgm-v-meta`],
   ["State of New Mexico v. Meta (case file)", "content/lawsuits/new-mexico-v-meta.md", `${SITE_URL}/lawsuits/new-mexico-v-meta`],
+  ["State of Tennessee v. Meta (case file)", "content/lawsuits/tennessee-v-meta.md", `${SITE_URL}/lawsuits/tennessee-v-meta`],
   ["The hearings: the mechanism, on the record", "content/hearings.md", `${SITE_URL}/hearings`],
   // The three audience briefings. These are gamma.app deck source rather than
   // web essays, but they are rendered documents with their own raw .md routes,
@@ -44,7 +45,7 @@ export function GET() {
     return `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`;
   }).join("\n");
 
-  // the seven evidence ledgers (the distillations), same reader-facing body
+  // the evidence ledgers (the distillations), same reader-facing body
   // the /distillations pages render, each headed by its tier notes
   const ledgers = DISTILLATIONS.map((d) => {
     let md = "(source unavailable)";

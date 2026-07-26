@@ -11,9 +11,9 @@ import { DISTILLATIONS, loadDistillation } from "@/lib/distillations";
 export const dynamic = "force-static";
 
 const SITE = "https://de-amplify.com";
-const AS_OF = "2026-07-24";
+const AS_OF = "2026-07-25";
 
-// The seven per-ledger routes, built from the registry rather than hand-listed,
+// The per-ledger routes, built from the registry rather than hand-listed,
 // so registering a new ledger wires it into the card automatically. Titles are
 // the ledgers' own nav-label variant, not strings written here.
 const ledgerLinks = DISTILLATIONS.map((d) => ({
@@ -63,7 +63,7 @@ const BODY = {
       id: "read-litigation-record",
       name: "Read the dated litigation record",
       description:
-        "The social media addiction lawsuits explained: four proceedings, evidence-tiered and sourced.",
+        "The social media addiction lawsuits explained: five proceedings, evidence-tiered and sourced.",
       tags: ["lawsuits", "litigation", "mdl-3047", "meta"],
       examples: ["What are the social media addiction lawsuits?", `GET ${SITE}/lawsuits.md`],
       inputModes: ["text/plain"],
@@ -125,7 +125,7 @@ const BODY = {
     hearings: { href: `${SITE}/hearings`, title: "The Congressional hearings, distilled (the mechanism, on the record)" },
     "hearings-markdown": { href: `${SITE}/hearings.md`, type: "text/markdown" },
     distillations: { href: `${SITE}/distillations`, title: "The evidence ledgers (distillations) behind the lawsuit and hearing pages" },
-    "distillations-all-markdown": { href: `${SITE}/llms-full.txt`, type: "text/markdown", title: "All seven ledgers concatenated (per-ledger .md is on each entry in `ledgers`)" },
+    "distillations-all-markdown": { href: `${SITE}/llms-full.txt`, type: "text/markdown", title: `All ${DISTILLATIONS.length} ledgers concatenated (per-ledger .md is on each entry in \`ledgers\`)` },
     scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
     report: { href: `${SITE}/report`, title: "File a structured brake report" },
     remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },
@@ -139,6 +139,7 @@ const BODY = {
       { href: `${SITE}/lawsuits/mdl-3047`, markdown: `${SITE}/lawsuits/mdl-3047.md`, title: "MDL 3047 (federal)" },
       { href: `${SITE}/lawsuits/kgm-v-meta`, markdown: `${SITE}/lawsuits/kgm-v-meta.md`, title: "K.G.M. v. Meta and Google (California)" },
       { href: `${SITE}/lawsuits/new-mexico-v-meta`, markdown: `${SITE}/lawsuits/new-mexico-v-meta.md`, title: "State of New Mexico v. Meta" },
+      { href: `${SITE}/lawsuits/tennessee-v-meta`, markdown: `${SITE}/lawsuits/tennessee-v-meta.md`, title: "State of Tennessee v. Meta (in trial)" },
     ],
     ledgers: ledgerLinks,
     repository: { href: "https://github.com/geeks-accelerator/de-amplify" },
@@ -168,7 +169,7 @@ const BODY = {
       href: `${SITE}/lawsuits.md`,
       priority: "medium",
       reason:
-        "Four proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
+        "Five proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
       timing: "soon",
     },
     {

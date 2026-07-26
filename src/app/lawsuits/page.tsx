@@ -29,7 +29,7 @@ export const metadata: Metadata = {
 };
 
 // FAQ structured data, drawn verbatim in substance from the page's own
-// "four proceedings", "so is it actually addiction?", and "four numbers"
+// "five proceedings", "so is it actually addiction?", and "four numbers"
 // sections. Aids AI-answer extraction and non-Google engines; note Google
 // restricts FAQ rich results to authoritative gov/health domains.
 const FAQ_JSON_LD = {
@@ -41,7 +41,7 @@ const FAQ_JSON_LD = {
       name: "How many social media addiction lawsuits are there against Meta, and are they one case?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "They are four distinct proceedings, not one: the federal MDL 3047 in Oakland (personal-injury, school-district, and state-attorney-general claims), the California state-court coordination JCCP 5255 in Los Angeles (the K.G.M. bellwether), the standalone State of New Mexico v. Meta enforcement case in Santa Fe, and the European Commission's Digital Services Act investigation in Brussels. They share defendants and evidence, but a verdict in one does not decide the others.",
+        text: "They are five distinct proceedings, not one: the federal MDL 3047 in Oakland (personal-injury, school-district, and state-attorney-general claims), the California state-court coordination JCCP 5255 in Los Angeles (the K.G.M. bellwether), the standalone State of New Mexico v. Meta enforcement case in Santa Fe, the State of Tennessee v. Meta consumer-protection trial in Nashville, and the European Commission's Digital Services Act investigation in Brussels. They share defendants and evidence, but a verdict in one does not decide the others.",
       },
     },
     {
@@ -89,7 +89,7 @@ export default function LawsuitsPage() {
     "@type": "Article",
     headline: "The social media addiction lawsuits, explained",
     description:
-      "Four proceedings, four numbers people keep confusing, and the question underneath all of it: when you tap the brake, does anything actually stop?",
+      "Five proceedings, four numbers people keep confusing, and the question underneath all of it: when you tap the brake, does anything actually stop?",
     url: `https://de-amplify.com${PATH}`,
     image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",

@@ -21,7 +21,7 @@ const RECOVERY: { href: string; label: string; reason: string; tone: "brake" | "
   {
     href: "/lawsuits",
     label: "the lawsuits, explained",
-    reason: "the dated litigation record, four proceedings kept separate",
+    reason: "the dated litigation record, five proceedings kept separate",
     tone: "signal",
   },
   {
@@ -85,7 +85,7 @@ export default function NotFound() {
             or read the machine-readable index:{" "}
             <a
               href="/llms.txt"
-              className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/60"
+              className="underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/80"
             >
               llms.txt
             </a>
