@@ -1,9 +1,20 @@
 // Deliberately a SERVER component. Nothing here is interactive, and react-markdown
 // 10's default export has no "use client" and no hooks (useState/useEffect live only
 // in its MarkdownHooks export), so it renders fine on the server. Adding "use client"
-// back would ship react-markdown + remark-gfm + micromark + rehype-slug (~47 KB gzipped)
-// to every route that renders a document, and would also serialize the whole markdown
-// string into the flight payload on top of the HTML it already rendered.
+// back would ship react-markdown + remark-gfm + micromark + rehype-slug to every route
+// that renders a document: measured at 247,204 -> 200,330 bytes gzipped of client JS,
+// so 45.8 KB, 19% of the total.
+//
+// The tradeoff runs the other way on HTML, and an earlier version of this comment had
+// it backwards, so state it correctly. Server-rendering GROWS the payload: the flight
+// data becomes the serialized react-markdown ELEMENT TREE, which is larger than the raw
+// markdown string a client component would have shipped. Measured across all 27
+// prerendered pages, 423,827 -> 458,731 bytes gzipped, so +8.2%; on /proposal alone
+// 60% of the file is the inlined self.__next_f.push payload duplicating markup already
+// in the HTML. The change is still correct, because JS caches across navigations and
+// HTML does not, so one document page nets about -44 KB gzipped and break-even is
+// roughly 18 document views in a session. The group that pays without benefiting is
+// non-JS consumers (crawlers, agents), who should be pointed at the raw .md routes.
 //
 // One contrast note: prose-li:marker: below is the ::marker bullet, which is pure
 // decoration (the list semantics live in the ul/li markup), so it is exempt from the
