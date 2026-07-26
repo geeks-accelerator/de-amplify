@@ -1,7 +1,7 @@
 ---
 title: "Plan: ledger candidates (proceedings, hearings, and regulations worth distilling)"
 subtitle: "Nine research passes over the primary record, July 2026. What exists, where the official document actually lives, what posture it is really in, and what is not worth chasing."
-status: "Research inventory and prioritization, not a commitment to build. Nothing here has been distilled yet, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
+status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26. Section 4 is still a queue. Nothing in section 4 has been distilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
 date: 2026-07-25
 site: "de-amplify.com"
 document: "Ledger candidate inventory. Companion to the cases-page plan (2026-07-15-cases-page-plan.md). Adds no legal claims to the site; the ledger-first pipeline still governs everything that ships."
@@ -9,7 +9,7 @@ document: "Ledger candidate inventory. Companion to the cases-page plan (2026-07
 
 # Plan: ledger candidates
 
-> **The one-line finding.** The control-integrity material is reliably the part of the record that never gets reported. Coverage takes the viral clip; the passage where someone examines whether a specific control actually worked sits unread in a transcript, an order, or a press release. That is the gap this site exists to fill, and there is far more of it than the current seven ledgers suggest.
+> **The one-line finding.** The control-integrity material is reliably the part of the record that never gets reported. Coverage takes the viral clip; the passage where someone examines whether a specific control actually worked sits unread in a transcript, an order, or a press release. That is the gap this site exists to fill, and there is far more of it than the ledgers built so far suggest.
 
 > **The one-line strategy.** Fix what is wrong on the live site first, take the one free upgrade, then build in order of (a) how load-bearing the material is for the argument, not how recent it is, and (b) how retrievable the official document is.
 
@@ -347,7 +347,7 @@ The only rigorous work on feed controls is academic. A **NYU and Northeastern** 
 - **Character.AI July 31, 2026 status-report deadline.** Four days from this document. Posture will change.
 - **Whether India's IT (Second Amendment) Rules, 2026 were notified** after the May 7, 2026 comment deadline. Drafts confirmed unnotified; status after May 2026 unknown.
 - **Brazil's STF item-5 deadline** falls mid-to-late August 2026 and has not expired. Do not state platforms are in breach.
-- **Tennessee v. Meta is in trial now** (jury selection reported July 20, 2026), which means the deposition excerpts in 5.1 may be joined by trial testimony shortly.
+- ~~**Tennessee v. Meta is in trial now**~~ **BUILT 2026-07-26.** It became the eighth ledger (`docs/distillations/tennessee-v-meta.md`) and the fifth proceeding, with a curated case file at `/lawsuits/tennessee-v-meta`. Note that it was **never in the candidate list in section 4**: it surfaced from the July-25 litigation status re-check, not from the nine research passes, which is a reminder that this inventory is a snapshot and not a closed set. Its own open threads (the operative amended complaint is sealed, five orders are paywalled, the trial runs to September 3) live in that ledger's Tensions section, not here.
 - **What the Indian GAC dashboard's "Appeals Received" actually counts.** The 51,998 figure does not reconcile with the official parliamentary series and no primary source defines the denominator. Do not publish the number without resolving this.
 
 ---
