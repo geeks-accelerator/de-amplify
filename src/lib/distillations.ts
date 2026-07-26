@@ -93,15 +93,23 @@ export interface LoadedDistillation extends DistillationMeta {
    * Budgeted summary variants, parsed verbatim from the ledger's TLDR block
    * (which is itself excluded from the rendered body). Each has exactly one
    * consumer: label -> the hub card, navLabel -> the /distillations index card
-   * and breadcrumb, ogTitle -> the share card, searchSnippet -> the meta
+   * and breadcrumb, ogTitle -> the share card, searchSnippet -> the CURATED
+   * page's meta description, ledgerSnippet -> this ledger page's own meta
    * description, oneSentence -> the JSON-LD description. If a consumer needs a
    * length none of these carries, add that variant to the ledger; do not adapt
    * one here.
+   *
+   * ledgerSnippet exists because searchSnippet had two consumers: the curated
+   * case page copied it verbatim AND this ledger page parsed it, so two
+   * indexable URLs about the same case shipped identical meta descriptions.
+   * Optional: the hearing ledgers have no curated per-hearing page (they share
+   * /hearings), so there is no collision to break and they fall back.
    */
   label: string;
   navLabel: string;
   ogTitle: string;
   searchSnippet: string;
+  ledgerSnippet: string;
   oneSentence: string;
   sources: string[];
   bodyMarkdown: string;
@@ -150,6 +158,7 @@ export function loadDistillation(slug: string): LoadedDistillation {
   const navLabel = grab(/Nav label[^:]*:\*\*\s*(.+)/);
   const ogTitle = grab(/OG title[^:]*:\*\*\s*(.+)/);
   const searchSnippet = grab(/Search snippet[^:]*:\*\*\s*(.+)/);
+  const ledgerSnippet = grab(/Ledger snippet[^:]*:\*\*\s*(.+)/);
   const oneSentence = grab(/One sentence[^:]*:\*\*\s*(.+)/);
 
   // keep only the reader-facing sections, in document order; the lawsuit
@@ -181,6 +190,7 @@ export function loadDistillation(slug: string): LoadedDistillation {
     navLabel,
     ogTitle,
     searchSnippet,
+    ledgerSnippet,
     oneSentence,
     sources,
     bodyMarkdown,
