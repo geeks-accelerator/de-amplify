@@ -11,6 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const notesDate = contentDate("content/notes.md", "2026-07-15");
   const lawsuitsDate = contentDate("content/lawsuits.md", "2026-07-16");
   const mdlDate = contentDate("content/lawsuits/mdl-3047.md", "2026-07-16");
+  const tnDate = contentDate("content/lawsuits/tennessee-v-meta.md", "2026-07-25");
   const kgmDate = contentDate("content/lawsuits/kgm-v-meta.md", "2026-07-16");
   const nmDate = contentDate("content/lawsuits/new-mexico-v-meta.md", "2026-07-16");
   const hearingsDate = contentDate("content/hearings.md", "2026-07-16");
@@ -22,6 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/lawsuits/mdl-3047`, lastModified: mdlDate, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/lawsuits/kgm-v-meta`, lastModified: kgmDate, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/lawsuits/new-mexico-v-meta`, lastModified: nmDate, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/lawsuits/tennessee-v-meta`, lastModified: tnDate, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/hearings`, lastModified: hearingsDate, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/proposal`, lastModified: proposalDate, changeFrequency: "weekly", priority: 0.9 },
     { url: `${SITE_URL}/for`, lastModified: forDate, changeFrequency: "monthly", priority: 0.7 },

@@ -44,6 +44,12 @@ export const DISTILLATIONS: DistillationMeta[] = [
     related: { href: "/lawsuits/new-mexico-v-meta", label: "the New Mexico case file" },
   },
   {
+    slug: "tennessee-v-meta",
+    kind: "lawsuit",
+    tierDown: false,
+    related: { href: "/lawsuits/tennessee-v-meta", label: "the Tennessee case file" },
+  },
+  {
     slug: "hearing-2023-11-07-teen-mental-health",
     kind: "hearing",
     tierDown: false,

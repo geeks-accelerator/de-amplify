@@ -21,7 +21,7 @@ const RECOVERY: { href: string; label: string; reason: string; tone: "brake" | "
   {
     href: "/lawsuits",
     label: "the lawsuits, explained",
-    reason: "the dated litigation record, four proceedings kept separate",
+    reason: "the dated litigation record, five proceedings kept separate",
     tone: "signal",
   },
   {

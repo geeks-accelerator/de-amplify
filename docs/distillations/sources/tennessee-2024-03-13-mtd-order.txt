@@ -1,0 +1,1879 @@
+     Case 4:22-md-03047-YGR                    Document 683-1              Filed 03/15/24              Page 1 of 34
+
+
+
+
+                IN THE CHANCERY COURT FOR THE STATE OF TENNESSEE
+            TWENTIETH JUDICIAL DISTRICT, DAVIDSON COUNTY, PART IV
+STATE OF TENNESSEE ex rel. JONATHAN                                )
+SKRMETTI, ATTORNEY GENERAL and                                     )                                   -.
+
+REPORTER,                                                                                                           w
+                                                                   )
+                                                                   )
+                                                                                                            "
+                                                                                                            as
+                                                                                                                   E"
+                                                                                                                   4r-
+                                                                                                                                        ~' ..-
+                                                                                                                                           '-
+
+
+
+
+                                                                                                                                      J. . ..
+                                                                                                                                             .
+
+
+
+
+                                                                                                                         "TI;
+                                                                                                                                           .
+
+
+
+          Plaintiff,                                               )
+                                                                                                                                              ..
+
+                                                                                                                                   («hiJﬁLurnﬂ
+                                                                   )               -'              t
+                                                                                                                   ._
+                                                                                                                         :3
+                                                                                                                  w
+                                                                                                                                                 t...
+                                                                                                                              '"
+v.                                                                 )           0.23-1364-1vl                             l
+                                                                   )                                                          b'
+META PLATFORMS, INC. and INSTAGRAM,)                                         JURY DEMANg                          w
+LLC,                                                                                              '6        75m   .".I
+
+          Defendants.
+                                                                   )
+                                                                   )
+                                                                   )
+                                                                                                  ' ﬂ
+                                                                                                  *3:             53f
+
+
+
+                          ORDER 0N DEFENDANTS' MOTION TO DISMISS
+
+          On October 24, 2023, State of Tennessee, ex rel. Jonathan Skrmetti, Attorney General and
+
+Reporter ("State"), ﬁled this Civil Enforcement Action ("Complaint") against Defendants Meta
+
+Platforms, Inc. and Instagram, LLC ("Meta" or "Defendants").                            The Complaint contains two
+
+claims: 1) unfairness under the Tennessee Consumer Protection Act; and 2) deception under the
+
+Tennessee Consumer Protection Act.1 Both claims are based on the State's theory that the social
+
+media platform Instagram is unfairly and deceptively addictive and hamiful, particularly to young
+
+people.
+
+          On December 14, 2023, Defendants ﬁled a motion to dismiss to the Complaint pursuant to
+
+Rule 12.02(2) and l2.02(6) of the Tennessee Rules of Civil Procedure. Defendants assert that the
+
+Complaint does not contain allegations sufﬁcient to establish personal jurisdiction over either
+
+defendant; that Section 320 of the Communications Decency Act prohibits the State from imposing
+
+liability on Defendants; that the First Amendment to the United'States Constitution prohibits the
+
+State from imposing civil liabilities on Defendants for their role in disseminating user content; and
+
+
+
+' The State's
+                lawsuit is part of a multi-state civil law enforcement effort involving several other states.
+
+                                                              1
+   Case 4:22-md-03047-YGR           Document 683-1         Filed 03/15/24      Page 2 of 34
+
+
+
+
+4) the Complaint fails to state a claim for relief under the Tennessee Consumer Protection Act.
+
+The State responded in opposition on January I7, 2024. The motion to dismiss came before the
+
+Court for hearing on Friday, March 1, 2024.
+
+                                     1-   Factual Allegations
+
+       Both Meta and lnstagram are Delaware corporations with principal places of business in
+
+Menlo Park, California. Instagrarn is a subsidiary of Meta. Meta owns, operates and controls
+
+several social technology services, including multiple social media platforms. Through its mobile
+
+application and website, lnstagram offers consumers the opportunity to connect with friends,
+
+follow accounts, and explore various interests. On Instagram, consumers interact with different
+
+surfaces, which include the main Feed and Stories that display content posted by accounts the
+
+consumer follows. The Explore surface suggests new content to consumers; the Reels surface
+
+focuses on short-form videos; and the Direct Messaging surface allows consumers to send
+
+messages to one another. Instagrarn presents a customized display to each consumer based on the
+
+interests and preferences they express on Instagram, along with other data in Meta's possession.
+
+       To fully access Instagram, consumers must create an account. As part of the account
+
+creation process, consumers enter a contract with Meta.   By entering that contract, users agree to
+
+comply with Instagram's Terms of Use ("Terms"). The Terms state, inler alia, that.Instagram is
+
+a Meta product.   Thus, the Tenns constitute an agreement between the consumer and Meta.
+
+Consumers do not pay money to use lnstagram. Instead, in exchange for the right to use Instagram,
+
+consumers agree to terms that power Meta's advertising business.
+
+       Meta's business model has made Meta one of the largest and most proﬁtable advertising
+
+companies in the world. Meta reported earning $116.6 billion in revenue in 2022, with $23.2,
+
+billion in net income. Meta capitalizes on its ability to offer highly targeted, data-informed
+
+
+
+                                                 2
+   Case 4:22-md-03047-YGR            Document 683-1        Filed 03/15/24      Page 3 of 34
+
+
+
+
+advertising opportunities, including opportunities based on consumers' locations. Consumers are
+
+served targeted advertisements during their sessions on Instagram, and consumers see
+
+advertisements several times per minute. The advertisements Meta displays on Instagram are
+
+interwoven into most, if not all, of Instagram's surfaces. Viewing advertisements is a core part of
+
+the Instagram experience. Given this business model, Meta is motivated to maximize the time
+
+consumers spend on Instagram. The more time a consumer spends on Meta's platforms, the more
+
+advertising opportunities Meta can sell, and the more data Meta collects about the consumer. The
+
+increase in consumer time spcnt therefore significantly increases the profits Meta can make from
+
+the consumer.
+
+       Consumers under eighteen ("Young Users") are Mcta's prized demographic and increasing
+
+Young Users' time spent on its platforms is one of Meta's goals. Meta pursues Young Users
+
+because Meta's advertising customers value that audience, as Young Users are more likely
+
+inﬂuenced by advertisements, may become lifelong customers, and set trends society emulates.
+
+Instagram is Meta's most popular application with the Young Users demographic.
+
+       Instagram is popular among young Tennesseans. According to Meta's internal metrics,
+
+ﬁom July 2020 to June 2021, over 475,000 Tennessee teens used lnstagrarn monthly and over
+
+350,000 Tennessee teens used Instagram daily. Between October 2022 and April 2023, over
+
+500,000 young adults in Tennessee used Instagram daily and over 800,000 young adults in
+
+Tennessee used Instagram monthly.
+
+       Meta closely tracks Instagram's performance in Tennessee, including following metrics
+
+for Instagram usage in Tennessee, the amount of time Tennessee teens spend on Instagram per
+
+day, the percentage of Tennessee teens on Instagram, the ratio of Tennessee teen daily versus
+
+monthly active users, Tennessee teen monthly active user story participation rates, the amount of
+   Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24      Page 4 of 34
+
+
+
+
+feed media daily active Tennessee teens consume per day on Instagram, the amount of stories that
+
+
+daily active Tennessee teens consume per day on Instagram, the percentage of Faccbook Android
+
+monthly active users on Instagram, and the reduction in active users over a two month pen'od. As
+
+of 2020, Meta determined that Instagram had fully saturated the market for Tennesseans under 35
+
+years of age. 'Ihat same year, Meta found that it had fully entered the teenage market in Tennessee.
+
+       In 2019, Meta conducted interviews with young consumers in Memphis to study that
+
+population's experience on Instagram. Meta started the Teen Ecosystem Understand project in
+
+2020 to study Young Users in order to deliver insights that would allow Meta to make Instagram
+
+increasingly irresistible to Young Users. The Teen Ecosystem Understand and Consumer Market
+
+Research projects were two of many Meta initiatives to study Young Users and capture more of
+
+their time and attention.
+
+       The State argues that Instagram is not reasonably avoidable for many Young Users because
+
+it is highly addictive and designed to exploit Young Users' biologically limited capacity for self-
+
+control. The State alleges that Instagram harms Young Users by, inter alia, negatively impacting
+
+their metal well-being and impairing their healthy development. Despite having overwhelming
+
+evidence showing that Instagram is addictive, the State asserts that Meta made decisions that
+
+facilitated Young Users' addiction to Instagram.
+
+       The State further alleges that Meta misled the public, including Tennesseans, about the
+
+addictive nature of the Instagram platform and the risks Instagrarn presents to its consumers,
+
+particularly Young Users in three general ways.       First, the State asserts that Meta knew that
+
+Instagram was harmful for consumers, and particularly Young Users, but it did not share that
+
+information with the public. Secondly, the State asserts that Meta created the facade that Instagram
+
+is a safe platforrn where harmful content is rarely encountered. Thirdly, the State asserts that Meta
+   Case 4:22-md-03047-YGR             Document 683-1          Filed 03/15/24       Page 5 of 34
+
+
+
+
+misled the public through misrepresentations about its commitment to well-being related products
+
+and features.
+
+
+       By allegedly designing and deploying Instagram in a manner that overwhelmed consumers'
+
+free and infonned choice regarding how much time to spend on the Instagram platfonn and by
+
+allegedly deceiving consumers through statements, conduct, silence and action that Instagram is a
+
+safer platfonn than it is in reality, the State alleges Meta violated the Tennessee Consumer
+
+Protection Act ("TCPA"), Tenn. Code Ann. § 47-l8-104(a)&(b).
+
+                                           II. Standards
+
+       A defendant may challenge the Court's exercise of personal jurisdiction through a motion
+
+to dismiss pursuant to Rule 1102(2) of the Tennessee Rules of Civil Procedure.           Although not
+
+required to do so, the defendant may support his or her motion with afﬁdavits or other materials.
+
+See Baskin v. Pierce & AIIred Comm, Ina, 676 S.W.3d 55,4, 566 (Tenn. 2023)(citing Crouch Ry.
+
+Consulting, LLC v. LS Energ; Fabrication. LLC, 610 S.W.3d 460, 470 (Tenn. 2020)).                  If the
+
+defendant does so, then the plaintiff must also submit afﬁdavits or other materials to carry its
+
+burden. See id    "[T]he submission of matters outside the pleadings does not convert the Rule
+
+1102(2) motion to dismiss into a motion for summary judgment." 1d.
+
+       "When a defendant challenges the state's exercise of personal jurisdiction in this manner,
+
+the plaintiff bears the burden of establishing a prima facic case for personal jurisdiction over the
+
+defendant." 1d. (citing Crouch, 610 S.W.3d at 470). This Court's decision regarding the exercise
+
+of personal jurisdiction over the defendant is a question of law. See id
+
+               When evaluating whether the plaintiff has established a prima facie case for
+       personal jurisdiction, the trial court must accept the plaintiff's factual allegations as
+       true and resolve all facmal disputes in the plaintiff's favor. [Crouch, 610 S.W.3d
+       at 470]; [Slate v. NV Sumatra Tobacco Trading Co., 403 S.W.3d 726, 739 (Tenn.
+       2013)]. However, the court may disregard "allegations that are controverted by
+       more reliable evidence and plainly lack credibility, conclusory allegations, or
+
+
+                                                  5
+       Case 4:22-md-03047-YGR           Document 683-1         Filed 03/15/24      Page 6 of 34
+
+
+
+
+          farfetched inferences." Crouch, 610 S.W.3d at 470 (citing [Firm Cmty. Bank, NA.
+          v. First Tenn. Bank, N.A., 489 S.W.3d 369, 382 (Tenn. 2015)]. Ultimately, the
+          court must determine whether the factual allegations in the plaintiff's complaint
+          and any supporting materials establish, with reasonable particularity, sufﬁcient
+          contacts between the defendant and Tennessee. Firs! Cmty. Bank, 489 S.W.3d at
+          383.
+
+[(1.
+
+
+          A motion to dismiss for failure to state a claim tests the legal sufficiency of the Complaint,
+
+admitting the truth of all relevant and material factual averments contained in the Complaint. See
+
+Stein v. Davidson Hotel Co., 945 S.W.2d 714, 716 (Tenn. 1997).           "[A] motion ﬁled under Rule
+
+12.02(6) tests 'the legal sufﬁciency of the complaint, not the strength of the plaintiff's proof or
+
+cvidence."' Webb v. Nashville Area Habitat for Humanity, Ina, 346 S.W.3d 422, 426 (Tenn.
+
+2011).    1n deciding a motion to dismiss, courts are required to construe the complaint liberally,
+
+
+treating all factual allegations as true and considering all reasonable inferences in the plaintiff's
+
+favor. See Webb, 346 S.W.3d at 427; Tigg v. PcreIli Tire Corp., 232 S.W.3d 28, 31-32 (Tenn.
+
+2007).     However, "courts are not required to accept as true assertions that are merely legal
+
+arguments or 'lcgal conclusions' couched as facts." Webb, 364 S.W.3d at 426 (quoting Riggs v.
+
+Burson, 941 S.W.2d 44, 47-48 (Tenn. 1997)).           Unless it appears ﬁ'om the pleadings and the
+
+applicable law that the plaintiff can prove no set of facts that would entitle the plaintiff to relief on
+
+his/her claim, a motion to dismiss for failure to state a claim should be denied. See Bell ex rel.
+
+Snyder v. Icarci, Merrill, Cullis, Timm, Furen & Ginsburg, P.A., 986 S.W.2d 550, 554 (Tenn.
+
+1999).
+
+                                            III. Discussion
+
+          Defendants assert that their motion to dismiss should be granted for four core reasons: 1.
+
+The State fails to allege sufﬁcient facts to support personal jurisdiction; 2) the State's claims would
+
+impose liability on Meta by treating it as a publisher of third-party content on Instagram, which is
+   Case 4:22-md-03047-YGR             Document 683-1          Filed 03/15/24      Page 7 of 34
+
+
+
+
+barred by Section 230 of the Communications Decency Act; 3) the State seeks to hold Meta liable
+
+for the allegedly harmﬁll consequences of user speech that Meta organizes and disseminates on
+
+Instagram, which is barred by the First Amendment; and 4) the Complaint fails to state a claim
+
+under the TCPA.
+
+                                        Personal Jurisdiction
+
+        The authority of courts to exercise personal jurisdiction over non-resident defendants is
+
+restricted by the Due Process Clause of the Fourteenth Amendment. See Gordon v. Greenview
+
+Hosp, Ina, 300 S.W.3d 635, 646 (Tenn. 2009). When a question regarding personal jurisdiction
+
+arises, courts are required to ascertain whether it is "fair and substantially just to both parties to
+
+have the case tried in the state where the plaintiff has chosen to bring the action." Id. "The plaintiff
+
+bears the ultimate burden of demonstrating that the trial court may preperly exercise personal
+
+
+jurisdiction over a defendant." Id. at 643.
+
+       Tennessee's long-arm statute permits the courts of this state to exercise jurisdiction upon
+
+"any basis not inconsistent with the constitution of this state or of the United States." Tenn. Code
+
+Ann. § 20-2-214(a)(6); Wall Transp., LLC v. Damiron Corp, No. M2014-00487-COA-R3-CV,
+
+2014 WL 7263778, at *3 (Tenn. Ct. App. Dec. 19, 2014). In order for a non-resident defendant to
+
+be subject to personal jurisdiction in Tennessee, the defendant must have "certain minimum
+
+contacts . . . such that the maintenance of a suit does not offend 'traditional notions of fair play
+
+and substantial justice." In! '1 Shoe Co. v. Washington, 326 U.S. 310, 316 (1945)(quoting Millikan
+
+v. Meyer, 311   U.S. 457, 463 (1940)). Those minimum contacts with the forum state may create
+
+two types of personal jurisdiction: 1) general personal jurisdiction, which requires a defendant to
+
+have continuous and systematic contact with the forum state; or 2) speciﬁc personal jurisdiction,
+   Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24      Page 8 of 34
+
+
+
+
+which focuses only on "deliberate" and "signiﬁcant" contacts in the forum state from which the
+
+claims at issue arise. Miller v. AXA Winterthtlr Ins. Ca, 694 F.3d 675, 678-79 (6m Cir. 2012).
+
+       For general personal jurisdiction to attach, a nonresident defendant's contacts with
+
+Tennessee must be so continuous and systematic as to render them essentially at home in
+
+Tennessee, and they must comply with traditional notions of fair play and substantial justice. Sec
+
+Goodyear Dunlap Tires Operations, SA. v. Brown, 564 U.S. 915, 919 (2011).             A corporation's
+
+state of organization and principal place'of business are paradigm bases for general jurisdiction.
+
+See First Cmty. Bank NA., 489 S.W.3d at 385. Merely "doing business" in the forum state is not
+
+sufﬁcient to subject a non-resident defendant to jurisdiction there. See id at 386.
+
+       Speciﬁc jurisdiction exists when a defendant has minimum contacts with the forum state
+
+and the cause of action arises out of those contacts. See NV Sumatra Tobacco Trading Co., 403
+
+S.W.3d at 744. "[C]ertain 'single or occasional acts' in the fonnn state may be sufﬁcient to render
+
+a non-resident corporation subject to personal jurisdiction 'with respect to those acts, though not
+
+with respect to matters unrelated to the forum." 1d. at 385 (quoting Goodyear, 564 U.S. at 923).
+
+Determining whether a forum state may exercise speciﬁc jurisdiction over a non-resident
+
+defendant requires a two-part analysis: 1) whether the defendant's activities in the state that give
+
+rise to the cause of action constitute sufﬁcient minimum contacts with the forum state, and, if so
+
+2) whether the exercise of jurisdiction over the non-resident defendant is fair. See id. at 388.
+
+       "1t is well established that, in order for a nonresident defendant's contacts with the forum
+
+state to be suﬁicient to give rise to personaljurisdiction there, those contacts must arise out of the
+
+defendant's own purposeful, deliberate actions directed toward the forum state." 1d. at 389 (citing
+
+Burger King Corp. v. Rudzewicz, 471 U.S. 462, 473 (1985)).
+
+       This "purposeful availment" requirement ensures that a defendant will not be
+       [hailed] into a jurisdiction solely as a result of "random," "fortuitous," or
+      Case 4:22-md-03047-YGR           Document 683-1         Filed 03/15/24      Page 9 of 34
+
+
+
+
+        "attenuated" contacts, or of the "unilateral activity of another party or a third
+        person." Jurisdiction is proper, however, where the contacts proximately result
+        from actions by the defendant himself that create a "substantial connection" with
+        the fortnn State. Thus where the defendant "deliberately" has engaged in signiﬁcant
+        activities within a State, or has created "continuing obligations" between himself
+        and residents of the fonnn, he manifestly has availed himself of the privilege of
+        conducting business there, and because his activities are shielded by "the beneﬁts
+        and protections" of the forum's laws it is presumptively not unreasonable to require
+        him to submit to the burdens of litigation in that forurn as well.
+
+Burger King, 471 U.S. at 475-76.
+
+         A defendant's connections with the forurn state must not only be intentional, but also
+
+substantial enough to give rise to jurisdiction. See Walden v. Fiore, 571 U.S. 277, 284-85 (2014).
+
+This requires the Court to consider "the quantity of the contacts, their nature and quality, and the
+
+source and connection of the cause of action with those contacts." Sumatra, 403 S.W.3d at 759-
+
+60.    Furthermore, in performing the minimum contacts analysis, courts must look to "the
+
+defendant's contacts with the forum State itself, not the defendant's contacts with persons who
+
+reside there." Walden, 571 U.S. at 285.     A defendant's contacts with the plaintiff "cannot be the
+
+only link between the defendant and the forum." Id.
+
+         The State is not asserting that Meta is subject to general personal jurisdiction in Tennessee.
+
+The State's TCPA claims arise from its allegations that l) Meta engineered dangerous product
+
+features into lnstagrarn; and 2) Meta materially misrepresented Instagram's safety to the public.
+
+
+Broadly speaking, the State argues that this Court has Specific jurisdiction over Meta because Meta
+
+chose to l) make Instagram available in Tennessee; 2) enter contracts with hundreds of thousands
+
+of Tennesseans; 3) analyze Instagram's performance in Tennessee across several highly-granular
+
+metrics; 4) promote its brand in Tennessee; 5) study Tennessee consumers; and 6) deliver
+
+Tennessee-Speciﬁc advertisements to Tennesseans.          The Court now turns to the due process
+  Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24      Page 10 of 34
+
+
+
+
+analysis to determine whether Meta has such minimum contacts with Tennessee to warrant the
+
+exercise of speciﬁc jurisdiction over it.
+
+       To establish the necessary minimum contacts, Meta must either purposefully direct its
+
+activities toward Tennessee or purposefully avail itself of the privileges of conducting activities in
+
+Tennessee; the claim must arise out of or relate to Mcta's Tennessee-related activities; and the
+
+exercise ofjurisdiction must bc reasonable. See AMA Multimedia, LLC v. Wanar, 970 F.3d 1201,
+
+1208 (9m Cir. 2020)(citation omitted); S. Mach. Co. v. Mohasco Indus, Ina, 401 F.2d 374, 381
+
+
+(6th Cir. 1968). "If any of the three requirements is not satisﬁed, jurisdiction in the forum would
+
+deprive the defendant of due process of law." Omeluk v. Langsten Slij) & Batbyggeri A/S, 52 F.3d
+
+267, 270 (9th Cir. I995).
+
+       "'[P]urposeful availment' is something akin to a deliberate undertaking to do or cause an
+
+act or thing to be done in [Tennessee] or conduct which can be properly regarded as a prime
+
+generating cause of the effects resulting in [Tennessee], something more than a passive availment
+
+of [Tennessee] opportunities." Neogen Corp. v. Nea Gen Screening. Ina, 282 F.3d 883, 891 (6'h
+
+Cir. 2002)(quoting Khalafv. Bankers & Shippers 1m: Co., 273 N.W.2d 811, 819 (Mich. 1978)).
+
+The State argues that Meta delivers Tennessee consumers a- highly interactive and customized
+
+online experience in Tennessee. Through its consumers' assent to Instagram's terms of service
+
+("TOS"), Meta collects data from its consumers, including locational data, such as a consumer's
+
+GPS, Bluetooth signals, nearby Wi-Fi access points, beacons, and cell towers. Meta then uses that
+
+data to deliver its consumers a customized experience on Instagram.
+
+       Meta capitalizes on its ability to offer highly targeted, data-informed advertising
+
+opportunities, including opportunities based on eonsumers' locations.        Consumers are served
+
+targeted advertisements during their sessions on Instagram, and consumers see advertisements
+
+
+
+                                                 10
+  Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24        Page 11 of 34
+
+
+
+
+several times per minute. Viewing advertisements is a core part of the Instagrarn experience. The
+
+more time a consumer spends on Meta's platforms, the more advertising opportunities Meta can
+
+sell, and the more data Meta collects about the consumer. Thus, the time a consumer time spends
+
+on Instagram signiﬁcantly affects the proﬁts Meta can make from the consumer.
+
+
+       Purposeﬁil availment is met where a defendant "anticipated, desired, and achieved a
+
+substantial [forum state] viewer base." Mavrix Photo, Inc. v. Brand Techs., Ina, 647 F.3d 1218,
+
+1230 (9m Cir. 201 1). A court may "hold [a defendant] answerable . . . for the contents of a website
+
+whose economic value turns, in signiﬁcant measure, on its appeal to [forum residents]." Ia'.;
+
+Keaton v. Hustler Mag, Ina, 465 U.S. 770, 781 (1984). All manner of Tennessee entities         -
+                                                                                                   from
+
+Graceland to Dollywood, the Nashville Zoo to the Tennessee Aquarium, the Memphis Grizzlies
+
+to the Tennessee Titans, the Knoxville News Sentinel to The Tennessean     -
+                                                                               advertise on Instagram
+
+to reach a Tennessee audience and expand their business in Tennessee. Meta proﬁts through its
+
+sale of Tennessee-targeted advertising opportunities.
+
+       The fact that these advertisements, among others, target Tennesseans indicates that Meta
+
+knows, either actually or constructively, about its Tennessee consumer base, and Meta exploits
+
+that base for commercial gain by selling the ability for advertisers to show their Tennessee-based
+
+advertisements to Tennessee consumers on lnstagram. Hundreds of thousands of young adults
+
+consume Instagram in Tennessee. See Compl.,1I 82. This is a substantial viewer base. See id,1|
+
+92. A platforrn targets a forum if it "'continuously and deliberately exploit[s]' the forum's market
+
+for commercial gain, by operating 'a website whose economic value turns, in signiﬁcant measure,
+
+on its appeal to [forurn residents]."' AAJA Multimedia, LLC v. Wanar, 970 F.3d 1201, 1220 (Gould,
+
+J. dissenting)(quoting Mavrix Photo, Ina, 647 F.3d at 1230).
+
+
+
+
+                                                11
+    Case 4:22-md-03047-YGR             Document 683-1        Filed 03/15/24      Page 12 of 34
+
+
+
+
+          Speciﬁc jurisdiction is insufﬁcient to support personal jurisdiction for all claims but will
+
+support jurisdiction for a claim "sufﬁciently related to the defendant's activities in the state."
+
+uBID, Inc. v. GoDaddy Grp., 1:10., 623 F.3d 421, 426 (7m Cir. 2010). Whether a claim is
+
+sufﬁciently rclatcd to a forurn turns on "whether the relationship between thc plaintiff's claim and
+
+the defendant's contacts with the state made it fair to call the defendant into court there." 1d. at
+
+427. Here, the Complaint alleges that Meta used irresistible design features to capture an ever-
+
+incrcasing amount of Young Usets' time and data, for the beneﬁt of Meta's business. See Compl.,
+
+1] 5.   Thus, viewing advertisements is a core part of the Instagram experience, and the more time a
+
+consumer spends on lnstagram, the more advertising opportunities Meta can sell and the more data
+
+Meta collects about the consumer.
+
+          Under Meta's business model, consumers agree to Instagram's TOS, which explain that
+
+Meta shows consumers ads that businesses and organizations pay Meta to promote. Advertisers
+
+tell Meta their business goal and the kind of audience they want to see their ads. Meta then uses
+
+consumers' personal data to create categories and charges advertisers to show ads to that category.
+
+In this way, Meta also custom tailors a consumer's ad experience on Instagram. Meta is motivated
+
+to maximize the time users spend on Instagram, because the more time a user Spends on Instagram,
+
+the more advertising opportunities Meta can sell and the more proﬁts Meta makes from the
+
+consumer in the form of advertising dollars.
+
+          Because advertisers wish to reach Young Users, Young Users are the prized demographic.
+
+Many of Meta's advertisers are willing to pay Meta for the opportunity to reach Young Users in a
+
+Speciﬁc geographical market, such as Tennessee. As such, Meta is motivated to increase Young
+
+Users' time spent on Instagram.'The State alleges that Meta designs Instagram to make it addictive
+
+to Young Users in order to ensure they will spend more time on Instagram, thereby economically
+
+
+
+
+                                                  12
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24       Page 13 of 34
+
+
+
+
+beneﬁtting Meta.    Young Users' consumption of Instagram allegedly harms Young Users by
+
+negatively impacting their mental well-being and impairing their healthy development. 'l'hese
+
+allegations demonstrate the nexus between the State's claims and Meta's Tennessee-related
+
+contacts.
+
+       Additionally, the State alleges that Meta used its research to deve10p 50phisticated tools
+
+that hook consumers to Instagrarn and that Meta allegedly deceived consumers about the results
+
+of its research in various ways. The Complaint alleges that Meta conducted some of that research
+
+in Memphis, Tennessee. Additionally, the Complaint alleges that Meta engaged The Tennessean's
+
+editorial board to provide a positive, forward-looking message related to Meta's impact in
+
+Tennessee.   This Tennessee-speciﬁc conduct relates to the State's claims that Meta offers a
+
+harmful product in Tennessee and misleads Tennesseans about its product's safety. As such, this
+
+litigation relates to Meta's Tennessee-related conduct.
+
+       Before concluding the analysis, the Court must determine whether an exercise of speciﬁc
+
+jurisdiction over Meta would offend traditional notions of "fair play and substantial justice."
+
+Burger King, 471 U.S. at 476. This requires to Court to analyze the "burden on the defendant, the
+
+forum state's interest in adjudicating the dispute, the plaintiffs interest in obtaining convenient
+
+and effective relief, the interstate judicial system's interest in efﬁciently resolving controversies,
+
+and the shared interest of the states in furthering fundamental substantive social policies." uBID,
+
+
+Ina, 623 F.3d at 432. This case involves alleged violations of the Tennessee Consumer Protection
+
+Act. As such, most of these factors counsel in favor of allowing this Court to exercise specific
+
+personal jurisdiction over Meta.    Furthermore, the burden on Meta of defending a lawsuit in
+
+Tennessee is minimal. Meta reports earnings in the billions and has a broad enough reach to
+
+
+
+
+                                                 13
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24      Page 14 of 34
+
+
+
+
+operate its services on a global scale. The relationship between Meta, the State, and this litigation
+
+is close enough not to offend due process.
+
+       For the foregoing reasons, the Coun determines that it has speciﬁc personal jurisdiction
+
+over Meta on the claims brought by the State related to Meta's Tennessee-related conduct. The
+
+motion to dismiss is respectfully denied on this ground.
+
+                                   Communications Decency Act
+
+       Meta seeks to dismiss the Complaint pursuant to Section 230 of the Communications
+
+Decency Act, which directs that "[n]o provider or user of an interactive computer service shall be
+
+treated as a publisher or speaker of any information provided by another information content
+
+
+provider." 4'7 U.S.C. § 230(c)(1). "Section 230 of the Communications Decency Act. . . , titled
+
+'Protection for private blocking and screening of oﬁ'ensive material,' was passed by Congress in
+
+1996." Social Media Cases, Nos. JCCP 5225, 22$TCV21355, 2003 WL 6847378, at *9 (Cal
+
+Super. Ct. Oct. 13, 2023).
+
+       Through Section 230, "Congress intended to create a blanket immunity from tort liability
+
+for online republication of third party content." 1d. at *30 (citation omitted). "Section 230(c)(1)
+
+shields defendants who operate certain internet services from liability based on content created by
+
+a third party and published, diSplayed, or issued through the use of the defendant's services."
+
+Cohen v. Facebook. Inc, 252 F. Supp. 3d 140, 155 (E.D.N.Y. 2017). By enacting Section 230,
+
+"Congress sought to prevent state and federal laws from interfering with the free exchange of
+
+information over the intemet." Daniel v. Armslist, LLC, 386 Wis. 2d 449, 464 (2019); 47
+                                                                                              U.S.C.
+§ 230(c)(3).   Section 230 is to be construed broadly. See Jane Doe No. I v. Backpagecom, LLC,
+
+817 F.3d l2, 19(15' Cir. 2016).
+
+
+
+
+                                                 14
+  Case 4:22-md-03047-YGR                Document 683-1      Filed 03/15/24       Page 15 of 34
+
+
+
+
+       The necessary components of an immunity claim under Section 230(c)(1) are:                 l) the
+defendant is a provider or user of an interactive computer service; 2) the claim is based on
+
+information provided by another information content provider; and 3) the claim treats the
+
+defendant as the publisher or speaker of third-party content that forms the basis of the claim. See
+
+Barnes v. Yahool, Inc. , 570 F.3d 1096, 1 100 (9m Cir. 2009), as amended (Sept. 28, 2009); Cohen,
+
+252 F. Supp. 3d at 155-56 (citing FTC v. LeadClick Media, LLC, 838 F.3d 158, 173 (2d Cir. 2016)).
+
+"Where a defendant establishes these requirements based on the face of a complaint, a motion to
+
+dismiss may be granted." Cohen, 252 F. Supp. 3d at 156.
+
+       Here, the ﬁrst element is satisfied, because both Meta and histagram are providers of an
+
+interactive computer service, as that term is deﬁned by the Communications Decency Act. See 47
+
+U.S.C. § 230(f)(2); Doe v. MySpace, 528 F.3d 413, 420-22 (5m Cir. 2008)(social networking site
+
+is an interactive computer service under Section 230).     As such, whether Section 230 provides
+
+immunity to Meta and Instagram under the facts alleged here turns on the second and third
+
+elements. "Practically Speaking, the second and third factor tend to overlap in significant ways."
+
+In re Apple Inc. App Store Simulated Casino-Style Games Ling, 625 F. Supp. 3d 971, 978 (ND.
+
+Cal. 2022). The second prong focuses on whether thc State's claims stem from Meta's "status or
+
+conduct as a publisher or speaker." In re Soc. Media Adolescent Addition/I'ers. Inj. Prods. Liab.
+
+Litig., No. 4:22-md-03047YGR,     --
+                                        F. Supp. 3d --, 2023 WL 7524912, at *9 (N.D. Cal. Nov. 14,
+
+2023)(quoting Lemmon v. Snap, Ina, 995 F.3d 1085, 1091 (9m Cir. 2021)(quoting Barnes, 570
+
+F.3d at 1107)). "A claim meets this prong where the claim is based on 'behavior that is identical
+
+to publishing or speaking."' Id (quoting Barnes, 570 F.3d at 1107)(emphasis in original).
+
+
+       Critically, Section 230 does not create immunity simply because publication of
+       third-party content is relevant to or a but-for cause of the plaintiff's harm. The issue
+       is whether the defendant's alleged duty to the plaintiff could "have been satisﬁed
+
+
+
+                                                  15
+  Case 4:22-md-03047-YGR             Document 683-1          Filed 03/15/24       Page 16 of 34
+
+
+
+
+       without changes to the content posted by the websitc' s users and without
+       conducting a detailed investigatiOn."
+
+Id. (quoting Doe v. Internet Brands, Ina, 824 F.3d 846, 851 (9m Cir. 2016)).
+
+
+       Publishing constitutes "deciding whether to publish or to withdraw from publication third-
+
+party content." Lemmon, 995 F.3d at 1092. It also includes "editorial decisions and functions
+
+ancillary to the decision to make content available." In re Social Media, 2023 WL 7524912, at
+
+*10.
+
+       Thus, publishing has been found to involve reviewing and editing, such as
+       reviewing material submitted for publication, perhaps editing it for style or
+       technical ﬂuency, and deciding whether to exclude material. In general, it is any
+       conduct rooted in the common sense and common deﬁnition of what a publisher
+       does.
+
+Id. (internal quotations and citations omitted).
+
+       Section 230 also protects tools that ﬁlter, pick, choose, digest, and organize content. See
+
+47 U.S.C.(t)(4)(A)-(C). Algoritlims used to recommend content to users are protected by Section
+
+230, because "tools meant to facilitate the communication and content of others" constitute
+
+publishing. Dyroﬂ" v. Ultimate Software Grp., Inc, 934 F.3d 1093, 1098 (9m Cir. 2019).
+
+       Given the complexity with which online platforms function, it is not always clear
+       whether a platforrn is merely acting as an interactive services provider and
+       publisher of another's content, or if the platform's involvement or intervention in
+       the posting or presentation of that content crosses the line into what courts generally
+       refer to as "development."
+
+Id. (quoting Kimzey v. Yelpl, Inc, 836 F.3d 1263, 1269 (9m Cir. 2016)).         If a platforrn provides
+"'neutral tools' for the creation or dissemination of content[,]" then Section 230 immunity applies.
+
+In re Social Media, 2023 WL 7524912, at * 10 (quoting Fair Hous. Council ofSan Fernando Valley
+
+v. Roommates Com,      LLC, 521 F.3d 1157, 1172 (9m Cir. 2008)). However, if the platforrn
+
+"materially alters the content," then "the tool is not neutral, and Section 230 does not bar liability."
+
+Id. (quoting Roommates. Com, 521 F.3d at 1174-75).
+
+
+                                                   16
+   Case 4:22-md-03047-YGR            Document 683-1            Filed 03/15/24     Page 17 of 34
+
+
+
+
+        The State alleges that Instagram is not reasonably avoidable for many Young Users because
+
+Meta designed it to be highly addictive and to exploit Young Users' biologically limited capacity
+
+for self-control through an array of Instagram features such as notiﬁcations, ephemerality, auto-
+
+play and inﬁnite scroll. Meta notiﬁes Young Users when another user follows them, likes their
+
+content, comments on their content, tags them, mentions them, sends them a message, or goes live.
+
+See C0mpl.,1] 129. Ephemeral content is only available on a temporary basis and not on a schedule
+
+convenient for the consumer. See id, 1] 136. The Stories feature displays user-created images,
+
+videos, and narratives for a maximurn twenty-four hours before the content disappears. See id., 1]
+
+137.   Live gives uscrs the ability to Iivestream videos during a speciﬁc session, aﬁer which the
+
+video is typically no longer available. See id, 1| 138.
+
+        Instagram partially displays additional content at the bottom of the user's screen, which
+
+allegedly makes it difﬁcult for Young Users to disengage, because there is no natural end point to
+
+the display   of new information.     See id.,   1]    147.   Similar to inﬁnite scroll, Stories show
+
+automatically and continuously play content, encouraging Young Users to remain on Instagram.
+
+See id, 1T 152. Videos on Reels automatically and perpetually play as the consumer swipes the
+
+screen up to the next video. Additioual aspects of Reels, including the placement of the like,
+
+comment, save, and share buttons on top of the video allegedly reduce or prevent interruption and
+
+keep the consumer constantly viewing videos. See id, 1] 155.
+
+        The State alleges that Young Users' compulsive use of Instagram causes lack of sleep and
+
+related health outcomes, diminished in-person socialization skills, difﬁculty maintaining attention,
+
+increased hyperactivity, self-control challenges, increased depression and anxiety, and interruption
+
+of various brain development processes. See Compl., m] 187-89, I92.
+
+
+
+
+                                                      17
+  Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24      Page 18 of 34
+
+
+
+
+       The Superior Court of California in Social Media Cases was presented with litigation
+
+against ﬁve companies Operating social media platforms including Facebook, Instagram,
+
+YouTube, TikTok, and Snapchat. The plaintiffs alleged that, as children or minor teenagers, they
+
+became addicted to the social media platforms as a result of the platforms' allegedly manipulative
+
+features that sought to maximize the time they spent on the sites and thereby maximize the
+
+
+platforms' advertising revenue. See Social Media Cases, 2023 WL 6847378, at *1. The plaintiffs
+
+alleged that, "as a result of their addiction, they suffered depression and anxiety, engaged in self-
+
+harm, became suicidal, and developed eating disorders." Ia'.
+
+       For example, the Master Complaint alleges that TikTok is designed with
+       "continuous scrolling," a feature of the platform that "makes it hard for users to
+       disengage from the app," (Mast. Compl., 567) and that minor users cannot disable
+                                                  1|
+
+       the "auto-play function" so that a "ﬂow-state" is induced in the minds of the minor
+       users (Mast. Compl., 1] 590). The Master Complaint also alleges that some Plaintiffs
+       suffer sleep disturbances because "Defendants' products, driven by IVR
+       algorithms, deprive users of sleep by sending push notiﬁcations and emails at night,
+       prompting children to re-engage with the apps when they should be sleeping."
+       (Mast. Comp., 1| 107 [also noting that disturbed sleep increases the risk of major
+       depression and is associated with "future suicidal behavior in adolescents"].)
+
+Id. at *31.   "['I']he Master Complaint alleges harm from 'ﬁlters' and 'rewards' offered by
+
+Defendants. Plaintiffs allege, for example, that Defendants encourage minor users to create and
+
+post their own content using appearance-altering tools provided by Defendants that promote
+
+unhealthy 'body image issues." Id.
+
+       The court in Social Media Cases determined that the plaintiffs' claims were not barred by
+
+Section 230, "because the alleged wrongdoing does not 'treat[] [the provider] as the publisher or
+
+speaker of any information provided by another information content provider."             Id. at *32
+
+
+(quoting 47 U.S.C. § 230(c)(1)). Rather, the court determined the plaintiffs' allegations were
+
+"based on the allegedly addictive qualities of the interactive features of Defendants' social media
+
+
+
+
+                                                 18
+    Case 4:22-md-03047-YGR               Document 683-1           Filed 03/15/24        Page 19 of 34
+
+
+
+
+sites[,]" which did not fall within the blanket immunity of Section 230, because "Defendants are
+
+allegedly liable for their own actions, not for the content of third-party postings." Id
+
+        "Section 230 does not bar a claim based on features of a social media site that have an
+
+adverse effect on users apart ﬁom the content of material published on the site." Id. at *30. "So
+
+long as providers are not punished for publishing third-party content, it is consistent with the
+
+purposes of Section 230 to recognize a common law duty that providers refrain from actions that
+
+injure minor users by inducing frequency and length of use of a social media platform to the point
+
+where a minor is addicted and can no longer control the information they receive from that
+
+platform." 1d. at *32. "The duty to design a reasonably safe product is fully independent of [the
+
+platform's] role in monitoring or publishing third-party content." Id at *33 (quoting Lemmon v.
+
+Snap, Ina, 995 F.3d 1085, 1092-93 (9m Cir. 2021)).
+
+        Social Media Cases is instructive here.            The State's claims based on the interactive
+
+operational features of lnstagramz do not seek to require that Meta publish or de-publish any third-
+
+party content posted on Instagram. Rather, the features themselves allegedly operate to addict and
+
+harm Young Users, regardless of the particular third-party content viewed by the Young Users.
+
+
+Although the Complaint contains allegations that could be read as seeking to hold Defendants
+
+liable for publishing third-party content, it also contains allegations that the harms to consumers
+
+complained of are caused by Meta's design and Operation of Instagram. Viewing the Complaint
+
+in the light most favorable to the State, the State's Complaint sufﬁciently alleges that it was Meta's
+
+design of Instagram itself that caused Young Users to become addicted and to suffer harm as a
+
+
+
+
+2
+  'lhe State's allegations concerning Instagram features that maximize Young Users' engagement do not challenge
+algorithms that decide what content to publish.
+
+                                                      19
+    Case 4:22-md-03047-YGR                Document 683-1            Filed 03/15/24          Page 20 of 34
+
+
+
+
+result.3 Because it appears from the factual allegations and the applicable law that the State could
+
+
+prove a set of facts that would entitle it to relief on its claims, the motiou to dismiss Count l of the
+
+Complaint premised on Section 230 must be denied. See Snyder, 986 S.W.2d at 554.
+
+        For its deception claim, the State alleges that, by misrepresenting Instagram's safety, the
+
+incidence of harmful experiences on lnstagram, and the efﬁcacy of Instagram's well-being related
+
+platform features, Defendants engaged in deceptive practices prohibited by the TCPA. The State
+
+further alleges that Defendants failed to disclose the harmsassociated with Instagram in general
+
+and with certain Instagrarn features, which Defendants knew had a harmﬁrl effect on consumers'
+
+mental health and well-being. By allegedly downplaying the risks of Instagram use, Defendants
+
+purportedly led reasonable consumers to believe that lnstagram is a safer platform than it really is.
+
+        Some of the State's deception claim could be construed as being based on speciﬁc third-
+
+party content (i.e., cyberbullying, harassment, self-harm, negative appearance and social
+
+comparison-provoking content, unwanted advances). These allegations could be interpreted as
+
+being premised on Meta's role as a publisher, which would be prohibited under Section 230. The
+
+Complaint could also be construed as being based on conduct other than the publishing of third-
+
+party content, such as failing to disclose or misrepresenting platforrn features allegedly known to
+
+risk harm to Young Users. Under the latter interpretation, liability is alleged to arise "from
+
+[Defendants'] knowledge, based on public studies or internal research, of the ways that their
+
+products harm" their consumers. In re Soc. Media, 2023 WL 7524912, at
+                                                                                        *         As such, Section
+                                                                                            16.
+
+
+230 immunity would not apply "because these adverse effects that allegedly should have been
+
+
+
+
+3
+  It could very well be that a jury ﬁnds that Young Users becarne addicted to Instagrarn because of the third-party
+content posted thereon. However, this Court's task when presented with a motion to dismiss is to 'test the legal
+sufﬁciency of the Complaint, not the strength of the State's proof. See Webb, 346 S.W.3d at 426.
+
+                                                        20
+  Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24      Page 21 of 34
+
+
+
+
+disclosed result from Meta's own conduct, not from any particular content displayed." Social
+
+Media Cases, 2023 WL 68473 78, at *46.
+
+       Viewing the Complaint in the light most favorable to the State, it appears from the factual
+
+allegations and the applicable law that the State could prove a set of facts that would entitle it to
+
+relief on its claims. See Snyder, 986 S.W.2d at 554. Accordingly, the motion to dismiss Count 2
+
+of the Complaint premised on Section 230 is respectfully denied.
+
+                                          First Amendment
+
+       "The Free Speech Clause of the First Amendment . . . can serve as a defense in state tort
+
+suits." Snyder v. Phelps, 562 U.S. 443, 451 (2011). "[A]s a general matter, . . . government has
+
+no power to restrict expression [of speech] because of its message, its ideas, its subject matter, or
+
+its content." Brown v. Em. Merchs. Ass 'n, 564 U.S. 786, 790-91 (2011)(citation omitted).        "[A]
+State possesses legitimate power to protect children from harm . . . but that does not include a free-
+
+ﬂoating power to restrict the ideas to which children may be exposed." 1d. at 794-795 (citations
+
+omitted). "'Speech that is neither obscene as to youths nor subject to some other legitimate
+
+prescription cannot be suppressed solely to protect the young from ideas or images that a
+
+legislative body thinks unsuitable for them." Id. at 795 (quoting Erznozm'k v. Jacksonville, 422
+
+U.S. 205, 213-214 (1975)).
+
+       Under the First Amendment, the acts of dissemination, disclosing and publishing
+
+information are considered speech. See In re Social Media, 2023 WL 7524912, at *17 (citing
+
+Sorrell v. IMS' Health Ina, 564 U.S. 552, 570 (2011); Barmicki v. Vopper, 532 U.S. 514, 527
+
+(2001)); Newspaper Printing Corp. v. Galbreath, 580 S.W.2d 777, 779 (Tenn. I979)(First
+
+Amendment provides the freedom to publish constitutionally protected speech "as the publisher
+
+sees tit"). "It is undisputed that the First Amendment generally protects a publisher from liability
+
+
+
+
+                                                 21
+   Case 4:22-md-03047-YGR            Document 683-1          Filed 03/15/24      Page 22 of 34
+
+
+
+
+where that publisher organized, compiled, and disseminated information that then harmed the
+
+plaintiff." Social Media Cases, 2023 WL 6847378, at *38. However, "the mere fact that the
+
+conduct at issue involves or includes speech does not necessarily shield a defendant from liability."
+
+Id. at *36.
+
+        While the Complaint could be read to allege that consumers were harmed by third-party
+
+content found on Instagram, it is undisputed that there is no single type of content viewed by all
+
+consumers. Rather, the particular content viewed is custom tailored to each consumer.        As such,
+
+the allegedly addictive .and harmful features of Instagram are alleged to work regardless of the
+
+
+third-party content viewed. To this cnd, the Complaint can be read to allege that it is the design
+
+and the way Instagram functions that makes it addictive and thus harmful to consumers, especially
+
+
+Young Users, or that certain design features (such as ﬁlters) directly harms Young Users,
+
+especially young women, not the content itself. Under this interpretation, Defendants cannot be
+
+analogized to mere publishers of information. See id at *38 ("Design features of the platforms
+
+(such as endless scroll or ﬁlters) cannot readily be analogized to mere editorial decisions made by
+
+a publisher."). Viewing the Complaint in the light most favorable to the State, it appears from the
+
+factual allegations and the applicable law that the State could prove a set of facts that would entitle
+
+it to relief on its claims. Accordingly, the motion to dismiss Count l of the Complaint premised
+
+on the First Amendment is respectfully denied.
+
+        "Liability for failure to warn about speciﬁc third-party content could be interpreted as
+
+premised on Meta's role as publisher in violation of both Section 230 and the First Amendment."
+
+Id. at *46. However,
+
+
+        [i]f a potential user were deterred from consuming content on Meta's platforms due
+        to a warning about possible addiction, the deterrence would not be based on a
+        government sanction of the content on the platforms. Therefore, the First
+
+
+
+                                                  22
+   Case 4:22-md-03047-YGR             Document 683-1         Filed 03/15/24       Page 23 of 34
+
+
+
+
+        Amendment is not implicated by failure to provide wamings concerning potential
+        harms ﬁom features created by Defendants to maximize minors' usage.
+
+Social Media Cases, 2023 WL 6847378, at *47. "Similarly, the First Amendment does not bar a
+
+claim of failure to warn of potential injuries from Meta's social media platforrn design." 1d.
+
+        Some of the State's deception claim allegations could be construed as being based on
+
+speciﬁc third-party content (i.e., cyberbullying, harassment, self-harm, negative appearance and
+
+social comparison-provoking content, unwanted advances). These allegations could be interpreted
+
+as being premised on Meta's role as a publisher, which would be prohibited under the First
+
+Amendment. However, the Complaint could also be construed as being based on eonduet other
+
+than the publishing of third-party content, such as failing to disclose or misrepresenting platform
+
+features allegedly known to risk harm to Young Users. Under the latter interpretation, liability is
+
+alleged to arise from Defendants' knowledge of the ways their products allegedly harm consumers,
+
+especially Young Users.
+
+       The First Amendment does not protect Defendants from liability for their own failure to
+
+warn, as the adverse effects that allegedly should have been disclosed result from Defendants' own
+
+conduct, not from any particular third-party content displayed. Stated differently, Meta's potential
+
+liability springs from its capacity as a creator of features designed to maximize engagement for
+
+Young Users, not from its role as publisher. Taking the allegations in the Complaint in the light
+
+most favorable to the State, it appears from the Complaint's factual allegations and the applicable
+
+law that the State could prove a set of facts that would entitle it to relief on its deception claims.
+
+       Defendants assert that, to the extent the State identiﬁes any misrepresentations made by
+
+Meta, as opposed to any omissions or failure to disclose, those statements are protected by the First
+
+Amendment. More speciﬁcally, Defendants assert that, to the extent the State's deception claim
+
+
+
+
+                                                  23
+      Case 4:22-md-03047-YGR               Document 683-1            Filed 03/15/24         Page 24 of 34
+
+
+
+
+is based on statements made to Congress in response to questioning,' it is barred by the First
+
+Amendment under the Noerr-Pennington doctrine. See Compl., 1H] 340-43, 362-65, 369-72, 377-
+
+82.
+
+         The Noerr-Penm'ngton doctrine acknowledges that the right to petition the
+         government is a freedom that is protected by the Bill of Rights. See Eastern KR.
+         Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S. 127, 138 (1961).
+         Under the Noerr-Pennington doctrine, civil actions are barred where the activity
+         challenged under federal statute or state law consists of "petitioning legislatures,
+         administrative bodies, and the courts," even if the defendant's actions had an
+         "anticompetitive or otherwise injurious purpose or effect." Hamilton v. Accu-Tek,
+         935 F. Supp. 1307, 1316-17 (E.D.N.Y. 1996); see United Mine Worker of Am. v.
+         Pennington, 381 U.S. 657 (1965). Noerr-Pennington has also been applied to bar
+         liability in state common law tort claims, including negligence and products
+         liability claims, for statements made in the course of petitioning the government.
+         See Hamilton, 935 F. Supp. at 1317.
+
+Tuosto v. Phillip Morris USA Inc, No. 05 Civ. 9384(PKL), 2007 WL 2398507, at *5 (S.D.N.Y.
+
+Aug. 21, 2007).
+
+         There are two exceptions to the protective reach of the Noerr-Pennington doctrine:
+         the "mere sham" exception and the "unethical" exception. See id. Statements made
+         in the course of petitioning Congress are considered a "mere sham" when the actor
+         making the statements does not have a true interest in the outcome of the effort to
+         inﬂuence government because the effort "is a mere sham to cover what is actually
+         nothing more than an attempt to interfere directly with the business relationships of
+         a competitor." Noerr, 365 U.S. at 144; see, e.g., Oregon Natural Res. Council v.
+         Mohla, 944 F.2d 531, 535 (9th Cir. 1991). The "unethical" exception denies Noerr-
+         Pennington protection to statements made while petitioning the government "where
+         the political activity involved illegal, corrupt or unethical means." Hamilton, 935
+         F. Supp. at 1317.
+
+Id. "Notwithstanding the 'unethical' and 'mere sham' exceptions, Noerr-Pennington protection
+
+has been extended to all advocacy intended to inﬂuence government action, including to allegedly
+
+false statements." 1d. (citations omitted).
+
+
+
+
+4
+ The alleged statements were made in response to questions from Congress in part to persuade Congress of the public
+beneﬁts of Mcta's services and concemed potential efforts by Congress to pass legislation. See Defs.' Reply, pp. l9-
+20 n.10.
+
+                                                        24
+  Case 4:22-md-03047-YGR             Document 683-1       Filed 03/15/24      Page 25 of 34
+
+
+
+
+       The question of whether there should be absolute immunity for conduct including
+
+intentional misrepresentations or fraud should be analyzed under the sham exception. See In re
+
+JUUL Labs. Ina, Mktg. Sales Pram, & Prods. Liab. Lilig. , 497 F. Supp. 3d 552, 614 (N.D. Cal.
+
+2020); Kearney v. Foley & Lardner, LLP, 590 F.3d 638, 645 (9th Cir. 2009); Sosa v. DIRECTI',
+
+Ina, 437 F.3d 923, 929 (9th Cir. 2006). "Whether or not an otherwise non-actionable statement
+
+falls within the sham exception is generally a question of fact not appropriate for resolution on a
+
+motion to dismiss."   1d.   Additionally, while the Noerr-Penm'ngton doctrine provides immunity
+
+ﬁom liability for simply petitioning government, the doctrine does not foreclose use of
+
+communications to government as evidence of, inter alia, knowledge, intent, or state of mind. See
+
+In re Tylenol (Acetaminophen) Midg, Sales Pracs. & Prods. Liab. Ling, 18] F. Supp. 3d 278, 306
+
+(ED. Pa. 2016).
+
+       Regarding the State's claim that Meta created the false impression that Instagram is a safe
+
+platfonn where users were uniikcly to experience signiﬁcant harm and where users' mental health
+
+is protected see Compl., 1[ 24, Defendants assert that Meta's statements regarding safety or the
+
+prioritization of safety are statements of opinion entitled to First Amendment protection.
+
+"[S]tatements of opinion are protected by the First Amendment uniess they 'imply a false assertion
+
+of fact.' Even seemingly factual statements 'are protected by the First Amendment if they cannot
+
+reasonably be interpreted as stating actual facts about their target." Berry v. Schmitt, 688 F.3d
+
+290, 303 (6th Cir. 20]2)(quoting Standing Comm. v. Yagman, 55 F.3d 1430, 1438 (9th Cir. 1995)).
+
+       "[A] company has a duty to disclose hard information but not soft information
+       unless other criteria are met." Weiner v. Tivity Health, Inc., 365 F. Supp. 3d 900,
+       913 (M.D. Tenn. 2019)(qu0ting Zaluskr' v. United Am. Healthcare Cor-1)., 527 F.3d
+       564, 572 (6th Cir. 2008)). "Hard information is typically historical information or
+       other factual information that is objectively veriﬁable. Such information is to be
+       contrasted with 'soﬁ' information, which includes predications and matters of
+       Opinion." Id. (quoting Zaluski, 527 F.3d at 572). With regard to soft information,
+       "a defendant may choose silence or speech based on the then-known factual basis,
+
+
+                                                25
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24      Page 26 of 34
+
+
+
+
+        but it cannot choose half-truths." Id. (quoting In re Ford [Motor Co. Sec. Li!ig.],
+        381 F.3d [563,] 569 [(6th Cir. 2004)]; see also City ofMonroe Employees Ref. Sys.
+        v. Bridgesrone Corp., 399 F.3d 651, 675 (6th Cir. 2005)("the protections for soft
+        information end where speech begins.")(intemal citation omitted). "Thus, once a
+        company has chosen to speak on an issue even an issue it had no independent
+                                                      
+
+
+
+
+        obligation to address it cannot omit material facts related to that issue so as to
+                              
+
+
+
+
+        make its disclosure misleading." Weiner, 365 F. Supp. 3d at 913 (citation and
+        internal quotations omittcd).
+
+St. Clair Cntjz. Emps. Ret. Sys. v. Acadia Healthcare Co., Ina, No. 3:18-cv-00988, 2023 WL
+
+195370, at *4 (MD. Tenn. Jan. 20, 2021).
+
+        The question of whether alleged misrepresentations or omissions are material is a mixed
+
+question of law and fact that courts generally reserve for the trier of fact. See id at *6; Helwig v.
+
+Vencor, Ina, 251 F .3d 540, 563 (6"' Cir. 2001). "The courts are also more inclined to send close
+
+cases to the jury when the representation at issue relates directly-to . . . safety." Ladd by Ladd v.
+
+Honda Motor Co., Ltd, 939 S.W.2d 83, 100 (Tenn. Ct. App. 1996).
+
+        For the foregoing reasons, the motion to dismiss Count 2 of the Complaint on the grounds
+
+of First Amendment protection is respectfully denied.
+
+                                               TCPA
+
+       The TCPA is to be interpreted and construed "in accordance with interpretations of 15
+
+U.S.C.A. § 45(a)(1) by the Federal Trade Commission and the federal courts." Tucker v. Sierra
+
+Builders, 180 S.W.3d 109, 115 (Tenn. Ct. App. 2005)(citing Tenn. Code Ann. § 47-18-115). One
+
+purpose of the TCPA "is to provide additional, supplementary state law remedies to consumers
+
+victimized by unfair or deceptive business acts or practices that were committed in Tennessee in
+
+whole or in part." Id.; Tenn. Code Ann. §§ 47-18-1020). "[T]he TCPA is explicitly remedial,
+
+and Tennessee courts are therefore required to construe it liberally to protect consumers in
+
+Tennessee and "elsewhere." Id.
+
+
+
+
+                                                 26
+   Case 4:22-md-03047-YGR             Document 683-1          Filed 03/15/24      Page 27 of 34
+
+
+
+
+        The TCPA speciﬁcally enumerates 62 unfair or deceptive acts or practices that are
+
+prohibited and deemed unlawﬁtl under the statute. See Tenn. Code Ann. § 47-18-104(b).                 A
+
+deceptive act or practice is "one that causes or tends to cause a consumer to believe what is false
+
+or that misleads or tends to mislead a consumer as to a matter of fact." Tucker, 180 S.W.3d at 116.
+
+An unfair act is "an act or practice [that] causes or is likely to cause substantial injury to consumers
+
+which is not reasonably avoidable by consumers themselves and not outweighed by countervailing.
+
+beneﬁts to consumers or to competition." 1d. at 116-17. While these standards are legal matters
+
+for a court to determine, "whether a speciﬁc representation in a particular case is 'unfair' or
+
+'deceptive' is a question of fact." Id. at 116.
+
+        Defendants argue that the State's TCPA claims fail because 1) the Complaint does not
+
+allege that any unfair or deceptive acts or practices occurred in Davidson County; 2) the TCPA
+
+exempts entities that engage in the dissemination of information; 3) the Complaint does not allege
+
+any acts or practices affecting the conduct of any trade or commerce; and 4) the alleged deceptions
+
+or misrepresentations identiﬁed are not statements of fact and/or the Complaint does not allege
+
+their materiality.
+
+        The Attorney General may bring a TCPA action or proceeding in any court of competent
+
+jurisdiction "in the county where the alleged unfair or deceptive act or practice todk place, is taking
+
+place, or is about to take place, or in the county in which such person resides, has such person's
+
+principal plaec of business, conducts, transacts, or has transacted business[.]" Tenn. Code Ann. §
+
+47-18-108(a)(4); Tenn. Code Ann. § 47-18-1 l4. The Complaint alleges that Davidson is a county
+
+in which alleged violations took place and where Defendants have conducted or transacted
+
+business. See Compl., 1H] 35, 84-89, 95. Taking the allegations in the Complaint in the light most
+
+favorable to the State, these allegations are sufficient to survive the motion to dismiss.
+
+
+
+
+                                                  27_
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24      Page 28 of 34
+
+
+
+
+        The TCPA does not apply to
+
+        [a] publisher, broadcaster, or other perSon principally engaged in the preparation or
+        dissemination of information or the reproduction of printed or pictorial matter, who
+        has prepared or disseminated such information or matter on behalf of others without
+        notiﬁcation from the attorney general that the information or matter violates or is
+        being used as a means to violate this part[.]
+
+Tenn. Code Ann. § 47-18-1 1 1(a)(2).
+
+        Defendants argue that Meta is principally engaged in the dissemination of information as
+
+described in this section; thus, it is exempt from the TCPA. This exemption applies in cases where
+
+a plaintiff seeks to hold a defendant liable for publishing third-party content and disseminating that
+
+
+information on behalf of others. As discussed more thoroughly above, the State's Complaint can
+
+be interpreted as seeking to hold Metaliable for its own misconduct, not for the third-party content
+
+Meta disseminates on others' behalf.
+
+        The TCPA is limited to unfair or deceptive acts or practices that affect the conduct of any
+
+trade or commerce. See Tenn. Code Ann. § 47-18-104(a). "'Trade,' 'commerce,' or 'consumer
+
+transaction' means the advertising, offering for sale, lease or rental, or distribution of any goods,
+
+services, or property, tangible or intangible, real, personal, or mixed, and other articles,
+
+commodities, or things of value wherever situated." Tenn. Code Ann. § 47-18-103(24). Thus, the
+
+TCPA guards against unfair or deceptive acts or practices that affect the advertising or distribution
+
+of services and other things of value wherever situated. Unfair or deceptive acts or practices
+
+affecting the conduct of any trade or commerce include "engaging in any . . . act or practice which
+
+is deceptive to the consumer or to any other person[.]" Tenn. Code Ann. § 47-18-104(b)(27). An
+
+exchange of money or transfer of valuable consideration is not a requirement written into thc
+
+TCPA.
+
+
+
+
+                                                 28
+   Case 4:22-md-03047-YGR              Document 683-1           Filed 03/15/24     Page 29 of 34
+
+
+
+
+       The Complaint alleges that Meta engages in trade and commerce by offering
+
+advertisements and providing Instagram in Tennessee.             See Compl., 1] 397.       Meta allegedly
+
+employs unfair and deceptive tactics, such as designing and featuring Instagram in a manner that
+
+induces compulsive use, to fuel its collection of data from consumers, which it allegedly monetizes
+
+by selling targeted advertising. Allegedly, Meta intentionally exploits the developmental nature
+
+of Young Users' brains, causing them to spend more time on Instagram and creating an obstacle
+
+to their ﬁee choice.   See id, 11 402. Defendants also allegedly deprive consumers of free and
+
+informed choice regarding Instagram by withholding important information about and
+
+misrepresenting the degree to which lnstagram induces compulsive usc, the negative impact
+
+Instagram has on mental health, the efﬁcacy of Instagram's well-being features, and the frequency
+
+of harmful experiences on Instagram. See id, 1m 404, 411-12. These allegations meet the
+
+deﬁnition of unfair or deceptive acts or practices affecting the conduct of any trade or commerce
+
+under the TCPA.
+
+       Defendants      argue   that   the   Complaint   fails    to   allege   deceptive    practices   or
+
+misrepresentations. Defendants contend that many of the identiﬁed statements are not statements
+
+of fact and, thus, cannot serve as the basis of a TCPA claim. The TCPA does not deﬁne "unfair"
+
+or "deceptive." Thus "the standards to be used in determining whether a representation is 'unfair'
+
+or 'deceptive' under thc TCPA are legal matters to be decided by the courts." Tucker, 180 S.W.3d
+
+at 116. "However, whether a speciﬁc representation in a particular case is 'unfair' or 'deceptive'
+
+is a question of fact." Id. "Misrepresentations that would not be actionable as common-law fraud
+
+may nevertheless be actionable under the provisions of the . . . TCPA." 1d. at 115. "The TCPA
+
+applies to any act or practice that is unfair or deceptive to consumers." 1d. (citing Tenn. Code Ann.
+
+§§ 47-18-104(a), -104(b)(27)).
+
+
+
+                                                  29
+Case 4:22-md-03047-YGR           Document 683-1         Filed 03/15/24      Page 30 of 34
+
+
+
+
+           Although Tennessee courts have not had many opportunities to construe the
+   terms "unfair" and "deceptive" under thc T CPA, thc Federal Trade Commission
+   and the federal courts have developed a substantial and ﬁnely honed body of law
+   construing these terms in the context of the FTC Act. The General Assembly has
+   instructed us to look to the federal understanding of these tenns in interpreting them
+   in the TCPA. Tenn. Code Ann. § 47-18-115. Accordingly, we may look to the
+   federal law deﬁning these key terms to determine how they should be applied in
+   this case.
+
+   The concept of deceptiveness is a broader, more ﬂexible standard of actionable
+   merchant misconduct than the traditional remedy of common-law fraud. A
+   deceptive act or practice is one that causes or tends to cause a consumer to believe
+   what is false or that misleads or tends to mislead a consumer as to a matter of fact.
+   Thus, for the purposes of the TCPA and other little FTC acts, the essence of
+   deception is misleading consumers by a merchant's statements, silence, or actions.
+   JONATHAN SHELDON & CAROLYN L. CARTER, UNFAIR AND
+   DECEPTIVE ACTS AND PRACTICES § 4.2.3.1, at 118-19 (5th ed. 2001)
+   [hereinaﬁer UNF AIR AND DECBPTIVE ACTS AND PRACTICES].
+
+   The concept of unfairness is even broader than the concept of deceptiveness, and it
+   applies to various abusive business practices that are not necessarily deceptive.
+   UNFAIR AND DECEPTIVE ACTS AND PRACTICES § 4.3.3.1, at 156. In the
+   1994 legislation reauthorizing the Federal Trade Commission, Congress undertook
+   to codify the Commission's policy statement on unfairness by stating that an act or
+   practice should not be deemed unfair "unless the act or practice causes or is likely
+   to cause substantial injury to consumers which is not reasonably avoidable by
+   consumers themselves and not outweighed by countervailing beneﬁts to consumers
+   or to competition." 15 U.S.C.A. §45(n).
+
+   To be considered "substantial," consumer injury must be more than trivial or
+   Speculative. Tungate v. MacLean-Stevens Studios, 1nc., 714 A.2d 792, 797 (Me.
+   1998); Legg v. Castruccio, 100 Md. App. 748, 642 A.2d 906, 917 (1994).
+   Substantial injury usually involves monetary injury or unwarranted health and
+   safety risks. UNFAIR AND DECEPTIVE ACTS AND PRACTICES § 4.3.2.2, at
+   154. Consumer injury will be considered substantial if a relatively small harm is
+   inflicted on a large number of consumers or if a greater harm is inflicted on a
+   relatively small number of consumers. Orkin Exterminating Co. v. FTC, 849 F.2d
+    1354, 1365 (11th Cir. 1988).
+
+   Even if an act or practice causes or is likely to cause substantial injury, it will not
+   be considered unfair unless the injury is not reasonably avoidable by consumers
+   themselves. Consmners cannot reasonably avoid injury when a merchant's sales
+   practices unreasonably create or take advantage of an obstacle to the free exercise
+   of consumer decision-making. Practices that unreasonably interfere with consumer
+   decision-making include (1) withholding important information from consumers,
+   (2) overt coercion, or (3) exercising undue influence over a highly susceptible class
+
+                                             30
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24      Page 31 of 34
+
+
+
+
+       of consumers. UNFAIR AND DECEPTIVE ACTS AND PRACTICES § 4.3.2.3,
+       at 155.
+
+
+Tucker, 180 S.W.3d at 116-17.
+
+       Company statements of opinion or puffery are "evaluated in context to determine if they
+
+convey more than just a generalized optimism" Grae v. Corr. Corp. ofAm, No. 3:16-CV-2267,
+
+2017 WL 6442145, at *14 (MD. Tenn. Dec. 18, 2017).              "[V]ague statements not subject to
+
+veriﬁcation by proof are generally deemed non-actionable puffery. But 'opinion or puffeiy . . . in
+
+particular contexts when it is both factual and matcn'al . . . may be actionable." Cir): of Monroe
+
+Emps. Ret. Sys. v. Bridgestone Carp., 399 F.3d 651, 674 (6th Cir. 2005)(quoting Longman v. Food
+
+Lion, Inc, I97 F.3d 675, 683 (4th Cir. 1999))(emphasis omitted); see also Casella v. Webb, 883
+
+F.2d 805, 808 (9m Cir. 1989)("What might be innocuous 'puffery' or mere statement of opinion
+
+standing alone may be actionable as an integral part of a representation of material fact when used
+
+to emphasize and induce reliance upon such a representation").
+
+       Whether an alleged misrepresentation or omission is material is a mixed question of Iaw
+
+and fact. See St. Clair Cmy. Emps. Rel. Sys., 2021 WL 195370, at *6.         "A claim is considered
+material if it 'involves information that is important to consumers and, hence, likely to affect their
+
+choice of, or conduct regarding a product." Kraft, Inc v.       FTC,_ 970 F.2d 311, 322 (7m Cir.
+
+l992)(quoting Matter of Cliﬁ'dale Assocs., 103 F.T.C. 110, 1984 WL 565319, at *37 (FTC Mar.
+
+23, 1984)).   "A presumption of materiality is applied 'with three types of claims: (1) express
+
+claims; (2) implied claims where there is evidence that the seller intended to make the claim; and
+
+(3) claims that signiﬁcantly involve health, safety, or other areas with which reasonable consumers
+
+would be concemed."' Stale ex rel. Slalery v. HRC Med. Ctrs., Inc., 603 S.W.3d 1, 24 (Tenn. Ct.
+
+App. 2019)(quoting Kraft, 970 F.2d at 322-23).
+
+
+
+
+                                                 31
+   Case 4:22-md-03047-YGR            Document 683-1         Filed 03/15/24       Page 32 of 34
+
+
+
+
+        "Successfully pleading an actionable material misrepresentation or omission requires a
+
+'plaintiff to allege facts demonstrating two things:    (1) that a defendant made a statement or
+
+omission that was false or misleading; and (2) that this statement or omission concerned a material
+
+fact." In re Omnicare, Inc. Sec. Lilig., 769 F.3d 455, 470 (6th Cir. 2014). "[C]ontext must infonn
+
+determinations of materiality." St. Clair Cnt)». Emps. Ret. Sys., 2021 WL 195370, at *6; In re
+
+Omnicare, Inc. Sec. Litig., 769 F.3d at 478 ("[A]s we have said and the Supreme Court has made
+
+clear, context matters when analyzing materiality.").      Given these principles and viewing the
+
+Complaint in the light most favorable to the State, the Court declines to dismiss the Complaint at
+
+this early stage, as a reasonable juror might conclude that Defendants' statements or omissions
+
+were actionable material misrepresentations.
+
+        Defendants assert that the State's allegations regarding the Bad Experiences and
+
+Encounters Framework ("BEEF") do not establish that the challenged statements regarding the
+
+Community Standard Enforcement Reports ("CSERs") are false or misleading. Defendants assert
+
+that the CSERs measure the prevalence of community-standardS-violating content (i.e., the
+
+percentage of views that were of content violating Meta's community standards) whereas BEEF
+
+reports the percentage of users who self-report having seen content that falls into certain inherently
+
+subjective categories. Stated differently, BEEF does not address the same metrics as the CSERs;
+
+thus, Defendants contend BEEF does not contradict the CSERs.
+
+       The Complaint alleges that the CSERs create the impression that Instagram is a safe
+
+platform on which harmful content is rarely encountered. See Compl., 1] 289. The Complaint
+
+claims that Meta uses misleading terminology in the CSERs, which tout the prevalence of
+
+community-standards-violating conduct, rather than the higher prevalence of harmful content. See
+
+id, 1m 293-94. The Complaint alleges that Meta exploits that confusion to inﬂate the CSERs'
+
+
+                                                 32
+   Case 4:22-md-03047-YGR            Document 683-1          Filed 03/15/24     Page 33 of 34
+
+
+
+
+signiﬁcance to consumers. See id.,1|1] 292, 295, 297. The Complaint further alleges that Meta's
+
+intemal surveys,h such as BEEF, make it clear that harmful content is much more prevalent on
+
+Instagram than the CSERs suggest. The Complaint alleges that a former Meta executive testiﬁed
+
+under oath that Meta intentionally uses the CSERs to create a misleading picture of the harmﬁilness
+
+of Meta's platforms. See id.,     315-23.
+
+       At this stage in the proceedings, the Court must take the State's factual allegations as true
+
+and consider all reasonable inferences in its favor. See Webb, 346 S.W.3d at 427. Whether the
+
+BEEF survey undermines the CSERs is a factual guestion for resolution at a later stage in the
+
+proceedings. See FTC v. Wyndham Worldwide Corp, 10 F. Supp. 3d 602, 631 (D.N.J. 2014) aff'd,
+
+799 F.3d 236 (3d Cir. 2015)("[T]he impression that a reasonable consumer would have had after
+
+reading the privacy policy seems to involve fact issues that the Court cannot resolve at this
+
+juncture"); FTC v. Nat '1 Urological Grp., Inc., 64S F. Supp. 2d 1167, 1189 (N.D. Ga. 2008)("The
+
+meaning of an advertisement, the claims or net impressions communicated to reasonable
+
+consumers, is fundamentally a question of fact").
+
+       As it appears from the factual allegations and the applicable law that the State could prove
+
+a set of facts that would entitle it to relief on its TCPA claims, thc motion to dismiss the Complaint
+
+
+on the grounds of failure to state a claim is respectfully denied.
+
+                                            IV. Conclusion
+
+       Defendants have sufﬁcient minimum contacts with Tennessee for this Court to exercise
+
+speciﬁc personal jurisdiction over them. At this stage of the proceedings, the Court must view the
+
+Complaint in the light most favorable to the State. Because the allegations in the Complaint can
+
+be construed as being based on conduct other than the publishing of third-party content, Section
+
+230 immunity and First Amendment protections do not bar the Complaint. Additionally, it appears
+
+
+
+                                                  33
+      Case 4:22-md-03047-YGR           Document 683-1         Filed 03/15/24      Page 34 of 34
+
+
+
+
+ﬁ'om the factual allegations and the applicable law that the State could prove a sct of facts that
+
+would entitle it to relief on its TCPA claims.
+
+         [l]t must be remembered that we are addressing the standard in assessing the
+         sufﬁciency of a single document ﬁled at the very beginning of a case     the     
+
+
+
+
+         complaint. Our motion-to-dismiss jurisprudence reﬂects the principle that this
+         stage of the proceedings is particularly ill-suited for an evaluation of the likelihood
+         of success on the merits or of the weight of the facts pleaded, or as a docket-clearing
+         mechanism.
+
+Webb, 346 S.W.3d at 437. "The prima facie case . . . is an evidentiary standard, not a pleading
+                                                                                                   .
+
+
+
+requirement." Swierkiewicz v. Sorema MA, 534 U.S. 506, 511 (2002).
+
+         For these and the foregoing reasons, the Court respectfully denies the motion to dismiss
+
+ﬁled by Meta Platforms, Inc. and Instagram, LLC.
+
+         1T IS SO ORDERED.
+
+
+
+                                                 RUSSELL T. PERKINS, CI-IANCELLOR
+
+cc:      Matthew D. Janssen, Esq.
+         Brian T. Phelps, Esq.
+         ChristOpher A. Dunbar, Esq.
+         Keaton Murphy, Esq.
+         Robert E. Cooper, Esq.
+         Jessalyn H. Zeigler, Esq.
+         Courtney A. Hunter, Esq.
+         Gregory L. I-Ialperin, Esq.
+         Christian J. Pistilli, Esq.
+
+
+
+
+                                                                                        Marten
+                                                   34
+

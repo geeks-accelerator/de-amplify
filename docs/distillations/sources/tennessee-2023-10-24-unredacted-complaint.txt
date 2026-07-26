@@ -1,0 +1,2759 @@
+IN THE CHANCERY COURT OF DAVIDSON COUNTY, TENNESSEE
+FOR THE TWENTIETH JUDICIAL DISTRICT ATINASHVILLE
+STATE OF TENNESSEE,
+ex rel. JONATHAN SKRMETTI,
+ATTORNEY GENERAL and REPORTER,
+Plaintiff,
+V.
+META PLATFORMS, Inc. and
+INSTAGRAM, LLC,
+Defendants.
+)
+)
+)
+)
+)
+)
+) Case No. 23-1364-IV
+)
+)
+)
+)
+)
+)
+CIVIL ENFORCEMENT COMPLAINT
+Lbl1. The State of Tennessee, by and through Jonathan Skrmetti, its Attorney General
+and Reporter (the "State"), brings this civil law enforcement proceeding to stop Meta Platforms
+Inc.'s ("Meta" or the "Company") deceptive and unfair business practices that are fomenting a
+mental health crisis in this state, particularly through its operation of Instagram, LLC
+("Instagram"), a Meta subsidiary and social media platform.
+Lbl2. The Attorney General has investigated Meta for potential violations of the
+Tennessee Consumer Protection Act, § 47-18-108, (the "TCPA"). The investigation revealed that
+Meta flagrantly and repeatedly engaged in unfair and deceptive conduct at the expense of
+consumers-young users especially-across the country and in Tennessee.
+Lbl3. The TCPA prohibits businesses from engaging in "unfair" practices, which are
+those that cause or are likely to cause injury to consumers that is not reasonably avoidable.
+Lbl4. Meta has done exactly that, designing Instagram to be an addiction machine
+targeted at people under eighteen ("Young Users") who, as Meta well knows, have biologically2
+limited capacity for self-control. The widespread addiction harms Young Users in many ways,
+including by negatively impacting their mental well-being and impairing healthy development.
+5. Instagram did not become so addictive by accident. Meta dedicated vast resources
+to understand Young Users’ psychology and behavior so it could better exploit Young Users’
+developmental vulnerabilities through irresistibledesignfeatures. Metadid this tocaptureanever-
+increasing amount of Young Users’ time and data, for the benefit of Meta’s business.
+6. Unlike other consumer products that have appealed to children for generations—
+likecandyorsoda—withInstagramthereisnonaturalbreakpointwheretheconsumerhasfinished
+the unit of consumption. Instead, Instagram is a bottomless pit where users can spend an infinite
+amount of their time. And Meta profits from each additional second a user spends on the platform.
+7. Meta has designed Instagram to exploit that dynamic, embedding in Instagram an
+array of design features that maximize youth engagement, peppering them with reminders to “log
+on” and making it psychologically difficult to “log off.” These features—including notifications,
+automatically-playing videos, infinite scrolling, and ephemeral content—each serve as an obstacle
+to Young Users’ free decision-making.
+8. As the U.S. Surgeon General recently explained, children’s attempt to resist social
+media is an unfair fight: “You have some of the best designers and product developers in the world
+who have designed these products to make sure people are maximizing the amount of time they
+spend on these platforms. And if we tell a child, use the force of your willpower to control how
+much time you’re spending, you’re pitting a child against the world’s greatest product designers.”1
+9. Instagram’s design and platform features have fueled the explosion of time that
+Young Users spend on Instagram. As Meta’s internal data confirms—and as anyone who recently
+1
+Allison Gordon & Pamela Brown, Surgeon General says 13 is ‘too early’ to join social media,
+CNN (Jan. 29, 2023), https://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html.
+limited capacity for self-control. The widespread addiction harms Young Users in many ways,
+including by negatively impacting their mental well-being and impairing healthy development.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+1 Allison Gordon & Pamela Brown, Surgeon General says 13 is 'too early' to join social media,
+CNN (Jan. 29, 2023), ttps://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html.has spent time with adolescents can attest-Meta has successfully induced Young Users to spend
+vast amounts of time on Instagram. Indeed, for many Young Users, Instagram is viewed as an
+indispensable part of their identity, a forum to share a carefully cultivated personality "highlight
+reel," and a place where they must constantly be "present"-whether they want to or not.
+Lbl
+Lbl
+Lbl
+Lbl
+3
+has spent time with adolescents can attest—Meta has successfully induced Young Users to spend
+vast amounts of time on Instagram. Indeed, for many Young Users, Instagram is viewed as an
+indispensable part of their identity, a forum to share a carefully cultivated personality “highlight
+reel,” and a place where they must constantly be “present”—whether they want to or not.
+10. All the while, Meta understands that Young Users’ time spent on Instagram is not
+the product of free choice. As Meta’s internal studies repeatedly demonstrate—and as a growing
+chorus of independent researchers have confirmed—Young Users feel addicted to Instagram.
+They widely report difficulty controlling their time spent on the application. And they frequently
+express that they would prefer to spend less time on Instagram but feel powerless to do so. Still,
+Meta has not introduced any product changes to meaningfully reduce Instagram’s addictiveness.
+11. The widespread compulsive use that Meta induced—and allowed to continue
+unabated—has come at a massive societal cost. In effect, Meta is conducting a potentially society-
+altering experiment on a generation of Young Users’ developing brains. While this experiment’s
+full impact may not be realized for decades, the early returns are alarming.
+12. Researchers warn that compulsive use of social media platforms like Instagram
+impose a wide range of harms, including increased levels of depression, anxiety, and attention
+deficit disorders; altered psychological and neurological development; and reduced sleep, to name
+a few. And that is to say nothing of the immense opportunity cost imposed when youth spend
+critical years glued to Instagram, not engaged in the varied and profound experiences associated
+with growing up in the physical world.
+13. In short, Instagram causes harm to Young Users and, because of Meta’s design
+choices that make Instagram addictive, many Young Users cannot reasonably avoid that harm.
+This is an unfair practice that violates the TCPA.4
+14. Meta has also violated the TCPA by deceiving Tennessee consumers—and,
+critically, parents—on a large scale. Under the TCPA, a business engages in deceptive conduct
+when its acts, statements, or omissions tend to mislead a reasonable consumer or cause consumers
+to believe what is false. Here, in addition to failing to disclose Instagram’s above-described
+addictivenature, Metamisled consumers, parents and guardians by concealing thesignificant risks
+Instagram presents to its users, particularly Young Users.
+15. First, Meta has long known that Instagram was on-balance harmful for users, and
+especially ruinous for young women. But Meta did not share that information with consumers.
+Instead, Meta’s leadership—including founder and Chief Executive Officer Mark Zuckerberg—
+repeatedly declined employees’ requests to fund measures that would reduce Instagram’s known
+harms. And rather than make its knowledge public, Meta limited internal access to alarming
+findings to mitigate the risk that information would be leaked to consumers, parents, and
+policymakers.
+16. In one particularly distressing episode, Zuckerberg personally intervened to lift a
+ban on “selfie” filters that mimicked plastic surgery effects, even though Meta’s retained experts
+overwhelmingly found that those filters had devastating effects on young women. Zuckerberg did
+this despite the strong urging of employees and other executives. Meta never publicly disclosed
+the harmful effects of this platform feature.
+17. Second, Meta publicizes its “Community Standards Enforcement Reports” to
+create the façade that Instagram is a safe platform where harmful content is rarely encountered.
+Specifically, these reports tout the low “prevalence” of Community Standards violations, which
+the Company uses as evidence that Instagram is safe. But that is a false narrative that misleads
+consumers about the true extent of harmful experiences on Instagram.
+Lbl
+Lbl
+Lbl
+LblLbl
+Lbl
+Lbl
+5
+18. To illustrate, in a Community Standards Enforcement Report, Meta showcased the
+low “prevalence” of violating content, estimating for example that “between 0.05% to 0.06% of
+views were of content that violated our standards against bullying & harassment [on Instagram].”
+That creates the impression that bullying and harassing content is extremely rare on Instagram—
+just 5 or 6 in 10,000 pieces of content.
+19. In reality, bullying and harassing content is rampant on Instagram; most of it just
+does not violate Instagram’s Community Standards (which reasonable consumers, parents, and
+guardians would have no reason to know). Meta’s internal surveys show that the incidence of
+bullying and harassing content is staggering, particularly among Young Users. According to
+Meta’s robust internal survey taken duringroughlythesametimeperiod,users reportedthat within
+the last seven days on Instagram:
+• 28.3% of all users witnessed bullying;
+• 27.2% of 13-15-year-olds witnessed bullying;
+• 29.4% of 16-17-year-olds witnessed bullying;
+• 8.1% of all users were the target of bullying;
+• 10.8% of 13-15-year-olds were the target of bullying;
+• 11.9% of all users received unwanted advances;
+• 13.0% of 13-15-year-olds received unwanted advances; and,
+• 14.1% of 16-17-year-olds received unwanted advances.
+20. While reasonable consumers could not have understood the difference between
+Meta’s reported “prevalence” metrics and the incidence of harm on Instagram, Meta’s leadership
+certainly did. In fact, Meta’s former Director of Engineering raised alarms about this issue to
+Zuckerberg, former Chief Operating Officer Sheryl Sandberg, and Instagram Head Adam Mosserimore than two years ago. Meta's leadership ignored that email and continues to issue misleading
+Lbl
+Lbl
+Lbl
+6
+more than two years ago. Meta’s leadership ignored that email and continues to issue misleading
+reports to this day.
+21. The State obtained testimony from the former Director of Engineering during its
+investigation. Whenaskedifhebelieved“thatMr.ZuckerbergandotherCompanyleadersfocused
+on the ‘prevalence’ metric because it created a distorted picture about the safety of Meta’s
+platforms,” he testified “I do.” When asked if he thought “Mr. Zuckerberg’s public statements
+about prevalence created a misleading picture of the harmfulness of Meta’s platforms,” he testified
+“I do.” And when asked if he was aware of any instances where the Company, in his view,
+minimized (i.e., downplayed) the harms users were experiencing on Meta’s platforms, he testified:
+Every time that a Company spokesperson in the context of harms
+quotes prevalence statistics Ibelieve that is what they are doing, that
+they’re minimizing the harms that people are experiencing in the
+product.
+22. Third, Meta misled the public through false, affirmative statements about its
+commitment to well-being related products and features. For instance, it long touted its “Time
+Spent” tools as a way for users (and parents) to manage engagement on Instagram and as a
+demonstration of Meta’s commitment to well-being. But when Meta learned that its “Time Spent”
+tools delivered inaccurate data to consumers, Meta refused to sunset those tools—preferring to
+mislead its users (and parents) than suffer a public-relations hit for rolling back a purported
+“wellness” feature.
+23. Fourth, Meta made material misrepresentations to develop trust among consumers,
+parents, and guardians that Instagram is a safe place for Young Users. In various public channels,
+Meta has represented (1) that it protects Young Users from harmful or inappropriate content on
+Instagram; (2) that it does not prioritize increasing users’ time on Instagram; (3) that it does not
+place a monetary value on Young Users’ use of Meta platforms; (4) that it has not changed itsinternal data and research access policies in response to The Wall Street Journal's 2021 coverage
+of its internal research findings; (5) that it uses internal research findings to improve product safety
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+7
+internal data and research access policies in response to The Wall Street Journal’s 2021 coverage
+of its internal research findings; (5) that it uses internal research findings to improve product safety
+on a regular basis; and (6) that its platforms are not addictive. Those representations were false.
+24. In sum, through its acts, omissions, and statements, Meta carefully created the
+impression that Instagram is a safe platform where users were unlikely to experience significant
+harm and where users’ mental health is protected. By creating that materially false and misleading
+impression, Defendants engaged in deceptive conduct that is outlawed by the TCPA.
+25. Based on this misconduct, and as more fully described below, Tennessee brings
+this action pursuant to Tennessee Code Annotated § 47-18-108 of the Tennessee Consumer
+Protection Act of 1977 (“TCPA”). Through this action, the State seeks injunctive relief and civil
+penalties.
+I. PARTIES
+26. Jonathan Skrmetti, Attorney General and Reporter of the State of Tennessee, is the
+chief legal officer of the State of Tennessee and may file suits necessary for the enforcement of
+the law and public protection. The Attorney General is also empowered by Tennessee law and his
+common law authority to bring an action in the name of Tennessee to enforce these laws and
+protect the public.
+27. Meta Platforms, Inc., is a Delaware corporation with a principal place of business
+in Menlo Park, California.2
+28. Instagram, LLC is a Delaware corporation with a principal place of business in
+Menlo Park, California. Instagram, LLC is a subsidiary of Meta Platforms, Inc.
+29. Defendants Meta Platforms and Instagram acted in concert with one another and as
+2
+Until October 28, 2021, Meta Platforms was known as Facebook, Inc.8
+agents and/or principals of one another in relation to the conduct described in this Complaint.
+30. All the allegations described in this Complaint were part of, and in furtherance of,
+the unlawful conduct alleged herein, and were authorized, ordered and/or done by Defendants’
+officers, agents, employees, or other representatives while actively engaged in the management of
+Defendants’ affairs within the course and scope of their duties and employment, and/or with
+Defendants’ actual, apparent and/or ostensible authority.
+II. JURISDICTION AND VENUE
+31. In this Complaint, the State asserts causes of action, and seeks remedies, based
+exclusively on Tennessee statutory, common, and decisional law.
+32. The Complaint does not confer diversity jurisdiction upon federal courts pursuant
+to 28 U.S.C. § 1332, as the State is not a citizen of any state and this action is not subject to the
+jurisdictional provision of the Class Action Fairness Act of 2005, 28 U.S.C. § 1332(d). Federal
+question subject matter jurisdiction under 28 U.S.C. § 1331 is not invoked by the Complaint.
+Nowhere does the State plead, expressly or implicitly, any cause of action or request any remedy
+that necessarily arises under federal law.
+33. The Chancery Court is authorized to hear this case as a court of general jurisdiction
+and under the TCPA.
+34. This Court has personal jurisdiction over each Defendant because of their contacts
+in Tennessee. As is described more fully below, Defendants entered contracts with Tennesseans,
+directed marketing efforts towards Tennesseans, sold the opportunity to advertise to Tennesseans,
+and monitored their business success in Tennessee. The allegations in this Complaint, and in
+particular Paragraphs 37-97, establish that Defendants had minimum contacts with Tennessee and
+are incorporated by reference herein.
+35. Venue is proper in Davidson County pursuant to the TCPA’s specific state
+30. All the allegations described in this Complaint were part of, and in furtherance of,
+the unlawful conduct alleged herein, and were authorized, ordered and/or done by Defendants'
+Defendants' affairs within the course and scope of their duties and employment, and/or with
+Defendants' actual, apparent and/or ostensible authority.
+Lbl
+Lbl
+Lbl
+Lbl9
+enforcement venue provision, Tenn. Code Ann. § 47-18-108(a)(4), because Davidson is a county
+where alleged violations took place and where Defendants have conducted or transacted business.
+III. PRE-SUIT NOTICE
+36. Consistent with Tenn. Code Ann. §§ 47-18-108(a)(2) and (3), the State certifies
+that it has provided Defendants with ten days’ notice of its intention to initiate suit and an
+opportunity to respond or present reasons why suit should not be instituted.
+IV. FACTUAL ALLEGATIONS
+Meta Engages in Trade and Commerce Through Its Advertising-Based Business
+Model.
+37. The TCPA applies to activities “affecting the conduct of any trade or commerce”
+in Tennessee. Tenn. Code Ann. § 47-18-102. In several ways, Meta and Instagram have engaged
+in trade and commerce in this state, including by providing a popular means of advertising to
+Tennesseans and offering a social media service to Tennesseans.
+1. Meta Offers Instagram in Exchange for Consumers’ Valuable Consideration
+that Enables Meta to Sell Advertising.
+38. Meta owns, operates, and controls several social technology services, including
+multiple social media platforms. Among those is Instagram, which for years has been one of the
+most popular social media platforms globally and in Tennessee.
+39. Through its mobile application and website, Instagram offers consumers—
+including Tennessee consumers—the opportunity to connect with friends, follow accounts, and
+explore various interests.
+40. On Instagram, consumers interact with different “surfaces.” Those include the
+main “Feed” and “Stories” surfaces that display content posted by accounts the consumer follows;
+the “Explore” surface that suggests new content to consumers; the “Reels” surface focused on
+short-form videos; and the “Direct Messaging” surface, which allows consumers to send messages
+enforcement venue provision, Tenn. Code Ann. § 47-18-108(a)(4), because Davidson is a county
+where alleged violations took place and where Defendants have conducted or transacted business.
+III. PRE-SUIT NOTICE
+36. Consistent with Tenn. Code Ann. § §§ 47-18-108(a)(2) and (3), the State certifies
+that it has provided Defendants with ten days' notice of its intention to initiate suit and an
+opportunity to respond or present reasons why suit should not be instituted.
+A. Meta Engages in Trade and Commerce Through Its Advertising-Based Business
+Lbl
+Lbl
+Lbl
+Lblto one another.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+3 Exhibit 1, Instagram Terms of Use, META (July 26, 2022).
+10
+to one another.
+41. No two consumers’ experiences on Instagram are the same. Rather, Instagram
+presents acustomizeddisplayto each consumerbasedontheinterests andpreferences theyexpress
+on Instagram, along with other data in Meta’s possession.
+42. To fully access Instagram, consumers must create an account.
+43. As part of the account-creation process, consumers enter a contract with Meta.
+44. By entering that contract, users agree to comply with Instagram’s Terms of Use
+(the “Instagram Terms”). 3
+45. The Instagram Terms state that “The Instagram Platform is one of the Meta
+Products, provided to you by Meta Platforms, Inc. The Instagram Terms therefore constitute an
+agreement between you and Meta Platforms, Inc.”
+46. Under the Instagram Terms, users do not pay money to use Instagram.
+47. Rather, consumers offer Meta consideration in a different form: In exchange for
+the right to use Instagram, consumers agree to a host of terms that power Meta’s advertising
+business.
+48. For example, in a section titled “How Our Service Is Funded,” the Instagram Terms
+explain that “[i]nstead of paying to use Instagram, by using the Service covered by these Terms
+[i.e. Instagram], you acknowledge that we can show you ads that businesses and organizations pay
+us to promote on and off the Meta Company Products. We use your personal data, such as
+information about your activity and interests, to show you ads that are more relevant to you.”
+49. The Instagram Terms also state that Meta “allow[s] advertisers to tell us things like
+their business goal and the kind of audience they want to see their ads. We then show their ad to
+3
+Exhibit 1, Instagram Terms of Use, META (July 26, 2022).Instagram. For example, we provide general demographic and interest information to advertisers
+to help them better understand their audience."
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+11
+people who might be interested. We also provide advertisers with reports about the performance
+of their ads to help them understand how people are interacting with their content on and off
+Instagram. For example, we provide general demographic and interest information to advertisers
+to help them better understand their audience.”
+50. In other words, under the Instagram Terms consumers pay for the Instagram
+experience by allowing Meta to build its advertising business with consumers’ time and attention.
+51. Consumers also pay for Instagram by agreeing to give Meta access to vast reams of
+data arising out of their Instagram use. Under Instagram’s Terms, consumers “must agree to
+[Meta’s] Privacy Policy to use Instagram.”
+52. PursuanttoMeta’sPrivacyPolicy,eachconsumer mustagreethatMetamaycollect
+a host of data, ranging from information about the consumer’s activity on Instagram (such as the
+content they like and accounts they follow); the messages the consumer sends and receives; the
+content the consumer provides through Instagram’s camera feature and the consumer’s camera
+roll; the ways the consumer interacts with ads; the time the user spends interacting with various
+pieces of content; the hardware and software the consumer uses; the GPS, Bluetooth signals,
+nearby Wi-Fi access points, beacons and cell towers; and many other categories of data.
+53. Consumers’ payment in the form of time, attention, and data enables Meta to sell
+highly targeted, data-informed advertising opportunities, which is the foundation of Meta’s
+business.
+2. Advertising Is the Core of Meta’s Business.
+54. Deploying this business model, Meta has become one of the largest and most
+profitable advertising companies in the history of the world.
+55. In particular, Meta has capitalized on its ability to offer highly targeted, data-
+informed advertising opportunities, including opportunities based on users’ location.12
+56. As Zuckerberg has explained, “based on what pages people like, what they click
+on, and other signals, we create categories…and then charge advertisers to show ads to that
+category. Although advertising to specific groups existed well before the internet, online
+advertising allows much more precise targeting and therefore more-relevant ads.”4
+57. On information and belief, relative to traditional advertising formats, Meta charges
+businesses a premium to access the “much more precise” advertising opportunities it can offer on
+its social media platforms, such as Instagram.
+58. Consumers are served targeted advertisements during all or nearly all sessions on
+Instagram. Andconsumers seeadvertisements almost constantlyonInstagram,oftenseveral times
+per minute. The advertisements Meta displays on Instagram are interwoven into most if not all of
+Instagram’s “surfaces.”
+59. In these ways, viewing advertisements is a core part of the Instagram experience.
+60. Given this business model, Meta is motivated to maximize the time users spend on
+Instagram.
+61. One incentive is that the more time users spend on Meta’s platforms, the more
+“inventory” Meta can sell. For instance, if a user increases her time spent viewing their Instagram
+“feed” from one to five hours per day, Meta can deliver roughly five times the number of
+advertisements to that user. As a result, Meta can sell advertising opportunities that otherwise
+would not have existed. The increase in time spent therefore significantly increases the profits
+Meta can make off this user.
+62. Another incentive is that, the more time a user spends on Instagram, the more data
+Meta collects about that user, which Meta translates into additional profits in various ways.
+4
+Mark Zuckerberg, Understanding Facebook’s Business Model, META, Jan. 24, 2019,
+https://about.fb.com/news/2019/01/understanding-facebooks-business-model/.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Mark Zuckerberg, Understanding Facebook's Business Model, META, Jan. 24, 2019,13
+63. As described more fully below, Meta has succeeded in capturing a breathtaking
+amount of consumer time, attention, and data—especially on Instagram, and especially of Young
+Users.
+3. Meta Prioritizes Acquiring Young Users and Maximizing Their Time Spent
+on Instagram.
+64. In Meta’s business model, not all consumers are created equal. Young Users are
+Meta’s prized demographic.
+65. Meta has pursued increasing Young Users’ time spent on its platforms as one of the
+Company’s most important goals.
+66. For instance, as of November 2016, Meta’s “overall goal remain[ed] total teen time
+spent . . . with some specific efforts (Instagram) taking on tighter focused goals like U.S. teen total
+time spent.”5
+67. This strategy was directed by Zuckerberg, who “decided that the top priority for the
+company in 2017 is teens.”6
+68. On information and belief, Meta has worked to maximize Young Users’ “time
+spent” throughout its corporate history.
+69. This is especially true of Instagram, which is central to Meta’s Young Users
+acquisition strategy.
+70. As Meta knows, Instagram is especially appealing to Young Users and is Meta’s
+most popular application with that demographic. Meta therefore devotes vast resources to
+increasing Young Users’ engagement on Instagram.
+71. Meta’s internal studies show that Young Users have an outsized influence on their
+5
+Exhibit 2, document produced by Meta during the State’s investigation bearing bates number (“Meta Doc. No.”)
+MT-IG-AG-00147577.
+6
+Exhibit 3, Meta Doc. No. MT-IG-AG-00212419.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+5 Exhibit 2, document produced by Meta during the State's investigation bearing bates number ("Meta Doc. No.")
+MT-IG-AG-00147577.
+6 Exhibit 3, Meta Doc. No. MT-IG-AG-00212419.14
+entire households’ attitudes towards Instagram. As Meta’s internal research shows, “[t]eens are
+household influencers bringing [family] members (parents and younger siblings) to IG, as well as
+shaping what is ‘normal’ behavior on IG.”7
+72. Even more fundamentally, Meta pursues Young Users because Meta’s advertising
+customers value that audience.
+73. Among other reasons, Meta’s advertising partners want to reach Young Users
+because they: (1) are more likely to be influenced by advertisements, (2) may become lifelong
+customers, and (3) set trends that the rest of society emulates.
+74. Notably,Metaallows advertisers totarget Young Users onInstagram basedontheir
+age and location.
+75. On information and belief, many advertisers pay Meta a premium to serve
+advertisements to Young Users. And many advertisers are willing to pay Meta for the opportunity
+to reach Young Users in specific geographic markets, such as those in Tennessee.
+76. Meta is motivated to increase Young Users’ time spent on Instagram not only
+because it is a meaningful stream of advertising business, but also, because the data that Meta
+collects from that use is itself highly valuable to the Company.
+77. In short, Meta has many strong short-term and long-term financial incentives to
+increase the time that Young Users spend on its platforms.
+78. As described below, Meta has chased that goal with incredible success, capturing a
+mind-boggling amount of time and attention from a generation of Young Users.
+79. Meta has profited immensely from its business model. Meta reported earning
+$116.6 billion in revenue in 2022, with $23.2 billion in net income, making Meta one of the largest
+7
+Ex. 4, Meta Doc. No. MT-IG-AG-00022634 (pg. 4).
+entire households' attitudes towards Instagram. As Meta's internal research shows, "[t]eens are
+household influencers bringing [family] members (parents and younger siblings) to IG, as well as
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+7 Ex. 4, Meta Doc. No. MT-IG-AG-00022634 (pg. 4).15
+companies in the United States by revenue and income. And because of his ownership stake in
+Meta, Zuckerberg is one of the wealthiest people in the world.
+80. In addition to financial success, Zuckerberg’s role as Meta’s CEO and Founder has
+made him a public figure able to exert significant influence not only over the Company, but also
+over society writ large. In a private email exchange with at least four billionaires (and a knighted
+former member of Parliament), one of Meta’s major investors told Zuckerberg that he believed
+“Mark Zuckerberg has been cast as *the spokesman* for the Millennial Generation – as the single
+person who gives voice to the hopes and fears and the unique experiences of this generation, at
+least in the USA.” 8
+81. In a response, Zuckerberg agreed with that sentiment, stating that “I am the most
+well-known person of my generation.”9
+4. Meta Directed its Business Model Towards Tennessee.
+82. Instagram is massively popular among young Tennesseans. According to Meta’s
+internal metrics, from July 2020 to June 2021 over 475,000 Tennessee teens used Instagram
+monthly.10
+During that time, over 350,000 Tennessee teens used Instagram daily.11
+Between
+October 2022 and April 2023, over 500,000 “young adults” (according to Meta’s internal
+definition) in Tennessee used Instagram daily.12
+And during that time, over 800,000 “young
+adults” in Tennessee used Instagram monthly.13
+83. Meta was able to achieve this level of engagement by consciously directing its
+business into—and working to enhance its brand in—Tennessee.
+8
+Ex. 5, Meta Doc. No. MT-IG-AG-00239874 (pg. 5).
+9
+Id. (pg. 4).
+10
+Ex. 6, Meta Doc. No. MT-IG-AG-00216682.
+11
+Id.
+12
+Ex. 7, Meta Doc. No. MT-IG-AG-00216683.
+13
+Id.
+companies in the United States by revenue and income. And because of his ownership stake in
+Meta, Zuckerberg is one of the wealthiest people in the world.
+Lbl
+Lbl
+Lbl
+Lbl
+8 Ex. 5, Meta Doc. No. MT-IG-AG-00239874 (pg. 5).
+9 Id. (pg. 4).
+10 Ex. 6, Meta Doc. No. MT-IG-AG-00216682.
+12 Ex. 7, Meta Doc. No. MT-IG-AG-00216683.Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+14 Ex. 8, Sheryl Sandberg, Nashville Is a Special Place and Facebook Wants to be Part of It, THE TENNESSEAN, Aug.
+12, 2020, ttps://www.tennessean.com/story/opinion/2020/08/12/facebook-investment-in-nashville-area-galatin-
+data-center/3340004001/.
+14 Ex. 8, Sheryl Sandberg, Nashville Is a Special Place and Facebook Wants to be Part of It, THE TENNESSEAN, Aug.
+12, 2020, ttps://www.tennessean.com/story/opinion/2020/08/12/facebook-investment-in-nashville-area-galatin-
+data-center/3340004001/.
+15 Ex. 9, Meta Doc. No. MT-IG-AG-00199968.
+16
+84. For example, on August 12, 2020, Sandberg penned a “Guest Column” in the
+Tennessean titled “Nashville Area is a Special Place and Facebook Wants to be a Part of It.”14
+85. In thecolumn, Sandbergtouted thevarious ways Nashvillians usedMeta’s products
+in the wake of the March 2020 tornadoes, during the Covid-19 pandemic, and in relation to various
+philanthropic causes.
+86. Speaking forMeta(then withthecorporatename“Facebook”),Sandbergexpressed
+that “Nashville is a special place—and it is a community we want to be a part of.”
+87. Sandberg’s column announced Meta’s “major investment in the local area with our
+new data center in Gallatin.” It boasted that Meta is “also investing in two solar energy projects
+in Lincoln and Madison counties.” And the column described Meta’s efforts to support small and
+black-owned businesses in Tennessee during the pandemic.
+88. Sandberg concluded: “These are difficult times for everyone, but [Meta] is proud
+to be joining the Music City community and we are determined to do what we can to help.”
+89. In conjunction with the publication of Sandberg’s 2020 column, multiple Meta
+employees participated in a one-hour discussion with The Tennessean’s editorial board. Internal
+documents show that the Company viewed this as “an opportunity to proactively reach out and
+build relationships with the outlet and Board and provide a positive, forward looking message
+relating to the impact of [Meta]...particularly in Tennessee.”15
+90. In addition to working to bolster its image in Tennessee, Meta closely tracks
+Instagram’s performance in the State.
+91. For example, Meta monitors the following metrics for Instagram usage in
+14
+Ex. 8, Sheryl Sandberg, Nashville Is a Special Place and Facebook Wants to be Part of It, THE TENNESSEAN, Aug.
+12, 2020, https://www.tennessean.com/story/opinion/2020/08/12/facebook-investment-in-nashville-area-gallatin-
+data-center/3340004001/.
+15
+Ex. 9, Meta Doc. No. MT-IG-AG-00199968.17
+Tennessee: the amount of time active teens spent on Instagram per day (approximately 35
+minutes);16
+teen “penetration” in the state (approximately 70%);17
+the ratio of teen daily active
+users versus monthly active users (approximately 0.72);18
+teen monthly active user “story
+participation” rates (approximately 0.76%);19
+the amount of “feed media” daily active teens
+consumed per day on Instagram (approximately 18);20
+the amount of “stories” that daily active
+teens consumed per day on Instagram (approximately 26);21
+the percentage of Facebook Android
+monthly active users on Instagram (43.4%);22
+and the reduction in monthly active users over a two
+month time period (21,268; a 1% decrease).23
+92. Perhaps most strikingly, Meta’s internal metrics show that as of 2020, Meta
+determined that Instagram had fully “saturated” the market for Tennesseans under 35 years of
+age.24
+That sameyear, Metafound that it hadfully “penetrated”theteenage market inTennessee.25
+Presumably, these metrics mean that Meta believed that, as of 2020, there were as many Instagram
+accounts for teenagers in Tennessee as there were teenagers in the State.
+93. In addition to studying usage rates, Meta works to understand the impact Instagram
+has on Tennessee consumers, including Tennessee Young Users. For example, in 2020 Meta
+partnered with organizations in Nashville to observe teens at school, presumably to better
+understand Instagram’s role in the lives of those young Tennesseans. 26
+16
+Ex. 10, Meta Doc. No. MT-IG-AG-00018939 (pg. 3). Meta gathered these usage metrics around October 11, 2017.
+17
+Id. (pg. 2).
+18
+Id. (pg. 3).
+19
+Id. (pg. 5).
+20
+Id. (pg. 6).
+21
+Id.
+22
+Ex. 11, Meta Doc. No. MT-IG-AG-00005337.
+23
+Ex. 12, Meta Doc. No. MT-IG-AG-00007601 (pg. 22).
+24
+Ex. 13, Meta Doc. No. MT-IG-AG-00022714 (pg. 28).
+25
+Ex. 14, Meta Doc. No. MT-IG-AG-00031572 (pg. 7).
+26
+Ex. 15, Meta Doc. No. MT-IG-AG-00121596. This research was ultimately not conducted due to the emergence of
+Covid-19.
+Tennessee: the amount of time active teens spent on Instagram per day (approximately 35
+Lbl
+Lbl
+16 Ex. 10, Meta Doc. No. MT-IG-AG-00018939 (pg. 3). Meta gathered these usage metrics around October 11, 2017.
+22 Ex. 11, Meta Doc. No. MT-IG-AG-00005337.
+23 Ex. 12, Meta Doc. No. MT-IG-AG-00007601 (pg. 22).
+24 Ex. 13, Meta Doc. No. MT-IG-AG-00022714 (pg. 28).
+25 Ex. 14, Meta Doc. No. MT-IG-AG-00031572 (pg. 7).
+26 Ex. 15, Meta Doc. No. MT-IG-AG-00121596. This research was ultimately not conducted due to the emergence of
+Covid-19.18
+94. Similarly, in 2019, Meta conducted “interviews with vulnerable users in Memphis,
+TN” to study that population’s experience on Instagram.27
+95. Andofcourse,MetaenrichesitselfbysellingadvertisementstargetedtoTennessee.
+According to Meta’s public advertising library, Meta regularly sells advertisements specific to
+Tennessee. All manner of Tennessee entities—from Graceland to Dollywood, from the Nashville
+Zoo to the Tennessee Aquarium, from the Memphis Grizzlies to the Tennessee Titans, from the
+Knoxville News Sentinel to the Tennessean, to countless others—advertise on Instagram to reach
+a Tennessee audience and expand their own business in Tennessee. On information and belief,
+Meta profits through its sale of Tennessee-targeted advertising opportunities.
+96. In sum, Meta not only makes Instagram available in Tennessee. It also—at a
+minimum—promotes its brand in Tennessee, touts its investments in Tennessee, tracks
+Instagram’s performance in Tennessee, studies Instagram’s impact on Tennesseans, and sells
+advertisements to Tennessee entities so that they could expand their businesses in Tennessee. And
+by virtue of Meta’s business model, Meta has entered (at least) hundreds of thousands of contracts
+with consumers in Tennessee and sold the opportunity to serve ads specifically to those Tennessee
+consumers.
+97. The conduct described herein constitutes trade and commerce within Tennessee.
+Meta Operates Instagram in a Manner That Is Unfair to Young Users.
+98. The TCPA prohibits businesses from engaging in “unfair” practices, which are
+those that cause or are likely to cause injury to consumers that is not reasonably avoidable.
+99. Instagram is not reasonably avoidable for many Young Users because it is highly
+addictive and designed to exploit Young Users’ biologically limited capacity for self-control. And
+27
+Ex. 16, MT-IG-AG-00105112 (pg. 9).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+27 Ex. 16, MT-IG-AG-00105112 (pg. 9).Instagram harms Young Users in many ways, including by negatively impacting their mental well-
+being and impairing their healthy development. Whatever benefits Instagram may offer Young
+Lbl
+Lbl
+Lbl
+28 Ex. 17; Alex Hern, 'Never Get High on Your Own Supply' Why Social Media Bosses Don't Use Social Media,
+THE GUARDIAN, Jan. 23, 2018,
+Emphasis in this Complaint is added unless otherwise noted. supply-why-social-media-bosses-dont-use-social-media.
+29 Ex. 18, Meta Doc. No. MT-IG-AG-00124625 (pg. 3). Emphasis in original.
+19
+Instagram harms Young Users in many ways, including by negatively impacting their mental well-
+being and impairing their healthy development. Whatever benefits Instagram may offer Young
+Users do not outweigh the significant harms it imposes.
+100. In these ways, Defendants have engaged in unfair practices that violate the TCPA.
+1. Meta Understands Young Users Have Limited Powers of Self Control.
+101. Meta designed Instagram to exploit known vulnerabilities in Young Users’
+neurological development, making Instagram biologically difficult—and in some cases
+impossible—for teens to resist.
+102. As Meta’s founding president, Sean Parker, explained in 2018:
+The thought process that went into building these applications,
+Facebook being the first of them … was all about: ‘How do we
+consume as much of your time and conscious attention as possible?’
+That means that we need to sort of give you a little dopamine hit
+every once in a while, because someone liked or commented on a
+photo or a post or whatever. And that’s going to get you to
+contribute more content and that’s going to get you … more likes
+and comments. It’s a social-validation feedback loop … exactly the
+kind of thing that a hacker like myself would come up with, because
+you’re exploiting a vulnerability in human psychology. The
+inventors, creators—me, [Meta founder] Mark [Zuckerberg],
+[Instagram founder] Kevin Systrom on Instagram, all of these
+people—understood this consciously. And we did it anyway.28
+103. On an ongoing basis, Meta pours massive resources into understanding Young
+Users’ cognitive vulnerabilities.
+104. For example, in the late 2010s, Meta’s consumer market research team created a
+“very deep body of work over the course of years/months” studying teens. That group did
+“enormous work and investment” in “teen foundational research.”29
+28
+Ex. 17; Alex Hern, ‘Never Get High on Your Own Supply’ - Why Social Media Bosses Don’t Use Social Media,
+THE GUARDIAN, Jan. 23, 2018, https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-
+supply-why-social-media-bosses-dont-use-social-media. Emphasis in this Complaintis added unless otherwise noted.
+29
+Ex. 18, Meta Doc. No. MT-IG-AG-00124625 (pg. 3). Emphasis in original.20
+105. But that“very deep bodyofwork”was not enough. In2020, Metastartedthe“Teen
+Ecosystem Understand” project, which was an ongoing effort to study Young Users.30
+Led by
+Instagram’s “growth” team, this project sought to deliver insights that would allow Meta to make
+Instagram increasingly irresistible to Young Users.
+106. On information and belief, the Teen Ecosystem Understand and Consumer Market
+Research projects were two of many Meta initiatives to study Young Users and capture more of
+their time and attention.
+2. Instagram’s “Teen Fundamentals” Study Shows Instagram’s Power to
+Induce Compulsive Use Among Young Users.
+107. AMay 2020report arisingout oftheTeenEcosystem Understandproject illustrates
+the lengths to which Meta studied, understood, and considered the ways in which Instagram is
+difficult for Young Users to resist, given their neurological vulnerabilities.31
+108. Titled “Teen Fundamentals,” the 97-page internal presentation32
+purports to be a
+“synthesis of adolescent development concepts, neuroscience as well as nearly 80 studies of our
+own product research.”33
+One of the presentation’s goals was to “look…to biological factors that
+are relatively consistent across adolescent development and gain valuable unchanging insights to
+inform product strategy today.”34
+109. The first section of the internal presentation, titled “Biology,” contains several
+images of brains in various stages of development.35
+110. As part of the “Biology” section, the presentation explains that “Unlike the body
+30
+Id.
+31
+Ex. 19, Meta Doc. No. MT-IG-AG-00145496.
+32
+Meta employees regularly convey information to one another through slideshows using Microsoft PowerPoint or
+similar products.
+33
+Ex. 19 (pg. 1).
+34
+Id. (pg. 6).
+35
+Id. (pg. 7).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+31 Ex. 19, Meta Doc. No. MT-IG-AG-00145496.
+32 Meta employees regularly convey information to one another through slideshows using Microsoft PowerPoint or21
+which functions wholly from day one, the brain essential [sic] spot trains certain areas and
+functions at a partial capacity before it is wholly developed…The teenage brain is about 80%
+mature. The remaining 20% rests in the frontal cortex…at this time teens are highly dependent on
+their temporal lobe where emotions, memory and learning, and the reward system reign
+supreme.”36
+111. The discussion continues: “teens’ decisions are mainly driven by emotion, the
+intrigue of novelty and reward…[making] teens very vulnerable at the elevated levels they
+operate on. Especially in the absence of a mature frontal cortex to help impose limits on the
+indulgence in these.”37
+112. The next section of the Teen Fundamentals presentation is titled “Behavior.” That
+section notes that “the teenage brain happens to be pretty easy to stimulate.”38
+113. Offering an example, the internal presentation observes that “everytime [sic] one
+of our teen users finds something unexpected their brains deliver them a dopamine hit.”39
+114. The next slide explains that “teens are insatiable when it comes to ‘feel good’
+dopamine effects.”40
+115. And the following slide highlights that “teens brains’ [sic] are especially ‘plastic’
+or keen to learn presenting a unique opportunity that coupled with curiosity can send teens down
+some interesting rabbit holes….”41
+116. Suggesting another way that teen brains are “easy to stimulate,” the presentation
+notes that “a huge driver for teen behavior is the prospect of reward. This is what makes them
+36
+Id. (pgs. 10-11).
+37
+Id. (pg. 12).
+38
+Id. (pgs. 13-14).
+39
+Id. (pg. 22).
+40
+Id. (pg. 23).
+41
+Id. (pg. 24).
+functions at a partial capacity before it is wholly developed The teenage brain is about 80%
+mature. The remaining 20% rests in the frontal cortex at this time teens are highly dependent on
+their temporal lobe where emotions, memory and learning, and the reward system reign
+supreme.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+36 Id. (pgs. 10-11).
+38 Id. (pgs. 13-14).22
+predisposed to impulse, peer pressure, and potentially harmful risky behavior like drugs, stunts,
+and pranks…”42
+117. Building on that theme, elsewhere the presentation observes that “approval and
+acceptance are huge rewards for teens and interactions are the currency on IG. DMs [direct
+messages], notifications, comments, follows, likes, etc. encourage teens to continue engaging and
+keep coming back to the app.”43
+118. In several places, the presentation confirms that Instagram successfully exploits
+those vulnerabilities.
+119. For example, the internal presentation concedes that:
+[T]een brains are much more sensitive to dopamine, one of the reasons that
+drug addiction is higher for adolescents and keeps them scrolling and
+scrolling. And due to the immature brain they have a much harder time
+stopping even though they want to – our own product foundation research
+has shown teens are unhappy with the amount of time they spend on our
+app.44
+120. But that was not enough for the presentation’s author(s). Instead, the presentation
+repeatedly asks how Instagram could become even more irresistible to teens, asking the audience
+to consider:
+• “So, now that we know this – what is the effect of teen’s biology on their behavior?
+And how does this manifest itself in product usage?”45
+• “How well does IG cater to [teens’ desired] activity? How does it stack up against
+intentful [sic] discovery platforms?”46
+• “Teen’s [sic] insatiable appetite for novelty puts them on a persistent quest to
+discovernewmeans ofstimulation…howcanyourteam giveteens somewherenew
+to go or something new to find from the product you work on?”47
+42
+Id. (pg. 47).
+43
+Id. (pg. 54).
+44
+Id. (pg. 48).
+45
+Id. (pg. 13).
+46
+Id. (pg. 24).
+47
+Id. (pg. 27).
+Lbl
+Lbl
+LblLbl
+Lbl
+Lbl
+Lbl
+Lbl
+48 Id. (pgs. 56-57).
+50 Ex. 20, Meta Doc. No. MT-IG-AG-00024188.
+51 Ex. 21, Meta Doc. No. MT-IG-AG-00013682.
+52 Ex. 22, Meta Doc. No. MT-IG-AG-00145596.
+23
+121. In the end, the internal presentation reiterates: “I want to remind you all once more
+of the core things that make teens tick. New things, feeling good and reward. We are not quite
+checking all of these boxes…some teens are turning to competitors to supplement for [sic] those
+needs.”48
+It concludes: “we [would] do well to think hard about how we can make IG an app
+tailored to the teenage mindset.”49
+122. The Teen Fundamentals report was shared with various teams inside Meta,
+culminating in its presentation to Instagram’s leadership team (including Mosseri) in June 2020.50
+123. In response to the presentation, Instagram’s leadership requested additional
+research, which led to a subsequent report titled “Deepening Rewards to Drive More Meaningful
+Daily Usage,” designed to “unpack” the concept of “rewards.”51
+As part of that report, Instagram
+employees conducted user interviews and “synthesized this data with academic literature to
+understand how it applies at a psychological level.”52
+Through this and other related projects,
+Instagram continued to use its scientific understanding of Young Users’ brains to gain competitive
+advantage.
+124. On information and belief, the Teen Fundamentals presentation is just one
+illustration of the ongoing process by which Meta studies Young Users’ neurological development
+to improve the company’s bottom line.
+3. Instagram’s Features Induce Compulsive Use.
+125. Leveraging its understanding of “the things that make teens tick,” Meta exploited
+Young Users’ diminished capacity for self-control through an array of Instagram features that led
+48
+Id. (pgs. 56-57).
+49
+Id. (pg. 58).
+50
+Ex. 20, Meta Doc. No. MT-IG-AG-00024188.
+51
+Ex. 21, Meta Doc. No. MT-IG-AG-00013682.
+52
+Ex. 22, Meta Doc. No. MT-IG-AG-00145596.24
+YoungUsers to habitually—and in manycases compulsively—useInstagram. Thosetoolsinclude
+notifications, ephemerality, auto-play and infinite scroll.
+126. Collectively, these and other Instagram features created and exploited obstacles to
+Young Users’ free decision-making, causing them to spend more time on Instagram than they
+otherwise would.
+i. Young Users Have Difficulty Resisting Notifications That Draw Them onto
+Instagram.
+127. Meta causes Young Users to increase their time spent on Instagram by inundating
+them with notifications. The Instagram mobile application, by default, peppers users (including
+Young Users) with frequent alerts or notifications intended to cause users to open the application.
+128. Echoing Meta’s “Teen Fundamentals” research, academics have observed that
+these notifications impact the brain in similar ways as narcotic stimulants:
+Although not as intenseas [sic]hit ofcocaine,positivesocial stimuli
+will similarly result in a release of dopamine, reinforcing whatever
+behavior preceded it . . . Every notification, whether it’s a text
+message, a “like” on Instagram, or a Facebook notification, has the
+potential to be a positive social stimulus and dopamine influx.53
+129. Preying on that vulnerability, Meta inundates Young Users with Instagram
+notifications. On information and belief, by default Meta notifies Young Users when another user
+follows them, likes their content, comments on their content, “tags” them, mentions them, sends
+them a message, or “goes live” (if the young person follows the user).
+130. As Meta’s internal findings show, Young Users have a difficult time resisting these
+notifications.
+131. In an internal analysis of “Levers for Teen Growth,” a member of the “Instagram
+53
+Ex. 23, Trevor Haynes, Dopamine, Smartphones & You: A Battle for Your Time, HARV.UNIV.GRAD.SCH.OF ARTS
+& SCI., May 1, 2018, https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/.
+Young Users to habitually-and in many cases compulsively-use Instagram. Those tools include
+notifications, ephemerality, auto-play and infinite scroll.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Dopamine, Smartphones & You: A Battle for Your Time, HARV. UNIV. GRAD. SCH. OF ARTS
+& SCI., May 1, 2018,25
+Growth Data Science Team” notes that Meta could “Leverage teens’ higher tolerance for
+notifications to push retention and engagement.”54
+132. In a November 2019 internal presentation entitled “IG Notification Systems
+Roadshow,” Meta’s employees acknowledge that some of its users are “overloaded because they
+are inherently more susceptible to notification dependency.”55
+133. Similarly, an internal presentation titled “State of US Teens 2020”—authored by
+the “IG Growth Analytics” team—observes that teens “have longer time spent than adults because
+they tend to have more sessions per day than adults. This may be because US teens are more
+sensitive to notifications and have more notification-driven sessions than adults.”56
+134. Further, Meta dispenses notifications and other “rewarding” content on a variable
+or intermittent schedule, amplifying their addictive nature.
+ii. Ephemeral Nature of Instagram Content Exploits Young Users’ Fear of
+Missing Out.
+135. As Meta’s own research has concluded, Young Users are developmentally wired to
+fear missing out. Meta induces constant engagement by making certain Instagram experiences
+and content ephemeral.
+136. Ephemeral content is only available on a temporary basis, not on a schedule
+convenient for the user. This incentivizes users to engage with content immediately, lest they miss
+out on the content forever.
+137. For example, Instagram’s popular Stories surface displays user-created images,
+videos, and narratives for twenty-four hours, at most, before that content disappears.
+138. Similarly, Instagram’s Live feature gives users the ability to livestream videos to
+54
+Ex. 24, Meta Doc. No. MT-IG-AG-00004405 (pg. 9).
+55
+Ex. 25, Meta Doc. No. MT-IG-AG-00028901 (pg. 14).
+56
+Ex. 14 (pg. 51).
+Growth Data Science Team" notes that Meta could "Leverage teens' higher tolerance for
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+54 Ex. 24, Meta Doc. No. MT-IG-AG-00004405 (pg. 9).
+55 Ex. 25, Meta Doc. No. MT-IG-AG-00028901 (pg. 14).
+56 Ex. 14 (pg. 51).26
+followers or the public during a specific session, after which the video is typically no longer
+available.
+139. In the case of Live, for instance, a young person’s failure to quickly join the live
+stream when it begins means that the user may miss out on the chance to view the content entirely.
+Often, Instagram sends users notifications that an account they follow is going live so that users
+do not miss out.
+140. Likewise, because Stories delete within 24 hours, Young Users must constantly
+monitor that Surface if they desire to keep up with the accounts they follow.
+141. Meta could make Live videos and Stories available for viewing days or weeks after
+they are created, allowing Young Users to take meaningful breaks from Instagram (for instance,
+during the school week or while on vacation) without missing content. Instead, Meta deploys
+ephemeral content features because it knows Young Users’ fear of missing out on content will
+keep them glued to Instagram.
+142. Meta’s internal documents acknowledge that Instagram’s ephemeral features drive
+compulsive Instagram use.
+143. For instance, an October 2019 internal presentation entitled “Teen Mental Health
+Deep Dive” discusses the findings from a survey of over 2,500 teenagers who use Instagram on at
+least a monthly basis.57
+144. That presentation notes that “[y]oung people are acutely aware that Instagram can
+be bad for their mental health, yet are compelled to spend time on the app for fear of missing out
+on cultural and social trends.”58
+145. Even though ephemerality fuels out-of-control Instagram usage, Meta has pressed
+57
+Ex. 26, Meta Doc. No. MT-IG-AG-00000029 (pg. 3).
+58
+Id. (pg. 25).
+followers or the public during a specific session, after which the video is typically no longer
+available.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+145. Even though ephemerality fuels out-of-control Instagram usage, Meta has pressed
+57 Ex. 26, Meta Doc. No. MT-IG-AG-00000029 (pg. 3).27
+forward. Illustrating the Company’s mindset, in 2021 a user experience researcher observed that
+direct messages on Instagram “were not urgent (especially compared to other apps like Snapchat)”
+and “consisted mainly of videos and memes from friends which could be watched at [a user’s]
+leisure.” The researcher noted that “we need to develop new products that increase the possibilities
+for time-sensitive interactions on [Instagram]...”59
+iii. Features Like Infinite Scroll and Autoplay Induce Perpetual, Passive
+Instagram Use.
+146. Meta has also implemented tools that induce perpetual, passive Instagram use.
+147. For example, Instagram presents an infinite scroll on several key surfaces. In other
+words, Instagram partially displays additional content at the bottom of the user’s screen, such that
+the user is typically unable to look at a single post in isolation (without seeing the top portion of
+the next post in their feed).
+148. Instagram teases this yet-to-be-fully-viewed content indefinitely; as the user scrolls
+down the feed, new content is automatically loaded and previewed. This design choice makes it
+difficult for Young Users to disengage because there is no natural end point to the display of new
+information.
+149. Making matters worse, Instagram does not stop displaying new information when
+a user has viewed all new posts from their peers.
+150. Instead, Instagram displays new, unviewed content, provoking the Young Users’
+fear of missing out.
+151. Meta also deploys the auto-play feature to keep Young Users on Instagram.
+152. Much like infinite scroll, Instagram’s Stories surface automatically and
+continuously plays content, encouraging Young Users to remain on the platform ad infinitum.
+59
+Ex. 4 (pg. 32).
+forward. Illustrating the Company's mindset, in 2021 a user experience researcher observed that
+direct messages on Instagram "were not urgent (especially compared to other apps like Snapchat)"
+and "consisted mainly of videos and memes from friends which could be watched at [a user's]
+leisure." The researcher noted that "we need to develop new products that increase the possibilities
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl28
+153. Meta employees understand that these are powerful tools. Tellingly, when news
+broke that a competitor was turning off auto-play for users under 18, Meta’s internal research team
+expressed surprise. One employee observed that “[t]urning off autoplay for teens seems like a
+huge move! Imagine if we turned off infinite scroll for teens.” A second responded “Yeah, I was
+thinking the same thing. Autoplay is HUGE.”60
+154. Meta’s popular Reels surface has these same characteristics. An internal strategy
+presentation shows that Reels is “a TikTok competitor for short and entertaining videos” and one
+of “three big bets” that “Instagram focused on…to bring value to teens” in 2020.61
+155. Videos on Reels automatically and perpetually play as the user swipes the screen
+up to the next video. The short-form nature of Reels makes it difficult for Young Users to close
+the app. Other aspects of Reels—including the placement of the like, comment, save, and share
+buttons on top of the video— reduce or prevent interruption and keep the user constantly viewing
+videos.
+156. Internally, Meta employees recognized that Reels’ design was harmful to Young
+Users. As one employee observed in September 2020, “Reels seems to be everything they
+denounce in the stupid documentary [i.e. Netflix’s Social Dilemma, which raised alarms about
+teens’ time spent on social media], and everything we know from our research: passive
+consumption of an endless feed, without any connection to the content creator. Yay.” A Meta
+mental health researcher responded, “[e]xactly. Ugh.”62
+157. On information and belief, the above-described Instagram features are but a small
+sample of the tools Meta has deployed that induce Young Users to spend more time on Instagram
+60
+Ex. 27, Meta Doc. No. MT-IG-AG-00058023.
+61
+Ex. 14 (pg. 29).
+62
+Ex. 28, Meta Doc. No. MT-IG-AG-00132387.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+60 Ex. 27, Meta Doc. No. MT-IG-AG-00058023.
+62 Ex. 28, Meta Doc. No. MT-IG-AG-00132387.29
+than they otherwise would.
+4. Instagram Addicts Many Young Users.
+158. Because of Meta’s design choices, Instagram has already hooked a generation of
+Young Users.
+159. Meta’s studies confirm that Young Users use Instagram at alarming rates. They
+also show that Young Users want to reduce their time on Instagram—and that Instagram’s
+engagement-inducing features overpower Young Users’ desire to leave the application. Meta’s
+studies also confirm that compulsive Instagram use has detrimental effects on Young Users’
+mental health, sleep, and relationships. But because Young Users’ compulsive use benefit Meta’s
+bottom line, Meta does not take meaningful steps to rescue Young Users from this emerging crisis.
+160. For example, in a February 2019 internal presentation titled “Instagram Teen Well-
+Being Study: US Topline Findings,” Meta observed that “App Addiction is Common on IG.” The
+presentation notes that 23% of teenage monthly active users find that they often feel like they
+“waste too much time on” Instagram.63
+161. In September2019, Meta commissionedathird-partystudyonTeenMental Health.
+That study’s first “Topline Headline” is that “Instagram is an inevitable and unavoidable
+component of teens [sic] lives. Teens can’t switch off from Instagram even if they want to.”64
+162. Another“ToplineHeadline”isthat “TeenstalkofInstagraminterms ofan‘addicts’
+narrative’ spending too much time indulging in a compulsive behavior that they know is negative
+but feel powerless to resist.”65
+163. A later slide observes that “[t]eens are hooked despite how it makes them
+63
+Ex. 29, Meta Doc. No. MT-IG-AG-00103082 (pg. 37).
+64
+Ex. 30, Meta Doc. No. MT-IG-AG-00103653 (pg. 7).
+65
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+63 Ex. 29, Meta Doc. No. MT-IG-AG-00103082 (pg. 37).
+64 Ex. 30, Meta Doc. No. MT-IG-AG-00103653 (pg. 7).30
+feel…Instagram is addictive, and time-spend on platform is having a negative impact on mental
+health.”66
+164. The Teen Mental Health report also finds that teens “know they stay up later than
+they should and miss out on sleep to stay plugged in” to Instagram.67
+165. Elsewhere, the report notes that “[y]oung people are acutely aware that Instagram
+is bad for their mental health, yet are compelled to spend time on the app for fear of missing out
+on cultural and social trends.”68
+166. Relatedly, in an October 2019 discussion regarding mental health research, a Meta
+employee observed that:
+[T]eens told us that they don’t like the amount of time they spend
+on the app…they often feel ‘addicted’ and know that what they’re
+seeing is bad for their mental health but feel unable to stop
+themselves. This makes them not feel like they get a break or can’t
+switch off social media. In the survey, about 30% (and even larger
+proportions of those who are unsatisfied with their lives) said that
+the amount of time they spend on social media makes them feel
+worse.69
+167. Along the same lines, in March 2020, one Instagram employee asked if there were
+“any recent studies where we explicitly talk about time spent tools and why teens want them.”70
+168. In response, adifferent employeeconfirmedthat “[t]hefeedback,essentially,is that
+(1) teens feel addicted to IG and feel a pressure to be present, (2) like addicts, they feel that they
+are unable to stop themselves from being on IG, and (3) the tools we currently have aren’t effective
+at limiting their time on the ap [sic].”71
+66
+Id. (pg. 15).
+67
+Id.
+68
+Id. (pg. 29).
+69
+Ex. 31, Meta Doc. No. MT-IG-AG-00024085.
+70
+Ex. 32, Meta Doc No. MT-IG-AG-00171389.
+71
+Id.
+feel Instagram is addictive, and time-spend on platform is having a negative impact on mental
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+69 Ex. 31, Meta Doc. No. MT-IG-AG-00024085.
+70 Ex. 32, Meta Doc No. MT-IG-AG-00171389.31
+169. But despite that survey feedback, Meta made sure not to speak about the concept
+of “addiction” publicly. In that same March 2020 exchange, the two employees discussed a draft
+public statement regarding “efforts to combat social media addiction.”72
+170. The first asked: “Do we want to call it addiction? Maybe not.” The second
+clarified: “(this is internal only).” The first employee responded: “Internal only makes it better.
+I’m just a little cautious about calling it addiction.” The second responded: “Totally agree, we
+would never want to say that!”73
+171. Employees continued to grapple with this issue in September 2020, when Netflix
+released The Social Dilemma, which accused Meta of addicting Young Users to Instagram.
+172. That thesis rang true among Meta employees. In one exchange among several
+Instagram employees, Instagram’s Director of Data Science stated “[by the way] there is a new
+Netflix [documentary] basically saying we’re creating a world of addicts…” A second employee
+responded that the documentary “makes me feel like tech plays to humans’ inability to have self-
+control lol.”74
+173. In response, Instagram’s Director of Data Science stated, “Yeh that’s exactly what
+the [documentary] says. I think its true [to be honest]…I do worry what it does to young people
+who are still developing their brains and social skills, as well as being more susceptible to mean
+comments or lack of friends/feedback.”75
+174. A third employee asked if Meta was “creating addicts or facilitating them…giving
+existing addicts a really accessible outlet?” The second employee clarified, “a really accessible
+outlet that optimizes for time spent…[and] keeps people coming back even when it stops being
+72
+Id.
+73
+Id.
+74
+Ex. 33, Meta Doc. No. MT-IG-AG-00013316.
+75
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+74 Ex. 33, Meta Doc. No. MT-IG-AG-00013316.Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+78 Ex. 34, Meta Doc. No. MT-IG-AG-00013393.
+79 Ex. 35, Meta Doc. No. MT-IG-AG-00013281.
+80 "Problematic Use" is a euphemism that Meta uses internally to describe excessive or compulsive social media use.
+81 Ex. 36, Meta Doc. No. MT-IG-AG-00176694.
+32
+good for them.”76
+175. Instagram’s Director of Data Sciences responded, “without the right stimulus,
+someone might never become an addict. So it’s a tricky one. It’s like, you’ll never become a
+gambling addict if you don’t visit vegas : P ”77
+176. That same day in September 2020, Instagram’s Director of Data Science analyzed
+the scope of the problem, creating charts titled “Number of US Humans who spend a lot of time
+on IG in a day,” and “US Humans that spend a ton of time on IG in a Week.”
+177. The daily chart shows that in the United States more than 475,000 teens spend 3-4
+hours per day on Instagram; more than 235,000 spend 4-5 hours; and more than 300,000 spend
+five or more hours.78
+The weekly chart shows that in the United States more than 1 million teens
+spend 14-21 hours; more than 420,000 spend 21-28 hours; and more than 400,000 spend 28 or
+more hours per week on Instagram.79
+178. Meta employees recognized that this level of usage was the byproduct of its
+business model and its design choices. As a Meta Vice President of Product messaged Mosseri
+and other Instagram leaders in February 2021, “problematic use80
+…[will] require more
+fundamental changes to our goals, what type of work they incentive [sic], and therefore how core
+mechanics work (feed design, ranking, sharing, notif[ications]).” That message did not receive a
+response.81
+179. Meta’s studies show that Instagram’s core mechanics interfere with a critical part
+of Young Users’ development—sleep.
+76
+Id.
+77
+Id.
+78
+Ex. 34, Meta Doc. No. MT-IG-AG-00013393.
+79
+Ex. 35, Meta Doc. No. MT-IG-AG-00013281.
+80
+“Problematic Use” is a euphemism that Meta uses internally to describe excessive or compulsive social media use.
+81
+Ex. 36, Meta Doc. No. MT-IG-AG-00176694.Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+5. Instagram Harms Young Users' Mental Health and Healthy Development.
+186. Instagram's addictive nature does not just fuel compulsive use-it also directly
+injures Young Users. In particular, compulsive Instagram use harms Young Users' mental health
+82 Ex. 37, Meta Doc. No. MT-IG-AG-00017116.
+83 Ex. 38, Meta Doc. No. MT-IG-AG-00017125.
+84 Ex. 39, Meta Doc. No. MT-IG-AG-00017107 (pg. 7).
+85 Ex. 40, Meta Doc. No. MT-IG-AG-00210347 (pg. 7).
+33
+180. For example, in an April 2021 analysis, Meta observes that “peak” hours for
+messaging are “in the late evenings,” with the highest rate of “sessions with message sends”
+occurring between 9:00 and 11:00 PM.82
+181. A similar analysis shows that on weekdays, US teens spend the most time on
+Instagram between 9:00 and 11:00 PM.83
+182. After reviewing that information, a Meta data scientist commented, “Honestly the
+only insight I see in these charts is that teens are really into using IG at 11pm when they should
+probably be sleeping : ( ”84
+183. Internally, Meta understood the specific ways that compulsive use manifests on
+Instagram.
+184. For example, a November 2021 internal analysis titled “Well-being: Problematic
+Use” shows that “more reliable proxies for identifying problematic use” include: “‘passive’
+consumption, frequent low-engagement sessions,disproportionatenight-timeusage,repetitiveapp
+checking, and receiving and responding to more push notifications.”85
+185. That same analysis also acknowledges that “problematic use” was “more common
+among teens and people in their 20s.” It explains: “this is consistent with young people having
+problems with self-regulation.”
+5. Instagram Harms Young Users’ Mental Health and Healthy Development.
+186. Instagram’s addictive nature does not just fuel compulsive use—it also directly
+injures Young Users. In particular, compulsive Instagram use harms Young Users’ mental health
+and impairs important developmental processes and behaviors.
+82
+Ex. 37, Meta Doc. No. MT-IG-AG-00017116.
+83
+Ex. 38, Meta Doc. No. MT-IG-AG-00017125.
+84
+Ex. 39, Meta Doc. No. MT-IG-AG-00017107 (pg. 7).
+85
+Ex. 40, Meta Doc. No. MT-IG-AG-00210347 (pg. 7).34
+187. These injuries include lack of sleep and related health outcomes, diminished in-
+person socialization skills, difficulty maintaining attention, increased hyperactivity, self-control
+challenges, and interruption of various brain development processes.
+188. CompulsiveInstagram usealsocauses mental healthharms such as increased levels
+of depression and anxiety among Young Users.
+189. In addition,compulsiveInstagram useleads YoungUsers tohavediminished social
+capacity and other developmental skills by virtue of the “opportunity cost” associated with
+devoting significant time to social media, rather than partaking in other developmentally
+important, in-person life experiences.
+190. The United States Surgeon General’s May 2023 Advisory, titled “Social Media and
+Youth Mental Health” (the “Advisory”), describes some of these harms in detail.86
+As the
+Advisory explains, “[a] Surgeon General’s advisory is a public statement that calls the American
+people’s attention to an urgent public health issue . . . Advisories are reserved for significant public
+health challenges that require the nation’s immediate awareness and action.” According to the
+Surgeon General, Young Users’ social media use is one such significant public health challenge.
+191. As the Advisory explains, “[e]xcessive and problematic social media use, such as
+compulsive or uncontrollable use, has been linked to sleep problems, attention problems, and
+feelings of exclusion among adolescents.”
+192. The Advisory also identifies “changes in brain structure;” “altered neurological
+development;” “depressive symptoms, suicidal thoughts and behaviors;” “attention
+deficit/hyperactivity disorder (ADHD);” and “depression, anxiety and neuroticism” as additional
+86
+Ex. 41, U.S. Dep’t of Health & Hum. Servs., Social Media and Youth Mental Health: The U.S. Surgeon General’s
+Advisory 4 (2023), https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+86 Ex. 41, U.S. Dep't of Health & Hum. Servs., Social Media and Youth Mental Health: The U.S. Surgeon General'sC. Meta Engages in Deceptive Conduct By Omitting and Misrepresenting Material
+194. Under the TCPA, a business engages in deceptive conduct when its acts, statements,
+or omissions tend to mislead a reasonable consumer or cause consumers to believe what is false.
+Lbl
+Lbl
+Lbl
+Lbl
+87 To be clear, this Complaint is focused on harms arising out of compulsive or "problematic" Instagram use, not
+harms caused by exposure to any particular pieces or categories of content on Instagram.
+88 For the sake of brevity, this Section largely does not reiterate the prior Section's allegations regarding Instagram's
+addictive characteristics. Those allegations, however, support the State's deception claim and are expressly
+89 Under the TCPA, a party engages in unfair practices when it "withholds important information from consumers."
+Tucker V. Sierra Builders, 180 S.W.3d 109, 117 (Tenn. Ct. App. 2005). The conduct described in this section therefore
+constitutes "unfair practices" in addition to "deceptive practices" under the TCPA.
+35
+harms to Young Users associated with compulsive social media use.87
+193. In these and other ways, Instagram harms Young Users.
+Meta Engages in Deceptive Conduct By Omitting and Misrepresenting Material
+Facts About Instagram.
+194. UndertheTCPA,abusinessengagesindeceptiveconductwhenitsacts,statements,
+or omissions tend to mislead a reasonable consumer or cause consumers to believe what is false.
+195. As an initial matter, Meta failed to disclose Instagram’s addictive nature, described
+in detail above. That is amaterial omission that had the tendency to mislead reasonable consumers
+about Instagram’s safety for Young Users.88
+196. But that is just the first of many ways that Meta has led reasonable consumers to
+believe that Instagram is a safer and less harmful platform than it is. Meta deceived consumers,
+parents, and guardians by failing to disclose its understanding that Instagram is, on balance,
+harmful to consumers (and especially damaging to young women); by concealing information
+about some of its most harmful platform features; by promoting misleading metrics about platform
+safety; and by touting inaccurate and ineffective “well-being” initiatives, among other methods.89
+1. Meta Did Not Disclose Its Knowledge That Instagram Harms Users,
+Particularly Young Women.
+197. Meta has long known that the Instagram platform is likely harming a significant
+portion of its user base.
+198. For instance, in September and October of 2018, Meta surveyed and interviewed
+active Instagram users to gauge the association between Instagram and “negative social
+87
+To be clear, this Complaint is focused on harms arising out of compulsive or “problematic” Instagram use, not
+harms caused by exposure to any particular pieces or categories of content on Instagram.
+88
+For the sake of brevity, this Section largely does not reiterate the prior Section’s allegations regarding Instagram’s
+addictive characteristics. Those allegations, however, support the State’s deception claim and are expressly
+incorporated by reference herein.
+89
+Under the TCPA, a party engages in unfair practices when it “withholds important information from consumers.”
+Tucker v. Sierra Builders, 180S.W.3d 109,117(Tenn. Ct. App. 2005). Theconduct described in this section therefore
+constitutes “unfair practices” in addition to “deceptive practices” under the TCPA.36
+comparison,” (i.e. comparisons that makes users feel worse about themselves). In Meta
+researchers’ own words, the experiment found that “at least some of this association is causal.”90
+199. Knowing that “[n]egative social comparison is associated with worsened well-
+being measures across the board,”91
+Meta found that for Instagram users, “there is a relationship
+between tenure and the length of negative [social comparison].”92
+For instance, among Instagram
+users who have been on the platform for an average of 4.4 years, Meta found that “33% of people
+hav[e] been feeling worse about themselves on [Instagram] for ‘several months to a year.’”93
+200. That 2018 study also found that Instagram drives negative social comparison for
+teen girls and young women especially. It observed that, in comparison to men who are at least
+25 years old, women are five times more likely and teen girls are eight times more likely to engage
+in negative social comparison—i.e. feel worse about themselves by comparing themselves to
+others—due to Instagram use.94
+201. Meta would continue sharpening its internal understanding of the harms
+experienced by Instagram users over subsequent years. For instance, Meta’s studies confirm that
+Instagram causes or contributes to:
+• Addiction. Meta research from August and September 2019 found that “Instagram is
+addictive, and time-spend on [the] platform is having a negative impact on mental
+health.” The research observed that teens “have an addicts’ narrative about Instagram
+use . . . they wish they could spend less time caring about it, but they can’t help
+themselves.” The research concluded, “[o]n an everyday level, Instagram is a recipe
+for low level mental anxiety that unchecked can ladder up to something more
+serious.”95
+• Body Dissatisfaction. On March 13, 2020, Meta internally distributed findings from
+a Meta-sponsored literature review, which found that “[s]ubstantial evidence suggests
+90
+Ex. 42, Meta Doc. No. MT-IG-AG-00114075 (pg. 42).
+91
+Id. (pg. 41).
+92
+Id. (pg. 46).
+93
+Id.
+94
+Id. (pg. 24).
+95
+Ex. 30 (pgs. 15, 57).
+comparison," (i.e. comparisons that makes users feel worse about themselves). In Meta
+Lbl
+Lbl
+Lbl
+90 Ex. 42, Meta Doc. No. MT-IG-AG-00114075 (pg. 42).
+95 Ex. 30 (pgs. 15, 57).37
+that experiences on Instagram or Facebook make body dissatisfaction worse,” and that
+users “perceived body image as a problem that Instagram worsened the most, more
+than when they end a relationship or lose a job.”96
+• Negative Social Comparison. In March and April of 2020, Meta conducted a survey
+of 100,000 individuals in the United States and other countries to better understand
+“social comparison on Instagram.” From this survey, Meta found that “[a]bout 1 out of
+10 people experience negative social comparison on Instagram often or always.” It
+also found that “[a]bout 1 in 4 people think that Instagram makes social comparison
+worse.”97
+• Mental Health Harms. On November 13, 2019, Meta internally published the results
+of a 22,000-person survey of Instagram users from the United States and several other
+countries. The survey found that “at least 1 in 2 [Instagram] users had experienced at
+least one mental health related issue in the last 30 days.” 98
+202. Meta’s research shows that Instagram is particularly devastating for young women.
+Meta’s research shows that:
+• “Nearly half of teen girls (48%) often or always compare their appearances on
+[Instagram], and one-third (34%) feel intense pressure to look perfect.”99
+• “Approximately 70% of teen girls may see enough “sensitive content”—i.e. content
+that is associated with negative appearance comparison—that they are likely to
+experience “appearance comparison at least half the time” they are on Instagram.100
+• “The topics that elicit appearance comparison comprise 1/4 of the content people see
+on Instagram, and 1/3 for teen girls.”101
+• “For every piece of friend content a teen girl sees, she sees 5x as many pieces of
+content from top accounts,” i.e. the accounts that most strongly drive appearance
+comparison.
+• Roughly 1 in 5 pieces of content young girls see on Instagram is focused on makeup,
+cosmetics, skin care and relatedtopics, whichtheCompanyknows are “associatedwith
+more negative appearance comparison.”102
+96
+Ex. 43, Meta Doc. No. MT-IG-AG-00056979 (pgs. 1-2).
+97
+Ex. 44, Meta Doc. No. MT-IG-AG-00002779 (pg. 6).
+98
+Ex. 45, Meta Doc. No. MT-IG-AG-00056857 (pg. 5).
+99
+Ex. 46, Meta Doc. No. MT-IG-AG-00002821 (pg. 2).
+100
+Ex. 47, Meta Doc. No. MT-IG-AG-00056845.
+101
+Ex. 48, Meta Doc No. MT-IG-AG-00057040 (pg. 8).
+102
+Ex. 47.
+Meta's research shows that:
+96 Ex. 43, Meta Doc. No. MT-IG-AG-00056979 (pgs. 1-2).
+97 Ex. 44, Meta Doc. No. MT-IG-AG-00002779 (pg. 6).
+98 Ex. 45, Meta Doc. No. MT-IG-AG-00056857 (pg. 5).
+99 Ex. 46, Meta Doc. No. MT-IG-AG-00002821 (pg. 2).
+100 Ex. 47, Meta Doc. No. MT-IG-AG-00056845.
+101 Ex. 48, Meta Doc No. MT-IG-AG-00057040 (pg. 8).38
+• 68% of teen girls experience negative social comparison, and this issue is “not an
+influencer problem, it’s an Instagram problem.”103
+203. Meta’s studies also show that the Explore surface—through which Instagram
+recommends content to users from accounts that they do not follow—exacerbates some of the
+harms identified by the above research.
+204. Internal Meta research from July 22, 2021 indicates that Instagram’s Explore
+surface tends to increase users’ “exposure to [negative appearance comparison-provoking] content
+beyond the preferences that people have indicated by the choice of accounts they follow.”
+Consequently, “17% of people see substantially more (at least 20 percentage points) [negative
+appearance comparison-provoking] content in Explore than in Feed. It’s worse for women and
+teen girls.”104
+205. In other words, Instagram’s algorithms feed users more harmful content than the
+users would otherwise receive if content visibility were only driven by preferences expressed by
+the users.
+206. In mid-2021, Meta undertook an extensive survey of users to “develop a holistic,
+consistent picture of user bad experiences on Instagram that allows [Meta] to track [its] progress
+each half [year].”105
+207. Referred to internally as BEEF (“Bad Experiences and Encounters Framework”),
+the survey measured users’ exposure to certain categories of harmful content on Instagram over a
+seven-day period and leveraged a subcategory of Instagram users as a control group to “determine
+causality.”106
+103
+Ex. 49, Meta Doc. No. MT-IG-AG-00056865 (pg. 5).
+104
+Ex. 50, Meta Doc. No. MT-IG-AG-00056955.
+105
+Ex. 51, Meta Doc. No. MT-IG-AG-00232203 (pg. 3).
+106
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+103 Ex. 49, Meta Doc. No. MT-IG-AG-00056865 (pg. 5).
+104 Ex. 50, Meta Doc. No. MT-IG-AG-00056955.
+105 Ex. 51, Meta Doc. No. MT-IG-AG-00232203 (pg. 3).39
+208. As discussed in more detail below, the BEEF survey showed that a significant
+number of Instagram users (and particularly Young Users) regularly experience negative social
+comparison-promoting content; self-harm-promoting content; bullying content; unwanted
+advances; and a collection of other harmful encounters on the platform.107
+209. Relatedly, on August 27, 2021, an Instagram spokesperson told Mosseri about a
+forthcoming Wall Street Journal article “that essentially argues that [Instagram’s] design is
+inherently bad for teenage girls (leads to [suicide and self-harm], poor mental health, dysphoria).”
+The spokesperson observed that the “arguments [are] based on [Meta’s] own research so [they]
+are difficult to rebut” and noted that the article could expose “that [Meta’s] own research
+confirmed what everyone has long suspected.”108
+210. By failing to disclose the above information, Meta tends to cause consumers to
+believe Instagram is safer than it is in reality.
+211. Upon information and belief, the above-referenced studies and surveys are just the
+tip of the iceberg and Meta continues to study and deepen its knowledge that Instagram is harmful
+for many users.
+i. Meta’s Leadership Refused to Remediate Instagram’s Known Harms.
+212. Although Meta understood that Instagram causes significant harm to users, Meta
+executives repeatedly declined to fund (or otherwise support) internal proposals to reduce those
+harms.
+213. By March 2019(and likelyearlier),Meta employees wereawarethat a critical mass
+of “internal and external” research showed that Instagram harms users. Based on that knowledge,
+employees raised this issue to Meta’s senior decision-makers.
+107
+Id. (pg. 21).
+108
+Ex. 52, Meta Doc. No. MT-IG-AG-00205989 (pg. 2).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+108 Ex. 52, Meta Doc. No. MT-IG-AG-00205989 (pg. 2).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+109 Ex. 53, Meta Doc. No. MT-IG-AG-00157898.
+113 Ex. 54, Meta Doc. No. MT-IG-AG-00158988 (pg. 2).
+40
+214. On or around March 8, 2019, a Meta research director sent Sandberg a report
+warning that Meta was harmful for users, on balance. The report stated, “there is increasing
+scientific evidence (particularly in the US) that the average net effect of [Meta platforms] on
+people’s well-being is slightly negative.” 109
+215. The report identified “[t]hree negative drivers that occur frequently on Meta’s
+platforms and impact people’s well being.” Those drivers were: (1) problematic use (Meta’s
+euphemism for compulsive use); (2) social comparison; and (3) loneliness.110
+216. The report observed that 58.1% of users experienced varying degrees of
+“problematic use”; 45% of users experienced varying degrees of social comparison; and 43% of
+users experienced varying degrees of loneliness from using Meta’s platforms.111
+217. The report warned Sandberg that Meta needed new product investment to remedy
+theseharms. It stated: “With no additionalinvestment,weareonatrajectorytodeliverexploratory
+findings (and NO product changes).” “We recommend investing in both the product effort and the
+[research] effort.”112
+218. On April 8, 2019, Meta’s VP of Product, Choice, and Competition escalated this
+warning by emailing Zuckerberg, Sandberg, and Mosseri. That email reiterated the warning
+previously shared with Sandberg: “there is increasing scientific evidence (particularly in the US)
+that the average net effect of [Meta platforms] on people’s well-being is slightly negative.”113
+219. Like the report that Sandberg received individually, the email to Zuckerberg,
+Mosseri, and Sandberg implored that “there is a strong need to increase our investment in these
+109
+Ex. 53, Meta Doc. No. MT-IG-AG-00157898.
+110
+Id.
+111
+Id.
+112
+Id.
+113
+Ex. 54, Meta Doc. No. MT-IG-AG-00158988 (pg. 2).areas to make a meaningful shift over the next year and beyond."
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+116 Ex. 55, Meta Doc. No. MT-IG-AG-00163662.
+41
+areas to make a meaningful shift over the next year and beyond.”
+220. The email reiterated: “Without additional investment, we are on a trajectory to
+deliver exploratory findings and continue our research at a slower pace (and NO product
+changes).”
+221. Several days later, a member of Meta’s finance team—speaking on behalf of
+Zuckerberg and Sandberg—told the research team that Meta would not fund the recommended
+investments at the Meta (parent company) level.114
+222. Later that same day, Mosseri stated that the recommended investments would not
+be funded at the Instagram level either. He explained, “[u]nfortunately I don’t see us funding this
+from Instagram any time soon.”115
+223. In other words, Meta’s executive decision-makers understood that Instagram was,
+on net, negatively impacting its users. But rather than disclosing that fact or investing in solutions
+to the problem, Meta continued to prioritize Company profits at the users’ expense.
+224. Later in 2019, Fidji Simo—then Head of Facebook—told Mosseri that, to improve
+well-being on Meta’s platforms, “we need to increase investment.”116
+225. Mosseri replied, “100% agree. My current take is the biggest problem is: Well-
+being is the existential question we face, and we lack a . . . roadmap of work that demonstrates we
+care about well-being.”117
+226. Despite Mosseri’s purported concerns, Meta’s leadership refused to fund well-
+being product investments for years.
+227. For example, in August 2021, Nick Clegg—Meta’s President of Global Affairs—
+114
+Id. (pg. 1).
+115
+Id.
+116
+Ex. 55, Meta Doc. No. MT-IG-AG-00163662.
+117
+Id.emailed Zuckerberg recommending "additional investment to strengthen our position on wellbeing
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+118 Ex. 56, Meta Doc. No. MT-IG-AG-00210674 (pg. 3).
+120 Ex. 57, Meta Doc. No. MT-IG-AG-00701698.
+42
+emailed Zuckerberg recommending “additional investment tostrengthenourpositiononwellbeing
+across the company.”118
+228. Clegg endorsed this investment because politicians worldwide were raising
+concerns “about the impact of [Meta’s] products on young people’s mental health.” Clegg
+concluded that while Meta had a “strong program of research,” it “need[ed] to do more and we are
+being held back by a lack of investment on the product side which means that we’re not able to
+make changes and innovations at the pace required.”119
+229. Zuckerberg declined to respond to Clegg’s request for months, even after The Wall
+Street Journal reported about Meta’s internal research on the harm Instagram causes to Young
+Users’ mental health.
+230. As it turns out, Zuckerberg’s attention was elsewhere. While Clegg and others
+worried about public backlash, Zuckerberg was preoccupied with public perception of his
+hydrofoil, which is an aquatic recreation device.120
+231. On September 21, 2021, while Meta’s previously undisclosed internal research was
+a leading headline, Meta’s public affairs team worked to dissuade Zuckerberg from publicly
+mocking a different news story that mistakenly referred to Zuckerberg’s hydrofoil as an “electric
+surfboard.”121
+232. According to a member of the team, Zuckerberg was “eager” to publicly state:
+“Look, it’s one thing for journalists to make false claims about my work, but it’s crossing a line to
+say I’m riding an electric surfboard when it’s clearly a hydrofoil and I’m pumping that thing with
+118
+Ex. 56, Meta Doc. No. MT-IG-AG-00210674 (pg. 3).
+119
+Id.
+120
+Ex. 57, Meta Doc. No. MT-IG-AG-00701698.
+121
+Id.Lbl
+Lbl
+Lbl
+125 Ex. 58, Meta Doc No. MT-IG-AG-00701697
+43
+my legs.”122
+233. Later in the same conversation, an unamused Clegg observed the absurdity of
+Zuckerberg’s inclination:
+Am I missing something here? On the day a [Meta] rep[resentative]
+is pulled apart by US Senators on whether we care enough about
+children on our services, [Zuckerberg] is going to post about . . .
+surfboards? Maybe I’ve lost my humor about this whole thing, but I
+really think this would seem to any casual observer to be pretty tone
+deaf given the gravity of the things we’re accused of . . . If I was
+him, I wouldn’t want to be asked “while your company was being
+accused of aiding and abetting teenage suicide why was your only
+public pronouncement a post about surfing?” . . . [The Wall Street
+Journal’s reporting about Instagram’s mental health impacts] has
+dramatically consolidated a wider narrative (that we’re bad for kids)
+which had been brewing for some time. It now makes regulation . .
+. certain, and in my view makes launching [Instagram] Kids nigh
+impossible. I’ve told [Zuckerberg] and [Sandberg] this already.123
+234. Zuckerberg ultimately released the statement. As Meta’s Head of Communications
+said, “I’m really eager to just do whatever he wants at this point. My spine has been surgically
+removed.”124
+235. Meanwhile, Clegg was concerned that Zuckerberg’s mindset was hampering the
+Company’s response to the mental health crisis covered in The Wall Street Journal’s reporting. In
+a contemporaneous discussion with a member of Meta’s finance team, Clegg implored, “the WSJ
+story about [Instagram] and teenage depression and suicide will have a huge impact on
+regulatory/political pressure on us going forward . . . I’m worried that none of this is – yet – being
+reflected in [Zuckerberg’s] decision making [sic] on [staffing].”125
+236. Clegg was not alone—other members of Meta’s senior leadership team were also
+122
+Id.
+123
+Id.
+124
+Id.
+125
+Ex. 58, Meta Doc No. MT-IG-AG-00701697.Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+126 Ex. 59, Meta Doc. No. MT-IG-AG-00208523 (pg. 2).
+127 Ex. 60, Meta Doc. No MT-IG-AG-00188864.
+129 Ex. 61, Meta Doc. No. MT-IG-AG-00189014.
+130 Ex. 56 (pg. 1).
+44
+becoming increasingly alarmed.
+237. For instance, following significant media coverage of Meta platforms’ harms to
+young users, Meta’s VP of Research emailed Clegg to share, “I feel even more convinced that we
+need to make more progress on well-being on the product side.”126
+238. Similarly, in an October 2021 exchange about Clegg’s August 2021 well-being
+recommendation (to which Zuckerberg still had not responded), Mosseri complained, “I’m really
+worried about this . . . we’ve been talking about this for a long time but have made little
+progress.”127
+239. Meta’s VP of Product Management agreed with Mosseri, observing that Meta’s
+“biggest gap is getting [Meta’s] research intoproduct roadmaps. Wegot 0 newwell-beingfunding
+for 2022.”128
+240. Meta’s VP of Product Management reiterated the same with other Meta employees:
+“We’ve made a lot of progress on research . . . We’ve not made a lot of progress on getting the
+research into product.”129
+241. In November 2021, Clegg sent an email following up on his August 2021
+correspondence to which Zuckerberg had still failed to respond. In the follow-up email, Clegg
+underscored that product investment is “important to ensure we have the product roadmaps
+necessary to stand behind our external narrative of well-being on our apps.”130
+242. In other words, as Clegg told Zuckerberg, the Company’s external well-being
+“narrative” was inconsistent with Company’s actual financial commitment to that issue.
+126
+Ex. 59, Meta Doc. No. MT-IG-AG-00208523 (pg. 2).
+127
+Ex. 60, Meta Doc. No MT-IG-AG-00188864.
+128
+Id.
+129
+Ex. 61, Meta Doc. No. MT-IG-AG-00189014.
+130
+Ex. 56 (pg. 1).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+131 Ex. 62, Meta Doc. No. MT-IG-AG-00219284 (pg. 28).
+133 Ex. 63, Meta Doc. No. MT-IG-AG-00185325.
+45
+243. Ultimately, Zuckerberg was responsible for that discrepancy because he acts as the
+sole ultimate decision maker for all major corporate choices at Meta. As Mosseri and a fellow
+Meta executive complained in a 2016 internal message, Zuckerberg is “the only non-middle-
+manager” at Meta.131
+244. In that same exchange, a third executive agreed, observing that while “most
+companies are ‘feudal’ in their structure—nesting minor fiefdoms,” Meta is not. Instead, Meta is
+“an absolute dictatorship” run by Zuckerberg.132
+245. On information belief, Zuckerberg has maintained that “dictatorial” level of control
+over Meta’s major corporate decisions from the Company’s founding through the present day.
+ii. Meta Limited Internal Access to Documents Showing Instagram’s Harms.
+246. As described above, Meta never publicly disclosed the significant body of internal
+research showing the risks Instagram posed to its users.
+247. To the contrary, Meta took affirmative steps to hide its internal research from the
+public—including from Tennessee consumers, parents and guardians.
+248. As Meta’s products, including Instagram, faced growing scrutiny over time, Meta
+locked down access to its internal research findings.
+249. For instance, on August 27, 2021—shortly after Meta learned of The Wall Street
+Journal’s forthcoming article exposing some of Meta’s well-being research—the Company began
+“locking down access to some of the extra sensitive pieces of work.”133
+250. As part of that effort, an employee (presumably acting at management’s behest)
+instructed an internal researcher to “make sure that any of our shareable deliverables or insights
+131
+Ex. 62, Meta Doc. No. MT-IG-AG-00219284 (pg. 28).
+132
+Id.
+133
+Ex. 63, Meta Doc. No. MT-IG-AG-00185325.46
+docs that you own on the mental well-being space are locked down.”134
+251. Similarly, on October 20, 2021, a senior Meta well-being researcher complained
+about anewpolicy requiringMeta’s communications team to reviewresearchfindings even before
+they could be shared internally.135
+252. One Meta employee worried that the new policy could have a chilling effect on the
+Company’s ability to react to “research findings that are inconvenient for [Meta], e.g., research
+that shows [Meta] is harmful.”136
+253. The employee added that if that research “needs to be sanitized to share with
+[internal] people that need to know (i.e., the people in focused, closed groups) then we’ve got a
+big problem.”137
+254. Despite those risks, the communications team did, in fact, begin “sanitizing”
+internal research findings before they were circulated internally. On one occasion, the
+communications team “took issue with language describing a finding as applying to a general
+population instead of just survey responders . . . The discussion that followed left [a researcher]
+feeling that [Meta] wouldn’t want us to do that [i.e. apply findings to the general population, which
+is Meta’s user base] so that [Meta] could more easily dismiss inconvenient findings.”138
+255. Reacting to that episode, a researcher concluded: “This is a huge moral hazard, in
+my opinion.” Another Meta-employed social scientist responded, “[a]greed!”139
+256. True to form, Meta also restricted access to the BEEF survey results in the latter
+half of 2021. As one Meta employee observed on September 30, 2021, “[t]he results of BEEF . . .
+134
+Id.
+135
+Ex. 64, Meta Doc. No. MT-IG-AG-00062055.
+136
+Id.
+137
+Id.
+138
+Id.
+139
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+135 Ex. 64, Meta Doc. No. MT-IG-AG-00062055.are only being shared in private and select groups, to avoid leaks. Sad new world." According to
+Lbl
+Lbl
+Lbl
+Lbl
+140 Ex. 65, Meta Doc. No. MT-IG-AG-00144350.
+141 Ex. 66, Meta Doc. No. MT-IG-AG-00143575.
+142 Ex. 67, Meta Doc. No. MT-IG-AG-00149666.
+47
+are only being shared in private and select groups, to avoid leaks. Sad new world.” According to
+the same employee, Meta narrowed BEEF survey-result access to a “66-person secret group.” 140
+257. That same month, one PhD-level researcher compared Meta’s messaging strategy
+to that of Big Tobacco. After Meta tried to downplay Instagram’s mental health harms in the wake
+of The Wall Street Journal’s exposé, the researcher emailed colleagues explaining that:
+Pre-[Meta] I spent a lot of time working on public health and
+environmental issues, and this sounds eerily similar to what tobacco
+companies and climate change deniers say. Uncertainty/doubt is a
+key component of the scientific method, but it can also be
+weaponized to push back on critics (e.g., ‘ . . . but this one scientist
+thinks cigarettes don’t cause cancer,’ ‘we need more research to
+know for sure whether climate change is man made,’ ‘evolution is
+just a theory,’ etc etc) . . . [W]hen we use language like this it puts
+us in very bad company.141
+258. On information and belief, Meta’s internal culture of secrecy was designed to keep
+consumers, parents, guardians, and policy makers in the dark about the harm Meta was causing its
+users, including Instagram users.
+iii. Meta Did Not Disclose That Instagram’s Cosmetic Surgery Effect Selfie
+Filters Were Especially Harmful to Young Users.
+259. Meta’s decision-making behind Instagram’s cosmetic selfie filters illustrates the
+Company’s willingness to implement harmful platform features without disclosing known risks to
+the public.
+260. Meta determined these filters were a business imperative based on internal research
+showing that “face filters are viewed as the key differentiator to keep [content creators] using
+Snapchat—in particular very large talent is eager for a simple beauty filter to help them be more
+comfortable to put their face on camera.”142
+140
+Ex. 65, Meta Doc. No. MT-IG-AG-00144350.
+141
+Ex. 66, Meta Doc. No. MT-IG-AG-00143575.
+142
+Ex. 67, Meta Doc. No. MT-IG-AG-00149666.48
+261. Shortly thereafter, Meta worked to integrate augmented reality filter effects into
+Instagram.
+262. For example, a February 27, 2018 internal presentation shared with Zuckerberg
+describes the “strategic goal” of integrating augmented reality filter effects into the Instagram
+platform “to see if [augmented reality] effects can get strong product market fit . . . by tapping into
+[Instagram’s] teens community and cultural moments.”143
+263. That “strategic goal” was intended to benefit “Instagram, Teens, and Partners” in
+specific ways. For Instagram’s part, integrating augmented reality filter effects would “[i]ncrease
+[c]amera [e]ngagement in order to drive more sharing” and “[b]uild a daily behavior by giving
+[t]eens reasons to check the camera everyday [sic] though scalable new content.”144
+264. In other words, these camera filters would increase Instagram engagement—and
+consequently, Meta’s profits.
+265. But by 2018, some Meta staff were wary that augmented reality filters might harm
+users—particularly considering a “growing body of research that social media may be driving
+significant increases in rates of anxiety and depression, esp[ecially] among young women.”145
+266. As one employee explained, “[t]his is a hard issue to navigate because I know there
+is a lot of competitive pressure and a lot of market demand for filters that go much more directly
+into the beautification space. And if we test any of these things, they will undoubtedly perform
+well. But just because people like and want something in the short term doesn’t mean it’s healthy
+for them.”146
+267. Consequently, in October 2018, Meta commissioned “a researcher and licensed
+143
+Ex. 68, Meta Doc. No. MT-IG-AG-00151650 (pg. 5).
+144
+Id. (pg. 22).
+145
+Ex. 69, Meta Doc. No. MT-IG-AG-00213785.
+146
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+143 Ex. 68, Meta Doc. No. MT-IG-AG-00151650 (pg. 5).
+145 Ex. 69, Meta Doc. No. MT-IG-AG-00213785.psychologist at Duke who specializes in eating disorders and body image issues among adolescents
+and adults" to undertake a literature review titled, "Consequences and Implications of Selfie
+Lbl
+Lbl
+Lbl
+Lbl
+148 Ex. 70, Meta Doc. No. MT-IG-AG-00213789 (pg. 6).
+149 Ex. 71, Meta Doc. No. MT-IG-AG-00166909 (pg. 20).
+49
+psychologistatDukewhospecializesineatingdisorders andbodyimageissuesamongadolescents
+and adults” to undertake a literature review titled, “Consequences and Implications of Selfie
+Manipulation on Well-Being.”147
+268. The literature review found that:
+An analyses of the costs and benefits of editing selfies and viewing
+manipulated photos indicate the risks far outweigh the benefits.
+Research to date suggests these behaviors exacerbate risk and
+maintenance of several mental health concerns including body
+dissatisfaction, eating disorders and body dysmorphic disorder . . .
+Data also indicates that editing selfies may have a paradoxical effect
+with regards to social connection. Rather than increasing
+acceptance, editing photos may actually increase social rejection . .
+. Rather than bringing people together, selfie manipulation tools risk
+propagating unrealistic standards of beauty that are cross-culturally
+harmful and divide more than they unite.148
+269. Nevertheless, Meta implemented cosmetic selfie filters on Instagram without
+publicly disclosing these known risks.
+270. In mid-October 2019, Meta received sharp public rebuke from press and mental
+healthexpertswhoobservedthatcertainselfiefiltersavailableonthe Instagramplatformpromoted
+plastic surgery, raising serious mental health concerns.
+271. Internally, Meta employees referred to this as a “PR fire” that included “negative
+press coverage, questions from regulators, and growing concern from experts.”149
+272. Based on that public pressure—and roughly a year after receiving unequivocal
+warnings from the literature review that it commissioned—Meta installed a set of interim policies
+banning augmented reality filters that promote cosmetic plastic surgery.
+273. After installing these interim policies, Meta devoted significant thought to its long-
+147
+Id.
+148
+Ex. 70, Meta Doc. No. MT-IG-AG-00213789 (pg. 6).
+149
+Ex. 71, Meta Doc. No. MT-IG-AG-00166909 (pg. 20).50
+term position regarding these augmented filters.
+274. For example, Meta employees consulted “[i]ndependent experts…from around the
+world” to study this issue. According to a subsequent internal presentation, those experts
+“generally agree that Cosmetic Surgery Effects raise significant concerns related to mental health
+and wellbeing, especially for teenage girls.” The presentation recommended “continuing the ban
+and erring on the side of protecting users from potential mental health impacts.”150
+275. In November 2019, Meta staff formally submitted a long-term policy proposal to
+the Company’s decision-makers. It recommended that the Company should “[r]eject cosmetic
+effects that change the user’s facial structure in a way that’s only achievable by cosmetic surgery
+for the purposes of beautification (in a way that cannot be achieved by makeup).” The proposal
+clarified, “[t]his does not apply to effects that change a user’s facial structure for the purpose of
+turning the user into a character or animal.”151
+276. But this recommendation did not persuade all key decision-makers at Meta.
+277. For example, on November 14, 2019, Andrew Bosworth—then Meta’s VP of
+Augmented Reality and Virtual Reality—opposed the proposal, arguing that maintaining the ban
+would only “move [users] to other appswhich aren’t likely to be as restrained.”152
+278. A day later, Instagram’s Head of Public Policy questioned Bosworth’s perspective.
+She noted that the “strong recommendation” to “disallow[] effects that mimic plastic surgery” was
+made after consulting with Meta’s communications, marketing, and policy teams—as well as
+engagement “with nearly 20 outside experts and academics.”153
+279. Instagram’s Head of Public Policy added, “we’re talking about actively
+150
+Ex. 72, Meta Doc. No. MT-IG-AG-00170733.
+151
+Ex. 71 (pg. 1, emphasis in original).
+152
+Id. (pgs. 10-11).
+153
+Id. (pg. 9).
+term position regarding these augmented filters.
+Lbl
+Lbl
+Lbl
+Lbl
+150 Ex. 72, Meta Doc. No. MT-IG-AG-00170733.
+152 Id. (pgs. 10-11).51
+encouraging young girls into body dysmorphia . . . the outside academics and experts
+consulted were nearly unanimous on the harm here.”154
+280. Two days later, a second employee likewise challenged Bosworth’s viewpoint:
+“[T]he argument that this decision [to prohibit cosmetic surgery selfie filters] might move people
+into other apps doesn’t carry weight with me [i]f it means we’re not setting a good example/being
+a good steward for young people.”155
+281. On March 30, 2020, Sandberg also expressed support for maintaining Meta’s ban
+on cosmetic surgery effect filters: “I really hope we can keep the ban since we already have it . . .
+Let’s not break something that is not broken.”156
+282. Shortly thereafter, the question of “whether [Meta] should continue, modify, or lift
+the temporary ban on Cosmetic Surgery [augmented reality] Effects” was elevated to Zuckerberg.
+Citing his belief that the ban “felt paternalistic,” Zuckerberg decided to lift the ban.157
+283. Later that week, a senior Meta employee memorialized her disagreement with
+Zuckerberg’s decision, stating “I respect your call on this and I’ll support it, but want to just say
+for the record that I don’t think it’s the right call given the risks . . . I just hope that years from now
+we will look back and feel good about the decision we made here . . .”158
+284. But nearly a year later, Meta employees were not “feeling good” about the
+Company’s decision to push forward with these effects. Reacting to an article that referred to
+social media’s widespread use of augmented reality filters as “a mass experiment on girls and
+young women,” an employee remarked, “[t]his makes me so sad to read. Especially knowing how
+154
+Id. (pgs. 9-10).
+155
+Id. (pg. 9).
+156
+Ex. 73, Meta Doc. No. MT-IG-AG-00698609.
+157
+Ex. 74, Meta Doc. No. MT-IG-AG-00198471 (pg. 3).
+158
+Id. (pg. 1).
+encouraging young girls into body dysmorphia the outside academics and experts
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+154 Id. (pgs. 9-10).
+156 Ex. 73, Meta Doc. No. MT-IG-AG-00698609.
+157 Ex. 74, Meta Doc. No. MT-IG-AG-00198471 (pg. 3).52
+hard we fought to prevent these on [Instagram].”159
+285. A second employee replied, “I know, it’s pretty dispiriting to think about. And the
+fact that we have no idea what the long-term effects will be for this generation that has grown up
+comparing themselves to something that’s . . . totally fake.”160
+286. The first responded: “Given all the continued coverage on the impact of beauty
+filters on youth, I’d want us to consider age-gating these effects to [under-18] accounts.”161
+287. On information and belief, Meta never age-gated cosmetic selfie filters on its
+platforms—and the platform feature remains accessible to Young Users to this day.
+288. On information and belief, Meta never publicly disclosed its findings that these
+effects were harmful to users, a material omission that misled consumers, parents, and guardians
+to believe that Instagram is safer than it really is.
+2. Meta Promoted Misleading Metrics About the Incidence of Harm on
+Instagram.
+i. Meta’s Community Standards Enforcement Reports Create the Impression
+that Harmful Content is Rarely Encountered on Instagram.
+289. Throughpublicrepresentations,MetacreatestheimpressionthatInstagram isasafe
+platform on which harmful content is rarely encountered.
+290. Meta broadcasts that message through its Community Standard Enforcement
+Reports (“the Reports”), which the Company publishes quarterly on its online “Transparency
+Center” and amplifies through the press and other channels.
+291. The Reports describe the percentage of content posted on Instagram that Meta
+removes for violating Instagram’s community standards. Meta often refers to that percentage as
+159
+Ex. 75, Meta Doc. No. MT-IG-AG-00085750.
+160
+Id.
+161
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+159 Ex. 75, Meta Doc. No. MT-IG-AG-00085750.53
+its “prevalence” metric.
+292. Meta directed its employees to tout the Reports’ “prevalence” metric as “the most
+important measure of a healthy online community.”162
+293. But that is misleading. As Meta well understands, the “prevalence” of standards-
+violating content, which is often quite low, is not the same as the actual “prevalence” of harmful
+content, which is rampant on Instagram.
+294. Notably, Meta drafted the “community standards” and has incentives to design
+those standards narrowly so that they are rarely violated.
+295. Nevertheless, Meta expressly represents that Instagram is safe because Meta
+enforces its community standards.
+296. For example, the 2019 third quarter Report touts Meta’s “[p]rogress to help keep
+people safe.”163
+Likewise, the 2023 second quarter Report states that “we publish the Community
+Standards Enforcement Report…to more effectively track our progress and demonstrate our
+continued commitment to making…Instagram safe…”164
+297. These representations—publicly accessible on Meta’s online Transparency
+Center—create the impression that through the Reports, Meta is disclosing information most
+relevant to Instagram’s safety. In other words, Meta posts these Reports to its online Transparency
+Center so users, parents, and guardians who visit that site will believe Young Users and other users
+are unlikely to experience harm on Instagram.
+298. Indeed,internal documents showthat MetaintendedtheReports tocreatethat exact
+(mis)understanding.
+162
+Ex. 76, Meta Doc. No. MT-IG-AG-00023718.
+163
+Ex. 77, Meta Doc. No. MT-IG-AG-00002973.
+164
+Ex. 78, Community Standards Enforcement Report: Q2 2023, META (Aug. 2023),
+https://transparency.fb.com/data/community-standards-enforcement/.
+its "prevalence" metric.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+162 Ex. 76, Meta Doc. No. MT-IG-AG-00023718.
+163 Ex. 77, Meta Doc. No. MT-IG-AG-00002973.
+164 Ex. 78, Community Standards Enforcement Report: Q2 2023, META (Aug. 2023),54
+299. In March 2021, Meta conducted an internal Meta “Company Narrative Audit” that
+suggests ways the Company should combat narratives such as “[Meta] allows hateful and harmful
+content to proliferate on its platform.”165
+300. To counter that narrative, the audit suggests Meta should publicize that: “Every
+three months we publish our Community Enforcement Standards Report to track our progress and
+demonstrate our continued commitment to making Facebook and Instagram safe.”166
+301. Consistent with this effort, internal communications show that Meta encouraged
+employees to use the Reports as an external “measure for platform safety” that illustrate “our
+efforts to keep our platform safe.”167
+ii. Users Encounter Harmful Experiences on Instagram Much More
+Frequently Than the Reports Suggest.
+302. TheimpressiontheReportscreate—that Instagram isasafeplatformwhereharmful
+experiences are only rarely encountered—is false and misleading.
+303. For example, Meta’s 2021 third quarter Report states that on Instagram, “less than
+0.05% of views were of content that violated our standards against suicide & self-injury.”168
+That
+representation created the impression that it was very rare for users to experience content relating
+to suicide and self-injury on Instagram.
+304. But Meta’s contemporaneous internal BEEF survey data showed that during 2021,
+6.7% of surveyed Instagram users had seen self-harm content within the last seven days.169
+For
+users between 13-15 years of age, 8.4% had seen content relating to self-harm on Instagram within
+the last seven days.170
+165
+Ex. 79, Meta Doc. No. MT-IG-AG-00179744 (pg. 12).
+166
+Id.
+167
+Ex. 80, Meta Doc. No. MT-IG-AG-00023675.
+168
+Ex. 81, Meta Doc. No. MT-IG-AG-00091755 (pg. 4).
+169
+Ex. 51 (pg. 21).
+170
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+165 Ex. 79, Meta Doc. No. MT-IG-AG-00179744 (pg. 12).
+167 Ex. 80, Meta Doc. No. MT-IG-AG-00023675.
+168 Ex. 81, Meta Doc. No. MT-IG-AG-00091755 (pg. 4).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+55
+305. Thus, the frequency with which users—particularly Instagram’s youngest users—
+encounter self-harm-related content on Instagram vastly exceeded the impression Meta created
+through its Reports.
+306. A similar discrepancy may be seen in Meta’s measurement of bullying and
+harassing content.
+307. Forexample,thethirdquarterlyReportof2021stated,“weestimatebetween0.05%
+to 0.06% of views were of content that violated our standards against bullying & harassment [on
+Instagram].”171
+This claim created the impression that it was very rare for users to observe or
+experience bullying or harassment on Instagram.
+308. Again, Meta’s contemporaneous internal user survey data told a different story:
+Among surveyed Instagram users, 28.3% had witnessed bullying on the platform within the last
+seven days and 8.1% had been the target of bullying on the platform within the last seven days.172
+309. Among 13-15-year-olds, 27.2% reported witnessing bullying within seven days.
+Among users aged 16-17, that figure was 29.4%.173
+310. When asked whether they had been the target of bullying on Instagram within the
+last seven days, 10.8% of 13-15-year-olds said yes.174
+311. Similarly, and contrary to the 2021 third quarter Report’s representation that
+harassment on Instagram was rare, Meta’s contemporaneous internal survey showed that 11.9% of
+all survey respondents said they had received unwanted advances on Instagram within the last
+seven days.175
+171
+Ex. 81 (pg. 3).
+172
+Ex. 51 (pg. 21).
+173
+Id.
+174
+Id.
+175
+Id.56
+312. Here again, that number was even higher amongst Instagram’s youngest users.
+Among 13-15-year-olds, 13.0% reported that they had received unwanted advances within the last
+seven days. Among 16-17-year-olds, that figure was 14.1%.176
+313. In other words, Instagram users in general—and Young Users in particular—
+encounter content related to self-harm, bullying, and harassment on Instagram much more
+frequently than consumers would expect based on the Reports.
+iii. Meta’s Executive Leadership Knew the Reports Misled Consumers.
+314. Meta’s leadership team understood the discrepancy between Meta’s public Reports
+and Meta’s internal survey results.
+315. On October 5, 2021, Arturo Bejar—then an independent contractor and formerly
+Meta’s Director of Engineering—emailed Zuckerberg, Sandberg, Chris Cox, and Mosseri voicing
+concerns that there was a “critical gap in how [Meta] as a company approach[es] harm.”177
+316. Bejar proposed that the Company shift its focus away from the “prevalence” of
+community standards violations towards measures (like the BEEF surveys) that more accurately
+reflect the true scope of harmful content encountered on Instagram.178
+317. Meta’s senior leadership did not respond to Bejar. In fact, Zuckerberg, with whom
+Bejar worked directly for several years, declined to respond to Bejar’s email. Bejar has stated that
+he could “not think of an email that I sent to Mark [Zuckerberg] during my time [at Meta] that he
+didn’t read or respond to.”179
+318. Undeterred, Meta continued to issue and publicize the Reports—even though
+Meta’s leadership team knew the Reports vastly under-represent the volume of harmful content on
+176
+Id.
+177
+Ex. 82, Bejar Transcript Excerpts.
+178
+Id.
+179
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+LblInstagram when compared to metrics like the BEEF surveys.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+57
+Instagram when compared to metrics like the BEEF surveys.
+319. During the State’s investigation, Bejar testified that Meta adopted and maintained
+this strategy to mislead the public. When asked if he believed “that Mr. Zuckerberg and other
+Company leaders focused on the prevalence metric because it created a distorted picture about the
+safety of Meta’s platforms,” Bejar testified “I do.”180
+320. When asked if he thought “Mr. Zuckerberg’s public statements about prevalence
+created a misleading picture of the harmfulness of Meta’s platforms,” Bejar testified “I do.”181
+321. And when asked if he was “aware of any instances where the Company, in [his]
+view, minimized the harms users were experiencing on Meta’s platforms,” Bejar testified: “Every
+time that a Company spokesperson in the context of harms quotes Prevalence statistics I believe
+that is what they are doing, that they’re minimizing the harms that people are experiencing in the
+product.”182
+322. Upon information and belief, Meta issued the Reports and made other public
+statements in order to downplay the harmful experiences that are widespread on Instagram—
+particularly for Young Users.
+323. The Reports create the impression for users, parents, and guardians that Instagram
+provides minimal exposure to harmful experiences such as bullying, self-harm content, and
+unwanted contacts, when Meta’s surveys show that users (and particularly Young Users) are
+regularly exposed to those experiences on Instagram.
+3. Meta Deceived Consumers By Promoting “Time Spent” Tools Despite
+Known Inaccuracies.
+324. For years, Meta has affirmatively deceived consumers by promoting and
+180
+Id.
+181
+Id.
+182
+Id.maintaining inaccurate time-tracking tools on Meta platforms.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+183 Ex. 83, New Tools to Manage Your Time on Facebook and Instagram, META (Aug. 1, 2018),
+185 Ex. 84, Meta Doc. No. MT-IG-AG-00171486.
+58
+maintaining inaccurate time-tracking tools on Meta platforms.
+325. On August 1, 2018, Meta announced “new tools to help people manage their time
+on Facebook and Instagram.” The announcement touted platform-specific activity dashboards,
+daily use reminders, and a notification-limiting tool engineered “based on collaboration and
+inspiration from leading mental health experts and organizations, academics, [Meta’s] own
+extensive research and feedback from [Meta’s] community.”183
+326. In that announcement, Meta acknowledged that it has “a responsibility to help
+people understand how much time they spend on [Meta] platforms so they can better manage their
+experience.” Meta stated its hope “that these tools give people more control over the time they
+spend on our platforms and also foster conversations between parents and teens about the online
+habits that are right for them.”184
+327. Through these public statements and others, Meta led Tennessee consumers,
+parents, and guardians to believe they could rely on Meta’s so-called “Time Spent” tools to track
+and manage the time spent on Instagram in a meaningful, accurate way.
+328. That representation was false. By March 2020, Meta employees recognized that
+the Time Spent tool presented materially flawed information to consumers.
+329. As one Meta staffer observed at the time, “[o]ur [Time Spent] data as currently
+shown is incorrect. It’s not just that Apple / Google have better data. Ours is wrong. Far worse.
+We’re sharing bad metrics externally . . . The reason this is relevant is we vouch for these
+numbers. Any day they’re out there is a legal liability.”185
+330. By the middle of 2020, Instagram’s team charged with decommissioning platform
+183
+Ex. 83, New Tools to Manage Your Time on Facebook and Instagram, META (Aug. 1, 2018),
+https://about.fb.com/news/2018/08/manage-your-time/.
+184
+Id.
+185
+Ex. 84, Meta Doc. No. MT-IG-AG-00171486.59
+features recommended that Meta’s Time Spent tools should be removed from Meta platforms.186
+331. But Meta did not follow that recommendation because the “Time Spent” tool is a
+key part of Meta’s message to users, parents, and guardians that Instagram is a trustworthy
+platform where the risks of addiction are low and manageable.
+332. For instance, when she learned about the effort to remove the Time Spent tools,
+Instagram’s Head of Policy feared that removing the Time Spent tools would strip Meta of its
+“biggest proof point” on “tech addiction/problematic use.” Consequently, she advocated that the
+Time Spent tools should remain in place, despite their inaccuracy:
+[T]he time spent dash[board and] end of feed notification is the
+biggest proof point we have on tech addiction/problematic use
+and the tool with the most positive sentiment from our mental health
+stakeholders—there’s no product work we’ve done in the last
+four years that comes close and we wouldn’t have the credibility
+we now have in the social comparison/mental health parent
+space had we not launched this . . . In order to land this unship
+successfully we would need to land the why, and without doing so
+we would lose significant credibility with our policy and mental
+healthstakeholders. .. Idon’tthinkthat’sgoingtolandwell without
+having something that addresses the underlying issue around
+problematic use. 187
+333. The desire to maintain its “credibility…in the social comparison/mental health
+parent space…” continued to motivate Meta well into 2020, as users spent more time on Meta’s
+platforms during the COVID-19 pandemic. For example, in July 2020, Meta’s product marketing
+and communications teams told colleagues that Metashouldnot remove the inaccurateTimeSpent
+tools because:
+• “Time spent is a bigger concern due to COVID/spending more
+time online.”
+• “[Meta] just deprioritized the mental health team, so no new or
+upcoming [mental health-promoting] features to point to here.”
+186
+Ex. 85, Meta Doc. No. MT-IG-AG-00174125.
+187
+Ex. 86, Meta Doc No. MT-IG-AG-00197537 (pgs. 2-3).
+Lbl
+Lbl
+Lbl
+186 Ex. 85, Meta Doc. No. MT-IG-AG-00174125.
+187 Ex. 86, Meta Doc No. MT-IG-AG-00197537 (pgs. 2-3).60
+• “[Facebook] launched their v2 time spent tool on iOS in Q2
+(Android coming in Q3) and got decent press around the re-
+launch.”
+• “Upcoming moments make the market environment sensitive in
+this area (suicide prevention day (sept), world mental health day
+(oct)) and there is concern that back-to-school will spark new
+issues in market perception due to the majority being
+online/remote learning so time spent online will likely be top-
+of-mind for many.”188
+334. Ultimately, Meta preferred to maintain a façade because the truth—that Meta’s
+Time Spent tool was not actually providing any meaningful, accurate tools to help users, parents,
+or guardians combat or reduce compulsive use—would undermine Meta’s business interests and
+public sentiment.
+335. In the words of one Meta employee who originally advocated for the removal of
+inaccurate Time Spent tools: “I don’t think we can touch [the Time Spent tool] for months, maybe
+even more. The regulatory and brand risk from removing our only addiction-related features
+outweighs . . . the wins around user trust in the data from the few users who use it.”189
+336. On information and belief, Meta regularly promoted its “Time Spent” tool as an
+accurate and useful way for users to control their use of Instagram, even while it knew that the
+“Time Spent” tool delivered inaccurate metrics.
+337. Meta made these representations to build trust with consumers, parents, and
+guardians that Meta’s Time Spent tool would help users (particularly Young Users) manage their
+time on Instagram, even though Meta knew that tool was broken. In this way, Meta won public
+trust and sentiment by deceiving thepublicabout theutilityofthis (supposed)addiction-mitigating
+feature.
+188
+Ex. 87, Meta Doc. No. MT-IG-AG-00174972 (pg. 2).
+189
+Ex. 88, Meta Doc. No. MT-IG-AG-00202191 (pg.1).
+Lbl
+Lbl
+Lbl
+Lbl
+188 Ex. 87, Meta Doc. No. MT-IG-AG-00174972 (pg. 2).
+189 Ex. 88, Meta Doc. No. MT-IG-AG-00202191 (pg.1).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+190 Ex. 89, Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data
+Security of the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam
+Mosseri, Head of Instagram, Meta Platforms) (pg. 2).
+191 Ex. 90, Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data
+Security of the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Antigone
+Davis, Global Head of Safety, Meta Platforms) (pgs. 10, 59).
+61
+4. Through Public Misrepresentations, Meta Leads the Public to Believe That
+Instagram is Safe for Young Users.
+338. The Time Spent episode is not the only time Meta has prioritized public perception
+over the truth. To the contrary, Meta has repeatedly misrepresented facts about its business to
+convince consumers, parents, and guardians that Meta can be trusted to keep Young Users safe on
+Instagram.
+i. Meta Created the Impression That It Restricts Young Users From
+Accessing Harmful Content on Instagram.
+339. Through express representations, Meta cultivated the impression that it protects
+Young Users from harmful or inappropriate content on Instagram.
+340. For example, in the opening statement to his Congressional testimony in December
+2021, Mosseri stated “We’ve put in place multiple protections to create safe and age-appropriate
+experiences for people between the ages of 13 and 18” on Instagram.190
+341. Antigone Davis—Meta’s Global Head of Safety—made similar representations to
+Congress in September 2021. During questioning from senators, Davis explained that “[w]hen it
+comes to those between 13 and 17, we consult with experts to ensure that our policies properly
+accountfortheirpresence,forexample,byage-gatingcontent.”Davisadded,Metadoesnot “allow
+young people to see certain types of content. And we have age gating around certain types of
+content.”191
+342. Davis also specifically testified that Meta does not “direct people towards content
+that promotes eating disorders.”192
+190
+Ex. 89, Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data
+Security of the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam
+Mosseri, Head of Instagram, Meta Platforms) (pg. 2).
+191
+Ex. 90, Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data
+Security of the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Antigone
+Davis, Global Head of Safety, Meta Platforms) (pgs. 10, 59).
+192
+Id. (pg. 45).62
+343. Through Mosseri and Davis’ testimony, Meta led the public to believe that Meta
+successfully curates the Instagram experience to protect Young Users from content that may be
+inappropriate or harmful to them. But Meta’s own studies show that is false.
+344. In fact,areportthatDavisauthoredlessthanayear beforehertestimonycontradicts
+her public representations. Davis’ October 2020 report—titled “Child Safety: State of Play”—
+contains many alarming findings regarding Instagram’s lack of protections for Young Users.193
+345. For example, according to that report, Instagram has “minimal child safety
+protections” that were needed to prevent “Child Sexual Exploitation.”194
+346. On the topic of “Age Assurance/Appropriateness” on Instagram—a key feature of
+Davis’ testimony—Davis’ report includes a slide showing that Instagram’s “vulnerabilities”
+include “U18 enforcement.” More specifically, Davis’ report notes that Instagram’s “age gating
+relies on either stated age or weak age models; lack[s] checkpoint.” The same slide identifies
+“content” as an additional “[v]ulnerability” for Instagram, due to the presence of
+“inappropriate/harmful content and experiences for minors.” This slide concludes that for these
+topics, “there is work happening in this area but not resourced to move quickly.”195
+347. A subsequent slide from Davis’ report observes Instagram’s significant
+“vulnerabilities” regarding users’ well-being. It notes that “core product features connect to
+challenging societal issues” such as the “objectification of women (e.g. [augmented reality] face
+and body altering filters), competitive social comparisons (e.g. likes and comments) and
+anxiety/[fear of missing out] (e.g. notifications).” This slide also notes that Instagram is
+“vulnerable” because it has difficulty “calibrating for content impact on well-being (e.g.[,] eating
+193
+Ex. 91, Meta Doc. No. MT-IG-AG-00699249.
+194
+Id. (pg. 5).
+195
+Id. (pg. 6).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+193 Ex. 91, Meta Doc. No. MT-IG-AG-00699249.63
+disorder content and gender-based hate speech).”196
+348. Other internal documents demonstrate that Meta did not meaningfully improve
+Instagram’s safety or age-appropriateness by the time Davis testified in September 2021.
+349. For instance, according to Meta’s internal findings from October 2021 (just after
+Davis’ testimony), only 2% of content that Young Users encounter on Meta’s platforms is “age
+appropriate nutritious” or “the sort of content we would like to promote to teens.”197
+350. And, in contrast to Davis’ testimony, Meta’s internal studies show that Instagram
+disproportionately directs teen girls to negative appearance comparison-promoting content. For
+example, one June 2021 internal study shows that on Instagram, “approximately 70% of teen girls
+see ‘too much’ sensitive content,” i.e. content that makes them “often feel worse about
+themselves.”198
+And anotherJune2021internal study shows that “roughly1in5pieces ofcontent”
+teen girls see is “associated with more negative appearance comparison.”199
+351. As these examples show, through Mosseri and Davis’ testimony, Meta
+affirmatively misled the public about the efficacy of Meta’s efforts to protect Young Users from
+harmful content and/or to deliver age appropriate experiences on Instagram. These are material
+misrepresentations, as reasonable consumers would be less likely to use a platform (or to allow
+Young Users in their care to use a platform) that exposes users to age-inappropriate or harmful
+content.
+ii. Meta Created the Impression That It Does Not Prioritize “Time Spent.”
+352. To downplay concerns that Instagram is addictive, Meta has repeatedly created the
+public impression that it does not prioritize increasing users’ time on Instagram. To construct that
+196
+Id. (pg. 8).
+197
+Ex. 92, Meta Doc. No. MT-IG-AG-00187589.
+198
+Ex. 47.
+199
+Id.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+197 Ex. 92, Meta Doc. No. MT-IG-AG-00187589.64
+impression, Meta’s executives claimed that the Company does not measure success in terms of the
+time users spend on Meta’s platforms.
+353. For example, in October 2019, Zuckerberg publicly stated that Meta does not allow
+Meta “teams [to] set goals around increasing time spent on [Meta’s] services.”200
+354. Similarly, in October 2021, Sandberg used talking points representing that the
+Company does not “optimize [its] systems to increase amount of time spent” and that Meta
+“explicitly do[es]n’t give [its] team goals around time spent.”201
+355. Meta makes representations like these to garner trust: it wants the public (including
+consumers, parents, and guardians) to believe that it does not measure success in terms of time
+spent to dispel the notion that it intentionally fuels compulsive use of Meta’s products.
+356. But Meta’s representation that it does not set goals based on time spent is false.
+357. For instance, on December 28, 2015, Zuckerberg instructed that Meta should aim
+to increase the time that Instagram users spend on the platform by 10% within the next five
+years.202
+358. Similarly, an internal email to Instagram’s co-founders lists “emphasis on driving
+time spent” among the Company’s “[k]ey [t]hemes” for the first half of 2016.203
+359. As another example, an internal Meta presentation titled “2017 Teens Strategic
+Focus” explicitly describes the Meta’s 2017 “Top-Line Goals” for the first half of 2017, which
+was “shared with Zuck.” The first “Top-Line Goal” is to “grow teen time spent.”204
+360. On information and belief, Meta continues to work to increase users’ time spent on
+200
+Ex. 93, Meta Doc. No. MT-IG-AG-00002294.
+201
+Ex. 94, Meta Doc. No. MT-IG-AG-00230164.
+202
+Ex. 95, Meta Doc. No. MT-IG-AG-00146511.
+203
+Ex. 96, Meta Doc. No. MT-IG-AG-00146487.
+204
+Ex. 97, Meta Doc. No. MT-IG-AG-00189923 (pgs. 2, 5).
+impression, Meta's executives claimed that the Company does not measure success in terms of the
+time users spend on Meta's platforms.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+200 Ex. 93, Meta Doc. No. MT-IG-AG-00002294.
+201 Ex. 94, Meta Doc. No. MT-IG-AG-00230164.
+202 Ex. 95, Meta Doc. No. MT-IG-AG-00146511.
+203 Ex. 96, Meta Doc. No. MT-IG-AG-00146487.
+204 Ex. 97, Meta Doc. No. MT-IG-AG-00189923 (pgs. 2, 5).65
+Instagram through the present.
+361. Thus, by claiming that it did not set goals based on time spent, Meta affirmatively
+misled the public—including Tennessee consumers, parents, and guardians—about the
+Company’s motivations and internal business practices. This is a material misrepresentation, as
+reasonable consumers, parents, and guardians would be less likely to trust a platform that works
+to capture ever-increasing shares of users’ time.
+iii. Meta Created the Impression That It Does Not Place a Monetary Value On
+Young Users.
+362. In a similar vein, Meta led the public to believe that it does not place a monetary
+value on Young Users’ use of Meta platforms. In this way, Meta created the impression it does
+not discuss its youngest users in terms of their financial value to the Company.
+363. For example, during Davis’ September 2021 Congressional testimony, a senator
+asked Davis for the monetary value that Meta places upon a young user’s lifetime use of Meta
+products.
+364. Davis responded, “That’s not how we think about building products for young
+people . . . It’s just not the way we think about it.”205
+365. Through Davis’ testimony, Meta led the public to believe that it does not place a
+monetary value on Young Users’ use of Meta’s platforms.
+366. But Meta’s internal correspondence demonstrates that Davis’ response to the
+senator was inaccurate and misleading.
+367. For instance, an internal email from September 2018 illustrates that Meta plainly
+discusses the financial value that Young Users represent to the Company. According to Meta,
+205
+Ex. 90 (pgs. 24-25).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+205 Ex. 90 (pgs. 24-25).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+206 Ex. 98, Meta Doc. No. MT-IG-AG-00097186.
+208 Id.
+66
+“[t]he lifetime value of a 13 [year old] teen is roughly $270 per teen.”206
+368. Consequently, through Davis’ testimony, Meta affirmatively misled the public—
+including Tennessee consumers—about whether the Company places a monetary value upon
+Young Users’ lifetime use of Meta’s products. This is a material misrepresentation, as reasonable
+consumers, parents, and guardians would be less likely to trust a platform that calculates the
+monetary value that the platform may extract from a Young User’s lifetime engagement.
+iv. Meta Created the Impression That It Was Not Restricting Access to Internal
+Research Findings.
+369. Through Congressional testimony, Meta led the public to believe that it had not
+changed its internal data and research access policies inresponsetoTheWall Street Journal’s 2021
+coverage of Meta’s internal research findings. Meta wanted to create that impression so
+consumers, parents, and guardians would believe that the Company had no reason to lock down
+internal information about Instagram’s mental health impacts.
+370. During Davis’ September 2021 Congressional testimony, a senator asked Davis
+“how are you restricting access to data internally? Have your policies changed since The Wall
+Street Journal articles [describing Meta’s internal well-being research]?”207
+371. Davis responded, “Senator, not that I am—not that I’m aware of certainly.”208
+372. Through Davis’ testimony, Meta led the public to believe Meta did not change its
+internal access policies—such as restricting internal access to data and research—following The
+Wall Street Journal’s coverage of Meta’s internal well-being research.
+373. But in fact, as described in detail in Section C.1.ii. above, in reaction to The Wall
+Street Journal’s reporting (which led to Davis’ Congressional testimony), Meta methodically
+206
+Ex. 98, Meta Doc. No. MT-IG-AG-00097186.
+207
+Ex. 90 (pg. 44).
+208
+Id.locked down internal access to well-being related data and research.
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+67
+locked down internal access to well-being related data and research.
+374. To briefly restate evidence described above, in August 2021—shortly after Meta
+learned of The Wall Street Journal’s forthcoming journalism— the Company was “locking down
+access to some of the extra sensitive pieces of work.”209
+375. To implement the lock-down, a research manager instructed a colleague to “make
+sure that any of our shareable deliverables or insights docs that you own on the mental well-being
+space are locked down.”210
+376. Through Davis’ testimony the following month, Meta affirmatively misled the
+public—including Tennesseeconsumers—about whethertheCompanyinternallyrestricted access
+to data and research following The Wall Street Journal’s coverage of Meta’s internal findings.
+This is a material misrepresentation, as reasonable consumers, parents, and guardians would be
+less likely to trust a platform that undertakes affirmative steps to shield internal mental well-being
+research from employees to reduce the risk that research is leaked to the public.
+v. Meta Created the Impression that It Uses Internal Research Findings to
+Improve Product Safety on a Regular Basis.
+377. Through Congressional testimony, Meta led the public to believe that the Company
+regularly uses internal research findings to inform safety-oriented product improvements. Meta
+created this impression soconsumers, parents,and guardians wouldbelievethat theCompanyused
+its troubling internal research findings to improve the safety of its platforms.
+378. During Davis’ September 2021 Congressional testimony, a senator asked Davis:
+“What specific steps did you . . . take in response to your own research [into Instagram users’ body
+image issues] and when?”211
+209
+Ex. 63.
+210
+Id.
+211
+Ex. 90 (pg. 21).Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+212 Id.
+213 Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data Security of
+the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam Mosseri, Head of
+Instagram, Meta Platforms) (circa 02:22:30 in video),
+online-instagram-and-reforms-for-young-users.
+214 Id. (circa 02:22:40 in video).
+68
+379. Davis responded: “I don’t know that I’ll be able to give you exact dates, but what I
+can tell you is that this research has fueled numerous product changes.”212
+380. Similarly, during Mosseri’s December 2021 Congressional testimony, a senator
+asked Mosseri: “How did you change your policies as a result of [Meta’s internal research into
+Instagram users’ suicidal thoughts] to protect young girls?”213
+381. Mosseri responded: “Senator, Iappreciatethe question.Weuseresearch tonot only
+change our policies, but to change our product on a regular basis.”214
+382. Through Davis and Mosseri’s Congressional testimony, Meta led the public to
+believe Meta regularly uses internal research findings to improve product safety.
+383. But in fact, as described in detail in Section C.1.i. above, members of Meta’s
+leadership—including Mosseri—acknowledged the Company’s failure to translate research
+findings into meaningful product changes in the months preceding Davis and Mosseri’s testimony.
+384. To briefly restate the evidence detailed above, in August 2021—just one month
+before Davis’ testimony—Meta’s President of Global Affairs emailed Zuckerberg recommending
+“additional investment to strengthen our position on wellbeing across the company” after
+concluding that Meta was “being held back by a lack of investment on the product side which
+means that we’re not able to make changes and innovations at the pace required.”215
+385. Similarly, in October 2021, Mosseri complained about Meta’s failure to translate
+research findings into product safety improvements: “I’m really worried about this . . . we’ve been
+212
+Id.
+213
+Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data Security of
+the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam Mosseri, Head of
+Instagram, Meta Platforms) (circa 02:22:30 in video), https://www.commerce.senate.gov/2021/12/protecting-kids-
+online-instagram-and-reforms-for-young-users.
+214
+Id. (circa 02:22:40 in video).
+215
+Id.Management echoed Mosseri, observing that Meta's "biggest gap is getting [Meta's] research into
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+219 Ex. 90 (pgs. 67-68).
+220 Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data Security of
+the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam Mosseri, Head of
+69
+talking about this for a long time but have made little progress.”216
+Meta’s VP of Product
+Management echoed Mosseri, observing that Meta’s “biggest gap is getting [Meta’s] research into
+product roadmaps. We got 0 new well-being funding for 2022.”217
+386. And in November 2021—just one month before Mosseri’s testimony—another
+senior Meta employee sent an email to Zuckerberg, Mosseri, and others, underscoring Meta’s
+outstanding need “to ensure we have the product roadmaps necessary to stand behind our external
+narrative of well-being on our apps.”218
+387. Consequently, through Davis and Mosseri’s Congressional testimony, Meta
+affirmatively misled the public—including Tennessee consumers—about measures the Company
+had taken (or failed to undertake) to translate troubling research findings into meaningful product
+safety improvements. This is a material misrepresentation, as reasonable consumers, parents, and
+guardians would be less likely to trust a platform that fails to deploy safety improvements to
+products that pose a known, mitigatable risk to users.
+vi. Meta Created the Impression That Its Products Are Not Addictive, Despite
+Meta’s Internal Research to the Contrary.
+388. Through Congressional testimony, Meta led the public to believe that its platforms
+are not addictive, despite the Company’s internal research to the contrary.
+389. In herSeptember2021 Congressional testimony,Davis said“Idisagreewithcalling
+our product addictive, I also don’t think that’s how we build products.”219
+390. Similarly, in his December 2021 Congressional testimony, Mosseri said, “I don’t
+believe that research suggests that our products are addictive.”220
+216
+Ex. 60.
+217
+Id.
+218
+Ex. 56.
+219
+Ex. 90 (pgs. 67-68).
+220
+Protecting Kids Online: Hearing Before Subcomm. on Consumer Protection, Product Safety, and Data Security of
+the S. Comm. on Commerce, Science, and Transportation, 117th Cong. (2021) (testimony of Adam Mosseri, Head of70
+391. Through Davis and Mosseri’s testimony, Meta led the public to believe Meta’s
+platforms are not addictive.
+392. In fact, as described in detail in Section B above, Meta (1) had overwhelming
+evidence showing that Instagram is addictive; and (2) made decisions that facilitated addiction to
+Instagram long before Davis and Mosseri’s false testimony.
+393. To briefly restate evidence described above, by September 2019, Meta knew from
+internal research that “[t]eens are hooked despite how [Instagram] makes them feel…Instagram is
+addictive, and time-spend on platform is having a negative impact on mental health.”221
+394. And after observing in May 2020 that “approval and acceptance are huge rewards
+for teens and interactions are the currency on [Instagram],” Meta deployed engagement-inducing
+platforms features, such as “[direct messages], notifications, comments, follows, likes, etc. [that]
+encourage teens to continue engaging and keep coming back to the app.”222
+395. Consequently, through Davis and Mosseri’s Congressional testimony the following
+year, Meta affirmatively misled the public—including Tennessee consumers—about the addictive
+nature of the Instagram platform. This is a material misrepresentation, as reasonable consumers,
+parents, and guardians would be less likely to trust an addictive platform.
+Instagram, Meta Platforms) (circa 00:54:45 in video), https://www.commerce.senate.gov/2021/12/protecting-kids-
+online-instagram-and-reforms-for-young-users.
+221
+Ex. 30 (pg. 15).
+222
+Ex. 19 (pg. 54).
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Instagram, Meta Platforms) (circa 00:54:45 in video),
+online-instagram-and-reforms-for-young-users.71
+V. VIOLATIONS OF THE LAW
+COUNT 1
+THE TENNESSEE CONSUMER PROTECTION ACT
+TENN.CODE ANN. § 47-18-104(a) and (b)
+(UNFAIRNESS)
+396. Tennessee re-alleges and incorporates by reference all prior paragraphs of this
+Complaint.
+397. Defendants have engaged in trade and commerce pursuant to the TCPA. Among
+other ways of engaging in trade and commerce, Defendants offered advertisements and provided
+services in this State, as described in Paragraphs 37-97.
+398. Defendants have repeatedly violated the TCPA by engaging in the unfair practices
+described in this Complaint.
+399. By designing and deploying Instagram in a manner that induces compulsive use,
+Defendants have engaged in unfair trade practices prohibited by the TCPA.
+400. Many consumers cannot reasonably avoid Instagram.
+401. Defendants designed and deployed Instagram in a manner that overwhelmed
+consumers’ free and informed choice regarding how much time to spend on the Instagram
+platform.
+402. Defendants’ scheme was particularly unfair as it relates to users under 18, who are
+a highly susceptible class of consumers. Indeed, Defendants designed and deployed Instagram in
+a manner that intentionally exploited the developmental nature of Young Users’ brains, creating
+an obstacle to Young Users’ free choice and causing them to spend more time on Instagram than
+they otherwise would.
+403. Through their misconduct, Defendants caused or are likely to cause substantial
+injury to Tennessee consumers. Specifically, Instagram has caused or is likely to cause significant
+harms to the mental health and well-being of Young Users, who Defendants have caused to spend
+TENN. CODE ANN. § 47-18-104(a) and (b) TENN. CODE ANN. § 47-18-104(a) and (b)
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl
+Lbl72
+vastly more time on Instagram than they otherwise would.
+404. Defendants also deprived consumers of free and informed choice regarding
+Instagram by withholding important information about Instagram, including the degree to which
+Instagram induced compulsive use, the negative impact Instagram had on mental health, and the
+actual frequency of harmful experiences on Instagram.
+405. Through their conduct, Defendants have likely injured a large number of
+Tennesseans, including a non-trivial number of Young Users that have likely suffered profound
+and severe harms as a result of Defendants’ conduct.
+406. Each instance of Defendants’ unfair practices constitutes a separate violation of the
+TCPA.
+407. Insofar as there are positive benefits associated with Defendants’ conduct, those
+benefits do not outweigh the harm arising out of Defendants’ conduct.
+COUNT 2
+THE TENNESSEE CONSUMER PROTECTION ACT
+TENN.CODE ANN. § 47-18-104(a) and (b)
+(DECEPTION)
+408. Tennessee re-alleges and incorporates by reference all prior paragraphs of this
+Complaint.
+409. Defendants have engaged in trade and commerce pursuant to the TCPA. Among
+other ways of engaging in trade and commerce, Defendants offered advertisements and provided
+services in this State, as described in Paragraphs 37-97.
+410. As described in this Complaint, Defendants have repeatedly deceived consumers
+through their words, conduct, silence, and action—in violation of the TCPA.
+411. By making express and implied material misrepresentations about Instagram’s
+safety, the incidence of harmful experiences on Instagram, and the efficacy of Instagram’s “well-
+Lbl
+Lbl
+Lbl
+Lbl
+TENN. CODE ANN. § 47-18-104(a) and (b)
+Lbl
+Lbl
+Lbl
+Lbl73
+being” related platform features (such as the “Time Spent” feature), Defendants have engaged in
+deceptive trade practices that are prohibited by the TCPA.
+412. Defendants also engaged in deceptive conduct in violation of the TCPA by failing
+to disclose the harms associated with Instagram in general and with certain Instagram platform
+features, which Defendants knew had a harmful effect on consumers’ mental health and well-
+being. Defendants knew the express and implied representations they were making were not true
+but made these representations anyway to increase consumers’ engagement with Instagram.
+413. Through their acts, omissions, and affirmative statements, Defendants downplayed
+the risks of Instagram use and caused reasonable consumers to believe something that was false,
+i.e. that Instagram is a safer platform than it is in reality.
+414. The above-described acts, omissions, and affirmative statements are material,
+insofar as they have the capacity to influence—and did in fact influence—reasonable consumers’
+decisions about whether, and how much, to engage with Instagram.
+415. Each instance of Defendants’ deceptive practices constitutes a separate violation of
+the TCPA.
+being" related platform features (such as the "Time Spent" feature), Defendants have engaged in
+deceptive trade practices that are prohibited by the TCPA.
+Lbl
+Lbl
+Lbl
+Lbl74
+VI. REQUEST FOR RELIEF
+Plaintiff respectfully requests that this Court:
+a. Order that this Complaint be filed without cost bond as provided by Tenn. Code
+Ann. §§ 20-13-101 and 47-18-116;
+b. Enter judgment against each Defendant in favor of the State for each violation
+alleged in this Complaint;
+c. Order each Defendant to separately pay civil penalties to the State of Tennessee not
+more than $1,000 per violation of the TCPA as provided by Tenn. Code Ann. § 47-
+18-108(b)(3);
+d. Issue a permanent injunction prohibiting Defendants from using platform features
+that cause compulsive use among Young Users;
+e. Order that Defendants meaningfully disclose, on a regular basis, the risks posed by
+Instagram to Young Users;
+f. Issue a permanent injunction prohibiting Defendants from engaging in deceptive
+acts and practices in violation of the TCPA, pursuant to Tenn. Code Ann. § 47-18-
+108(a)(1) and(a)(5);
+g. Enter a judgment against Defendants and in favor of the State of Tennessee for the
+reasonable costs and expenses of the investigation and prosecution of Defendants’
+unlawful conduct, including attorney’s fees, expert and other witness fees, and
+costs, as provided by Tenn. Code Ann. § 47-18-108(a)(6) and (b)(4);
+h. Order that all costs in this case be taxed against Defendants and no costs be taxed
+against the State of Tennessee as provided in Tenn. Code Ann. § 47-18-116;
+i. Award any and all such further relief as the Court deems just and proper.
+Plaintiff respectfully requests that this Court:Respectfully submitted,
+ONATHAN SKRMETTI
+Attorney General and Reporter
+B.P.R. No. 031551
+MATTHEW D. JANSSEN
+Sr. Assistant Attorney General/Managing Attorney
+B.P.R. No. 035451
+BRIAN T. PHELPS
+Assistant Attorney General
+B.P.R. N 040705
+CDr CHRISTOPHER A. DUNBAR
+Assistant Attorney General
+B.P.R. No. 037829
+State of Tennessee, Office of the Attorney General
+Public Protection Section
+Consumer Protection Division
+Building, 20th Floor UBS
+315 Deaderick Street
+Nashville, Tennessee 37243
+Phone: (615) 741-1671
+(615) 532-2910 Fax:
+matthew.janssen@ag.tn.gov
+brian.phelps@ag.tn.gov
+chris.dunbar@ag.tn.gov
+Phone: (615) 741-1671
+Fax: (615) 532-2910
+Attorneys for Plaintiff, State of Tennessee
+State of Tennessee v. Meta Platforms, Inc. and Instagram, LLC

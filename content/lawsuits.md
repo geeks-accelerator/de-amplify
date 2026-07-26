@@ -7,17 +7,18 @@ Across a federal multidistrict litigation in Oakland, coordinated state-court tr
 
 > **About this page.** Where the record stood as of July 25, 2026; litigation here moves weekly, and every figure below carries its date. This is an explanatory and policy project, not a law firm and not a claim-matching service; if you are looking to file a claim or join a lawsuit, this is not that page. Because coverage of these cases routinely blurs what has been decided against what has merely been alleged or requested, claims below are labeled: **court-held** (decided as a matter of law), **jury-found** (verdict returned, appeals possible), **evidence cited** (in the record, still disputed), **requested** (a party's proposed remedy or estimate), **preliminary** (a regulator's initial finding), and **scheduled** (a current court date, subject to change).
 
-## The map: four proceedings, not one
+## The map: five proceedings, not one
 
-Press coverage tends to blur these fights into one story about a "youth safety trial." They are four distinct proceedings, and keeping them apart is most of the work of understanding them.
+Press coverage tends to blur these fights into one story about a "youth safety trial." They are five distinct proceedings, and keeping them apart is most of the work of understanding them.
 
-**MDL 3047 is the federal hub, not the whole map.** It centralizes most federal personal-injury and school-district cases (plus a multistate action by state attorneys general) for coordinated pretrial proceedings in Oakland. An MDL is not itself a class action; it is a procedural mechanism for handling related federal cases together. California's coordinated state-court cases, including the trials in Los Angeles, are a separate proceeding (JCCP 5255). New Mexico's enforcement case is separate again, in Santa Fe. And the European Commission's investigation is not a lawsuit at all but a regulatory process under the Digital Services Act. The proceedings share defendants, evidence, and themes; a verdict in one does not automatically decide the others.
+**MDL 3047 is the federal hub, not the whole map.** It centralizes most federal personal-injury and school-district cases (plus a multistate action by state attorneys general) for coordinated pretrial proceedings in Oakland. An MDL is not itself a class action; it is a procedural mechanism for handling related federal cases together. California's coordinated state-court cases, including the trials in Los Angeles, are a separate proceeding (JCCP 5255). New Mexico's enforcement case is separate again, in Santa Fe, and Tennessee's is separate from all of them, in Nashville, where it went to a jury in July 2026. And the European Commission's investigation is not a lawsuit at all but a regulatory process under the Digital Services Act. The proceedings share defendants, evidence, and themes; a verdict in one does not automatically decide the others.
 
-Each of the three U.S. cases has its own case file, a deeper page seeded from the project's per-case [evidence ledgers](/distillations), where corrections land first (each ledger is published in full, every claim tiered by the strength of its source):
+Each of the four U.S. cases has its own case file, a deeper page seeded from the project's per-case [evidence ledgers](/distillations), where corrections land first (each ledger is published in full, every claim tiered by the strength of its source):
 
 - **[MDL 3047](/lawsuits/mdl-3047)**: The big federal case: thousands of youth-harm suits against Meta, Google, TikTok, and Snap, headed to a trial in August 2026.
 - **[K.G.M. v. Meta and Google](/lawsuits/kgm-v-meta)**: The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
 - **[State of New Mexico v. Meta](/lawsuits/new-mexico-v-meta)**: New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
+- **[State of Tennessee v. Meta](/lawsuits/tennessee-v-meta)**: Tennessee is trying Meta over a safety tool the State says Meta knew was broken and kept anyway, with a jury sworn and openings on July 27, 2026.
 
 ## MDL 3047: the federal case against Meta, TikTok, YouTube, and Snap
 
