@@ -46,7 +46,7 @@ The technical layer is done; the content targeting is the gap.
 
 Search interest in this topic is event-driven. The calendar is the strategy.
 
-- **Near-term triggers:** the second California bellwether trial (Meta and Snap, currently July 27), then jury selection August 12 and opening statements August 18 in the AG trial. Each is a demand spike on trial-related queries.
+- **Near-term triggers, corrected 2026-07-26.** The second California bellwether that this line used to point at **no longer exists**: Snap settled July 20 and the plaintiff dismissed Meta July 22, so there is no July 27 California trial. July 27 is still a date, for a different reason: **opening statements in *State of Tennessee v. Meta*** in Nashville, a trial the court's calendar runs to September 3. Then **jury selection August 12 and opening statements August 18** in the federal AG trial in Oakland. Each is a demand spike on trial-related queries, and the lesson from the California one is that a scheduled trial is not a guaranteed news event; a case can dissolve in the week before its date.
 - **Have the pages current before each spike, not after.** A crawler that finds a stale as-of date during the spike wastes the moment. The `/lawsuits` staleness protocol (from the cases-page plan) is the mechanism; this plan just ties it to the SEO calendar.
 - **Pre-position for the post-verdict query wave.** "social media addiction trial verdict" will spike in September or October. Have the H2 skeleton and the four-numbers framing ready so the update is a fill-in, not a rewrite.
 - **Ping IndexNow / resubmit the sitemap on each material update** so Bing (and thus some AI search) recrawls fast; the key file is already hosted.
@@ -77,7 +77,7 @@ Structured data intercepts searches; it does not generate them. For this site th
 ## 8. Priority order
 
 1. ~~Google Search Console + Bing verification and sitemap submission.~~ **DONE 2026-07-16 AM.** Measurement is now unblocked.
-2. Founder audits and the first share wave before July 27 / August 12 (section 6.1). The demand engine, and now the top remaining item.
+2. Founder audits and the first share wave before the Tennessee openings (July 27) and the federal jury selection (August 12), per section 6.1. The demand engine, and still the top remaining item.
 3. Freshness discipline on the litigation pages through the trial window (section 4); manually request indexing in Search Console ahead of each spike.
 4. ~~Visible question-intent H2s~~ (done 2026-07-16) and the case/ledger title-and-first-paragraph audit (section 3), still open.
 5. Press outreach with the `/for/press` briefing (section 6.2).
