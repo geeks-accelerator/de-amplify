@@ -1,11 +1,11 @@
 
 # State of New Mexico v. Meta: the $375 million child-safety verdict
 
-> **About this page.** Where the record stood as of July 16, 2026; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for this case; corrections land in the ledger first, then here.
+> **About this page.** Where the record stood as of July 25, 2026; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for this case; corrections land in the ledger first, then here.
 
 ## The case in one paragraph
 
-New Mexico is the first U.S. state to win a full trial against Meta over child harm: a $375 million verdict in March 2026 for misleading the public about safety and failing to protect kids from exploitation, which Meta says it will appeal. In a separate phase, a judge is weighing the state's request to make Meta pay about $953 million and change its product design; no other U.S. case is as close to a design-change order. (As of July 16, 2026.)
+New Mexico is the first U.S. state to win a full trial against Meta over child harm: a $375 million verdict in March 2026 for misleading the public about safety and failing to protect kids from exploitation, which Meta says it will appeal. In a separate phase, a judge is weighing the state's request to make Meta pay about $953 million and change its product design; no other U.S. case is as close to a design-change order. (As of July 25, 2026; the second-phase decision is still pending.)
 
 ## What kind of case this is
 
@@ -15,7 +15,7 @@ A **consumer-protection and child-safety** case under the New Mexico Unfair Prac
 
 - **Jury-found**, March 24, 2026: **$375 million** in civil penalties, the statutory maximum of **$5,000 for each of 75,000 violations**. The jury found Meta made false or misleading statements about how safe its platforms were and engaged in unconscionable practices that failed to protect children from exploitation. The state had asked for substantially more (its closing urged a penalty that could top $2 billion).
 - The state's Department of Justice characterized the win as making New Mexico "the first state in the nation to prevail at trial against a major tech company for harming young people."
-- **Meta has said it will appeal.** As of July 16, 2026 that is announced intent, not a filed notice, and the money is not final either way.
+- **Meta has said it will appeal.** As of July 25, 2026 that is still announced intent, not a filed notice, and the money is not final either way.
 
 ## The second phase: the one to watch
 

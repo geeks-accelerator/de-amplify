@@ -25,7 +25,10 @@ export async function generateMetadata({
   const { slug } = await params;
   if (!distillationMeta(slug)) return {};
   const d = loadDistillation(slug);
-  const description = d.searchSnippet || d.oneSentence;
+  // This page's own budgeted variant, so it does not ship the same meta
+  // description as the curated case page (which copies searchSnippet verbatim).
+  // The hearing ledgers have no curated per-hearing page, so they fall back.
+  const description = d.ledgerSnippet || d.searchSnippet || d.oneSentence;
   const path = `/distillations/${slug}`;
   return {
     title: `${d.title} (the evidence ledger)`,

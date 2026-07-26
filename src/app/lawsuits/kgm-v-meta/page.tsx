@@ -11,7 +11,7 @@ import { contentDate } from "@/lib/contentDate";
 const TITLE = "K.G.M. v. Meta and Google: The $6M California Bellwether Verdict";
 // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
 const DESCRIPTION =
-  "California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and a second trial starts July 27, 2026.";
+  "California's first test verdict hit Meta and Google for $6 million over addictive app design; both are appealing, and the second test case never reached a jury.";
 const PATH = "/lawsuits/kgm-v-meta";
 
 export const metadata: Metadata = {
