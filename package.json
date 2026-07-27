@@ -14,9 +14,9 @@
   },
   "dependencies": {
     "geist": "^1.7.2",
-    "next": "16.2.10",
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
+    "next": "16.2.12",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
     "react-markdown": "^10.1.0",
     "rehype-slug": "^6.0.0",
     "remark-gfm": "^4.0.1"
@@ -28,8 +28,8 @@
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.0",
     "eslint": "^9.39.4",
-    "eslint-config-next": "16.2.10",
-    "postcss": "^8.5.20",
+    "eslint-config-next": "16.2.12",
+    "postcss": "^8.5.23",
     "tailwindcss": "4.3.3",
     "typescript": "^6"
   },
