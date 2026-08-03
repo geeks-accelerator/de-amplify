@@ -50,12 +50,17 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
 - [The distillations (evidence ledgers)](${SITE_URL}/distillations): the
   source-of-truth claim ledgers behind the lawsuit and hearing pages, published
   in full for transparency. Every claim is tagged by the strength of its source
-  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Eight ledgers
+  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Nine ledgers
   (raw markdown per ledger):
   [MDL 3047](${SITE_URL}/distillations/mdl-3047.md),
   [the California bellwethers](${SITE_URL}/distillations/california-state-bellwethers.md),
   [New Mexico v. Meta](${SITE_URL}/distillations/new-mexico-v-meta.md),
   [Tennessee v. Meta](${SITE_URL}/distillations/tennessee-v-meta.md),
+  the regulatory record,
+  [the EU DSA proceedings](${SITE_URL}/distillations/eu-dsa-proceedings.md)
+  (four European Commission preliminary findings against Meta and TikTok,
+  quoted from the Commission's own releases; preliminary, not decisions,
+  and no fine has been imposed),
   and the four hearings with their full verbatim quote-banks:
   [Nov 2023 Bejar](${SITE_URL}/distillations/hearing-2023-11-07-teen-mental-health.md),
   [Jan 2024 five-CEO](${SITE_URL}/distillations/hearing-2024-01-31-big-tech-child-safety.md),
