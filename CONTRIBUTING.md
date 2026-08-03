@@ -79,6 +79,7 @@ npm install
 npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
 npm run lint     # eslint . (flat config); run before opening a PR
+npm run check:ledgers   # verbatim-TLDR drift; run if you touched a ledger or a curated page
 ```
 
 If you touched styling, check contrast: real text must clear WCAG AA 4.5:1
