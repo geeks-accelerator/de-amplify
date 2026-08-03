@@ -121,6 +121,14 @@ export interface LoadedDistillation extends DistillationMeta {
    * indexable URLs about the same case shipped identical meta descriptions.
    * Optional: the hearing ledgers have no curated per-hearing page (they share
    * /hearings), so there is no collision to break and they fall back.
+   *
+   * oneParagraph is the odd one out: its consumer is the "case in one
+   * paragraph" opener on the curated page, which a human copies by hand, so
+   * nothing on this site reads it at build time. It is parsed anyway so that
+   * `npm run check:ledgers` can assert the hand-copied opener still matches
+   * without reimplementing this parser and risking a checker that disagrees
+   * with the build. That opener is exactly where the 2026-07-25 K.G.M. drift
+   * hid, so it is worth the one unused field.
    */
   label: string;
   navLabel: string;
@@ -128,6 +136,7 @@ export interface LoadedDistillation extends DistillationMeta {
   searchSnippet: string;
   ledgerSnippet: string;
   oneSentence: string;
+  oneParagraph: string;
   sources: string[];
   bodyMarkdown: string;
 }
@@ -187,6 +196,7 @@ export function loadDistillation(slug: string): LoadedDistillation {
   const searchSnippet = grab("search snippet");
   const ledgerSnippet = grab("ledger snippet");
   const oneSentence = grab("one sentence");
+  const oneParagraph = grab("one paragraph");
 
   // Fail the build rather than shipping a blank. A missing variant used to
   // surface as an empty index-card label, an empty BreadcrumbList name, or an
@@ -198,8 +208,12 @@ export function loadDistillation(slug: string): LoadedDistillation {
   // section of /lawsuits, which carries that page's own description, so there
   // is no collision to break), but it authors one anyway; not requiring it here
   // keeps the rule stated in terms of the collision rather than by enumeration.
+  // "one paragraph" is required for lawsuits for the same reason as the ledger
+  // snippet: only a lawsuit ledger has a curated case page, whose opener is a
+  // hand-copied verbatim copy of it. An empty variant there would make
+  // `npm run check:ledgers` vacuously pass, because every string contains "".
   const required = ["one line", "nav label", "og title", "search snippet", "one sentence"];
-  if (meta.kind === "lawsuit") required.push("ledger snippet");
+  if (meta.kind === "lawsuit") required.push("ledger snippet", "one paragraph");
   const missing = required.filter((k) => !variants.get(k));
   if (missing.length) {
     throw new Error(
@@ -239,6 +253,7 @@ export function loadDistillation(slug: string): LoadedDistillation {
     searchSnippet,
     ledgerSnippet,
     oneSentence,
+    oneParagraph,
     sources,
     bodyMarkdown,
   };
