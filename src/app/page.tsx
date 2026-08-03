@@ -433,7 +433,7 @@ export default function Home() {
         {/* ── THE RECEIPTS ────────────────────────────────────── */}
         <section className="border-t border-white/[0.06] px-5 py-20">
           <div className="mx-auto max-w-3xl">
-            <Eyebrow>the receipts &middot; july 2026</Eyebrow>
+            <Eyebrow>the receipts &middot; august 2026</Eyebrow>
             <h2 className="mt-5 max-w-2xl font-mono text-2xl leading-tight tracking-tight text-bone sm:text-3xl">
               This isn&apos;t a metaphor. It&apos;s in court.
             </h2>
