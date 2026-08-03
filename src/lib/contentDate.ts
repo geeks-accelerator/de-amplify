@@ -40,5 +40,55 @@ function gitDate(args: string[], fallback: string): string {
   } catch {
     /* git unavailable at build; fall through to the stable fallback */
   }
+  warnOnce();
   return fallback;
+}
+
+// Why this exists: the fallback above is correct behaviour and was also, for
+// weeks, a silent failure. `nixPkgs` in nixpacks.toml replaces the default
+// package set, so the build image shipped without `git`, every lookup threw,
+// every page got its hardcoded fallback, and the deployed site told crawlers
+// nothing had changed since 2026-07-25 while being corrected repeatedly. The
+// build was green the whole time, because a wrong date is not a compile error.
+//
+// So: fall back quietly per call (one page missing a date must not fail a
+// deploy), but say so loudly at least once, and say WHICH cause it is, so the
+// answer is in the Railway build log instead of requiring someone to diff a
+// live sitemap against a local one. Deliberately not an exception: making this
+// fatal would mean a shallow clone could take the site down.
+//
+// "Once" means once per worker process, not once per build. Next renders static
+// pages across ~15 parallel workers, each with its own module instance, so a
+// broken build prints this roughly ten times rather than once. That is louder
+// than intended and still the right trade: deduplicating across processes would
+// need shared state for a message whose entire job is to be impossible to miss.
+let warned = false;
+function warnOnce(): void {
+  if (warned) return;
+  warned = true;
+
+  const probe = (args: string[]): boolean => {
+    try {
+      execFileSync("git", args, {
+        cwd: process.cwd(),
+        encoding: "utf-8",
+        stdio: ["ignore", "pipe", "ignore"],
+      });
+      return true;
+    } catch {
+      return false;
+    }
+  };
+
+  const cause = !probe(["--version"])
+    ? "`git` is not on PATH in this build image (check nixPkgs in nixpacks.toml)"
+    : !probe(["rev-parse", "--git-dir"])
+      ? "there is no .git directory in the build context (the builder is not using a clone)"
+      : "git and the repo are present but the file has no commit in this history (likely a shallow clone)";
+
+  console.warn(
+    `\n[contentDate] Falling back to hardcoded dates: ${cause}.\n` +
+      `[contentDate] Every JSON-LD dateModified and sitemap lastmod in this build is a literal, ` +
+      `not a real content date. The site will look unchanged to crawlers.\n`,
+  );
 }
