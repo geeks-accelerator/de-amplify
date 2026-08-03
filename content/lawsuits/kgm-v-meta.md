@@ -5,7 +5,7 @@
 
 ## The case in one paragraph
 
-In California state court, about 1,600 youth-harm suits from individuals, families, and school districts are coordinated as JCCP 5255, with test cases going first. The first, K.G.M. v. Meta and Google, brought a $6 million verdict in March 2026; the trial judge declined to overturn it and both companies are appealing, so it is not final. A second test case is set for July 27, 2026 after YouTube and TikTok settled. (As of July 16, 2026.)
+In California state court, about 1,600 youth-harm suits from individuals, families, and school districts are coordinated as JCCP 5255, with test cases going first. The first, K.G.M. v. Meta and Google, brought a $6 million verdict in March 2026; the trial judge declined to overturn it and both companies are appealing, so it is not final. A second test case was set for July 27, 2026, but it never reached a jury: YouTube, TikTok and Snap all settled out and the plaintiff dropped Meta on July 22, 2026. (As of July 25, 2026.)
 
 ## The California coordination, not the federal case
 
@@ -44,4 +44,4 @@ Primary: the [LA Superior Court's public notice for the Social Media Cases (JCCP
 
 ---
 
-*Provenance: this page is derived from the project's per-case, evidence-tiered claim ledger for the California bellwethers (a distillation record maintained in the repository), last seeded July 16, 2026 after a primary-source audit. Corrections flow ledger-first: the ledger is verified, then this page is re-seeded. One date is deliberately soft: the post-trial denial is stated as "early June (announced June 10)" because wire reporting places the ruling itself on Tuesday, June 9; the minute order settles it. Figures are as of the dates shown; legal characterizations are directional and for counsel to confirm.*
+*Provenance: this page is derived from the project's per-case, evidence-tiered claim ledger for the California bellwethers (a distillation record maintained in the repository), first seeded July 16, 2026 after a primary-source audit and re-seeded July 25, 2026 after the second bellwether dissolved. Corrections flow ledger-first: the ledger is verified, then this page is re-seeded. One date is deliberately soft: the post-trial denial is stated as "early June (announced June 10)" because wire reporting places the ruling itself on Tuesday, June 9; the minute order settles it. Figures are as of the dates shown; legal characterizations are directional and for counsel to confirm.*
