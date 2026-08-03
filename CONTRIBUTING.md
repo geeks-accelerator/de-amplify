@@ -80,6 +80,8 @@ npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
 npm run lint     # eslint . (flat config); run before opening a PR
 npm run check:ledgers   # verbatim-TLDR drift; run if you touched a ledger or a curated page
+npm run dates           # regenerate content-dates.json if you changed any content file
+npm run check:dates     # fails if that manifest drifted from git history
 ```
 
 If you touched styling, check contrast: real text must clear WCAG AA 4.5:1

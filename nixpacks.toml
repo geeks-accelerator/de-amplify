@@ -1,14 +1,22 @@
 [phases.setup]
-# `git` is here for the BUILD, not the app. src/lib/contentDate.ts shells out to
-# `git log` to date every page's JSON-LD dateModified and sitemap lastmod from
-# the commit history rather than from filesystem mtimes, which a fresh clone
-# resets to deploy time.
+# `git` is NO LONGER load-bearing here. It is kept as a safety net only.
 #
-# nixPkgs REPLACES the default package set rather than adding to it, so before
-# 2026-08-02 this image had Node and nothing else. Every git lookup threw, every
-# call fell through to its hardcoded fallback, and the deployed site carried no
-# date later than 2026-07-25 while being corrected repeatedly. The build stayed
-# green throughout, because a missing date is not a compile error.
+# It was added on 2026-08-02 to fix content dates: contentDate.ts shelled out to
+# `git log`, that silently failed in this image, and the deployed site served
+# hardcoded fallback dates for weeks. Adding the package did NOT fix it, and the
+# real cause was never observable from outside Railway's build logs. So the
+# build stopped asking the container anything: dates now come from the committed
+# content-dates.json manifest (see scripts/content-dates.mjs). A build with git
+# entirely absent from PATH now produces correct dates, verified by fault
+# injection rather than assumed.
+#
+# Kept because it costs almost nothing and gives contentDate's secondary git
+# path a chance if the manifest ever misses a key. Removing it should not break
+# dates; if it ever did, the manifest is incomplete and `npm run check:dates`
+# names the path.
+#
+# Worth remembering regardless: nixPkgs REPLACES the default package set rather
+# than adding to it, so anything omitted from this list is simply absent.
 nixPkgs = ["nodejs_20", "git"]
 
 [phases.install]
