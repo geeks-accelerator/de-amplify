@@ -101,7 +101,7 @@ export default function DistillationsIndex() {
 
           <p className="text-[15px] leading-[1.75] text-bone/60">
             Every legal and factual claim on this site traces to a source. These are the ledgers
-            where that tracing lives: one per lawsuit and per hearing, each claim tagged by the
+            where that tracing lives: one per lawsuit, per hearing, and per regulatory proceeding, each claim tagged by the
             strength of its evidence, published in full so the work is auditable. The{" "}
             <Link href="/lawsuits" className="text-signal/90 underline decoration-signal/30 underline-offset-2 hover:text-signal">
               lawsuit case files
@@ -116,7 +116,12 @@ export default function DistillationsIndex() {
           <Group
             kind="lawsuit"
             heading="the lawsuits"
-            blurb="One evidence ledger per U.S. case, tiered against the court record and official releases. The EU Digital Services Act proceeding is covered on the lawsuits hub but is not yet ledgered."
+            blurb="One evidence ledger per U.S. case, tiered against the court record and official releases."
+          />
+          <Group
+            kind="regulatory"
+            heading="the regulators"
+            blurb="Not a lawsuit: a European Commission enforcement process under the Digital Services Act, where a regulator tested the platforms' own safety controls and wrote down how they performed. Preliminary findings only, and no fine has been imposed."
           />
           <Group
             kind="hearing"

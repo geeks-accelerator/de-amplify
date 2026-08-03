@@ -10,7 +10,12 @@ import path from "path";
 // correction/audit sections are excluded; the reader-facing scope and caveats
 // already live in each Reader summary).
 
-export type DistillationKind = "lawsuit" | "hearing";
+// "regulatory" is deliberately not folded into "lawsuit". The lawsuits hub
+// makes a point of saying the European Commission's proceeding "is not a
+// lawsuit at all but a regulatory process under the Digital Services Act", and
+// the kind drives a reader-facing group heading on /distillations, so filing it
+// under lawsuits would contradict the site's own distinction in public.
+export type DistillationKind = "lawsuit" | "hearing" | "regulatory";
 
 // Routing/structural config only. Every reader-facing STRING for a ledger comes
 // from that ledger's TLDR block (see LoadedDistillation), never from this array:
@@ -48,6 +53,12 @@ export const DISTILLATIONS: DistillationMeta[] = [
     kind: "lawsuit",
     tierDown: false,
     related: { href: "/lawsuits/tennessee-v-meta", label: "the Tennessee case file" },
+  },
+  {
+    slug: "eu-dsa-proceedings",
+    kind: "regulatory",
+    tierDown: false,
+    related: { href: "/lawsuits", label: "the lawsuits hub" },
   },
   {
     slug: "hearing-2023-11-07-teen-mental-health",
@@ -182,7 +193,11 @@ export function loadDistillation(slug: string): LoadedDistillation {
   // empty title in the public agent card, all with a passing build. The
   // ledger-snippet requirement is kind-specific: it exists to stop a lawsuit
   // ledger sharing a meta description with its curated case page, and the
-  // hearing ledgers have no curated per-hearing page to collide with.
+  // hearing ledgers have no curated per-hearing page to collide with. The
+  // regulatory ledger is in the hearings' position (its curated surface is a
+  // section of /lawsuits, which carries that page's own description, so there
+  // is no collision to break), but it authors one anyway; not requiring it here
+  // keeps the rule stated in terms of the collision rather than by enumeration.
   const required = ["one line", "nav label", "og title", "search snippet", "one sentence"];
   if (meta.kind === "lawsuit") required.push("ledger snippet");
   const missing = required.filter((k) => !variants.get(k));
