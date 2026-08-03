@@ -1,5 +1,15 @@
 [phases.setup]
-nixPkgs = ["nodejs_20"]
+# `git` is here for the BUILD, not the app. src/lib/contentDate.ts shells out to
+# `git log` to date every page's JSON-LD dateModified and sitemap lastmod from
+# the commit history rather than from filesystem mtimes, which a fresh clone
+# resets to deploy time.
+#
+# nixPkgs REPLACES the default package set rather than adding to it, so before
+# 2026-08-02 this image had Node and nothing else. Every git lookup threw, every
+# call fell through to its hardcoded fallback, and the deployed site carried no
+# date later than 2026-07-25 while being corrected repeatedly. The build stayed
+# green throughout, because a missing date is not a compile error.
+nixPkgs = ["nodejs_20", "git"]
 
 [phases.install]
 cmds = ["echo 'install handled in railway.toml buildCommand (fresh install for Linux)'"]
