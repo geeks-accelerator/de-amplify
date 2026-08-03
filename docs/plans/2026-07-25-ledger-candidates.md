@@ -1,7 +1,7 @@
 ---
 title: "Plan: ledger candidates (proceedings, hearings, and regulations worth distilling)"
 subtitle: "Nine research passes over the primary record, July 2026. What exists, where the official document actually lives, what posture it is really in, and what is not worth chasing."
-status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26. Section 4 is still a queue. Nothing in section 4 has been distilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
+status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26; candidate 4.2 (the EU DSA proceedings) was built as the ninth ledger on 2026-08-02, scoped to the four European Commission preliminary findings only, which closed the last gap in the ledger-first rule. Section 4 is otherwise still a queue: 4.1 and 4.3 through 4.10 remain undistilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
 date: 2026-07-25
 site: "de-amplify.com"
 document: "Ledger candidate inventory. Companion to the cases-page plan (2026-07-15-cases-page-plan.md). Adds no legal claims to the site; the ledger-first pipeline still governs everything that ships."
@@ -134,6 +134,17 @@ The site currently argues that no enforceable standard exists for whether an off
 - **Caveat:** see 7.1 for the OCR problem on the Amazon order PDF.
 
 ### 4.2 The EU DSA proceedings (closes the known gap)
+
+> **BUILT 2026-08-02.** This became the ninth ledger, `docs/distillations/eu-dsa-proceedings.md`, published at `/distillations/eu-dsa-proceedings` under a new `regulatory` kind (it is not a lawsuit and the site says so). It closed the last place where the ledger-first rule did not hold.
+>
+> **Scoped down from what this section proposes.** The ledger covers the **four European Commission preliminary findings only**: IP/26/312 (2026-02-06, TikTok addictive design), IP/26/920 (2026-04-29, Meta under-13s), IP/26/1579 (2026-07-10, Meta addictive design), IP/26/1679 (2026-07-24, TikTok minors' account settings). All four were re-fetched, cached in `sources/`, and every quoted span verified as an exact substring under punctuation folding. **The Coimisiún na Meán investigations and the Article 28(4) minors Guidelines proposed below are NOT in it**, and are named as out of scope in its Coverage note; they remain the obvious extension.
+>
+> **Three things this section got wrong or left out, corrected on contact:**
+> - The February 6 finding is **IP/26/312**. This document gives it no reference number, and the site had none either. It was recovered from the Commission's search API, because presscorner reference numbers are **not chronological** (IP/26/304 is Feb 3, IP/26/310 is Feb 9) and enumerating around a date does not find a release.
+> - **A plain fetch of a presscorner detail URL returns HTTP 200 with no article text.** The page is a JavaScript shell and the headline survives in meta tags, so a naive extraction yields a document with the right title and an empty body. Use `/presscorner/api/documents?reference=...`.
+> - **The posture warning below about DSA fines was not verified and is not on the site.** See the note in section 9.
+>
+> Everything below is the research pass as written on 2026-07-25 and is preserved unedited, including the quotations, which per section 1 were leads and were independently re-verified before any of them shipped.
 
 The site's one acknowledged hole. Eight or more primary Commission releases, all fetched by the research passes.
 
@@ -344,7 +355,8 @@ The only rigorous work on feed controls is academic. A **NYU and Northeastern** 
 ## 9. Open questions
 
 - **The May 13, 2026 GPO transcript.** Re-check periodically; publishing that retires the second tier-down.
-- **Character.AI July 31, 2026 status-report deadline.** Four days from this document. Posture will change.
+- ~~**Character.AI July 31, 2026 status-report deadline.** Four days from this document. Posture will change.~~ **THAT DATE HAS PASSED (checked 2026-08-02) and nobody looked.** The four stayed cases either reported or were dismissed on or about 2026-07-31; which of those happened is **not established**, because no pass has gone back to the docket. If candidate 4.9 is ever built, its posture section starts from scratch rather than from this document.
+- **The DSA-fines premise in 4.2 is still unverified, and the EU ledger deliberately refuses to state it.** That section asserts no DSA fine to date rests on a recommender-transparency or user-control count, with X (120m EUR), Temu (200m EUR) and AliExpress (550m EUR) resting on other grounds. It is load-bearing, because it would mean the control counts have never been monetised. Verifying it means fetching those three decisions, not their coverage. Until then it lives in the ledger's Tensions as an open question.
 - **Whether India's IT (Second Amendment) Rules, 2026 were notified** after the May 7, 2026 comment deadline. Drafts confirmed unnotified; status after May 2026 unknown.
 - **Brazil's STF item-5 deadline** falls mid-to-late August 2026 and has not expired. Do not state platforms are in breach.
 - ~~**Tennessee v. Meta is in trial now**~~ **BUILT 2026-07-26.** It became the eighth ledger (`docs/distillations/tennessee-v-meta.md`) and the fifth proceeding, with a curated case file at `/lawsuits/tennessee-v-meta`. Note that it was **never in the candidate list in section 4**: it surfaced from the July-25 litigation status re-check, not from the nine research passes, which is a reminder that this inventory is a snapshot and not a closed set. Its own open threads (the operative amended complaint is sealed, five orders are paywalled, the trial runs to September 3) live in that ledger's Tensions section, not here.
