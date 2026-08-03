@@ -13,12 +13,13 @@ Press coverage tends to blur these fights into one story about a "youth safety t
 
 **MDL 3047 is the federal hub, not the whole map.** It centralizes most federal personal-injury and school-district cases (plus a multistate action by state attorneys general) for coordinated pretrial proceedings in Oakland. An MDL is not itself a class action; it is a procedural mechanism for handling related federal cases together. California's coordinated state-court cases, including the trials in Los Angeles, are a separate proceeding (JCCP 5255). New Mexico's enforcement case is separate again, in Santa Fe, and Tennessee's is separate from all of them, in Nashville, where it went to a jury in July 2026. And the European Commission's investigation is not a lawsuit at all but a regulatory process under the Digital Services Act. The proceedings share defendants, evidence, and themes; a verdict in one does not automatically decide the others.
 
-Each of the four U.S. cases has its own case file, a deeper page seeded from the project's per-case [evidence ledgers](/distillations), where corrections land first (each ledger is published in full, every claim tiered by the strength of its source). The fifth proceeding, Brussels, has no case file because it is not a case, but it now has a ledger of its own: [the EU DSA proceedings](/distillations/eu-dsa-proceedings).
+Each of the four U.S. cases has its own case file, a deeper page seeded from the project's per-case [evidence ledgers](/distillations), where corrections land first (each ledger is published in full, every claim tiered by the strength of its source). The fifth proceeding has no case file, because it is not a case, but it has a ledger of its own and the link below goes straight to it.
 
 - **[MDL 3047](/lawsuits/mdl-3047)**: The big federal case: thousands of youth-harm suits against Meta, Google, TikTok, and Snap, headed to a trial in August 2026.
 - **[K.G.M. v. Meta and Google](/lawsuits/kgm-v-meta)**: The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
 - **[State of New Mexico v. Meta](/lawsuits/new-mexico-v-meta)**: New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
 - **[State of Tennessee v. Meta](/lawsuits/tennessee-v-meta)**: Tennessee is trying Meta over a safety tool the State says Meta knew was broken and kept anyway, with evidence underway since July 27, 2026.
+- **[The EU DSA proceedings](/distillations/eu-dsa-proceedings)** (a regulator, not a court): The EU is scoring the brakes directly: four preliminary findings say Meta's and TikTok's time limits and parental controls do not work.
 
 ## MDL 3047: the federal case against Meta, TikTok, YouTube, and Snap
 
