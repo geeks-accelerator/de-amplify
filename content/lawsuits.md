@@ -18,7 +18,7 @@ Each of the four U.S. cases has its own case file, a deeper page seeded from the
 - **[MDL 3047](/lawsuits/mdl-3047)**: The big federal case: thousands of youth-harm suits against Meta, Google, TikTok, and Snap, headed to a trial in August 2026.
 - **[K.G.M. v. Meta and Google](/lawsuits/kgm-v-meta)**: The California state cases: about 1,600 suits, whose first test verdict hit Meta and Google for $6 million, now on appeal.
 - **[State of New Mexico v. Meta](/lawsuits/new-mexico-v-meta)**: New Mexico won a $375 million trial against Meta over child safety, and a judge may soon order product-design changes, not just a payment.
-- **[State of Tennessee v. Meta](/lawsuits/tennessee-v-meta)**: Tennessee is trying Meta over a safety tool the State says Meta knew was broken and kept anyway, with a jury sworn and openings on July 27, 2026.
+- **[State of Tennessee v. Meta](/lawsuits/tennessee-v-meta)**: Tennessee is trying Meta over a safety tool the State says Meta knew was broken and kept anyway, with evidence underway since July 27, 2026.
 
 ## MDL 3047: the federal case against Meta, TikTok, YouTube, and Snap
 
