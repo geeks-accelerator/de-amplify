@@ -80,9 +80,14 @@ npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
 npm run lint     # eslint . (flat config); run before opening a PR
 npm run check:ledgers   # verbatim-TLDR drift; run if you touched a ledger or a curated page
+npm run check:quotes    # quoted spans verbatim against the committed source caches
 npm run dates           # regenerate content-dates.json if you changed any content file
 npm run check:dates     # fails if that manifest drifted from git history
 ```
+
+You do not have to remember all of these: CI runs every one of them, plus the
+house-style sweep, on your pull request. Running them locally just gets you the
+answer sooner.
 
 If you touched styling, check contrast: real text must clear WCAG AA 4.5:1
 against the `#070709` background, which means `text-bone/50` is the floor.
