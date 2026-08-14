@@ -1,0 +1,206 @@
+SOURCE CACHE. The FTC's COPPA age-verification ENFORCEMENT POLICY STATEMENT itself,
+the document the New Mexico court considered and declined to rely on (judgment
+paragraphs 134 to 135). This is the statement; its press release is cached
+separately as ftc-2026-02-25-coppa-age-verification-press-release.txt.
+
+Retrieved 2026-08-13 from
+https://www.ftc.gov/system/files/ftc_gov/pdf/coppa-age-verification-policy-statement.pdf
+and extracted with `pdftotext -layout`. U.S. Government work, public domain.
+3 pages. Extraction checked before use: zero doubled word pairs, zero typographic
+ligatures, probe run with a positive control.
+
+THE DATE QUESTION, NOW RESOLVED. This document carries NO DATE ANYWHERE ON ITS
+FACE: no issue line, no "By direction of the Commission", no vote line, no
+signature block. A search for any month-day-year string in the full text returns
+nothing at all. That is why the New Mexico judgment says only that the FTC
+"issued a policy in early 2026" and why the site names it by year: a reader of
+the statement cannot cite a month from it.
+
+The surrounding evidence does converge on February 25, 2026, from three
+independent signals: this PDF's own CreationDate (Wed Feb 25 10:50:29 2026), the
+date printed under the press-release headline, and the release page's
+article:published_time metadata. The lone outlier is a bare <time> element on
+that page reading February 13, 2026, which nothing else supports and which
+remains unexplained. See ledger claim 43a.
+
+================================================================================
+
+    COPPA – Enforcement Policy Statement Promoting the Adoption of Age-Verification
+                                     Technology
+        Congress enacted the Children’s Online Privacy Protection Act (“COPPA” or “COPPA
+statute”), 15 U.S.C. 6501 et seq., in 1998 to protect children’s privacy and empower parents to
+control who may collect personal information from their children. 1 Among other things, COPPA
+                                                                                    0F
+
+
+
+
+requires operators of commercial websites or online services directed to children under 13, and
+operators with actual knowledge they are collecting personal information from a child, to provide
+notice of their information practices to parents and to obtain verifiable parental consent before
+collecting, using, or disclosing personal information collected from a child. 2               1F
+
+
+
+
+      The COPPA statute directed the Federal Trade Commission (“Commission” or “FTC”) to
+promulgate regulations implementing COPPA’s requirements. 3 On November 3, 1999, the
+                                                                               2F
+
+
+
+
+Commission issued its Children’s Online Privacy Protection Rule (“COPPA Rule” or “Rule”).
+The Commission has substantively revised the Rule in 2013 4 and 2025. 5   3F             4F
+
+
+
+
+         In the decades since COPPA’s enactment, internet-connected technology has become a
+significant presence in many children’s lives. 6 Parents in turn have faced increasing challenges in
+                                                        5F
+
+
+
+
+understanding which online sites and services their children are using and how to make choices
+about their children’s online activities. In response to this phenomenon, some states have taken
+steps to protect children’s online privacy and safety by passing laws that mandate that certain
+sites or services use age-verification mechanisms. 7 The purpose of these mechanisms is to obtain
+                                                              6F
+
+
+
+
+1
+  Children’s Online Privacy Protection Rule, Notice of Proposed Rulemaking, 64 FR 22750 (Apr. 27, 1999),
+https://www.govinfo.gov/content/pkg/FR-1999-04-27/pdf/99-10250.pdf (citing 144 Cong. Rec. S12741 (Oct. 7,
+1998) (Statement of Sen. Bryan)).
+2
+  15 U.S.C. § 6502(b)(1)(A).
+3
+  15 U.S.C. § 6502(b).
+4
+  Children’s Online Privacy Protection Rule, Statement of Basis and Purpose, 78 FR 3972 (Jan. 17, 2013),
+https://www.federalregister.gov/documents/2013/01/17/2012-31341/childrens-online-privacy-protection-rule.
+5
+  Children’s Online Privacy Protection Rule, Statement of Basis and Purpose, 90 FR 16918 (Apr. 22, 2025),
+https://www.govinfo.gov/content/pkg/FR-2025-04-22/pdf/2025-05904.pdf.
+6
+  See, e.g., Common Sense Media, The Common Sense Census: Media Use by Kids Zero to Eight, 2025 (Feb. 26,
+2025), https://www.commonsensemedia.org/sites/default/files/research/report/2025-common-sense-census-web-
+2.pdf (noting that “children under 2 spend[ ] an average of one hour and three minutes on screens per day, while 2-
+to 4-year-olds average nearly two hours (2:08), and 5- to 8-year-olds average around three and a half hours per day
+(3:28)” and engage in activities such as watching videos, using AI, and visiting social media platforms); see also
+Common Sense Media, The Common Sense Census: Media Use by Tweens and Teens, 2021 (Mar. 9, 2022),
+https://www.commonsensemedia.org/sites/default/files/research/report/8-18-census-integrated-report-final-
+web_0.pdf (noting that “[o]n average, 8- to 12-year-olds use about five and a half hours of screen media per day”
+and visit properties such as online video platforms and social media).
+7
+  For example, various states have enacted laws that require the use of age-verification mechanisms to access social
+media platforms and other content. See, e.g., The Age Verification Providers Association, US state age assurance
+laws for social media, https://avpassociation.com/us-state-age-assurance-laws-for-social-media/; The Age
+Verification Providers Association, US State age verification laws for adult content,
+https://avpassociation.com/4271-2/. For the purposes of this enforcement policy statement, “age verification” refers
+to a variety of tools used to obtain information about a user’s age, including: (1) age estimation tools that estimate a
+user’s age or age range; (2) age-verification tools that verify a user’s age; and (3) age inference tools that infer a
+user’s likely age or age range based on various signals.
+and analyze information about a user who visits the site or service to determine what types of
+access, restrictions, or protections to provide that user.
+        Age verification can play a critical role in protecting children online and helping parents
+as they monitor their children’s online activities. To promote innovation in, and the responsible
+use of, age-verification mechanisms, the Commission is issuing this enforcement policy
+statement (“Enforcement Statement”) to describe how operators of websites or online services
+directed to children that do not target children as their primary audience (known as “mixed
+audience” websites or online services), 8 as well as operators of general audience sites or
+                                               7F
+
+
+
+
+services 9 (collectively “Relevant Operators”), can utilize age-verification mechanisms without
+         8F
+
+
+
+
+subjecting themselves to the risk of enforcement under the COPPA Rule.
+        The COPPA Rule applies to the collection, use, and disclosure of personal information
+collected from children. Some Relevant Operators distinguish between children and older users,
+and seek verifiable parental consent only for users that the Relevant Operators have determined
+are children. Relevant Operators have often determined a user’s age by simply requesting that the
+user provide his or her age before interacting with the site or service. But a growing number of
+age-verification mechanisms now enable Relevant Operators to determine age more reliably than
+a user-provided response to an age-gating function. 10 In response, Relevant Operators have
+                                                              9F
+
+
+
+
+raised questions about how to comply with the COPPA Rule when adopting these mechanisms,
+to the extent these mechanisms involve the collection of personal information from a child.
+        To encourage the use of robust age-verification mechanisms, the Commission will not
+bring an enforcement action under the COPPA Rule against a Relevant Operator that collects,
+uses, or discloses personal information for the purpose of determining a user’s age (“Age
+Verification Purposes”) without first obtaining verifiable parental consent. The Commission
+seeks to encourage Relevant Operators to use these mechanisms to determine a user’s age more
+
+8
+  This Enforcement Statement does not modify the Commission’s position that operators of child-directed sites and
+services that are primarily directed to children must treat all users as children and therefore must provide the COPPA
+Rule’s protections to all users.
+9
+  General audience sites and services that have actual knowledge that a user is a child are covered by the COPPA
+Rule. In the course of using age-verification mechanisms, general audience sites and services may obtain actual
+knowledge about the age of a user. For example, if a general audience operator uses an age-verification mechanism
+that identified a user as 11 years old, that would provide the operator with actual knowledge that the user is a child.
+Note that general audience sites and services can also obtain actual knowledge through means other than utilizing an
+age-verification mechanism.
+10
+   Various sources have raised concerns about the effectiveness of self-declaration as an age-verification mechanism.
+See, e.g., Common Sense Media, U.S. Age Assurance Is Beginning to Come of Age: The Long Path Toward
+Protecting Children Online and Safeguarding Access to the Internet (Sept. 30, 2024),
+https://www.commonsensemedia.org/sites/default/files/featured-content/files/2024-us-age-assurance-white-
+paper_final.pdf (noting that self-declaration is “insufficient in terms of accuracy…very easy to circumvent…[and]
+clearly inadequate and inappropriate for use in high-risk situations…”). Indeed, in its 2024 Notice of Proposed
+Rulemaking for the COPPA Rule, the Commission noted that it supported the development of other age-verification
+mechanisms given these effectiveness concerns. Children’s Online Privacy Protection Rule, Notice of Proposed
+Rulemaking, 89 FR 2034, 2048 (Jan. 11, 2024), https://www.govinfo.gov/content/pkg/FR-2024-01-11/pdf/2023-
+28569.pdf. The Commission is encouraged by indications that the marketplace has developed age-verification
+mechanisms that can more reliably determine a user’s age. See, e.g., Congressional Research Service, Identifying
+Minors Online (Sept. 23, 2025), https://www.congress.gov/crs-product/R47884.
+accurately and reliably. These more accurate determinations will in turn allow Relevant
+Operators to apply their child-protection measures to the fullest extent, thereby protecting more
+children online. The Commission will, however, exercise its enforcement discretion under the
+Enforcement Statement only where a Relevant Operator:
+       •   does not use or disclose information collected for Age Verification Purposes for any
+           purpose other than for Age Verification Purposes;
+       •   discloses information collected for Age Verification Purposes only to those third
+           parties that the Relevant Operator has taken reasonable steps to determine are capable
+           of maintaining the confidentiality, security, and integrity of the information, including
+           by obtaining written assurances that such third parties will employ reasonable
+           measures to do so, will not use or disclose information collected for Age Verification
+           Purposes for any other purpose, and will delete this information promptly after
+           fulfilling the Age Verification Purposes;
+       •   does not retain this information longer than the period necessary to fulfill the Age
+           Verification Purposes, and deletes such information promptly thereafter;
+       •   provides clear notice to parents and children of the information collected for Age
+           Verification Purposes in the Relevant Operator’s privacy policy;
+       •   employs reasonable security safeguards for information collected for Age Verification
+           Purposes; and
+       •   takes reasonable steps to determine that any product, service, method, or third party
+           utilized for Age Verification Purposes is likely to provide reasonably accurate results
+           as to the user’s age.
+        In addition, the Commission will not exercise its enforcement discretion in circumstances
+described in this Enforcement Statement unless the Relevant Operator is complying with the
+COPPA Rule’s requirements in every other respect with regard to personal information collected
+from children. This requirement ensures that the COPPA Rule will continue to protect America’s
+children to its fullest extent, while also promoting innovation in the development of age-
+verification technology.
+       This Enforcement Statement does not create any substantive rights or entitlements, and
+the Commission retains the right to investigate and bring actions for violations of the COPPA
+Rule in individual cases. In the coming months, the Commission intends to initiate a review of
+the COPPA Rule to address age-verification mechanisms. This Enforcement Statement will
+remain effective until the Commission publishes final rule amendments on this issue in the
+Federal Register, or until otherwise withdrawn.
+

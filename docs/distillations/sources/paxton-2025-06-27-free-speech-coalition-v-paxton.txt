@@ -1,0 +1,2527 @@
+SOURCE CACHE. Free Speech Coalition, Inc. v. Paxton, No. 23-1122 (U.S. June 27,
+2025), slip opinion, 63 pages. Retrieved 2026-08-13 from
+https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf
+Extracted with `pdftotext -layout`. U.S. Government work, public domain.
+Extraction checked: zero doubled word pairs, zero ligatures, positive control run.
+
+WHY IT IS HERE. The section 7 plan asserted this case "does not reach general
+audience services" and was barred from the site pending verification. Reading it
+shows that framing is WRONG; see that plan's corrected entry. The statute reaches
+sites more than one-third of whose content is sexual material harmful to minors,
+and the Court applied INTERMEDIATE scrutiny. When petitioners argued the law was
+under-tailored precisely BECAUSE it does not cover search engines and social
+media, the Court rejected that argument. No ledger quotes this yet.
+
+================================================================================
+
+(Slip Opinion)              OCTOBER TERM, 2024                                       1
+
+                                       Syllabus
+
+         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+       being done in connection with this case, at the time the opinion is issued.
+       The syllabus constitutes no part of the opinion of the Court but has been
+       prepared by the Reporter of Decisions for the convenience of the reader.
+       See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+                                       Syllabus
+
+  FREE SPEECH COALITION, INC., ET AL. v. PAXTON,
+         ATTORNEY GENERAL OF TEXAS
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                  THE FIFTH CIRCUIT
+
+    No. 23–1122. Argued January 15, 2025—Decided June 27, 2025
+
+
+Texas, like many States, prohibits distributing sexually explicit content
+  to children. In 2023, Texas enacted H. B. 1181, requiring certain com-
+  mercial websites publishing sexually explicit content that is obscene to
+  minors to verify that visitors are 18 or older. Knowing violations sub-
+  ject covered entities to injunctions and civil penalties.
+     Petitioners—representatives of the pornography industry—sued the
+  Texas attorney general to enjoin enforcement of H. B. 1181 as facially
+  unconstitutional under the First Amendment’s Free Speech Clause.
+  They alleged that adults have a right to access the covered speech, and
+  that the statute impermissibly hinders them. The Fifth Circuit held
+  that an injunction was not warranted because petitioners were un-
+  likely to succeed on their First Amendment claim. The court viewed
+  H. B. 1181 as a “regulatio[n] of the distribution to minors of materials
+  obscene for minors.” 95 F. 4th 263, 269, 271. It therefore determined
+  that the law is not subject to any heightened scrutiny under the First
+  Amendment.
+Held: H. B. 1181 triggers, and survives, review under intermediate scru-
+ tiny because it only incidentally burdens the protected speech of
+ adults. Pp. 5–36.
+    (a) H. B. 1181 is subject to intermediate scrutiny. Pp. 5–32.
+      (1) To determine whether a law that regulates speech violates the
+ First Amendment, the Court considers both the nature of the burden
+ imposed by the law and the nature of the speech at issue. Laws that
+ target protected speech “based on its communicative content” are pre-
+ sumptively unconstitutional and may be justified only if ” they satisfy
+2             FREE SPEECH COALITION, INC. v. PAXTON
+
+                                   Syllabus
+
+    strict scrutiny. Reed v. Town of Gilbert, 576 U. S. 155, 163. Laws that
+    only incidentally burden protected speech are subject to intermediate
+    scrutiny. Turner Broadcasting System, Inc. v. FCC, 512 U. S. 622, 642.
+    And laws that restrict only unprotected speech, such as obscenity, re-
+    ceive rational-basis review. United States v. Stevens, 559 U. S. 460,
+    468. History, tradition, and precedent establish that sexual content
+    that is obscene to minors but not to adults is protected in part and
+    unprotected in part. States may prevent minors from accessing such
+    content, Ginsberg v. New York, 390 U. S. 629, 637–638, but may not
+    prevent adults from doing the same, Butler v. Michigan, 352 U. S. 380,
+    383. Pp. 6–13.
+         (2) H. B. 1181 has only an incidental effect on protected speech,
+    and is therefore subject to intermediate scrutiny. The First Amend-
+    ment leaves undisturbed States’ traditional power to prevent minors
+    from accessing speech that is obscene from their perspective. That
+    power includes the power to require proof of age before an individual
+    can access such speech. It follows that no person—adult or child—has
+    a First Amendment right to access such speech without first submit-
+    ting proof of age.
+       The power to verify age is part of the power to prevent children from
+    accessing speech that is obscene to them. Where the Constitution re-
+    serves a power to the States, that power includes “the ordinary and
+    appropriate means” of exercising it. 1 J. Story, Commentaries on the
+    Constitution of the United States §430, pp. 412–413. Requiring proof
+    of age is an ordinary and appropriate means of enforcing an age-based
+    limit on obscenity to minors. Age verification is common when laws
+    draw age-based lines, e.g., obtaining alcohol, a firearm, or a driver’s
+    license. Obscenity is no exception. Most States require age verifica-
+    tion for in-person purchases of sexual material, and petitioners con-
+    cede that in-person requirements of this kind are “traditional” and “al-
+    most surely” constitutional. Tr. of Oral Arg. 17. And as a practical
+    matter, age-verification is necessary for an effective prohibition on mi-
+    nors accessing age-inappropriate sexual content, especially on the in-
+    ternet.
+       Because H. B. 1181 simply requires proof of age to access content
+    that is obscene to minors, it does not directly regulate adults’ protected
+    speech. Adults have the right to access speech obscene only to minors,
+    see Butler, 352 U. S., at 383–384, and submitting to age verification
+    burdens the exercise of that right. But adults have no First Amend-
+    ment right to avoid age verification. Any burden on adults is therefore
+    incidental to regulating activity not protected by the First Amend-
+    ment. This makes intermediate scrutiny the appropriate standard un-
+    der the Court’s precedents. Pp. 13–19.
+         (3) Applying the more demanding standard of strict scrutiny
+                   Cite as: 606 U. S. ____ (2025)                      3
+
+                              Syllabus
+
+would call into question all age-verification requirements, even
+longstanding in-person requirements. Although petitioners insist that
+traditional in-person requirements would survive strict scrutiny, the
+Court cannot share their confidence. Strict scrutiny is designed to en-
+force the First Amendment’s prohibition on content-based laws, and it
+succeeds in that purpose only if, as a practical matter, it is almost al-
+ways fatal in fact. Strict scrutiny is not the appropriate standard for
+laws that are traditional and widely accepted as legitimate. Pp. 19–
+21.
+     (4) Precedent does not call for the application of strict scrutiny.
+The Court’s decisions applying strict scrutiny in this context all in-
+volved laws that banned both minors and adults from accessing speech
+that was at most obscene only to minors. See Sable Communications
+of Cal., Inc. v. FCC, 492 U. S. 115, 118, 126; United States v. Playboy
+Entertainment Group, Inc., 529 U. S. 803, 808, 811, 814; Reno v. Amer-
+ican Civil Liberties Union, 521 U. S. 844, 868, 876; Ashcroft v. Ameri-
+can Civil Liberties Union, 542 U. S. 656, 665. The Court has never
+before considered whether the more modest burden of an age-verifica-
+tion requirement triggers strict scrutiny. Pp. 21–28.
+     (5) Texas contends that only rational-basis review applies. This
+position fails to account for the incidental burden that age verification
+necessarily has on an adult’s First Amendment right to access speech
+obscene only to minors. Although deferential, intermediate scrutiny
+plays an important role in ensuring that legislatures do not use osten-
+sibly legitimate purposes to disguise efforts to suppress fundamental
+rights. Pp. 31–32.
+   (b) H. B. 1181 survives intermediate scrutiny because it “advances
+important governmental interests unrelated to the suppression of free
+speech and does not burden substantially more speech than necessary
+to further those interests.” Turner Broadcasting System, Inc. v. FCC,
+520 U. S. 180, 189. Pp. 32–36.
+     (1) H. B. 1181 furthers Texas’s important interest in shielding
+children from sexual content and is adequately tailored to that inter-
+est. States have long used age-verification requirements to reconcile
+their interest in protecting children from sexual material with adults’
+right to avail themselves of such material. H. B. 1181 simply adapts
+this traditional approach to the digital age. The specific verification
+methods that H. B. 1181 permits—government-issued identification
+and transactional data—are also plainly legitimate. Both are estab-
+lished methods of verifying age already in use by many pornographic
+websites and other industries with age-restricted services. Pp. 32–34.
+     (2) Petitioners’ counterarguments are unpersuasive. Petitioners
+object that other means of protecting children are more effective and
+that children are likely to encounter sexually explicit content on other
+4             FREE SPEECH COALITION, INC. v. PAXTON
+
+                                  Syllabus
+
+    websites subject to H. B. 1181’s requirements. But intermediate scru-
+    tiny does not require States to adopt the least restrictive means of pur-
+    suing their interests, Ward v. Rock Against Racism, 491 U. S. 781, 800,
+    or avoid all underinclusiveness, TikTok Inc. v. Garland, 604 U. S. ___,
+    ___. Pp. 34–35.
+95 F. 4th 263, affirmed.
+
+  THOMAS, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined. KAGAN, J., filed
+a dissenting opinion, in which SOTOMAYOR and JACKSON, JJ., joined.
+                        Cite as: 606 U. S. ____ (2025)                              1
+
+                             Opinion of the Court
+
+     NOTICE: This opinion is subject to formal revision before publication in the
+     United States Reports. Readers are requested to notify the Reporter of
+     Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+     pio@supremecourt.gov, of any typographical or other formal errors.
+
+
+SUPREME COURT OF THE UNITED STATES
+                                   _________________
+
+                                   No. 23–1122
+                                   _________________
+
+
+       FREE SPEECH COALITION, INC., ET AL.,
+      PETITIONERS v. KEN PAXTON, ATTORNEY
+               GENERAL OF TEXAS
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE FIFTH CIRCUIT
+                                 [June 27, 2025]
+
+  JUSTICE THOMAS delivered the opinion of the Court.
+   Texas, like many States, prohibits the distribution of sex-
+ually explicit content to children. Tex. Penal Code Ann.
+§43.24(b) (West 2016). But, although that prohibition may
+be effective against brick-and-mortar stores, it has proved
+challenging to enforce against online content. In an effort
+to address this problem, Texas enacted H. B. 1181, Tex. Civ.
+Prac. & Rem. Code Ann. §129B.001 et seq. (West Cum.
+Supp. 2024), which requires certain commercial websites
+that publish sexually explicit content to verify the ages of
+their visitors. This requirement furthers the lawful end of
+preventing children from accessing sexually explicit con-
+tent. But, it also burdens adult visitors of these websites,
+who all agree have a First Amendment right to access at
+least some of the content that the websites publish. We
+granted certiorari to decide whether these burdens likely
+render H. B. 1181 unconstitutional under the Free Speech
+Clause of the First Amendment. We hold that they do not.
+The power to require age verification is within a State’s au-
+thority to prevent children from accessing sexually explicit
+2         FREE SPEECH COALITION, INC. v. PAXTON
+
+                      Opinion of the Court
+
+content. H. B. 1181 is a constitutionally permissible exer-
+cise of that authority.
+                               I
+                               A
+  In 2023, Texas enacted H. B. 1181, a law requiring por-
+nographic websites to verify that their users are adults.
+H. B. 1181’s sponsors proposed the law to address their con-
+cern that the internet makes too accessible to minors “hard-
+core pornographic content and videos,” many of which de-
+pict “sexual violence, incest, physical aggression, sexual
+assault, non-consent, and teens.” App. 254–255. According
+to the sponsors, such pornography is “addictive,” has harm-
+ful “developmental effects on the brain,” and leads to “risky
+sexual behaviors.” Ibid. The Texas Legislature passed the
+Act with only a single opposing vote, and the Governor
+signed it into law.
+  The statute applies to any “commercial entity that know-
+ingly and intentionally publishes or distributes material on
+an Internet website, . . . more than one-third of which is
+sexual material harmful to minors.” Tex. Civ. Prac. & Rem.
+Code Ann. §129B.002(a). The statute defines “ ‘[s]exual ma-
+terial harmful to minors’ ” as material that: (1) “is designed
+to appeal to or pander to the prurient interest” when taken
+“as a whole and with respect to minors”; (2) describes, dis-
+plays, or depicts “in a manner patently offensive with re-
+spect to minors” various sex acts and portions of the human
+anatomy, including depictions of “sexual intercourse, mas-
+turbation, sodomy, bestiality, oral copulation, flagellation,
+[and] excretory functions”; and (3) “lacks serious literary,
+artistic, political, or scientific value for minors.”
+§129B.001(6).
+  H. B. 1181 requires a covered entity to “use reasonable
+age verification methods . . . to verify that an individual at-
+tempting to access the material is 18 years of age or older.”
+§129B.002(a). To verify age, a covered entity must require
+                     Cite as: 606 U. S. ____ (2025)                     3
+
+                          Opinion of the Court
+
+visitors to “comply with a commercial age verification sys-
+tem” that uses “government-issued identification” or “a
+commercially reasonable method that relies on public or
+private transactional data.” §129B.003(b)(2).1 The entity
+may perform verification itself or through a third-party ser-
+vice. §129B.003(b).
+  If a commercial entity knowingly violates H. B. 1181, the
+Texas attorney general may sue to enjoin the violation.
+§129B.006(a). The attorney general may also recover a civil
+penalty of up to $10,000 per day that the website is non-
+compliant, as well as an additional penalty of up to
+$250,000 if any minors access covered sexual material as a
+result of the violation. §129B.006(b).
+  H. B. 1181 is not the only law of its kind. At least 21 other
+States have imposed materially similar age-verification re-
+quirements to access sexual material that is harmful to mi-
+nors online.2
+——————
+   1 An entity may also verify age by requiring users to “provide digital
+
+identification,” Tex. Civ. Prac. & Rem. Code Ann. §129B.003(b)(1), which
+is defined as “information stored on a digital network that may be ac-
+cessed by a commercial entity and that serves as proof of the identity of
+an individual,” §129B.003(a). The State concedes that “Texas does not
+yet have a state issued digital identification card or app.” App. 189. Pe-
+titioners maintain that no other identification could qualify as “digital
+ID” under this definition. Tr. of Oral Arg. 36–37. We assume without
+deciding that petitioners are correct.
+   2 See Ala. Code §8–19G–3(a) (Cum. Supp. 2024); 2025 Ariz. Sess. Laws
+
+ch. 193 (to be codified at Ariz. Rev. Stat. Ann. §18–701(A)); Ark. Code
+Ann. §4–88–1304(a) (2023); 2024 Fla. Laws ch. 42, §2 (to be codified at
+Fla. Stat. §501.1737(2)); 2024 Ga. Laws p. 316 (to be codified at Ga. Code
+Ann. §39–5–5(b)); Idaho Code Ann. §6–3803(1) (Cum. Supp. 2024); Ind.
+Code §24–4–23–10 (Cum. Supp. 2024); 2024 Kan. Sess. Laws p. 451 (to
+be codified at Kan. Stat. Ann. §50–6146(a)); Ky. Rev. Stat. Ann.
+§436.002(1) (West Cum. Supp. 2024); La. Rev. Stat. Ann. §51:2121(A)(1)
+(West 2025); Miss. Code Ann. §11–77–5(1) (Cum. Supp. 2024); Mont.
+Code Ann. §30–14–159(1) (2023); Neb. Rev. Stat. §87–1003(1) (2024);
+N. C. Gen. Stat. Ann. §66–501(a) (Supp. 2024); H. B. 1561, 69th Leg.
+Assem., Reg. Sess., §1 (N. D. 2025) (to be codified at N. D. Cent. Code
+Ann. §51–07(2)); S. C. Code Ann. §37–1–310(C)(1) (Cum. Supp. 2024);
+4           FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+                              B
+   Soon after Texas enacted H. B. 1181, a trade association
+for the pornography industry, a group of companies that op-
+erate pornographic websites, and a pornography performer
+sued the Texas attorney general. These plaintiffs, petition-
+ers here, sought to enjoin enforcement of the statute as fa-
+cially unconstitutional under the Free Speech Clause of the
+First Amendment. They alleged that adults have a right to
+access the speech covered by H. B. 1181, and that the stat-
+ute impermissibly hinders them from doing so.
+   The District Court granted petitioners a preliminary in-
+junction after concluding that they were likely to succeed
+on their claim. The court held that because H. B. 1181 “re-
+stricts access to speech” that is constitutionally protected
+for adults “based on the material’s content,” it is subject to
+“strict scrutiny”—the onerous standard of scrutiny applica-
+ble to direct invasions of First Amendment rights. Free
+Speech Coalition, Inc. v. Colmenero, 689 F. Supp. 3d 373,
+391 (WD Tex. 2023). Under that standard, the law would
+be constitutional only if Texas could show that it
+“(1) serve[s] a compelling governmental interest, (2) [is]
+narrowly tailored to achieve it, and (3) [is] the least restric-
+tive means of advancing it.” Id., at 392. The District Court
+acknowledged Texas’s compelling interest in preventing “a
+minor’s access to pornography.” Ibid. But, it found that
+Texas had failed to “show that H. B. 1181 is narrowly tai-
+lored and the least restrictive means of advancing that in-
+terest.” Id., at 393. In the District Court’s opinion, for ex-
+ample, encouraging parents to install content-filtering
+software on their children’s devices would be a less restric-
+tive means of accomplishing the State’s objective. Id., at
+——————
+H. B. 1053, 100th Leg. Sess., §4 (S. D. 2025) (to be codified in S. D. Cod-
+ified Laws ch. 22–24); Tenn. Code Ann. §39–17–912(c) (Supp. 2024);
+Utah Code §78B–3–1002(1) (Supp. 2024); Va. Code Ann. §8.01–40.5(B)
+(2024); 2025 Wyo. Sess. Laws ch. 139, §1 (to be codified at Wyo. Stat.
+Ann. §14–3–502(a)).
+                  Cite as: 606 U. S. ____ (2025)            5
+
+                      Opinion of the Court
+
+401–404.
+  The U. S. Court of Appeals for the Fifth Circuit vacated
+the injunction, holding that petitioners were unlikely to
+succeed on the merits. The Fifth Circuit viewed H. B. 1181
+as a “regulatio[n] of the distribution to minors of materials
+obscene for minors,” which only incidentally implicates “the
+privacy of those adults” seeking to access the regulated con-
+tent. 95 F. 4th 263, 269, 271 (2024). And, because minors
+have no First Amendment right to access such materials,
+the court held that the law was “subject only to rational-
+basis review”—the exceedingly deferential standard appli-
+cable to laws that do not implicate fundamental rights. Id.,
+at 269. Applying that standard, the court concluded that
+H. B. 1181 survived petitioners’ challenge because its “age-
+verification requirement is rationally related to the govern-
+ment’s legitimate interest in preventing minors’ access to
+pornography.” Id., at 267.
+  Judge Higginbotham dissented in relevant part. Like the
+District Court, he would have applied strict scrutiny and
+found that Texas had failed to meet its burden under that
+standard. Id., at 299, 303–304 (opinion dissenting in part
+and concurring in part).
+  Petitioners sought a stay of the Fifth Circuit’s judgment,
+which this Court denied. 601 U. S. ___ (2024). We granted
+certiorari to determine whether H. B. 1181’s age-
+verification requirement is likely constitutional on its face.
+603 U. S. ___ (2024).
+                              II
+  To determine which standard of First Amendment scru-
+tiny applies to Texas’s age-verification law, we must first
+review some background principles about the First Amend-
+ment. Specifically, we must focus on what the First Amend-
+ment generally protects, the extent to which it permits
+States to restrict minors’ access to sexually explicit speech,
+and how this Court has addressed earlier laws that aimed
+6         FREE SPEECH COALITION, INC. v. PAXTON
+
+                      Opinion of the Court
+
+to prevent children from viewing sexually explicit speech
+online.
+                                A
+   The First Amendment, which applies to the States
+through the Fourteenth Amendment, prohibits laws
+“abridging the freedom of speech.” As “a general matter,”
+this provision “means that government has no power to re-
+strict expression because of its message, its ideas, its sub-
+ject matter, or its content.” Ashcroft v. American Civil Lib-
+erties Union, 535 U. S. 564, 573 (2002) (internal quotation
+marks omitted). But, this principle “is not absolute.” Ibid.
+   To determine whether a law that regulates speech vio-
+lates the First Amendment, we must consider both the na-
+ture of the burden imposed by the law and the nature of the
+speech at issue. Our precedents distinguish between two
+types of restrictions on protected speech: content-based
+laws and content-neutral laws. “Content-based laws—
+those that target speech based on its communicative con-
+tent—are presumptively unconstitutional and may be jus-
+tified only if ” they satisfy strict scrutiny. Reed v. Town of
+Gilbert, 576 U. S. 155, 163 (2015). That standard requires
+that a law be “the least restrictive means of achieving a
+compelling state interest.” McCullen v. Coakley, 573 U. S.
+464, 478 (2014).
+   Content-neutral laws, on the other hand, “are subject to
+an intermediate level of scrutiny because in most cases they
+pose a less substantial risk of excising certain ideas or view-
+points from the public dialogue.” Turner Broadcasting Sys-
+tem, Inc. v. FCC, 512 U. S. 622, 642 (1994) (citation omit-
+ted). Under that standard, a law will survive review “if it
+advances important governmental interests unrelated to
+the suppression of free speech and does not burden substan-
+tially more speech than necessary to further those inter-
+ests.” Turner Broadcasting System, Inc. v. FCC, 520 U. S.
+180, 189 (1997) (Turner II ).
+                  Cite as: 606 U. S. ____ (2025)              7
+
+                      Opinion of the Court
+
+  At the same time, not all speech is protected. “ ‘From
+1791 to the present,’ ” certain “ ‘historic and traditional cat-
+egories’ ” of speech—such as “obscenity, defamation, fraud,
+incitement, and speech integral to criminal conduct”—have
+been understood to fall outside the scope of the First
+Amendment. United States v. Stevens, 559 U. S. 460, 468
+(2010) (citations omitted). States generally may prohibit
+speech of this kind without “rais[ing] any Constitutional
+problem.” Chaplinsky v. New Hampshire, 315 U. S. 568,
+571–572 (1942). Such prohibitions are subject only to
+rational-basis review, the minimum constitutional stand-
+ard that all legislation must satisfy. See District of Colum-
+bia v. Heller, 554 U. S. 570, 628, n. 27 (2008). Under that
+standard, a law will be upheld “if there is any reasonably
+conceivable state of facts that could provide a rational ba-
+sis” for its enactment. FCC v. Beach Communications, Inc.,
+508 U. S. 307, 313 (1993).
+                             B
+  History, tradition, and precedent recognize that States
+have two distinct powers to address obscenity: They may
+proscribe outright speech that is obscene to the public at
+large, and they may prevent children from accessing speech
+that is obscene to children.
+  By the 18th century, English common law recognized
+publishing obscenity as an indictable offense. See Rex v.
+Wilkes, 4 Burr. 2527 (K. B. 1770); Rex v. Curl, 2 Strange
+789, 93 Eng. Rep. 849 (K. B. 1727). So too did early Ameri-
+can decisions. See Commonwealth v. Holmes, 17 Mass. 336,
+336–337 (1821); Commonwealth v. Sharpless, 2 Serg. &
+Rawle 91, 100–102 (Pa. 1815); Knowles v. State, 3 Day 103,
+108 (Conn. 1808). By the end of the Civil War, most States
+had prohibited obscenity by statute, and Congress had pro-
+hibited sending obscene materials by mail. See An Act Re-
+lating to the Postal Laws §16, 13 Stat. 507; E. Hovey,
+Stamping Out Smut: The Enforcement of Obscenity Laws,
+8          FREE SPEECH COALITION, INC. v. PAXTON
+
+                       Opinion of the Court
+
+1872–1915, p. 36 (1998). And, from the late 19th century
+onward, this Court has consistently recognized the govern-
+ment’s power to proscribe obscenity. See, e.g., Counterman
+v. Colorado, 600 U. S. 66, 77 (2023); Roth v. United States,
+354 U. S. 476, 483 (1957); Rosen v. United States, 161 U. S.
+29, 42–43 (1896).
+   Our precedents hold that speech is obscene to the public
+at large—and thus proscribable—if (a) “the average person,
+applying contemporary community standards[,] would find
+that the work, taken as a whole, appeals to the prurient in-
+terest”; (b) “the work depicts or describes, in a patently of-
+fensive way, sexual conduct specifically defined by the ap-
+plicable state law”; and (c) “the work, taken as a whole,
+lacks serious literary, artistic, political, or scientific value.”
+Miller v. California, 413 U. S. 15, 24 (1973) (internal quota-
+tion marks omitted). Our precedents refer to this standard
+as “the Miller test.”
+   Miller does not define the totality of States’ power to reg-
+ulate sexually explicit speech, however. In addition to their
+general interest in protecting the public at large, States
+have a specific interest in protecting children from sexually
+explicit speech. The earliest obscenity decisions recognized
+that restricting obscenity served two distinct interests—
+curbing the “corruption of the public mind in general,” and
+protecting “the manners of youth in particular.” Sharpless,
+2 Serge & Rawle, at 103 (opinion of Yeates, J.); see also
+Holmes, 17 Mass., at 336–337 (upholding an indictment for
+publishing an obscene book tending to “ ‘the manifest cor-
+ruption and subversion of the youth and other good citizens
+of [this] Commonwealth’ ”). Similarly, many early obscenity
+statutes targeted for special regulation works “manifestly
+tending to the corruption of the morals of youth.” E.g., Me.
+Rev. Stat., ch. 160, §19 (1840); Mass. Rev. Stat. ch. 130, §10
+(1836); Mich. Rev. Stat., Pt. 4, Tit. 1, ch. 8, §10 (1838); 1838
+Terr. of Wis. Stat. §10, p. 366; Vt. Rev. Stat., ch. 99, §10
+                  Cite as: 606 U. S. ____ (2025)             9
+
+                      Opinion of the Court
+
+(1840). This trend continued through the time of the Four-
+teenth Amendment’s ratification, with States routinely en-
+forcing statutes that punished indecent publications on the
+ground that they corrupted “the morals of youth.” E.g.,
+Fuller v. People, 92 Ill. 182, 184 (1879); Commonwealth v.
+Dejardin, 126 Mass. 46, 46–47 (1878); Barker v. Common-
+wealth, 19 Pa. 412, 413 (1852); State v. Hanson, 23 Tex. 233,
+233–234 (1859).
+   Consistent with this history, our precedents recognize
+that States can impose greater limits on children’s access to
+sexually explicit speech than they can on adults’ access.
+When regulating adult access, a State must define obscen-
+ity from the perspective of “the average” adult, Roth, 354
+U. S., at 489, and so may not prohibit adults from accessing
+speech that is inappropriate only for children, Butler v.
+Michigan, 352 U. S. 380, 383 (1957). Minors, however, have
+long been thought to be more susceptible to the harmful ef-
+fects of sexually explicit content, and less able to appreciate
+the role it might play within a larger expressive work. See
+Ginsberg v. New York, 390 U. S. 629, 641–643 (1968);
+United States v. Bennett, 24 F. Cas. 1093, 1105 (No. 14,571)
+(CC SDNY 1879). They therefore possess “a more restricted
+right . . . to judge and determine for themselves what sex
+material they may read or see.” Ginsberg, 390 U. S., at 637.
+   When regulating minors’ access to sexual content, the
+State may broaden Miller’s “definition of obscenity” to cover
+that which is obscene from a child’s perspective. Ginsberg,
+390 U. S., at 638. To be more precise, a State may prevent
+minors from accessing works that (a) taken as a whole, and
+under contemporary community standards, appeal to the
+prurient interest of minors; (b) depict or describe specifi-
+cally defined sexual conduct in a way that is patently offen-
+sive for minors; and (c) taken as a whole, lack serious liter-
+ary, artistic, political, or scientific value for minors. See
+10         FREE SPEECH COALITION, INC. v. PAXTON
+
+                         Opinion of the Court
+
+Miller, 413 U. S., at 24; Ginsberg, 390 U. S., at 635, 638.3
+Restrictions of this kind trigger no heightened First
+Amendment scrutiny and are subject only to rational-basis
+review, even though they encompass speech that is “not ob-
+scene for adults.” Id., at 634, 639.
+  In sum, two basic principles govern legislation aimed at
+shielding children from sexually explicit content. A State
+may not prohibit adults from accessing content that is ob-
+scene only to minors. Butler, 352 U. S., at 383. But, it may
+enact laws to prevent minors from accessing such content.
+Ginsberg, 390 U. S., at 637–638.
+                             C
+  This Court has applied these principles to regulations of
+internet-based speech on two prior occasions, both at the
+dawn of the internet age. First, in Reno v. American Civil
+Liberties Union, 521 U. S. 844 (1997), we addressed the con-
+stitutionality of the Communications Decency Act of 1996
+(CDA), 110 Stat. 133. The CDA criminalized using the in-
+ternet to knowingly transmit “obscene or indecent mes-
+sages” to a minor, or to knowingly send or display “patently
+offensive messages in a manner that is available to” a mi-
+nor. 521 U. S., at 859–860. It provided an affirmative de-
+fense to “those who restrict access to covered material by
+requiring certain designated forms of age proof.” Id., at
+860–861.
+  We held that the CDA violated the First Amendment be-
+cause it “effectively suppresses a large amount of speech
+that adults have a constitutional right to receive.” Id., at
+874. The CDA’s age-verification defense was illusory be-
+cause, in many cases, “existing technology did not include
+——————
+  3 H. B. 1181 covers only depictions of activity that would qualify as
+
+“sexual conduct” in an adult obscenity statute. See Tex. Civ. Prac. &
+Rem. Code Ann. §129B.001(6)(B). We therefore need not decide whether
+a statute addressing obscenity to minors can define a broader range of
+activity as “sexual conduct” than an adult obscenity statute.
+                      Cite as: 606 U. S. ____ (2025)                      11
+
+                           Opinion of the Court
+
+any effective method for a sender to prevent minors from
+obtaining access to its communications on the Internet
+without also denying access to adults.” Id., at 876.4 And,
+even as to minors, the CDA swept far beyond obscenity.
+Fairly read, the terms “ ‘indecent’ ” and “ ‘patently offen-
+sive’ ” encompassed “large amounts of nonpornographic ma-
+terial with serious educational or other value.” Id., at 877.
+The Act was thus a “content-based restriction” of protected
+speech that could not survive strict scrutiny. Id., at 879.
+  After Reno, Congress passed the Children’s Online Pri-
+vacy Protection Act of 1998 (COPA), 112 Stat. 2681–728,
+which we addressed in Ashcroft v. American Civil Liberties
+Union, 542 U. S. 656 (2004) (Ashcroft II ). COPA criminal-
+ized posting “content that is ‘harmful to minors’ ” online for
+——————
+   4 Elsewhere in the CDA, Congress recognized that content filtering was
+
+still an emerging technology and that companies attempting to use it
+faced serious risks. A year before the CDA’s enactment, a New York
+court had held that an online service provider could be held liable as a
+publisher for defamatory posts by third-party users because the provider
+had “held itself out as” “a family oriented computer network” that
+screened out inappropriate content. Stratton Oakmont, Inc. v. Prodigy
+Servs. Co., 1995 WL 323710, *2 (Sup. Ct. N. Y., May 24, 1995). In re-
+sponse, the CDA added a new §230 to the Communications Act of 1934.
+§509, 110 Stat. 137–139 (codified as amended at 47 U. S. C. §230). Sec-
+tion 230 provides that computer service providers (1) shall not “be
+treated as the publisher or speaker of any information provided by” a
+third party, and (2) shall not “be held liable” for good-faith actions to re-
+strict access to material that they consider to be “obscene, lewd, lascivi-
+ous, filthy, excessively violent, harassing, or otherwise objectionable,” or
+to enable others (such as users) to restrict access to such material.
+§230(c). Congress thereby aimed to spur the development and use of fil-
+tering technology so that parents could prevent their children from ac-
+cessing sexually explicit content online. See §509, 110 Stat. 137 (title)
+(“Online Family Empowerment”); 47 U. S. C. §230 (title) (“Protection for
+private blocking and screening of offensive material”); §230(c) (title)
+(“Protection for ‘Good Samaritan’ blocking and screening of offensive ma-
+terial”); 141 Cong. Rec. 22045 (1995) (remarks of Rep. Cox) (“We want to
+encourage” computer service providers “to help us control . . . what our
+children see” using filtering “technology” that “is very quickly becoming
+available”).
+12         FREE SPEECH COALITION, INC. v. PAXTON
+
+                       Opinion of the Court
+
+“ ‘commercial purposes.’ ” Id., at 661 (quoting 47 U. S. C.
+§231(a)(1)). The Act defined such content as material that
+is obscene under the Miller test, as adjusted to minors. 542
+U. S., at 661–662 (citing §231(e)(6)). It also provided “an
+affirmative defense to those who employ specified means to
+prevent minors from gaining access to the prohibited mate-
+rials on their Web site,” such as requiring the use of a credit
+card or a digital certificate that verifies age. Id., at 662 (cit-
+ing §231(c)(1)). Soon after COPA’s passage, a District Court
+preliminarily enjoined its enforcement, holding that the Act
+likely violated the First Amendment. Id., at 663.
+    This Court held that the injunction was not an abuse of
+discretion. Id., at 664–665. The parties agreed that COPA
+was subject to strict scrutiny. So too did this Court, which
+briefly noted that this was so because COPA “ ‘effectively
+suppresses a large amount of speech that adults have a con-
+stitutional right to receive and to address to one another.’ ”
+Id., at 665 (quoting Reno, 521 U. S., at 874). We then fo-
+cused our analysis on whether the Government had shown
+that it was likely to satisfy its burden under strict scrutiny.
+542 U. S., at 666–670. We held that it had not, because the
+Government had not ruled out that it could protect children
+just as well through the less restrictive means of encourag-
+ing parents to install blocking and filtering software on
+their computers. Ibid. We also noted that age verification
+was “only an affirmative defense,” meaning that even
+speakers adopting an approved verification method might
+be forced to “risk the perils of trial.” Id., at 670–671; accord,
+id., at 674 (Stevens, J., concurring). And, we leaned heavily
+on the abuse-of-discretion standard, observing that “sub-
+stantial factual disputes remain[ed] in the case,” and that
+“the factual record does not reflect current technological re-
+ality” because it was “over five years” old. Id., at 671 (ma-
+jority opinion).
+    For the past two decades, Ashcroft II has been our last
+word on the government’s power to protect children from
+                  Cite as: 606 U. S. ____ (2025)            13
+
+                      Opinion of the Court
+
+sexually explicit content online. During this period, the
+“technology of the Internet” has continued to “evolv[e] at a
+rapid pace.” Ibid. With the rise of the smartphone and in-
+stant streaming, many adolescents can now access vast li-
+braries of video content—both benign and obscene—at al-
+most any time and place, with an ease that would have been
+unimaginable at the time of Reno and Ashcroft II.
+                             III
+   With that background in mind, we turn now to the level
+of scrutiny that applies to H. B. 1181. Petitioners contend
+that the law must survive strict scrutiny because it imposes
+a content-based regulation on protected speech. The State,
+on the other hand, argues that the statute is subject only to
+rational-basis review because it does not burden any pro-
+tected speech. We think neither party has it right. Apply-
+ing our precedents, we hold that intermediate scrutiny ap-
+plies.
+                              A
+  H. B. 1181 is an exercise of Texas’s traditional power to
+prevent minors from accessing speech that is obscene from
+their perspective. To the extent that it burdens adults’
+rights to access such speech, it has “only an incidental effect
+on protected speech,” making it subject to intermediate
+scrutiny. Boy Scouts of America v. Dale, 530 U. S. 640, 659
+(2000).
+                              1
+   Age-verification laws like H. B. 1181 fall within States’
+authority to shield children from sexually explicit content.
+The First Amendment leaves undisturbed States’ tradi-
+tional power to prevent minors from accessing speech that
+is obscene from their perspective. Ginsberg, 390 U. S., at
+641. That power necessarily includes the power to require
+proof of age before an individual can access such speech. It
+14        FREE SPEECH COALITION, INC. v. PAXTON
+
+                       Opinion of the Court
+
+follows that no person—adult or child—has a First Amend-
+ment right to access speech that is obscene to minors with-
+out first submitting proof of age.
+   The power to verify age is a necessary component of the
+power to prevent children’s access to content that is obscene
+from their perspective. “No axiom is more clearly estab-
+lished in law, or in reason, than that . . . wherever a general
+power to do a thing is given, every particular power neces-
+sary for doing it is included.” The Federalist No. 44, p. 285
+(C. Rossiter ed. 1961) (J. Madison); accord, T. Cooley, Con-
+stitutional Limitations 63 (1868); A. Scalia & B. Garner,
+Reading Law 192–193 (2012). Hence, where the Constitu-
+tion reserves a power to the States, it also reserves “the or-
+dinary and appropriate means” of exercising that power. 1
+J. Story, Commentaries on the Constitution of the United
+States §430, pp. 412–413 (1833). For example, in the
+Eighth Amendment context we have explained that, be-
+cause “capital punishment is constitutional, . . . ‘there must
+be a constitutional means of carrying it out.’ ” Glossip v.
+Gross, 576 U. S. 863, 869 (2015) (alteration omitted). Sim-
+ilarly, because the First Amendment permits States to pro-
+hibit minors from accessing speech that is obscene to them,
+it likewise permits States to employ the ordinary and ap-
+propriate means of enforcing such a prohibition. Requiring
+proof of age to access that speech is one such means.
+   Requiring age verification is common when a law draws
+lines based on age. For example, Texas, like many States,
+requires proof of age to obtain alcohol, Tex. Alco. Bev. Code
+Ann. §106.03(b) (2020); tobacco, Tex. Health & Safety Code
+Ann. §§161.082(d), (e) (Cum. Supp. 2024); a lottery ticket;5
+a tattoo, 25 Tex. Admin. Code §§229.406(a), (b) (2024); a
+body piercing, ibid.; fireworks, Tex. Occ. Code Ann.
+§2154.252(c) (2019); and a driver’s license, Tex. Transp.
+——————
+  5 See Tex. Lottery Comm’n, News Release, Texas Lottery Adds Age
+
+Verification to Self-Service Vending Machines (Jan. 7, 2025).
+                      Cite as: 606 U. S. ____ (2025)                      15
+
+                           Opinion of the Court
+
+Code Ann. §521.142(a) (2018). Federal law similarly man-
+dates age verification to obtain certain medications from a
+pharmacist, 21 CFR §§1306.26(c), (d) (2024), or to obtain
+employment as a minor, 29 CFR §570.5 (2024). Fundamen-
+tal rights that turn on age are no different. Texas, again
+like many States, requires proof of age to obtain a handgun
+license, Tex. Govt. Code Ann. §411.174(a)(3) (2019); to reg-
+ister to vote, Tex. Elec. Code Ann. §§13.002(c)(2), (8) (2020);
+and to marry, Tex. Fam. Code §2.005(a) (Cum. Supp. 2024).
+In none of these contexts is the constitutionality of a rea-
+sonable, bona fide age-verification requirement disputed.
+See New York State Rifle & Pistol Assn., Inc. v. Bruen, 597
+U. S. 1, 38–39, n. 9 (2022); Crawford v. Marion County Elec-
+tion Bd., 553 U. S. 181, 202–203 (2008) (opinion of Stevens,
+J.); Zablocki v. Redhail, 434 U. S. 374, 386–387 (1978).
+   Obscenity is no exception to the widespread practice of
+requiring proof of age to exercise age-restricted rights. The
+New York statute upheld in Ginsberg required age verifica-
+tion: It permitted a seller who sold sexual material to a mi-
+nor to raise “ ‘honest mistake’ ” as to age as an affirmative
+defense, but only if the seller had made “ ‘a reasonable bona
+fide attempt to ascertain the true age of [the] minor.’ ” 390
+U. S., at 644. Most States to this day also require age veri-
+fication for in-person purchases of sexual material.6 And,
+——————
+   6 See, e.g., Ala. Code §§13A–12–200.5(1), 13A–12–200.5(3)(a) (2015);
+
+Ariz. Rev. Stat. Ann. §§13–3501(3)(b), 13–3506(A) (2018); Ark. Code Ann.
+§§5–68–501(3)(B), 5–68–502(a)(2) (2024); Cal. Penal Code Ann. §313.1(a)
+(West 2024); Colo. Rev. Stat. §§18–7–501(3)(b), 18–7–502(1) (2024);
+Conn. Gen. Stat. § 53a–196 (2025); Del. Code Ann., Tit. 11, §§1365(a)(2),
+(i)(1) (2015); D. C. Code §§22–2201(b)(1)(A), (b)(2)(F)(ii) (2001–2024); Fla.
+Stat. §§847.012(1)(b), (3) (2023); Ga. Code Ann. §§16–12–102(2)(B), 16–
+12–103(a) (2024); Idaho Code Ann. §§18–1514(10), 18–1515(1) (2016); Ill.
+Comp. Stat., ch. 720, §§5/11–21(b), (c)(1) (West 2023); Ind. Code §§35–
+49–3–3(a)(1), 35–49–3–4(a)(3) (2024); Iowa Code §§728.2, 728.10 (2023);
+Kan. Stat. Ann. §§21–6401(b), (h)(1) (2023); La. Rev. Stat. Ann.
+§§14:91.11(A)(1), (D) (West 2018); Minn. Stat. Ann. §§617.292, subd. 8(2),
+617.293, subd. 1 (West 2018); Mont. Code Ann. §§45–8–206(1), (2)(a)
+16          FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+petitioners concede that an in-person age verification re-
+quirement is a “traditional sort of law” that is “almost
+surely” constitutional. Tr. of Oral Arg. 17.
+   The facts of Ginsberg illustrate why age verification, as a
+practical matter, is necessary for an effective prohibition on
+minors accessing age-inappropriate sexual content. The
+statute in that case prohibited the knowing sale of sexual
+content to a minor under the age of 17. 390 U. S., at 633.
+The defendant was convicted of knowingly selling a porno-
+graphic magazine to a 16-year-old. Id., at 631. But, most
+of the time, it is almost impossible to distinguish a 16-year-
+old from a 17-year-old by sight alone. Thus, had the seller
+in Ginsberg not had an obligation to verify the age of the
+purchaser, he likely could have avoided liability simply by
+asserting ignorance as to the purchaser’s age. Only an age-
+verification requirement can ensure compliance with an
+age-based restriction.
+   The need for age verification online is even greater. Un-
+like a store clerk, a website operator cannot look at its visi-
+tors and estimate their ages. Without a requirement to sub-
+mit proof of age, even clearly underage minors would be
+able to access sexual content undetected. “ ‘[T]he basic prin-
+ciples of freedom of speech . . . do not vary’ when a new and
+different medium for communication appears.” Brown v.
+Entertainment Merchants Assn., 564 U. S. 786, 790 (2011);
+——————
+(2023); Neb. Rev. Stat. §§28–808(1), 28–810(1) (2016); N. H. Rev. Stat.
+Ann. §§571–B:1(II)(b), 571–B:2(I) (2021); N. M. Stat. Ann. §§30–37–
+1(G)(2), 30–37–2 (Lexis Nexis 2014); N. Y. Penal Law Ann. §§235.21(1),
+235.23(2) (West 2024); N. C. Gen. Stat. Ann. §§14–190.15(a), 14–
+19.15(c)(3) (2023); Ohio Rev. Code Ann. §§2907.31(A)(1), (B)(3) (West
+2020); Okla. Stat., tit. 21, §§1040.75(13)(b), 1040.76(2) (2011); 18 Pa.
+Cons. Stat. §§5903(c), (e)(7)(ii) (Cum Supp. 2022); S. C. Code Ann. §§16–
+15–385(A), (C)(3) (2023); S. D. Codified Laws §§22–24–28, 22–24–31(1)
+(2017); Utah Code Ann. §76–10–1206(1)(a) (Lexis Nexis 2017); Vt. Stat.
+Ann., Tit. 13, §§2802a(a), 2805(b)(1) (2018); Va. Code Ann. §§18.2–
+390(7)(b), 18.2–391(A), (E) (2021); Wis. Stat. Ann. §948.11(2) (West
+2023).
+                      Cite as: 606 U. S. ____ (2025)                     17
+
+                           Opinion of the Court
+
+accord, Moody v. NetChoice, LLC, 603 U. S. 707, 733 (2024).
+Because proof of age performs the same critical function
+online that it does in person, requiring age verification re-
+mains an ordinary and appropriate means of shielding mi-
+nors in the digital age from material that is obscene to
+them.
+  H. B. 1181 imposes an age-verification requirement for
+online speech that is obscene to minors. The statute defines
+covered “ ‘[s]exual material harmful to minors’ ” as material
+that qualifies as obscene under the Miller test, as adjusted
+to the perspective of a minor. Tex. Civ. Prac. & Rem. Code
+Ann. §129B.001(6); see supra, at 2, 8. And, the statute does
+not ban adults from accessing this material; it simply re-
+quires them to verify their age before accessing it on a cov-
+ered website. §129B.002(a).7 H. B. 1181 thus falls within
+——————
+   7 The parties dispute whether H. B. 1181’s definition of “ ‘[s]exual ma-
+
+terial harmful to minors’ ” requires covered speech to be obscene to all
+minors (including 17-year-olds) or only to a minor (including a toddler).
+We need not resolve that question here. Whatever obscenity to minors
+can mean, the Texas Legislature plainly meant to tie H. B. 1181’s defini-
+tion to that category of speech. We also doubt that this dispute is as
+significant as it first may seem. Because the statute only covers explicit
+portrayals of nudity or sex acts that predominantly appeal to the prurient
+interest, it cannot conceivably be read to cover, say, a PG–13- or R-rated
+movie. We further question whether it is coherent to speak of the “ ‘pru-
+rient interest’ ” of a very young child with no concept of sexuality, so any
+reading of the statute may well call for assessing obscenity from the per-
+spective of an adolescent. See Ashcroft II, 542 U. S. 656, 679 (2004)
+(Breyer, J., dissenting).
+   The parties also dispute whether H. B. 1181 permits a covered website
+to require age verification for its sexual material harmful to minors but
+not for its other content. We need not resolve this disagreement either.
+Even if the statute requires covered websites to demand age verification
+for all their content, and even if such a requirement would be unconsti-
+tutional, petitioners still have not shown that H. B. 1181 is facially inva-
+lid. Under our precedents, a statute is facially invalid under the First
+Amendment only if its “unconstitutional applications” are “substantially
+disproportionate to the statute’s lawful sweep.” United States v. Hansen,
+599 U. S. 762, 770 (2023). Here, petitioners have not even attempted to
+18         FREE SPEECH COALITION, INC. v. PAXTON
+
+                        Opinion of the Court
+
+Texas’s traditional power to protect minors from speech
+that is obscene from their perspective.
+                               2
+  Because H. B. 1181 simply requires proof of age to access
+content that is obscene to minors, it does not directly regu-
+late the protected speech of adults. A law can regulate the
+content of protected speech, and thereby trigger strict scru-
+tiny, either “on its face” or in its justification. Reed, 576
+U. S., at 163–164 (internal quotation marks omitted). H. B.
+1181 does not regulate the content of protected speech in
+either sense. On its face, the statute regulates only speech
+that is obscene to minors. That speech is unprotected to the
+extent the State seeks only to verify age. And, the statute
+can easily “be justified without reference to the [protected]
+content of the regulated speech,” because its apparent pur-
+pose is simply to prevent minors, who have no First Amend-
+ment right to access speech that is obscene to them, from
+doing so. Id., at 164 (internal quotation marks omitted).
+  That is not to say, however, that H. B. 1181 escapes all
+First Amendment scrutiny. Adults have the right to access
+speech that is obscene only to minors. Butler, 352 U. S., at
+383–384. And, submitting to age verification is a burden on
+the exercise of that right. But, adults have no First Amend-
+ment right to avoid age verification, and the statute can
+readily be understood as an effort to restrict minors’ access.
+Any burden experienced by adults is therefore only inci-
+dental to the statute’s regulation of activity that is not pro-
+tected by the First Amendment. That fact makes interme-
+diate scrutiny the appropriate standard under our
+precedents. Dale, 530 U. S., at 659.
+  In this respect, H. B. 1181 is analogous to the prohibition
+against destroying draft cards that this Court upheld in
+
+——————
+show that the covered websites that would segregate their content if
+given the choice substantially outnumber those that would not.
+                  Cite as: 606 U. S. ____ (2025)            19
+
+                      Opinion of the Court
+
+United States v. O’Brien, 391 U. S. 367 (1968). The prohi-
+bition may have had the effect of making it unlawful to pro-
+test the draft by burning one’s draft card. See id., at 369.
+But, the “destruction” of a draft card is not itself “constitu-
+tionally protected activity,” because the card is a Govern-
+ment document that, among other functions, serves as proof
+of registration. Id., at 376, 378. The prohibition on destroy-
+ing draft cards thus placed only an incidental burden on
+First Amendment expression, making it subject to interme-
+diate scrutiny. Id., at 376–377. So too here, because ac-
+cessing material obscene to minors without verifying one’s
+age is not constitutionally protected, any burden H. B. 1181
+imposes on protected activity is only incidental, and the
+statute triggers only intermediate scrutiny.
+                              B
+  Applying the more demanding strict-scrutiny standard
+would call into question the validity of all age-verification
+requirements, even longstanding requirements for brick-
+and-mortar stores. But, as petitioners acknowledge, after
+Ginsberg, no serious question about the constitutionality of
+in-person age-verification requirements for obscenity to mi-
+nors has arisen. See Tr. of Oral Arg. 43 (acknowledging
+that they “don’t know of any . . . challenge being brought”
+to an age-verification requirement for “brick-and-mortar
+stores”). Petitioners insist that their proposed rule would
+not call into question these “traditional” requirements, be-
+cause such requirements would “almost surely satisfy”
+strict scrutiny. Id., at 17. They also contend that a suffi-
+ciently tailored online age-verification requirement (alt-
+hough not Texas’s) could satisfy strict scrutiny too. Id., at
+6–8. But, if we are not to compromise “ ‘[t]he “starch” in our
+constitutional standards,’ ” we cannot share petitioners’
+confidence. Ashcroft II, 542 U. S., at 670 (quoting United
+States v. Playboy Entertainment Group, Inc., 529 U. S. 803,
+830 (2000) (THOMAS, J., concurring)).
+20          FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+   Strict scrutiny—which requires a restriction to be the
+least restrictive means of achieving a compelling govern-
+mental interest—is “the most demanding test known to con-
+stitutional law.” City of Boerne v. Flores, 521 U. S. 507, 534
+(1997). In the First Amendment context, we have held only
+once that a law triggered but satisfied strict scrutiny—to
+uphold a federal statute that prohibited knowingly provid-
+ing material support to a foreign terrorist organization. See
+Holder v. Humanitarian Law Project, 561 U. S. 1, 27–39
+(2010). That case involved an unusual application of strict
+scrutiny, since our analysis relied on the “deference” due to
+the Executive’s “evaluation of the facts” in the context of
+“national security and foreign affairs.” Id., at 33–34.8
+   Strict scrutiny is unforgiving because it is the standard
+for reviewing the direct targeting of fully protected speech.
+Reed, 576 U. S., at 163. Strict scrutiny is designed to en-
+force “the fundamental principle that governments have no
+power to restrict expression because of its message, its
+ideas, its subject matter, or its content.” National Institute
+of Family and Life Advocates v. Becerra, 585 U. S. 755, 766
+(2018) (internal quotation marks omitted). It succeeds in
+that purpose if and only if, as a practical matter, it is fatal
+in fact absent truly extraordinary circumstances. Strict
+scrutiny therefore cannot apply to laws, such as in-person
+age-verification requirements, which are traditional, wide-
+spread, and not thought to raise a significant First Amend-
+ment issue.
+   Once again, we need look no further than Ginsberg.
+——————
+   8 In Williams-Yulee v. Florida Bar, 575 U. S. 433 (2015), a bare major-
+
+ity held that a ban on the personal solicitation of campaign donations by
+candidates for judicial office survived strict scrutiny. Id., at 444–456.
+But, only four Members of the majority thought that the statute trig-
+gered strict scrutiny to begin with. Id., at 442–444 (plurality opinion).
+The fifth Member, Justice Ginsburg, concluded that strict scrutiny did
+not apply and that States enjoy “substantial latitude . . . to enact
+campaign-finance rules geared to judicial elections.” Id., at 457–458
+(opinion concurring in part and concurring in judgment).
+                  Cite as: 606 U. S. ____ (2025)           21
+
+                      Opinion of the Court
+
+There, this Court observed that it “is very doubtful” that
+New York’s “legislative finding” about the harmful effects
+of the speech its statute restricted “expresses an accepted
+scientific fact.” 390 U. S., at 641. Nonetheless, because ob-
+scenity to minors is not fully protected speech, this Court
+readily upheld the statute. Id., at 641–643. Had the Court
+applied strict scrutiny, it could not have so easily cast that
+doubt aside. Cf. Brown, 564 U. S., at 799–800 (declining to
+defer to a legislature’s view of “competing psychological
+studies” when applying strict scrutiny to a law restricting
+minors from purchasing violent video games).
+  Petitioners would like to invalidate H. B. 1181 without
+upsetting traditional in-person age-verification require-
+ments and perhaps narrower online requirements. But,
+strict scrutiny is ill suited for such nuanced work. The only
+principled way to give due consideration to both the First
+Amendment and States’ legitimate interests in protecting
+minors is to employ a less exacting standard.
+                              C
+   We also reject petitioners’ contention that, regardless of
+first principles, our precedents require us to apply strict
+scrutiny to H. B. 1181. Every case that petitioners cite in-
+volved a law that banned both adults and minors from ac-
+cessing speech. But, this Court has never held that every
+content-based burden on adults’ access to speech that is ob-
+scene to minors always triggers strict scrutiny.
+                              1
+  Start with Butler, our earliest relevant precedent. There,
+this Court implicitly recognized that States may impose
+some burdens on adults in the course of protecting children
+from sexual material. The Court held that Michigan’s le-
+gitimate interest in “shield[ing] juvenile innocence” could
+not justify a categorical ban on distributing sexually
+themed books “ ‘tending to the corruption of the morals of
+22          FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+youth.’ ” 352 U. S., at 381, 383. In so holding, the Court
+admonished the State for overlooking its other statutes “de-
+signed to protect its children” that did not impose an out-
+right ban. Id., at 383. One of these laws was a prohibition
+on exhibiting sexual material “ ‘tending to the corruption of
+the morals of youth’ ” “ ‘in any . . . place within the view of
+children passing on any public street or highway.’ ” Ibid.,
+n. This law imposed a content-based restriction on where
+adults could view such material. Yet, the Court implicitly
+suggested that it was a permissible alternative to an out-
+right prohibition.
+  Similarly, Ginsberg upheld a law that required sellers to
+verify age if they wished to raise “honest mistake” of age as
+a defense. See 390 U. S., at 644; supra, at 15. In the wake
+of that decision, the constitutionality of laws like New
+York’s that impose in-person age-verification requirements
+has been taken as a given. See Tr. of Oral Arg. 43. And,
+although Ginsberg did not explicitly address the burden
+that age verification imposes on adults, in the almost six
+decades since it was decided, no one has thought to subject
+such requirements to strict scrutiny.
+  Petitioners invoke two pre-internet cases in which this
+Court applied strict scrutiny. In the first, the Court did so
+to invalidate “a blanket prohibition” on “dial-a-porn” phone
+messages that were “indecent but not obscene.” Sable Com-
+munications of Cal., Inc. v. FCC, 492 U. S. 115, 118, 126
+(1989). In the second, we did so to invalidate “a blanket
+ban” on broadcasting “indecent” but “not . . . obscene” cable
+television channels between the hours of 6 a.m. and 10 p.m.
+Playboy, 529 U. S., at 808, 811, 814.9 In contrast, H. B.
+——————
+    9 Playboy held that the statute at issue triggered strict scrutiny be-
+
+cause it banned “ ‘30 to 50% of all adult programming.’ ” 529 U. S., at
+812; see ibid. (“To prohibit this much speech is a significant restriction
+. . . ” (emphasis added)). Any discussion in that opinion of whether lesser
+burdens would also trigger strict scrutiny, see post, at 19–20 (KAGAN, J.,
+dissenting), was dicta. In any event, Playboy at a minimum cannot speak
+                     Cite as: 606 U. S. ____ (2025)                    23
+
+                          Opinion of the Court
+
+1181 is not a blanket prohibition. Adults remain free to ac-
+cess pornography on covered websites, so long as they verify
+their ages first. Neither Sable nor Playboy addresses the
+First Amendment consequences of that more modest bur-
+den.
+    Reno and Ashcroft II—our two decisions addressing at-
+tempts to restrict children’s access to pornography online—
+likewise provide no support for petitioners’ position that
+strict scrutiny applies. Reno applied strict scrutiny to the
+CDA because it operated as a ban on speech to adults. The
+CDA made it a crime for any person to post content that is
+“ ‘indecent’ ” or “ ‘patently offensive’ ” anywhere in “the en-
+tire universe of cyberspace” where the person knew a child
+would be among the recipients. 521 U. S., at 868, 876. And,
+although the CDA had an age-verification affirmative de-
+fense, that defense was illusory. In many cases, “existing
+technology did not include any effective method . . . to pre-
+vent minors from obtaining access . . . without also denying
+access to adults.” Id., at 876. The CDA thus triggered—
+and failed—strict scrutiny because it “effectively sup-
+presse[d] a large amount of speech that adults have a con-
+stitutional right to receive” and to share. Id., at 874 (em-
+phasis added).10 This kind of ban is categorically different
+——————
+to when burdens on obscenity to minors trigger strict scrutiny. Playboy
+addressed a statute restricting “ ‘indecent’ ” speech, 529 U. S., at 811,
+which is a broader category than obscenity to minors and so is entitled
+to greater First Amendment protection, see Reno v. American Civil Lib-
+erties Union, 521 U. S. 844, 877 (1997) (holding that indecent speech en-
+compasses “large amounts of nonpornographic material with serious ed-
+ucational or other value”). Thus, a burden on obscenity to minors may
+not trigger strict scrutiny even if a comparable burden on indecent
+speech would.
+  10 The dissent contends that Reno imposed a regulation “similar to
+
+Texas’s law,” not a ban. Post, at 19. But, at the same time, the dissent
+acknowledges that the statute at issue in Sable Communications of Cal.,
+Inc. v. FCC, 492 U. S. 115 (1989), was a ban. See ibid. And, Reno held
+that “the CDA effectively resembles the ban on ‘dial-a-porn’ invalidated
+in Sable.” 521 U. S., at 875. The dissent’s characterization of Reno is at
+24          FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+from H. B. 1181’s age-verification requirement.
+   Ashcroft II likewise characterized COPA as a ban. COPA
+criminally prohibited posting “content that is ‘harmful to
+minors’ ” online for “ ‘commercial purposes,’ ” subject to an
+age-verification affirmative defense. 542 U. S., at 661–662.
+We thus applied strict scrutiny, because, as in Reno, the
+statute “ ‘effectively suppresse[d] a large amount of speech
+that adults have a constitutional right to receive and to ad-
+dress to one another.’ ” 542 U. S., at 665 (quoting Reno, 521
+U. S., at 874). Because the parties agreed that strict scru-
+tiny applied, the Court’s discussion of the applicable stand-
+ard was brief. See 542 U. S., at 665. But, its wording was
+careful. The Government in Ashcroft II conceded that
+COPA triggered strict scrutiny because it “regulates ex-
+pression . . . that is constitutionally protected for adults . . .
+on the basis of its content.” Brief for Petitioner in Ashcroft
+v. American Civil Liberties Union, O. T. 2003, No. 03–218,
+p. 18. Petitioners make essentially that same argument
+here. Yet, the Court did not endorse this sweeping proposi-
+tion; instead, it invoked the narrower ground that COPA
+outright “ ‘suppresse[d]’ ” speech between adults. Ashcroft
+II, 542 U. S., at 665.
+   To be sure, COPA established an age-verification defense.
+Id., at 662. But, because it did so only as an affirmative
+defense, COPA still operated as a ban on the public posting
+of material that is obscene to minors. See id., at 661–662
+(citing 47 U. S. C. §§231(a)(1), (c)(1)). This was so because
+an indictment need only “alleg[e] the necessary elements of
+an offense”; it need not “anticipate affirmative defenses.”
+United States v. Sisson, 399 U. S. 267, 287–288 (1970). Un-
+der COPA, the Government thus remained free to bring
+criminal charges against any covered person who publicly
+posted speech that was obscene to minors, even if he had
+fully implemented compliant age-verification procedures.
+——————
+war with Reno’s description of itself.
+                   Cite as: 606 U. S. ____ (2025)             25
+
+                       Opinion of the Court
+
+See Ashcroft II, 542 U. S., at 670–671; id., at 674 (Stevens,
+J., concurring). The same is not true under H. B. 1181,
+which makes the lack of age verification an element that
+the State must plead and prove. Tex. Civ. Prac. & Rem.
+Code Ann. §129B.002(a).
+                                 2
+   Petitioners read Reno and Ashcroft II to establish a com-
+prehensive framework to govern all future attempts to re-
+strict children’s access to online pornography. As we have
+just explained, that view cannot be squared with those
+cases, which addressed only outright bans on material that
+was obscene to minors but not to adults. Petitioners also
+fail to appreciate the context in which those cases were de-
+cided. This Court decided both cases when the internet was
+“still more of a prototype than a finished product”—Reno in
+1997 and Ashcroft II in 2004, with factual findings made in
+1999. A. Kennedy, The Rough Guide to the Internet 493
+(8th ed. 2002) (Kennedy). We were mindful that “judicial
+answers” to “the totally new problems” presented by new
+technology are necessarily “truncated,” and that in such cir-
+cumstances “we ought not to anticipate” questions beyond
+those immediately presented. Northwest Airlines, Inc. v.
+Minnesota, 322 U. S. 292, 300 (1944); accord, TikTok Inc. v.
+Garland, 604 U. S. ___, ___–___ (2025) (per curiam) (slip
+op., at 1–2). We did not purport to decide more than the
+specific circumstances of the cases that were before us.
+   The Court in Reno was quite concerned about the unique
+threat that the CDA posed to the development of the then-
+nascent internet. Reno was this Court’s first decision about
+the internet. In describing the background of the case, we
+“felt the need to explain . . . that the ‘Internet is an interna-
+tional network of interconnected computers,’ ” NetChoice,
+603 U. S., at 713–714 (quoting Reno, 521 U. S., at 849), and
+we marveled that the internet had grown to 40 million us-
+ers worldwide, id., at 850. In resolving the case, the Court
+26        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      Opinion of the Court
+
+was keenly aware that the “wholly unprecedented”
+“breadth of the CDA’s coverage” “threaten[ed] to torch a
+large segment” of this emerging medium of communication.
+Id., at 877, 882. In these uncharted waters, the Court was
+cautious not to definitively establish when regulations on
+internet pornography triggered strict scrutiny.
+   Similarly, Ashcroft II was a self-consciously narrow and
+factbound decision. There, the Court reviewed a prelimi-
+nary injunction based on a record that was “over five years”
+old, all while the “technology of the Internet” continued to
+“evolv[e] at a rapid pace.” 542 U. S., at 671. As a result, we
+emphasized the abuse-of-discretion standard and made
+clear that we did not mean to rule definitively on COPA’s
+constitutionality. Id., at 673. Moreover, we could not have
+meant to offer a comprehensive discussion on the appropri-
+ate standard of scrutiny for laws protecting children from
+sexual content online, given that the appropriate standard
+was not even a contested issue in the case.
+   In the quarter century since the factual record closed in
+Ashcroft II, the internet has expanded exponentially. In
+1999, only two out of five American households had home
+internet access. Dept. of Commerce, Census Bureau, Home
+Computers and Internet Use in the United States: Aug.
+2000, p. 2 (2001). Nearly all those households used a desk-
+top computer or laptop to connect to the internet, and most
+used a dial-up connection. Dept. of Commerce, Economics
+and Statistics Admin., A Nation Online: Entering the
+Broadband Age 1, 5 (2004). Connecting through dial-up
+came with significant limitations: Dial-up is much slower
+than a modern broadband connection, and because dial-up
+relied on the home’s phone line, many households could not
+use the internet and make or receive phone calls at the
+same time. See Inline Connection Corp. v. AOL Time
+Warner Inc., 302 F. Supp. 2d 307, 311 (Del. 2004). And,
+“video-on-demand” was largely just a notion that figures
+like “Bill Gates and Al Gore rhapsodize[d] about”; “most
+                  Cite as: 606 U. S. ____ (2025)           27
+
+                      Opinion of the Court
+
+Netizens would [have] be[en] happy with a system fast
+enough to view static photos without waiting an age.” Ken-
+nedy 493–494.
+  In contrast, in 2024, 95 percent of American teens had
+access to a smartphone, allowing many to access the inter-
+net at almost any time and place. M. Faverio & O. Sidoti,
+Pew Research Center, Teens, Social Media and Technology
+2024, p. 19. Ninety-three percent of teens reported using
+the internet several times per day, and watching videos is
+among their most common activities online. Id., at 4–5, 20.
+The content easily accessible to adolescents online includes
+massive libraries of pornographic videos. For instance, in
+2019, Pornhub, one of the websites involved in this case,
+published 1.36 million hours—or over 150 years—of new
+content. App. 177. Many of these readily accessible videos
+portray men raping and physically assaulting women—a
+far cry from the still images that made up the bulk of online
+pornography in the 1990s. See N. Kristof, The Children of
+Pornhub, N. Y. Times, Dec. 6, 2020, p. SR4. The Court in
+Reno and Ashcroft II could not have conceived of these de-
+velopments, much less conclusively resolve how States
+could address them.
+  Of course, Reno and Ashcroft II do not cease to be prece-
+dential simply because technology has changed so dramat-
+ically. See NetChoice, 603 U. S., at 733–734. “But respect
+for past judgments also means respecting their limits.”
+Brown v. Davenport, 596 U. S. 118, 141 (2022). It is mis-
+leading in the extreme to assume that Reno and Ashcroft II
+spoke to the circumstances of this case simply because they
+both dealt with “the internet” as it existed in the 1990s. The
+appropriate standard of scrutiny to apply in this case is a
+difficult question that no prior decision of this Court has
+squarely addressed. For the reasons we have explained, we
+hold today that H. B. 1181 triggers only intermediate scru-
+tiny.
+28         FREE SPEECH COALITION, INC. v. PAXTON
+
+                        Opinion of the Court
+
+                               D
+   The dissent’s arguments for strict scrutiny are no more
+persuasive than petitioners’. The dissent claims that strict
+scrutiny applies because H. B. 1181 is “a quintessential con-
+tent-based law.” Post, at 6 (opinion of KAGAN, J.). We agree
+that H. B. 1181 targets speech that is obscene for minors
+based on its communicative content. But, where the speech
+in question is unprotected, States may impose “restrictions”
+based on “content” without triggering strict scrutiny. Ste-
+vens, 559 U. S., at 468 (internal quotation marks omitted).
+Because speech that is obscene to minors is unprotected to
+the extent that the State imposes only an age-verification
+requirement, H. B. 1181’s content-based restriction does
+not require strict scrutiny. The law is content based in the
+same way that prohibitions of “defamation,” “fraud,” and
+“incitement” are. Ibid.
+   The dissent’s attempt to distinguish O’Brien and its prog-
+eny fails for the same reason. See post, at 16–19. The dis-
+sent protests that H. B. 1181 cannot trigger intermediate
+scrutiny under O’Brien because it is “a direct regulation of
+speech,” not “a regulation of conduct” that incidentally bur-
+dens “expressive activity.” Post, at 17. When speech has
+both protected and unprotected features, however, “the un-
+protected features of the [speech] are, despite their [com-
+municative] character, essentially a ‘nonspeech’ element”
+for purposes of the First Amendment. R. A. V. v. St. Paul,
+505 U. S. 377, 386 (1992). With that principle in hand,
+H. B. 1181 fits comfortably within the O’Brien framework:
+The law directly regulates unprotected activity (accessing
+material that is obscene to minors without submitting to age
+verification) while only incidentally burdening protected ac-
+tivity (ultimately accessing that material).11
+——————
+  11 The dissent complains that Sable, Playboy, Reno, and Ashcroft II
+
+never “proposed an analogy to O’Brien.” Post, at 18; United States v.
+Playboy Entertainment Group, Inc., 529 U. S. 803 (2000). That fact is
+                      Cite as: 606 U. S. ____ (2025)                       29
+
+                           Opinion of the Court
+
+  The dissent’s real point of disagreement is whether an
+age-verification requirement regulates the protected speech
+of adults. On this point, the dissent has nothing to offer
+aside from the bald assertion that our precedents have held
+as much. See post, at 5–10. But, our precedents have held
+no such thing. Because our previous decisions concerned
+only outright bans, see supra, at 22–25, this Court has
+never before considered whether lesser burdens aimed at
+distinguishing children from adults directly regulate any
+free speech right of adults.12
+  Instead, as we have explained, the First Amendment
+leaves undisturbed States’ power to impose age limits on
+speech that is obscene to minors. That power, according to
+both “common sense” and centuries of legal tradition, in-
+cludes the ordinary and appropriate means of exercising it.
+Scalia & Garner, Reading Law, at 192. And, an age-verifi-
+cation requirement is an ordinary and appropriate means
+of enforcing an age limit, as is evident both from all other
+contexts where the law draws lines based on age and from
+the long, widespread, and unchallenged practice of requir-
+ing age verification for in-person sales of material that is
+obscene to minors. Supra, at 14–17. Beyond misreading
+precedent, the dissent’s only other response to our reason-
+ing is to assert that age verification is not necessarily in-
+cluded in the power to draw an age-based line because “an
+age verification mandate burdens an adult’s First Amend-
+ment” rights. Post, at 13. That response simply assumes
+——————
+unsurprising. Because all four cases involved outright bans on speech
+that is at most obscene only to minors, see supra, at 22–25, the statutes
+at issue directly (and not merely incidentally) regulated adults’ protected
+speech.
+  12 The dissent is correct that, for fully protected speech, “the distinction
+
+between bans and burdens makes no difference to the level of scrutiny.”
+Post, at 20. But, when the First Amendment partially protects speech,
+such that the government may impose certain content-based restrictions
+on it but may not proscribe it outright, the distinction between a ban and
+lesser burdens is meaningful.
+30          FREE SPEECH COALITION, INC. v. PAXTON
+
+                         Opinion of the Court
+
+what the dissent sets out to prove.
+   The dissent expresses surprise that obscenity for minors
+is “only partially” protected speech for adults. Post, at 15
+(internal quotation marks omitted). But, it does not truly
+deny that this is the case. The defendant in Ginsberg, after
+all, was an adult vendor of pornography, not an underage
+purchaser. 390 U. S., at 631. It would be difficult, practi-
+cally speaking, for States to restrict children’s access to por-
+nography without regulating adult vendors. And, Ginsberg
+accordingly held that New York’s content-based restriction
+on the rights of adult vendors triggered only rational-basis
+review. Id., at 641. Thus, so long as the dissent accepts
+Ginsberg, it cannot deny that the question before us is
+which content-based regulations States may impose on
+adults without triggering strict scrutiny, not whether they
+may do so.
+   Finally, the dissent claims that we engage in “back-
+wards,” results-oriented reasoning because we are unwill-
+ing to adopt a position that would call into question the con-
+stitutionality of longstanding in-person age-verification
+requirements. Post, at 11–12. Not so. We appeal to these
+requirements because they embody a constitutional judg-
+ment—made by generations of legislators and by the Amer-
+ican people as a whole—that commands our respect. A de-
+cision “contrary to long and unchallenged practice . . .
+should be approached with great caution,” “no less than an
+explicit overruling” of a precedent. Payne v. Tennessee, 501
+U. S. 808, 835 (1991) (Scalia, J., concurring). It would be
+perverse if we showed less regard for in-person age-verifi-
+cation requirements simply because their legitimacy is so
+uncontroversial that the need for a judicial decision uphold-
+ing them has never arisen.13
+——————
+ 13 Even the dissent recognizes the force of this point to some extent,
+
+which is why it insists that in-person age-verification requirements
+would have “a real chance of surviving” under its approach. Post, at 12.
+But, the dissent has no way to make good on this assurance other than
+                     Cite as: 606 U. S. ____ (2025)                   31
+
+                          Opinion of the Court
+
+                               E
+  Texas, like the Fifth Circuit, contends that intermediate
+scrutiny is too demanding and that only rational-basis re-
+view applies. This position fails to account for the inci-
+dental burden that age verification necessarily has on an
+adult’s First Amendment right to access speech that is ob-
+scene only to minors. Rational basis is the appropriate
+standard for laws that do not implicate “fundamental con-
+stitutional rights” at all. Beach Communications, 508 U. S.,
+at 313. Intermediate scrutiny, which is deferential but not
+toothless, plays an important role in ensuring that legisla-
+tures do not use ostensibly legitimate purposes to disguise
+efforts to suppress fundamental rights.
+  Despite advocating for rational-basis review, Texas itself
+has acknowledged the need for more searching review. The
+State concedes, for instance, that it could not require as
+proof of age an “affidavit” from the individual’s “biological
+parent.” Tr. of Oral Arg. 107. That example is precisely the
+sort of manipulation of a legitimate kind of regulation that
+intermediate scrutiny can weed out but that rational-basis
+review cannot.
+  Texas argues that Ginsberg establishes that age-
+verification requirements receive only rational-basis re-
+view. But, although Ginsberg applied that standard to a
+statute with an age-verification requirement, the Court did
+not squarely address the incidental effect that the law had
+on adults’ First Amendment rights. See 390 U. S., at 637–
+643. Moreover, Ginsberg was decided before this Court first
+articulated the intermediate-scrutiny standard for inci-
+dental burdens on free speech. See O’Brien, 391 U. S., at
+376–377. In a two-tiered framework, where the only op-
+
+
+——————
+to say that strict scrutiny need not be a “horror show” for States—or, in
+other words, that the First Amendment is not really as great an obstacle
+to suppressing fully protected speech as it might seem. Post, at 11.
+32        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      Opinion of the Court
+
+tions were strict scrutiny and rational-basis review, the lat-
+ter was the better standard for an age-verification require-
+ment.
+                            IV
+  A statute survives intermediate scrutiny if it “advances
+important governmental interests unrelated to the sup-
+pression of free speech and does not burden substantially
+more speech than necessary to further those interests.”
+Turner II, 520 U. S., at 189. H. B. 1181 readily satisfies
+these requirements.
+                                A
+   H. B. 1181 undoubtedly advances an important govern-
+mental interest. Texas’s interest in shielding children from
+sexual content is important, even “compelling.” Reno, 521
+U. S., at 869; Sable, 492 U. S., at 126. H. B. 1181 furthers
+that interest by preventing minors from easily circumvent-
+ing a prohibition on their accessing sexual content.
+   H. B. 1181 is also sufficiently tailored to Texas’s interest.
+Under intermediate scrutiny, a regulation is adequately
+tailored so long as the government’s interest “would be
+achieved less effectively absent the regulation” and the reg-
+ulation “does not burden substantially more speech than is
+necessary to further that interest.” TikTok, 604 U. S., at
+___ (slip op., at 16) (internal quotation marks omitted). The
+regulation “need not be the least restrictive . . . means of ”
+serving the State’s interest. Ward v. Rock Against Racism,
+491 U. S. 781, 798 (1989). And, the regulation’s validity
+“ ‘does not turn on [our] agreement with the [legislature]
+concerning the most appropriate method for promoting sig-
+nificant government interests’ or the degree to which those
+interests should be promoted.” Id., at 800.
+   Under this standard, requiring age verification online
+is plainly a legitimate legislative choice. Since at least
+the days of Ginsberg, States have commonly used age-
+                  Cite as: 606 U. S. ____ (2025)             33
+
+                      Opinion of the Court
+
+verification requirements, in the case of in-person access to
+sexual materials, to reconcile their interest in protecting
+children with adults’ right to avail themselves of such ma-
+terials. This approach ensures that an age-based ban is not
+ineffectual, while at the same time allowing adults full ac-
+cess to the content in question after the modest burden of
+providing proof of age. H. B. 1181 simply adapts this tradi-
+tional approach to the digital age.
+   The specific verification methods that H. B. 1181 permits
+are also plainly legitimate. At present, H. B. 1181 allows
+for verification using government-issued identification or
+transactional data. Tex. Civ. Prac. & Rem. Code Ann.
+§129B.003(b)(2). Verification can take place on the covered
+website itself or through a third-party service.
+§129B.003(b). Other age-restricted services, such as online
+gambling, alcohol and tobacco sales, and car rentals, rely on
+the same methods. App. 188–190, 194, 198. And, much of
+the online pornography industry has used analogous meth-
+ods for decades. In Reno, this Court observed that age ver-
+ification through credit-card transactions “is not only tech-
+nologically available but actually is used by commercial
+providers of sexually explicit material,” who (unlike many
+of the noncommercial sites covered by the CDA) “ ‘would re-
+main relatively unaffected’ ” were such verification re-
+quired. 521 U. S., at 856, 863, 881. The District Court in
+Ashcroft II found that the users of tens of thousands of por-
+nographic websites verified their ages by submitting “a copy
+of a passport or driver’s license” to a third-party verification
+service. American Civil Liberties Union v. Reno, 31
+F. Supp. 2d 473, 490 (ED Pa. 1999) (findings 51–52). H. B.
+1181 simply requires established verification methods al-
+ready in use by pornographic sites and other industries.
+That choice is well within the State’s discretion under in-
+termediate scrutiny.
+34          FREE SPEECH COALITION, INC. v. PAXTON
+
+                          Opinion of the Court
+
+                               B
+   Petitioners’ counterarguments are unpersuasive. Peti-
+tioners contend that Texas could adopt less restrictive
+means of protecting children, such as encouraging parents
+to install content-filtering software on their children’s de-
+vices or requiring internet service providers to block adult
+content unless a household opts in to receiving it. But, even
+assuming these approaches are equally or more effective,
+under intermediate scrutiny a “regulation will not be inva-
+lid simply because a court concludes that the government’s
+interest could be adequately served by some less-speech-
+restrictive alternative.” Ward, 491 U. S., at 800. Texas’s
+interest in shielding children from sexual content “ ‘would
+be achieved less effectively absent’ ” H. B. 1181, and it can-
+not be said that “a substantial portion of the burden” that
+H. B. 1181 imposes fails “to advance [Texas’s] goals.” Id.,
+at 799. That is enough to show that the Texas Legislature
+adequately tailored H. B. 1181, regardless of whether some
+other approach might be superior.14
+   Petitioners further argue that H. B. 1181 is not appropri-
+ately tailored, because it does not require age verification
+on other sites, such as search engines and social-media web-
+sites, where children are likely to find sexually explicit
+content. But, under intermediate scrutiny, “ ‘the First
+Amendment imposes no freestanding underinclusiveness
+limitation,’ ” and Texas “ ‘need not address all aspects of a
+problem in one fell swoop.’ ” TikTok, 604 U. S., at ___ (slip
+
+——————
+   14 Petitioners contend that H. B. 1181 does not allow covered websites
+
+to use newer biometric methods of age verification, like face scans, that
+they claim are less likely to give rise to privacy concerns. Texas disa-
+grees, maintaining that H. B. 1181 does allow such methods. We need
+not resolve this disagreement because Texas is not required to adopt the
+least restrictive means of advancing its interests to pass intermediate
+scrutiny. Ward, 491 U. S., at 800. It is sufficient that verifying age by
+government identification and transactional data is a legitimate legisla-
+tive choice that does not impose excessive burdens on users.
+                  Cite as: 606 U. S. ____ (2025)            35
+
+                      Opinion of the Court
+
+op., at 15). Further, Texas has a reasonable basis for ex-
+cluding these sites from H. B. 1181’s coverage. The statute
+does not contain any special exception for social-media
+sites. See Tex. Civ. Prac. & Rem. Code Ann. §129B.002(a).
+Rather, such sites fall outside the statute to the extent that
+less than a third of their content is obscene to minors. And,
+it is reasonable for Texas to conclude that websites with a
+higher proportion of sexual content are more inappropriate
+for children to visit than those with a lower proportion. The
+statute, on the other hand, does explicitly exempt search
+engines. §129B.005(b). But, search engines do not exercise
+the same degree of control over the websites to which they
+link, so the State could reasonably conclude that it makes
+less sense to regulate them.
+   Petitioners next assert that privacy concerns and the
+unique stigma surrounding pornography will make age
+verification too chilling for adults. But, users only have to
+submit verification to the covered website itself or the third-
+party service with which the website contracts. See
+§129B.003(b). Both those entities have every incentive to
+assure users of their privacy. In any event, the use of por-
+nography has always been the subject of social stigma. This
+social reality has never been a reason to exempt the pornog-
+raphy industry from otherwise valid regulation. Cf. United
+States v. American Library Assn., Inc., 539 U. S. 194, 209
+(2003) (plurality opinion) (holding that the “risk of embar-
+rassment” involved in asking a librarian to unblock a web-
+site wrongly blocked as obscene did not impose a cognizable
+burden on a library patron’s access to speech). And, the
+decades-long history of some pornographic websites requir-
+ing age verification refutes any argument that the chill of
+verification is an insurmountable obstacle for users.
+                        *     *     *
+  H. B. 1181 simply requires adults to verify their age be-
+fore they can access speech that is obscene to children. It is
+36        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      Opinion of the Court
+
+therefore subject only to intermediate scrutiny, which it
+readily survives. The statute advances the State’s im-
+portant interest in shielding children from sexually explicit
+content. And, it is appropriately tailored because it permits
+users to verify their ages through the established methods
+of providing government-issued identification and sharing
+transactional data. The judgment of the Court of Appeals
+for the Fifth Circuit is affirmed.
+                                             It is so ordered.
+                  Cite as: 606 U. S. ____ (2025)            1
+
+                      KAGAN, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                          No. 23–1122
+                          _________________
+
+
+       FREE SPEECH COALITION, INC., ET AL.,
+      PETITIONERS v. KEN PAXTON, ATTORNEY
+               GENERAL OF TEXAS
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE FIFTH CIRCUIT
+                         [June 27, 2025]
+
+   JUSTICE KAGAN, with whom JUSTICE SOTOMAYOR and
+JUSTICE JACKSON join, dissenting.
+   No one doubts that the distribution of sexually explicit
+speech to children, of the sort involved here, can cause great
+harm. Or to say the same thing in legal terms, no one
+doubts that States have a compelling interest in shielding
+children from speech of that kind. What is more, children
+have no constitutional right to view it. The Texas statute
+before us (H. B. 1181) addresses speech understood in First
+Amendment law as “obscene for minors.” That label means
+the First Amendment does not protect the speech for mi-
+nors. The State can restrict their access without fear of col-
+liding with the Constitution.
+   The trouble comes in the last two sentences’ italics.
+Speech that is obscene for minors is often not so for adults.
+For them, the category of obscene—and therefore unpro-
+tected speech—is narrower. See ante, at 8–10. So adults
+have a constitutional right to view the very same speech
+that a State may prohibit for children. And it is a fact of
+life—and also of law—that adults and children do not live
+in hermetically sealed boxes. In preventing children from
+gaining access to “obscene for children” speech, States
+sometimes take measures impeding adults from viewing it
+too—even though, for adults, it is constitutionally protected
+2         FREE SPEECH COALITION, INC. v. PAXTON
+
+                     KAGAN, J., dissenting
+
+expression. What, then, to do?
+  Cases raising that question have reached this Court on
+no fewer than four prior occasions—and we have given the
+same answer, consistent with general free speech princi-
+ples, each and every time. Under those principles, we apply
+strict scrutiny, a highly rigorous but not fatal form of con-
+stitutional review, to laws regulating protected speech
+based on its content. See ante, at 6. And laws like H. B.
+1181 fit that description: They impede adults from viewing
+a class of speech protected for them (even though not for
+children) and defined by its content. So when we have con-
+fronted those laws before, we have always asked the strict-
+scrutiny question: Is the law the least restrictive means of
+achieving a compelling state interest? See ibid. There is
+no reason to change course.
+  A law like H. B. 1181 might well pass the strict-scrutiny
+test, hard as it usually is to do so. As just noted, everyone
+agrees that shielding children from exposure to the sexually
+explicit speech H. B. 1181 targets is a compelling state in-
+terest. And Texas might be right in arguing that it has no
+less restrictive way to achieve that goal: It is difficult, as
+everyone also agrees, to limit minors’ access to things ap-
+pearing on the internet. If H. B. 1181 is the best Texas can
+do—meaning, the means of achieving the State’s objective
+while restricting adults’ speech rights the least—then the
+statute should pass First Amendment review.
+  But what if Texas could do better—what if Texas could
+achieve its interest without so interfering with adults’ con-
+stitutionally protected rights in viewing the speech H. B.
+1181 covers? That is the ultimate question on which the
+Court and I disagree. The majority says that Texas may
+enforce its statute regardless, because only intermediate
+scrutiny applies and that test does not ask whether a State
+has adopted the least speech-restrictive means available. I
+disagree, based on conventional First Amendment rules
+and the way we have consistently applied them in this very
+                  Cite as: 606 U. S. ____ (2025)            3
+
+                      KAGAN, J., dissenting
+
+context. The State should be foreclosed from restricting
+adults’ access to protected speech if that is not in fact nec-
+essary.
+   The majority’s opinion concluding to the contrary is, to be
+frank, confused. The opinion, to start with, is at war with
+itself. Parts suggest that the First Amendment plays no
+role here—that because Texas’s law works through age ver-
+ification mandates, the First Amendment is beside the
+point. See ante, at 13–18. But even the majority eventually
+gives up that ghost. As, really, it must. H. B. 1181’s re-
+quirements interfere with—or, in First Amendment jargon,
+burden—the access adults have to protected speech: Some
+individuals will forgo that speech because of the need to
+identify themselves to a website (and maybe, from there, to
+the world) as a consumer of sexually explicit expression.
+But still, the majority proposes, that burden demands only
+intermediate scrutiny because it arises from an “incidental”
+restriction, given that Texas’s statute uses age verification
+to prevent minors from viewing the speech. See ante, at 13,
+18–19. Except that is wrong—nothing like what we have
+ever understood as an incidental restraint for First Amend-
+ment purposes. Texas’s law defines speech by content and
+tells people entitled to view that speech that they must in-
+cur a cost to do so. That is, under our First Amendment
+law, a direct (not incidental) regulation of speech based on
+its content—which demands strict scrutiny.
+   The majority’s attempt to distinguish our four precedents
+saying just that rounds out the list of its errors. According
+to the majority, all of those decisions involved prohibiting
+rather than merely burdening adults’ access to obscene-for-
+children speech. See ante, at 21. But that is not true. And
+in any event it would not matter: The First Amendment
+prevents making speech hard, as well as banning it out-
+right. So on all accounts the majority’s rationale craters.
+   The majority is not shy about why it has adopted these
+special-for-the-occasion, difficult-to-decipher rules.      It
+4         FREE SPEECH COALITION, INC. v. PAXTON
+
+                      KAGAN, J., dissenting
+
+thinks they are needed to get to what it considers the right
+result: giving Texas permission to enforce its statute. See
+ante, at 19–21. But Texas should not receive that permis-
+sion if it can achieve its goal as to minors while interfering
+less with the speech choices of adults. And if it cannot, then
+Texas’s statute would survive strict scrutiny, given the ob-
+vious importance of its goal. For that reason, the majority’s
+analysis is as unnecessary as it is unfaithful to the law.
+                              I
+   Under ordinary First Amendment doctrine, this Court
+should subject H. B. 1181 to strict scrutiny. That is because
+H. B. 1181 covers speech constitutionally protected for
+adults; impedes adults’ ability to view that speech; and im-
+poses that burden based on the speech’s content. Case
+closed. And making the right answer yet more obvious, we
+have said as much four times before, when reviewing stat-
+utes imposing similar content-based burdens on protected
+sexually explicit speech. So the case is closed even tighter:
+The standard should be strict scrutiny. The only open ques-
+tion here should be whether H. B. 1181 can satisfy that test.
+                               A
+   No one (not even Texas, not even the majority) disputes
+that H. B. 1181 covers a substantial amount of speech pro-
+tected by the First Amendment. We have, of course, often
+held that obscene speech, as defined in Miller v. California,
+413 U. S. 15 (1973), is not so protected. But H. B. 1181 does
+not use the ordinary Miller test (relating to prurience, of-
+fensiveness, and value) as the trigger for regulation. In-
+stead, it adapts each part of that test “for minors,” thus cov-
+ering speech that is “obscene from a child’s perspective.”
+Tex. Civ. Prac. & Rem. Code Ann. §129B.002(a) (West Cum.
+Supp. 2024); ante, at 9 (emphasis deleted). And that child-
+centric category of speech extends wider than the tradi-
+tional obscenity category. See ante, at 9–10. In the gap
+                  Cite as: 606 U. S. ____ (2025)             5
+
+                      KAGAN, J., dissenting
+
+between the two is much sexually explicit speech that
+adults have every right to view. For adults cannot be lim-
+ited to “only what is fit for children.” Butler v. Michigan,
+352 U. S. 380, 383 (1957). Their right to view “[s]exual ex-
+pression,” outside the traditional obscenity category, is
+“protected by the First Amendment.” Sable Communica-
+tions of Cal., Inc. v. FCC, 492 U. S. 115, 126 (1989).
+   And H. B. 1181 impedes the exercise of that right. Recall
+how the statute works. To enter a covered website—with
+all the protected speech just described—an individual must
+verify his age by using either a “government-issued identi-
+fication” like a driver’s license or “transactional data” asso-
+ciated with things like a job or mortgage. §§129B.001(7),
+129B.003(b)(2); see ante, at 2–3. For the would-be con-
+sumer of sexually explicit materials, that requirement is a
+deterrent: It imposes what our First Amendment decisions
+often call a “chilling effect.” E.g., Americans for Prosperity
+Foundation v. Bonta, 594 U. S. 595, 606 (2021). It is not,
+contra the majority, like having to flash ID to enter a club.
+See ante, at 14–15. It is turning over information about
+yourself and your viewing habits—respecting speech many
+find repulsive—to a website operator, and then to . . . who
+knows? The operator might sell the information; the oper-
+ator might be hacked or subpoenaed. We recognized the
+problem in a case involving sexual material on cable TV:
+Similar demands, we decided, would “restrict viewing by
+subscribers who fear for their reputations should the oper-
+ator, advertently or inadvertently, disclose the list of those
+who wish to watch the ‘patently offensive’ channel.” Denver
+Area Ed. Telecommunications Consortium, Inc. v. FCC, 518
+U. S. 727, 754 (1996). The internet context can only in-
+crease the fear. And the Texas law imposes costs not just
+on potential users, but on website operators too. They must
+either implement a system costing (the District Court
+found) at least $40,000 for every 100,000 verifications, or
+else pay penalties of $10,000 per day. See §129B.006(b);
+6         FREE SPEECH COALITION, INC. v. PAXTON
+
+                      KAGAN, J., dissenting
+
+Free Speech Coalition, Inc. v. Colmenero, 689 F. Supp. 3d
+373, 385–386 (WD Tex. 2023). Those expenses, Texas
+boasts, have already caused one major operator to exit the
+State’s market. See Brief for Respondent 21. So in multiple
+ways, H. B. 1181 burdens expression.
+   Finally, H. B. 1181 imposes those burdens on protected
+speech based on the speech’s “communicative content,”
+making it a quintessential content-based law. Reed v. Town
+of Gilbert, 576 U. S. 155, 163 (2015). A statute, we have
+often said, is content-based on its face when it “draws dis-
+tinctions” based on the “topic,” “subject matter,” “idea,” or
+“message expressed.” E.g., ibid. H. B. 1181 does just that.
+It applies when more than a third of the expression on a
+website is “sexual material” of a certain kind (prurient, of-
+fensive, and valueless for minors).            §§129B.001(6),
+129B.002(a). And whether expression qualifies as such ma-
+terial depends entirely on what it depicts. If the website
+has the requisite sexually explicit content, the regulation
+kicks in. Alternatively, if that content is absent (if, say, the
+website focuses on politics or sports), the regulation does
+not. “That is about as content-based as it gets.” Barr v.
+American Assn. of Political Consultants, Inc., 591 U. S. 610,
+619 (2020) (plurality opinion). Not even the majority dis-
+putes the point. See ante, at 28.
+   All of that leads, under well-settled law, to just one con-
+clusion: H. B. 1181 is subject to strict scrutiny. Take a law
+burdening protected speech based on its content—as H. B.
+1181 does for every adult—and the standard of review fol-
+lows in its wake. See Turner Broadcasting System, Inc. v.
+FCC, 512 U. S. 622, 642 (1994) (We “apply the most exact-
+ing scrutiny to regulations that suppress, disadvantage, or
+impose differential burdens upon speech because of its con-
+tent”). It does not matter whether we are persuaded in a
+given case that the State, in passing the regulation, had
+laudable, even compelling aims. See Reed, 576 U. S., at 166
+(A good “justification cannot transform a facially content-
+                  Cite as: 606 U. S. ____ (2025)            7
+
+                      KAGAN, J., dissenting
+
+based law into” the opposite). Those interests are consid-
+ered only in applying strict scrutiny, not in deciding
+whether that is the right standard to be applied. Over the
+years, we have recited the governing rule almost like a
+mantra: If a law burdens protected speech based on what
+that speech says or depicts—as H. B. 1181 does—the law
+has to clear the strict-scrutiny bar.
+                              B
+   What is more, our precedents have applied that rule in
+four cases similar to this one—when a statute has limited
+adults’ access to sexually explicit materials in order to pre-
+vent those materials from getting to minors. The laws at
+issue pertained to diverse media—the telephone, cable, and
+(twice, as here) the internet. But the analysis about the
+level of scrutiny was in each case the same. To show the
+Court’s (previous) consistency—and its relevance today—it
+is worth reviewing them one by one by one by one.
+   In Sable Communications v. FCC, the Court considered a
+statute directed at dial-a-porn services that prohibited sex-
+ually “indecent” telephone messages, extending beyond
+those obscene for adults under Miller. 492 U. S., at 122–
+123. The Government defended the law as an effort to pro-
+tect children from exposure to the speech. See id., at 128.
+We recognized that interest as compelling. See id., at 126.
+But we also understood that adults had a “protected” First
+Amendment right to listen to the non-obscene indecent
+speech that the law covered. Ibid. And so the Court applied
+strict scrutiny—thus requiring the Government to show
+that the statute did not “unnecessarily interfer[e] with
+[adults’] First Amendment freedoms.” Ibid.
+   Then, in Reno v. American Civil Liberties Union, 521
+U. S. 844, 859–861 (1997), the Court addressed a statute
+barring internet transmissions of obscene, indecent, or “pa-
+tently offensive” messages to those under 18, with an af-
+firmative defense available to anyone making use of age
+8         FREE SPEECH COALITION, INC. v. PAXTON
+
+                     KAGAN, J., dissenting
+
+verification measures. Although the statute encompassed
+only communications to minors and excused from penalties
+those using a “reasonable” method to verify age, the Court
+recognized the “burden” that the statute would impose “on
+adult speech.” Id., at 860, 874. Because of that “inter-
+fere[nce] with adult-to-adult communication”—and despite
+the significance of the Government interest “in protecting
+children”—the Court again insisted on applying strict scru-
+tiny. Id., at 875–876. So once more the key issue was
+whether “less restrictive alternatives would be at least as
+effective in achieving” the Government’s goals. Id., at 874.
+  Next, in United States v. Playboy Entertainment Group,
+Inc., 529 U. S. 803, 806 (2000), the Court evaluated a law
+requiring that “sexually-oriented” cable channels “limit
+their transmission to hours when children are unlikely to
+be viewing.” “[W]hat standard [must] the Government”
+meet, the Court asked, for the law to survive? Id., at 814.
+We did not think the question close. “As we consider a con-
+tent-based regulation” of “protected speech,” we said, “the
+answer should be clear: The standard is strict scrutiny.”
+Ibid.; see id., at 812–813. So “if a less restrictive means”
+would serve the Government’s goals, “the Government
+must use it.” Id., at 815. Otherwise, the Court explained,
+the Government could, contrary to the First Amendment,
+“restrict speech without an adequate justification.” Id., at
+813.
+  And the denouement: The statute the Court addressed in
+Ashcroft v. American Civil Liberties Union, 542 U. S. 656
+(2004), was a near-twin of Texas’s. The Child Online Pro-
+tection Act (COPA) prohibited commercial entities from
+posting on the internet content “harmful to minors.” Id., at
+661 (quoting 47 U. S. C. §231(a)(1)). And just like H. B.
+1181, that statute defined the covered material by adapting
+the Miller obscenity test for children—thus creating a cate-
+gory of obscene-for-children speech. See 542 U. S., at 661–
+662; supra, at 4. So too, COPA made the adoption of an age
+                     Cite as: 606 U. S. ____ (2025)                     9
+
+                          KAGAN, J., dissenting
+
+verification system crucial. It did so by providing an affirm-
+ative defense to any entity that verified age through an
+“adult personal identification number” or similar mecha-
+nism before granting access to the posted materials. Ash-
+croft, 542 U. S., at 662. So, as in H. B. 1181, if the poster
+verified age, no liability could attach. How, then, to analyze
+such a statute? The Court viewed the problem as it had in
+prior cases: COPA, though directed at keeping sexually ex-
+plicit materials from children, “was likely to burden some
+speech that is protected for adults.” Id., at 665. And be-
+cause of that “content-based restriction[ ],” the Court
+needed to apply strict scrutiny. Id., at 660, 665, 670. The
+Government thus had to show that “the proposed alterna-
+tives will not be as effective as the challenged statute.” Id.,
+at 665. In short, Ashcroft adhered to the view that “ ‘the
+governmental interest in protecting children from harmful
+materials’ does not ‘justify an unnecessarily broad suppres-
+sion of speech addressed to adults.’ ” Lorillard Tobacco Co.
+v. Reilly, 533 U. S. 525, 581 (2001) (THOMAS, J., concurring
+in part and concurring in judgment) (quoting Reno, 521
+U. S., at 875).1
+   Four times, one result. Which is not surprising, because
+
+——————
+   1 The majority does—and then does not—accept this simple fact. It
+
+first acknowledges that Ashcroft decided “COPA was subject to strict
+scrutiny.” Ante, at 12. But later, it tries to take part of its concession
+back. The Ashcroft Court, it says, could not have “comprehensive[ly]”
+addressed the “appropriate standard of scrutiny for laws protecting chil-
+dren from sexual content online, given that the appropriate standard was
+not even a contested issue in the case.” Ante, at 26. The second half of
+that sentence is right, but it does not support the first. Having argued
+in Sable, Reno, and Playboy for a less rigorous standard of review—and
+been rebuffed each time—the Government in Ashcroft finally gave up.
+Or otherwise said, it recognized reality. See Tr. of Oral Arg. 64. Three
+times before, the Court had said something like, “[T]he answer should be
+clear: The standard is strict scrutiny.” United States v. Playboy Enter-
+tainment Group, Inc., 529 U. S. 803, 814 (2000). The Court did so again,
+and just as firmly, in Ashcroft.
+10        FREE SPEECH COALITION, INC. v. PAXTON
+
+                     KAGAN, J., dissenting
+
+it is the result that basic First Amendment principles com-
+mand. A statute tries to cut off children’s access to sexually
+explicit speech, in line with the most worthy objectives. But
+the statute as well impedes adults’ access to that speech,
+which the First Amendment protects. And the statute does
+so by drawing content-based lines: Sexually explicit speech
+is burdened, other speech is not. It follows, as the night the
+day, that strict scrutiny applies—that the statute, in addi-
+tion to serving a compelling purpose, can restrict only as
+much adult speech as is needed to achieve the State’s goal.
+That is true in the four cases above, and it is true in this
+case too.
+                               C
+   Applying strict scrutiny in this context, however, need
+not be a death sentence. To the contrary, a State exercising
+care should be able to devise a regulatory means of achiev-
+ing its objective consistent with the First Amendment.
+   The first part of the strict-scrutiny test is here easy to
+meet. The majority is right that a State has a compelling
+interest in shielding children from the obscene-for-children
+materials that H. B. 1181 covers. See ante, at 32. This
+Court has said as much before. See Sable, 492 U. S., at 126
+(recognizing a “compelling interest in protecting the physi-
+cal and psychological well-being of minors,” which “extends
+to shielding” them from materials “not obscene by adult
+standards”); Denver Area, 518 U. S., at 743 (plurality opin-
+ion) (noting that the interest in “protect[ing] children from
+exposure to patently offensive sex-related material” is “one
+that this Court has often found compelling”). And a State
+is entitled to think that the need has become only more ur-
+gent over the years, given the time children now spend
+online and the materials they can find there. See ante, at
+27.
+   The critical question, then, is whether the State can show
+that it has limited no more adult speech than is necessary
+                  Cite as: 606 U. S. ____ (2025)           11
+
+                      KAGAN, J., dissenting
+
+to achieve its goal. Or said another way (in fact, Ashcroft’s
+way), whether the State can show that “the proposed alter-
+natives will not be as effective as the challenged statute.”
+542 U. S., at 665. If the State cannot, the statute should
+not take effect, because it would limit protected speech un-
+necessarily. There would be every reason to make the State
+switch to a less-speech-restrictive, equally-or-more-effec-
+tive regulatory mechanism. But a State that has closely
+attended to the speech consequences of its regulation might
+well make the required showing in this sphere. Given how
+the internet works, no court should expect that a law effec-
+tively shielding children from sexually explicit expression
+could leave adults wholly unaffected. To the contrary, such
+a law will almost necessarily impose corollary burdens.
+And Texas may be right that the commonly proposed alter-
+natives to laws like H. B. 1181—such as content filtering
+technology—cannot equal, or even approach, age verifica-
+tion systems in effectiveness. See Brief for Respondent 37–
+38. In that event, those alternatives will be irrelevant to
+the inquiry, and a court will explore only whether another,
+equally effective age verification mechanism will place a
+lesser burden on protected speech. Review of that kind
+should not be the horror show for Texas and other States
+that the majority maintains. See ante, at 19–21. It is just
+what they should have to pass before implementing a con-
+tent-based burden on protected expression.
+                              II
+   How does the majority reach a different result?
+   The analytic path of today’s opinion is winding, but I take
+the majority to begin with a conviction about where it must
+not end—with strict scrutiny. The majority is not so coy
+about this backwards reasoning. To the contrary, it defends
+it. See ante, at 30. The “legitimacy” of age verification
+schemes for sexually explicit speech, the majority tells us,
+is “uncontroversial” (despite Reno and Ashcroft). Ante, at
+12        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      KAGAN, J., dissenting
+
+30. And “[a]pplying the more demanding strict-scrutiny
+standard would call” those schemes “into question.” Ante,
+at 19. Ergo, its conclusion. I have just explained why the
+majority’s fear is overblown—why in fact carefully drawn
+age verification laws stand a real chance of surviving strict
+scrutiny. But suppose I am wrong. Suppose there are both
+less speech-restrictive and equally effective ways to accom-
+plish the State’s goal of protecting children from sexually
+explicit materials. In that event, strict scrutiny tells us, the
+State should use those constitutionally superior alterna-
+tives. And why argue with that? The usual way constitu-
+tional review works is to figure out the right standard (here,
+strict scrutiny because H. B. 1181 is content-based), and let
+that standard work to a conclusion. It is not to assume the
+conclusion (approve H. B. 1181 and similar age verification
+laws) and pick the standard sure to arrive there. But that
+is what the majority does. To answer what standard of
+scrutiny applies, the majority first spends four pages laud-
+ing age verification schemes as “common,” “traditional,”
+“appropriate,” and “necessary.” Ante, at 13–18. In other
+words, all over the place, and a good thing too. No wonder
+the majority doesn’t land on strict scrutiny.
+   The more puzzling question is how the majority’s reason-
+ing fits with the idea that the First Amendment plays any
+role at all. For quite some time in today’s opinion, speech
+rights are pushed to the sidelines, or entirely off the field.
+Age verification schemes are just age verification
+schemes—again, “common,” “traditional,” “appropriate,”
+and “necessary.” Ibid. States use them to regulate pur-
+chases of liquor and lottery tickets and fireworks. And so,
+the majority says, States can also use them to regulate ac-
+cess to speech that is obscene for children. The power to
+prevent minors from gaining access to that speech “neces-
+sarily includes” the power to require proof of age. Ante, at
+13. And that means, the majority concludes, that “access-
+ing material obscene to minors without verifying one’s age
+                  Cite as: 606 U. S. ____ (2025)           13
+
+                      KAGAN, J., dissenting
+
+is not constitutionally protected,” even for adults. Ante, at
+19 (emphasis deleted). It would seem the analysis is com-
+plete. If the First Amendment does not protect adults in
+viewing obscene-for-children materials unimpeded by age
+verification, as the majority argues, then how could there
+be any constitutional objection to age verification laws like
+H. B. 1181? Or said otherwise, why would those laws have
+to satisfy any heightened constitutional standard, whether
+strict or intermediate? We have apparently arrived at a
+place where States can act free of all constitutional scru-
+tiny.
+   But that cannot be, for reasons that by now should sound
+familiar. As discussed earlier, speech that is obscene for
+children is often not obscene for adults. See supra, at 4–5.
+When that is so, the First Amendment protects adults’ ac-
+cess to obscene-for-children speech (unlike to liquor, lottery
+tickets, or fireworks). Or otherwise said, the First Amend-
+ment gives them a right in that expression. And because of
+that protected right, different rules apply. Without a spe-
+cial justification, a State cannot prohibit, tax, impede, or
+otherwise burden an adult’s access to obscene-for-children
+speech. And an age verification requirement is a kind of
+burden. It may be smaller or larger—compare flashing ID
+in a store with (in the majority’s own example) having to
+produce “an affidavit from [a] biological parent.” Ante, at
+31. It may be a simple inconvenience or it may, as sug-
+gested earlier, prevent individuals from exercising the
+right. See supra, at 5–6. And those differences may well
+matter to the conclusion when a court gets around to apply-
+ing the appropriate constitutional standard. But regard-
+less, an age verification mandate burdens an adult’s First
+Amendment protected right in viewing obscene-for-children
+expression. So a State’s power to prohibit that speech for
+minors does not “necessarily include[ ],” as the majority con-
+tends, the power to mandate age verification. Ante, at 13.
+It might or might not, depending on whether the mandate
+14          FREE SPEECH COALITION, INC. v. PAXTON
+
+                         KAGAN, J., dissenting
+
+satisfies the constitutional scrutiny that its burden on pro-
+tected speech requires.
+   And in the end, the majority has to accept some version
+of that argument. For page upon page, the majority ex-
+plains that the First Amendment has nothing to say about
+age verification schemes attached to obscene-for-children
+speech. See ante, at 13–18. Again, that speech may as well
+be liquor, lottery tickets, or fireworks, for all it matters to
+the “States’ authority.” Ante, at 13. And then, in the space
+of one brief paragraph, the idea falls apart. Yes, the major-
+ity at last concedes, “[a]dults have the right to access speech
+that is obscene only to minors.” Ante, at 18. And yes, the
+majority admits, “submitting to age verification is a burden
+on the exercise of that right.” Ibid. So sure, the majority
+acknowledges, a really onerous age verification scheme—
+like its parental affidavit requirement—would flunk consti-
+tutional review. See ante, at 31. And so too, the majority
+says, even the least onerous mandate, like the one in Gins-
+berg v. New York, 390 U. S. 629, 633, 643–644 (1968), to
+show ID in a store, has to satisfy some form of heightened
+constitutional scrutiny. See ante, at 22, 31–32.2 There is
+no getting around the fact: Obscene-for-children speech is
+constitutionally protected speech for adults. See ante, at
+18. And age verification schemes “burden[ing]” adults’
+“right[s] to access [that] speech” are in fact not the kind of
+everyday, “appropriate,” and “necessary” regulation courts
+can wave on by. Ante, at 13–18. The Constitution, contrary
+to what the majority at first assured us, is now very much
+
+——————
+   2 The majority acknowledges that Ginsberg itself never addressed
+
+whether, or what kind of, constitutional scrutiny is appropriate for age
+verification laws applying to speech. See ante, at 22, 31–32. The many
+cites to Ginsberg in the majority opinion function mainly as atmosphere,
+to remind the reader that age verification mandates may impose only a
+trivial burden on speech rights. See ante, at 15–16, 19–22, 30. Which of
+course is true—just as it is true that they may impose a significant one.
+See ante, at 31; supra, at 5–6.
+                  Cite as: 606 U. S. ____ (2025)           15
+
+                      KAGAN, J., dissenting
+
+in the picture.
+   At that point, one might think, the right approach—as
+the Court once said—“should be clear: The standard is strict
+scrutiny.” Playboy, 529 U. S., at 814. Forgive a brief recap.
+H. B. 1181 regulates the communicative content of web-
+sites, imposing an age verification mandate on those exhib-
+iting a specified amount of sexually explicit speech that,
+while obscene for children, is protected for adults. So the
+law directly burdens adults’ right to view speech based on
+its sexual content. As the Court four times before found,
+that means strict scrutiny applies—even though the State
+is attempting to prevent the speech from reaching minors.
+See supra, at 4–10.
+   The majority tries to escape that conclusion with a ma-
+neuver found nowhere in the world of First Amendment
+doctrine. It turns out, the majority says, that the First
+Amendment only “partially protects” the speech in ques-
+tion: The “speech is unprotected to the extent the State
+seeks only to verify age.” Ante, at 18, 29, n. 12 (emphasis
+deleted); see ante, at 28 (the speech is “unprotected to the
+extent that the State imposes only an age-verification re-
+quirement”). Meaning, the speech is unprotected to the ex-
+tent that the State is imposing the very burden under re-
+view. Or said another way, the right of adults to view the
+speech has the burden of age verification built right in.
+That is convenient, if altogether circular. In the end, the
+majority’s analysis reduces to this: Requiring age verifica-
+tion does not directly burden adults’ speech rights because
+adults have no right to be free from the burden of age veri-
+fication. Gerrymander the right to incorporate the burden,
+and the critical conclusion follows. If only other First
+Amendment cases were so easy!
+   Still, the majority must make one more move to square
+the circle of all it has said. Recall that notwithstanding the
+above, the majority has conceded that “[a]dults have the
+16        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      KAGAN, J., dissenting
+
+right to access” obscene-for-children speech and age verifi-
+cation schemes are “a burden on the exercise of that right.”
+Ante, at 18; see supra, at 14–15. To account for that conces-
+sion in its analysis—and yet avoid strict scrutiny, as it
+wishes—the majority relies on a well-known distinction in
+First Amendment law between direct and incidental re-
+strictions on speech. See (sorry) E. Kagan, Private Speech,
+Public Purpose: The Role of Governmental Motive in First
+Amendment Doctrine, 63 U. Chi. L. Rev. 413, 491–505
+(1996). Says the majority: The “burden experienced by
+adults” as a result of H. B. 1181 is “only incidental to the
+statute’s regulation of activity that is not protected by the
+First Amendment.” Ante, at 18. Or more fully (prepare for
+a mouthful): “The law directly regulates unprotected activ-
+ity (accessing material that is obscene to minors without
+submitting to age verification) while only incidentally bur-
+dening protected activity (ultimately accessing that mate-
+rial).” Ante, at 28 (emphasis in original). And because the
+burden imposed on adults’ right to access the materials is
+only incidental, the majority concludes, only intermediate
+scrutiny need apply. To back up that view, the majority
+relies (exclusively) on United States v. O’Brien, 391 U. S.
+367 (1968). See ante, at 18–19, 28.
+   O’Brien actually seems a good place to start in explaining
+why H. B. 1181 is not an incidental restriction under our
+law. In that case, a war protester who burned his draft card
+was charged with violating a statute that made it a crime
+for anyone to “knowingly destroy[ ],” “mutilate[ ],” or
+“change[ ]” draft registration documents. 391 U. S., at 370
+(emphasis deleted). The Court assumed that O’Brien him-
+self had engaged in expressive conduct: By burning his
+draft card on the steps of a government building, he was
+communicating opposition to the Vietnam War. See id., at
+369–370, 376. But the law O’Brien broke was not about
+speech; it was about conduct. That law, the Court ex-
+plained, prohibited all alterations of draft cards, indifferent
+                  Cite as: 606 U. S. ____ (2025)            17
+
+                      KAGAN, J., dissenting
+
+to whether they were “public [or] private,” expressive or
+non-expressive. Id., at 375. So the “limitation[ ] on
+[O’Brien’s] First Amendment freedoms” was purely “inci-
+dental.” Id., at 376. And because that was so—because the
+statute at issue addressed only the “noncommunicative as-
+pect” of what O’Brien did—the Court decided to apply in-
+termediate scrutiny. Id., at 381–382.
+   In the years since, this Court has used the O’Brien view
+of incidental restrictions in several analytically identical
+cases—when a limitation on conduct, “having no connection
+with speech,” happens to sweep in a person’s expressive act.
+Id., at 375. In one, the National Park Service invoked a
+regulation that banned camping (defined to include sleep-
+ing) in designated parks to prevent a sleep-in demonstra-
+tion about homelessness. Clark v. Community for Creative
+Non-Violence, 468 U. S. 288, 289–291 (1984). The Court ap-
+plied the O’Brien standard and approved the Park Service’s
+action. In another, a law against “reenter[ing] a military
+base after having been barred by the commanding officer”
+was used to charge a person who had reentered a base to
+participate in a political demonstration. United States v.
+Albertini, 472 U. S. 675, 677–678 (1985). We upheld the
+conviction under O’Brien. And in a third, the question was
+whether a law banning public nudity could be applied to an
+establishment featuring “expressive” nude dancing. Erie v.
+Pap’s A. M., 529 U. S. 277, 289 (2000) (plurality opinion).
+Once again, we understood the case as in the O’Brien line,
+because a prohibition of conduct had an “incidental” effect
+on an expressive act. 529 U. S., at 294–295, 301. So we
+used the O’Brien standard, and approved the nudity ban’s
+application.
+   None of this has any bearing on H. B. 1181. That statute
+is not a regulation of conduct that just so happens, on occa-
+sion, to impinge on expressive activity. It is instead a direct
+regulation of speech, triggered by the amount of sexually
+explicit expression on a commercial website. Or said a bit
+18        FREE SPEECH COALITION, INC. v. PAXTON
+
+                     KAGAN, J., dissenting
+
+differently: Rather than address the “noncommunicative”
+aspects of an activity—as all the laws described above did—
+H. B. 1181 regulates (and regulates only) what no one here
+disputes are communicative messages. O’Brien, 391 U. S.,
+at 382. Consider: a law about altering draft certificates; a
+law about sleeping in parks; a law about reentering military
+bases; a law about public nudity; a law about sexually ex-
+plicit postings on websites. Which one of those laws is not
+like the others? As to the first four laws, the regulation is
+of conduct, and the burden on expression a rare knock-on
+effect. As to the fifth, the regulation is of speech, and the
+burden on that speech the very thing the statute does. See
+Holder v. Humanitarian Law Project, 561 U. S. 1, 27 (2010)
+(noting that O’Brien applies only when the “thing actually
+at issue” is “conduct”). The burden H. B. 1181 imposes, of
+course, raises constitutional concerns only for adults. But
+that fact does not make the law any less a direct, not inci-
+dental, restriction on protected expression. H. B. 1181 tar-
+gets communicative content, and that alone—restricting
+adults’ access to speech because of what it portrays, rather
+than because of any non-communicative element that it
+possesses.
+   And this Court, in four prior cases involving similar reg-
+ulations enacted for similar reasons, has not once proposed
+an analogy to O’Brien. Forgive another brief recap. See
+supra, at 7–10. In all of those cases, States burdened pro-
+tected speech for adults as a way of cutting off children’s
+access to the expression. Two of those efforts involved in-
+ternet speech. The same two made liability for infractions
+turn on whether the publisher of the speech used an age
+verification measure. One of them—Ashcroft—defined the
+regulated speech identically to H. B. 1181 (using the Miller
+test adapted for minors). Yet in none of the four cases did
+even a single Justice float the idea that, because the re-
+striction was geared toward protecting minors or involved
+                      Cite as: 606 U. S. ____ (2025)                    19
+
+                          KAGAN, J., dissenting
+
+age verification, the statute somehow effected only an inci-
+dental restriction. In every one, it was common ground
+(even among the dissenting Justices) that the statute’s re-
+striction on adults’ access to speech was direct. So our prec-
+edents stand as an embarrassment to the majority’s reason-
+ing.
+  The majority’s primary—and deficient—response is that
+those cases involved “outright bans” on speech, whereas
+this one involves only a burden. Ante, at 25; see ante, at
+21–25. To begin with, that assertion is factually inaccurate
+as to three of the four. In Playboy, the law did not ban adult
+cable channels, but instead limited their transmission to
+hours when children were unlikely to be in the audience.
+See 529 U. S., at 806, 812. (The allowable hours were
+10 p.m. to 6 a.m.—when, the District Court found, between
+50% and 70% of adult viewing occurs anyway. See ibid.) So
+as the Court took care to explain, the statute did “not im-
+pose a complete prohibition.” Id., at 812. Rather, it effected
+only a “content-based burden[ ]”—as H. B. 1181 does. Ibid.3
+The same is true of the statutes in Reno and Ashcroft, and
+in a way even more similar to Texas’s law. Recall that un-
+der those statutes, publishers using age verification
+measures had an affirmative defense to all liability. See
+supra, at 7–9. So as long as those measures were in place,
+publishers could confidently press send on whatever sexual
+——————
+   3 The majority does not know what to do with the Playboy Court’s de-
+
+scription, so merely asserts that channeling adult programming to even-
+ing hours is a “ban[ ].” Ante, at 22, n. 9. But why? If a park’s hours were
+limited to between 9 a.m. and 9 p.m., is there really a “ban” on entering
+the park? Does it matter when people typically use the park—or watch
+adult programming? If so, where is the tipping point? Questions like
+these may not have easy answers (which is one good reason not to make
+too much ride on the ban/burden line, see infra, at 20–21). But the im-
+portant point here is that Playboy understood the statute before it as
+imposing only a burden, not a ban—and still applied strict scrutiny. So
+its analysis—not its “dicta,” but its so-called ratio decidendi—refutes the
+majority’s position. Ante, at 22, n. 9.
+20        FREE SPEECH COALITION, INC. v. PAXTON
+
+                     KAGAN, J., dissenting
+
+content they wanted to transmit. The majority argues that
+H. B. 1181 is yet more protective of publishers, because it
+turns the affirmative defense into an element—putting the
+burden on the State to show the absence of age verification
+measures. See ante, at 24–25. But in this context, the dif-
+ference between an affirmative defense and an element is
+but a smidge: It will matter only when a jury thinks the
+presence (or absence) of age verification is a literal toss-up
+(which in the real world will be rare). And even if the dif-
+ference is more than I think, it is one between two points on
+a continuum—not (as the majority insists) the dividing line
+between a “ban” and a “burden” on speech.
+   Much more important, the distinction between bans and
+burdens makes no difference to the level of scrutiny. When
+a statute draws lines based on the content of speech, strict
+scrutiny is required regardless of the amount of speech af-
+fected. Playboy made that point, in this context, at some
+length. “It is of no moment” to the level of scrutiny, the
+Court stated, that a law restricting speech “does not impose
+a complete prohibition.” 529 U. S., at 812 (emphasis
+added). And if that weren’t clear enough: “The Govern-
+ment’s content-based burdens must satisfy the same rigor-
+ous scrutiny as its content-based bans.” Ibid. And if that
+weren’t clear enough: When a statute regulates expressive
+content, no “special consideration” is given to the govern-
+ment “merely because the law can somehow be described as
+a burden rather than outright suppression.” Id., at 826.
+What’s more, Playboy is not alone in repudiating the major-
+ity’s reasoning. The refusal to countenance the ban/burden
+line the majority today peddles is fundamental to our free
+speech doctrine. Take any subject—say, because it is close
+to home, the Supreme Court. Ban speech about the Court;
+tax speech about the Court ($20 a pop); limit speech about
+the Court to certain times (Tuesdays and Thursdays); or (as
+here) demand identification to gain access to websites ad-
+dressing the Court. Ban or burden, the level of scrutiny is
+                  Cite as: 606 U. S. ____ (2025)             21
+
+                      KAGAN, J., dissenting
+
+the same: strict. See, e.g., Turner, 512 U. S., at 642 (stating
+the rule); Sorrell v. IMS Health Inc., 564 U. S. 552, 565–566
+(2011) (same); see also, e.g., Reed, 576 U. S., at 159, 172 (ad-
+hering to the rule when reviewing mere burdens); Simon &
+Schuster, Inc. v. Members of N. Y. State Crime Victims Bd.,
+502 U. S. 105, 116 (1991) (same). So the principal distinc-
+tion the majority draws between this case and the four that
+should control it is a non-distinction, by command of how
+we have always understood the First Amendment.
+   That leaves only the majority’s claim—again mistaken—
+that the internet has changed too much to follow our prece-
+dents’ lead. See ante, at 25–27. Of course technology has
+developed, both swiftly and surely. And that fact might
+matter (as indeed the burden/ban distinction might) to how
+strict scrutiny applies—and particularly to whether the
+State can show it has adopted the least speech-restrictive
+means to achieve its goal. Ashcroft explicitly recognized
+that point: It thought that, given the pace of technological
+change, the District Court might make a different decision
+than it had five years earlier about whether there were “less
+restrictive alternative[s]” to COPA. 542 U. S., at 671–672.
+To that extent—but to that extent only—the majority is
+right that Ashcroft was “self-consciously narrow and fact-
+bound.” Ante, at 26. Not, though, as to the level of scrutiny.
+On that question, the Court was unequivocal that because
+COPA was “a content-based speech restriction,” it must sat-
+isfy the strict-scrutiny test. 542 U. S., at 665; see supra, at
+8–9, and n. 1. For that was a matter of basic First Amend-
+ment principle. And as this Court has understood: “What-
+ever the challenges of applying the Constitution to ever-ad-
+vancing technology, the basic principles of the First
+Amendment do not vary.” Moody v. NetChoice, LLC, 603
+U. S. 707, 733 (2024) (quoting Brown v. Entertainment Mer-
+chants Assn., 564 U. S. 786, 790 (2011)); see TikTok Inc. v.
+Garland, 604 U. S. ___, ___ (2025) (GORSUCH, J., concurring
+22        FREE SPEECH COALITION, INC. v. PAXTON
+
+                      KAGAN, J., dissenting
+
+in judgment) (slip op., at 2) (“[E]ven as times and technolo-
+gies change, ‘the principle of the right to free speech is al-
+ways the same’ ” (quoting Abrams v. United States, 250
+U. S. 616, 628 (1919) (Holmes, J., dissenting))).
+  Except that those basic principles do vary today.
+                               III
+   The last part of the majority’s opinion—plus some of its
+footnotes—shows why all this matters. In concluding that
+H. B. 1181 passes constitutional muster, the majority
+states (correctly) that under intermediate scrutiny Texas
+need not show it has selected the least speech-restrictive
+way of accomplishing its goal. See ante, at 32. Even if there
+were a mechanism that (1) as well or better prevented mi-
+nors’ access to the covered materials and (2) imposed a
+lesser burden on adults’ ability to view that expression,
+Texas could spurn that “superior” method. Ante, at 34.
+Likewise, the majority—because it is applying a more for-
+giving standard—can ignore a host of questions about how
+far H. B. 1181 burdens protected expression. See Tr. of
+Oral Arg. 67–68. In the fine print of two footnotes, the ma-
+jority declares that it has no need to explore (1) whether
+H. B. 1181 requires covered websites to demand age verifi-
+cation for all their content or only for the subset that is ob-
+scene for minors; (2) whether H. B. 1181 requires that cov-
+ered speech be obscene “only to a minor (including a
+toddler)” or “to all minors (including 17-year-olds)”; and
+(3) whether H. B. 1181 permits websites to use “newer bio-
+metric methods of age verification, like face scans,” that
+pose fewer privacy concerns than submitting government
+ID and transactional data. Ante, at 17, n. 7 (emphasis in
+original); ante, at 34, n. 14. The majority explains that even
+if Texas answered each of those questions in a maximally
+burdensome way—requiring government ID to view speech
+that is protected even for children because one-third of the
+website’s contents are obscene for two-year-olds—H. B.
+                 Cite as: 606 U. S. ____ (2025)          23
+
+                     KAGAN, J., dissenting
+
+1181 can go forward. And again, that is true even if Texas
+has a less burdensome way of “equally or more effective[ly]”
+achieving its objective. Ante, at 34.
+   I would demand Texas show more, to ensure it is not un-
+dervaluing the interest in free expression. Texas can of
+course take measures to prevent minors from viewing ob-
+scene-for-children speech. But if a scheme other than H. B.
+1181 can just as well accomplish that objective and better
+protect adults’ First Amendment freedoms, then Texas
+should have to adopt it (or at least demonstrate some good
+reason not to). A State may not care much about safeguard-
+ing adults’ access to sexually explicit speech; a State may
+even prefer to curtail those materials for everyone. Many
+reasonable people, after all, view the speech at issue here
+as ugly and harmful for any audience. But the First
+Amendment protects those sexually explicit materials, for
+every adult. So a State cannot target that expression, as
+Texas has here, any more than is necessary to prevent it
+from reaching children. That is what we have held in cases
+indistinguishable from this one. And that is what founda-
+tional First Amendment principles demand. Because the
+majority departs from that right and settled law, I respect-
+fully dissent.
+

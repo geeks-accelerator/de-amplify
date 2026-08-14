@@ -115,14 +115,34 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   first attempt used a regex engine without backreference support and silently reported zero), and
   zero typographic ligatures. **Note the event/announcement split**: the judgment is dated August 6,
   the Attorney General's fuller release August 7. The event date is the filing.
-- `ftc-2026-coppa-age-verification-policy-statement.txt`: the FTC press release announcing the
-  COPPA age-verification enforcement policy that the New Mexico court considered and declined to
-  rely on (judgment ¶¶ 134 to 135). Read from ftc.gov 2026-08-13. **Cached because a quote from it
-  failed the check against the judgment cache**, which was the checker working correctly: the court
-  discussing a policy is not licence to quote that policy from memory. **It carries a date conflict
-  that was not resolved**, so the site states no month for this policy; the file's own header and
-  ledger claim 43a explain why. Note also that `ftc.gov` returns HTTP 403 to plain fetches and to
-  the policy-statement PDF; this text came from a real browser session.
+- `ftc-2026-02-25-coppa-age-verification-press-release.txt` and
+  `ftc-2026-02-25-coppa-age-verification-policy-statement.txt`: the FTC's COPPA age-verification
+  enforcement policy that the New Mexico court considered and declined to rely on (judgment
+  ¶¶ 134 to 135), cached as **two separate documents**: the press release, and the statement itself.
+  The release was cached first, because a quote from it failed the check against the judgment cache.
+  That was the checker working correctly: a court discussing a policy is not licence to quote that
+  policy from memory. The statement was added 2026-08-13.
+
+  **The date question is closed, and the answer is that the statement has no date.** It bears none
+  on its face (no issue line, no direction-of-the-Commission line, no vote, no signature block), and
+  a search of its full three-page text for any month-day-year string returns nothing at all. That is
+  the simplest reading of why a judge holding the document wrote only that the FTC issued a policy
+  in early 2026. The **release** is confidently dated February 25, 2026 by three independent
+  signals (the statement PDF's own CreationDate, the date under the release headline, and that
+  page's `article:published_time`); a stray `<time>` element reading February 13 is unsupported and
+  unexplained. The site therefore names the policy by year only. See ledger claim 43a.
+
+  **Retrieval, because it cost real effort.** `ftc.gov` returns HTTP 403 to plain fetches and to the
+  PDF, and the block is **TLS-fingerprint based, not User-Agent based**: adding a browser User-Agent
+  and a Referer to `curl` does not defeat it. A real browser reaches both. Chrome's PDF viewer then
+  ignores injected scroll and keyboard input, so the file has to be downloaded and extracted
+  locally. Budget for that on any future `ftc.gov` source.
+- `paxton-2025-06-27-free-speech-coalition-v-paxton.txt`: *Free Speech Coalition, Inc. v. Paxton*,
+  No. 23-1122 (U.S. June 27, 2025), the 63-page slip opinion from supremecourt.gov, cached
+  2026-08-13. **Cached because the section 7 plan made a claim about this case that reading it
+  disproved** (it does not say what that plan said about general-audience services; see the
+  corrected entry there). No ledger quotes it yet. It is here so the next revision of the paper's
+  section 7.2 can cite it verifiably rather than from a summary.
 - `eu-dsa-quote-allowlist.txt`: the drafter-prose quoted spans in `eu-dsa-proceedings.md` that are
   deliberately NOT Commission quotes (rhetorical contrasts, claims the ledger warns against making,
   a term being defined). Same role as the Nov 2023 allowlist. Authored 2026-08-13 when that ledger
