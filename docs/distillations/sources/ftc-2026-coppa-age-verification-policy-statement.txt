@@ -1,0 +1,50 @@
+SOURCE CACHE. FTC press release announcing the COPPA age-verification enforcement
+policy statement that the New Mexico court considered and declined to rely on
+(judgment paragraphs 134 to 135). Text extracted 2026-08-13 from
+https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-issues-coppa-policy-statement-incentivize-use-age-verification-technologies-protect-children
+U.S. Government work, public domain. Body text only; navigation chrome stripped.
+
+DATE CAUTION, READ BEFORE CITING ONE. This page carries TWO dates and the
+discrepancy was not resolved. A bare <time> element reads "February 13, 2026".
+The date printed under the headline reads "February 25, 2026", which matches the
+page's own article:published_time metadata (2026-02-25T13:03:34-05:00). The
+policy statement PDF at
+https://www.ftc.gov/system/files/ftc_gov/pdf/coppa-age-verification-policy-statement.pdf
+returns HTTP 403 to every fetch attempt, so the statement's own date was not read.
+The New Mexico judgment says only that the FTC "issued a policy in early 2026".
+The site therefore states no month for this policy. See ledger claim 43a.
+
+================================================================================
+
+FTC Issues COPPA Policy Statement to Incentivize the Use of Age Verification
+Technologies to Protect Children Online
+
+Policy statement announces enforcement approach regarding the collection, use,
+and disclosure of personal data to determine the age of a user
+
+The Federal Trade Commission issued a policy statement today announcing that the Commission will not bring an enforcement action under the Children's Online Privacy Protection Rule (COPPA Rule) against certain website and online service operators that collect, use, and disclose personal information for the sole purpose of determining a user's age via age verification technologies.
+
+The COPPA Rule requires operators of commercial websites or online services directed to children under 13, and operators with actual knowledge they are collecting personal information from a child, to provide notice of their information practices to parents and to obtain verifiable parental consent before collecting, using, or disclosing personal information collected from a child under 13.
+
+Age verification technologies play a critical role in helping parents as they monitor their children's online activities. Since COPPA was enacted in 1998, there's been an explosion in the use of internet-connected technologies by children. To help parents navigate the challenges associated with their children's online activities, some states have started requiring some websites and online services to use age verification mechanisms to help determine the age of users. But as noted at the FTC's recent workshop on age verification technologies, some age verification technologies may require the collection of personal information from children, prompting questions about whether such activities could violate the COPPA Rule.
+
+"Age verification technologies are some of the most child-protective technologies to emerge in decades," said Christopher Mufarrige, Director of the FTC's Bureau of Consumer Protection. "Our statement incentivizes operators to use these innovative tools, empowering parents to protect their children online."
+
+The policy statement states that the Commission will not bring an enforcement action under the COPPA Rule against operators of general audience sites and services and mixed audience sites and services that collect, use, or disclose personal information for the sole purpose of determining a user's age without first obtaining verifiable parental consent, if they comply with certain conditions, specifically that they:
+
+do not use or disclose information collected for age verification purposes for any purpose except to determine a user's age;
+do not retain this information longer than necessary to fulfill the age verification purposes, and delete such information promptly thereafter;
+disclose information collected for age verification purposes only to those third parties the operator has taken reasonable steps to determine are capable of maintaining the confidentiality, security, and integrity of the information, including by obtaining certain written assurances from those third parties;
+provide clear notice to parents and children of the information collected for age verification purposes;
+employ reasonable security safeguards for information collected for age verification purposes; and
+take reasonable steps to determine that any product, service, method, or third party utilized for age verification purposes is likely to provide reasonably accurate results as to the user's age.
+
+The policy statement indicates that the Commission intends to initiate a review of the COPPA Rule to address age verification mechanisms. The policy statement will remain effective until the Commission publishes final rule amendments on this issue in the Federal Register, or until otherwise withdrawn.
+
+The Commission vote to issue the policy statement was 2-0.
+
+The lead staffer on this matter is Manmeet Dhindsa from the FTC's Bureau of Consumer Protection.
+
+Related actions:
+Enforcement Policy Statement Promoting the Adoption of Age-Verification Technology
+Children's Online Privacy Protection Rule ("COPPA")

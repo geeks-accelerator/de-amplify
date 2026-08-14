@@ -115,6 +115,14 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   first attempt used a regex engine without backreference support and silently reported zero), and
   zero typographic ligatures. **Note the event/announcement split**: the judgment is dated August 6,
   the Attorney General's fuller release August 7. The event date is the filing.
+- `ftc-2026-coppa-age-verification-policy-statement.txt`: the FTC press release announcing the
+  COPPA age-verification enforcement policy that the New Mexico court considered and declined to
+  rely on (judgment ¶¶ 134 to 135). Read from ftc.gov 2026-08-13. **Cached because a quote from it
+  failed the check against the judgment cache**, which was the checker working correctly: the court
+  discussing a policy is not licence to quote that policy from memory. **It carries a date conflict
+  that was not resolved**, so the site states no month for this policy; the file's own header and
+  ledger claim 43a explain why. Note also that `ftc.gov` returns HTTP 403 to plain fetches and to
+  the policy-statement PDF; this text came from a real browser session.
 - `eu-dsa-quote-allowlist.txt`: the drafter-prose quoted spans in `eu-dsa-proceedings.md` that are
   deliberately NOT Commission quotes (rhetorical contrasts, claims the ledger warns against making,
   a term being defined). Same role as the Nov 2023 allowlist. Authored 2026-08-13 when that ledger
