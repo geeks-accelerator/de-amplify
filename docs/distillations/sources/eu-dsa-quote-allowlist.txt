@@ -1,0 +1,30 @@
+# Drafter-prose quoted spans in eu-dsa-proceedings.md that are deliberately NOT
+# quotes from the European Commission releases. Whitespace-normalized exact match.
+# Everything else quoted in that ledger must verify against one of the four cached
+# releases (ec-ip-26-312, ec-ip-26-920, ec-ip-26-1579, ec-ip-26-1679).
+#
+# Every entry here is the drafter's own words in quotation marks: a rhetorical
+# contrast, a claim the ledger is warning against making, or a term being defined.
+# None is attributed to the Commission anywhere in the ledger. Authored 2026-08-13
+# when the ledger was registered with `npm run check:quotes`.
+#
+# One span that LOOKED like it belonged here did not: "Can be easily dismissed"
+# was presented as a Commission finding and is a real quote, but the release reads
+# "can be easily dismissed" mid-sentence and the ledger had capitalized it to open
+# a sentence. That was corrected in the ledger rather than allowlisted here. It is
+# the whole reason this file must stay short and each line must be justified: an
+# allowlist is where a real defect goes to hide.
+
+# --- rhetorical contrast drawing the brake-integrity test (Reader summary) ---
+is this content harmful
+does the control you offered actually do anything
+
+# --- the honest-counterweight passage, stating the claim NOT to make ---
+Europe has adopted brake integrity.
+a major regulator has, in public, tested platform brakes on something close to these criteria and said they failed.
+
+# --- a headline misreading the ledger explicitly warns against (claim 23) ---
+the EU fined Meta for addictive design
+
+# --- the word being defined in the coverage note ---
+primary

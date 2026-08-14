@@ -8,10 +8,10 @@ import ProposalContent from "../../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 import { contentDate } from "@/lib/contentDate";
 
-const TITLE = "State of New Mexico v. Meta: The $375M Child-Safety Verdict";
+const TITLE = "State of New Mexico v. Meta: The $942M Child-Safety Judgment";
 // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
 const DESCRIPTION =
-  "New Mexico won a $375 million jury verdict against Meta over child safety; a judge is now weighing $953 million more plus court-ordered design changes.";
+  "New Mexico won $942 million from Meta: a $375M jury verdict plus a $567M abatement fund, with a five-year order on minors' accounts but no algorithm relief.";
 const PATH = "/lawsuits/new-mexico-v-meta";
 
 export const metadata: Metadata = {
@@ -42,10 +42,10 @@ export default function NewMexicoVMetaPage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "State of New Mexico v. Meta: the $375 million child-safety verdict",
+    headline: "State of New Mexico v. Meta: the $942 million child-safety judgment",
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "New Mexico is the first U.S. state to win a full trial against Meta over harm to kids, a $375 million verdict in March 2026 for misleading the public about safety and failing to protect children from exploitation, with a judge still weighing the state's request to make Meta pay about $953 million and change how its apps work.",
+      "New Mexico is the first U.S. state to win a full trial against Meta over harm to kids, and on August 6, 2026 the court entered a $942 million judgment, the jury's $375 million in civil penalties plus a $567 million abatement fund, together with five years of supervised changes to under-18 accounts, while expressly refusing to order any change to Meta's algorithms because that relief would likely violate the First Amendment and Section 230.",
     url: `https://de-amplify.com${PATH}`,
     image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
