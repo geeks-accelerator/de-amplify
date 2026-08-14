@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { scorecardMarkdown, reportMarkdown } from "@/lib/actionPages";
 import { DISTILLATIONS, distillationRawMarkdown } from "@/lib/distillations";
 
 // /llms-full.txt: the "deep ingestion" companion to /llms.txt (llmstxt.org).
@@ -80,6 +81,19 @@ export function GET() {
     return `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`;
   }).join("\n");
 
+  // The two ACTION pages. These are hand-built React with no content/ body, so
+  // they are generated from the same arrays the pages render rather than read
+  // off disk. They belong here because the agent card's _actions send agents to
+  // run the scorecard and file a report, and this bundle used to omit both: the
+  // instructions for the actions were missing from the file agents are told to
+  // read. See lib/actionPages for why the data is not duplicated.
+  const actions = [
+    ["The Brake Scorecard (the seven-part test)", scorecardMarkdown(), `${SITE_URL}/scorecard`],
+    ["File a brake report", reportMarkdown(), `${SITE_URL}/report`],
+  ]
+    .map(([title, md, url]) => `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`)
+    .join("\n");
+
   // the evidence ledgers (the distillations), same reader-facing body
   // the /distillations pages render, each headed by its tier notes
   const ledgers = DISTILLATIONS.map((d) => {
@@ -92,7 +106,7 @@ export function GET() {
     return `---\n\n${md}\n`;
   }).join("\n");
 
-  return new Response(header + body + "\n" + ledgers, {
+  return new Response(header + body + "\n" + actions + "\n" + ledgers, {
     headers: {
       "Content-Type": "text/markdown; charset=utf-8",
       Link: `<${SITE_URL}/llms-full.txt>; rel="self", <${SITE_URL}/>; rel="up", <${SITE_URL}/llms.txt>; rel="index"`,

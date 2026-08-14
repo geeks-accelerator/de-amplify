@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "eslint .",
     "check:ledgers": "node --disable-warning=ExperimentalWarning --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types scripts/check-ledgers.mjs",
+    "check:surfaces": "node scripts/check-surfaces.mjs",
     "check:quotes": "node scripts/check-quotes.mjs",
     "dates": "node scripts/content-dates.mjs",
     "check:dates": "node scripts/content-dates.mjs --check"

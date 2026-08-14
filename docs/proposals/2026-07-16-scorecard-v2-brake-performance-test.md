@@ -1,7 +1,7 @@
 ---
 title: "Scorecard v2: from a features test to a performance test"
 subtitle: "A proposal to revise the brake-integrity scorecard: add the missing dimensions (an end, friction symmetry, the receipt), rename the anti-circumvention idea to what it actually is, and version the test so old reports stay comparable."
-status: "PROPOSAL FOR REVIEW, not adopted. Nothing here is live; the current six-part test remains the operative standard until this is accepted, amended, or rejected. Prepared for external review (human and agent reviewers). AI-assisted (see Provenance)."
+status: "PROPOSAL FOR REVIEW, not adopted. Nothing here is live; the current SEVEN-part test remains the operative standard until this is accepted, amended, or rejected. **Corrected 2026-08-14: this line said six-part.** The six-versus-seven gap that section 1 of this proposal identified was real and has since been closed (commit 9e0ce6e, `scorecard: reconcile the live test to the paper's seven criteria`), so the page and the paper now agree on Discoverable, Clear, Immediate, Material, Persistent, Scoped, Non-circumventing. Read every \"six\" below as describing the pre-reconciliation state. Prepared for external review (human and agent reviewers). AI-assisted."
 author: "Lee Brown"
 date: 2026-07-16
 site: "de-amplify.com"
@@ -9,6 +9,15 @@ document: "Standard-revision proposal (Lane C). Companions: the Brake Integrity 
 ---
 
 # Scorecard v2: from a features test to a performance test
+
+> **Related decision, 2026-08-14.** An external review recommended turning `/scorecard` from an
+> explanatory page into an interactive checklist that computes a result and carries it into
+> `/report`. That was **deliberately not built**, and this proposal is one of the two reasons.
+> A scoring UI would hold the criteria in a third place (paper, page, and now widget), which is
+> the lockstep problem this repo already manages by hand; and if this proposal is adopted, the
+> dimensions themselves change, so the widget would be built against a standard about to be
+> revised. **Resolve this proposal first, then build the instrument once.** See
+> `docs/plans/2026-08-14-external-review-remediation.md`.
 
 > **The one-line version.** A physical brake is judged by its stopping distance, not by the presence of a pedal. The current scorecard mostly tests whether the pedal exists and stays where you put it. Version 2 would test what happens after you press it.
 
@@ -36,6 +45,12 @@ Three inputs arrived after the scorecard shipped, and each exposes a gap.
 The test should measure what courts and regulators are now measuring.
 
 ## 2. The current test, stated precisely (v1)
+
+**SUPERSEDED IN PART, 2026-08-14. The gap described in this paragraph has been closed:**
+the scorecard page now carries all seven, having gained **Material** in commit 9e0ce6e. What
+follows is the state as of 2026-07-16 and is kept because the rest of the proposal argues from
+it. The live page today presents: Discoverable, Clear, Immediate, Material, Persistent, Scoped,
+Non-circumventing.
 
 The scorecard page presents six dimensions: **Discoverable, Clear, Immediate, Persistent, Scoped, Non-circumventing.** The paper's section 3 actually lists seven criteria (it splits "promptly effective" and "materially effective," which the page merges into "Immediate"). That drift between the paper and the page is small, but it is exactly the kind of drift a versioned revision should fix: one list, stated once, rendered everywhere from the same source.
 
@@ -72,7 +87,7 @@ Eight dimensions. Zero through five refine v1; six and seven are new. Every dime
 | `content/proposal.md` section 5 | Receipt as audit artifact; anti-substitution language folded into counter-steering. |
 | `/scorecard` page | v2 dimensions with the multiplicative framing; a visible "test version: v2 (2026-07)" tag; a short v1-to-v2 mapping note so old reports stay interpretable. |
 | `/report` form | Add the two new outcomes ("the end: reached it / no end exists"; "friction: taps on vs taps off"), keep the existing result options unchanged for comparability. |
-| Homepage | The "six-part test" phrasing updates; the self-test copy gains the dimension-zero question ("can you even reach the end?"). |
+| Homepage | The test-count phrasing updates (it reads "seven-part" since 2026-08-14, not "six-part"); the self-test copy gains the dimension-zero question ("can you even reach the end?"). |
 | `/notes` | Knowledge symmetry added as a research hypothesis with its falsifiers. |
 | `llms.txt` | Description of the scorecard updates. |
 

@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 import { contentDate } from "@/lib/contentDate";
+import Toc from "@/components/Toc";
 
 const TITLE = "Social Media Addiction Lawsuits, Explained (2026)";
 const DESCRIPTION =
@@ -73,7 +74,7 @@ const FAQ_JSON_LD = {
       name: "What were the New Mexico and California jury verdicts against Meta?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Two juries have ruled. In New Mexico, a Santa Fe jury awarded $375 million in civil penalties in March 2026 in a child-safety case; a separate judge-decided phase is weighing about $953 million more plus product-design changes. In California, the K.G.M. jury awarded $6 million (70 percent Meta, 30 percent Google) in March 2026. Meta has said it will appeal the New Mexico verdict, and both defendants have filed notices of appeal in California; neither verdict has been reviewed by an appellate court.",
+        text: "Two juries have ruled. In New Mexico, a Santa Fe jury awarded $375 million in civil penalties in March 2026 in a child-safety case, and on August 6, 2026 the court entered final judgment adding a $567 million abatement fund and a five-year order on minors' accounts, for $942 million in total; the court granted no abatement relief against Meta's recommendation algorithms. In California, the K.G.M. jury awarded $6 million (70 percent Meta, 30 percent Google) in March 2026. Meta has said it will appeal the New Mexico verdict, and both defendants have filed notices of appeal in California; neither verdict has been reviewed by an appellate court.",
       },
     },
   ],
@@ -118,6 +119,7 @@ export default function LawsuitsPage() {
               the lawsuits &middot; the record, kept honest
             </p>
           </div>
+          <Toc markdown={markdown} />
           <ProposalContent markdown={markdown} />
         </div>
       </main>

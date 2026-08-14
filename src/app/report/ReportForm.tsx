@@ -1,39 +1,13 @@
 "use client";
 
 import { useState } from "react";
+import {
+  REPORT_PLATFORMS as PLATFORMS,
+  REPORT_CONTROLS as CONTROLS,
+  REPORT_RESULTS as RESULTS,
+  REPORT_DEVICES as DEVICES,
+} from "@/lib/actionPages";
 
-const PLATFORMS = [
-  "Instagram",
-  "Facebook",
-  "TikTok",
-  "YouTube",
-  "Snapchat",
-  "X",
-  "Other",
-];
-
-const CONTROLS = [
-  "Following / chronological feed",
-  "Personalized recommendations off",
-  "Autoplay off",
-  "\"Show me less\"",
-  "Notifications off",
-  "Other",
-];
-
-const RESULTS: {
-  key: string;
-  label: string;
-  phrase: string;
-  fail: boolean;
-}[] = [
-  { key: "reset", label: "It reset when I reopened", phrase: "reset to the algorithm on reopen", fail: true },
-  { key: "never", label: "It never took effect", phrase: "never took effect", fail: true },
-  { key: "partial", label: "Partial / unclear", phrase: "partial, unclear", fail: true },
-  { key: "held", label: "It held (it stuck)", phrase: "held", fail: false },
-];
-
-const DEVICES = ["", "iOS", "Android", "Web", "Other"];
 
 function fieldClass() {
   // 16px on mobile: anything smaller makes iOS Safari zoom the page on focus
@@ -76,7 +50,7 @@ export default function ReportForm() {
   const [steps, setSteps] = useState("");
   const [device, setDevice] = useState("");
   const [country, setCountry] = useState("");
-  const [copied, setCopied] = useState(false);
+  const [copyState, setCopyState] = useState<"idle" | "copied" | "failed">("idle");
 
   const resultObj = RESULTS.find((r) => r.key === result);
   const ready = Boolean(platform && control && result);
@@ -97,13 +71,23 @@ export default function ReportForm() {
 
   function copy() {
     if (!report) return;
-    navigator.clipboard?.writeText(report).then(
-      () => {
-        setCopied(true);
-        setTimeout(() => setCopied(false), 2000);
-      },
-      () => setCopied(false),
-    );
+    // navigator.clipboard is undefined outside a secure context, and the old code
+    // called .then() on that undefined: an optional-chain on the METHOD does not
+    // guard the promise it returns. It threw instead of telling anyone. A failed
+    // copy now says so, because the report is the whole point of the page and a
+    // silent failure looks identical to a successful one.
+    const done = () => {
+      setCopyState("copied");
+      setTimeout(() => setCopyState("idle"), 2000);
+    };
+    const failed = () => setCopyState("failed");
+    try {
+      const p = navigator.clipboard?.writeText(report);
+      if (p && typeof p.then === "function") p.then(done, failed);
+      else failed();
+    } catch {
+      failed();
+    }
   }
 
   const xHref = `https://x.com/intent/tweet?text=${encodeURIComponent(report)}`;
@@ -233,7 +217,7 @@ export default function ReportForm() {
             disabled={!ready}
             className="rounded-md border border-brake/40 bg-brake/10 px-5 py-2.5 font-mono text-[13px] text-brake transition-colors hover:bg-brake/20 disabled:cursor-not-allowed disabled:opacity-30"
           >
-            {copied ? "copied ✓" : "copy report"}
+            {copyState === "copied" ? "copied ✓" : copyState === "failed" ? "copy failed" : "copy report"}
           </button>
           {/* An <a> without href is neither a link nor focusable, so aria-disabled on
               one announces nothing. Render the real control for each state instead. */}
@@ -256,6 +240,15 @@ export default function ReportForm() {
             or paste it anywhere with <span className="text-brake/90">#WheresTheBrake</span>
           </span>
         </div>
+
+        {/* Assertive, not polite: a failed copy is the one moment the user must be
+            told something, because the button otherwise looks like it worked. */}
+        {copyState === "failed" && (
+          <p role="alert" className="mt-3 font-mono text-[11px] text-brake/90">
+            Could not reach the clipboard (this happens on insecure connections and in some
+            in-app browsers). Select the report above and copy it manually.
+          </p>
+        )}
       </div>
     </div>
   );

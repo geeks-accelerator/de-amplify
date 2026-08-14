@@ -55,7 +55,9 @@ export default function ForHubPage() {
     url: `${SITE}${PATH}`,
     image: `${SITE}${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
-    dateModified: contentDate("docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md", "2026-07-16"),
+    // the hub is about all three decks, so it moves when any of them does; dating
+    // it from the policymaker deck alone made two of the three invisible here
+    dateModified: contentDate("docs/proposals/2026-07-16-brake-integrity-pitch-*.md", "2026-07-16"),
     author: { "@id": `${SITE}/#org` },
     publisher: { "@id": `${SITE}/#org` },
     isPartOf: { "@id": `${SITE}/#website` },

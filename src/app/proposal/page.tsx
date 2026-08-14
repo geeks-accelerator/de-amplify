@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import ProposalContent from "./ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 import { contentDate } from "@/lib/contentDate";
+import Toc from "@/components/Toc";
 
 const TITLE = "The Brake Integrity Standard: the full policy paper";
 const DESCRIPTION =
@@ -66,6 +67,7 @@ export default function ProposalPage() {
               the policy paper &middot; the brake integrity standard
             </p>
           </div>
+          <Toc markdown={markdown} />
           <ProposalContent markdown={markdown} />
         </div>
       </main>

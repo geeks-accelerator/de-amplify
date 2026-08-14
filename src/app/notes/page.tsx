@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 import { contentDate } from "@/lib/contentDate";
+import Toc from "@/components/Toc";
 
 const TITLE = "Notes: the wedge hypothesis, and the label that might backfire";
 const DESCRIPTION =
@@ -67,6 +68,7 @@ export default function NotesPage() {
               the notes &middot; research, not policy
             </p>
           </div>
+          <Toc markdown={markdown} />
           <ProposalContent markdown={markdown} />
         </div>
       </main>

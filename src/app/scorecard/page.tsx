@@ -3,6 +3,11 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
+import {
+  SCORECARD_DIMENSIONS as DIMENSIONS,
+  SCORECARD_OUTCOMES as OUTCOMES,
+  SCORECARD_PLATFORMS as PLATFORMS,
+} from "@/lib/actionPages";
 
 const TITLE = "The Brake Scorecard: score a brake the same way every time";
 const DESCRIPTION =
@@ -23,24 +28,6 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };
 
-const DIMENSIONS = [
-  ["Discoverable", "Can you find the control without googling it?"],
-  ["Clear", "Does it say what will change? \"Show me less\" is not \"turn off recommendations.\""],
-  ["Immediate", "Does the feed change soon after you set it, or only on some later refresh?"],
-  ["Material", "Does the feed actually change in a way you can perceive, or is it cosmetic?"],
-  ["Persistent", "Does the choice survive closing and reopening the app, another device, and time?"],
-  ["Scoped", "Does it cover Reels, Shorts, Explore, notifications, and suggested accounts, or just one screen?"],
-  ["Non-circumventing", "Does the platform respect it, or nag, reset, and route you back?"],
-];
-
-const OUTCOMES = [
-  ["Held", "signal", "The choice took effect and survived the reopen."],
-  ["Reset", "brake", "It reverted to the algorithm when you came back."],
-  ["Never", "brake", "It did nothing you could perceive."],
-  ["Inconclusive", "bone", "Unclear, partial, or you could not tell."],
-];
-
-const PLATFORMS = ["Instagram", "Facebook", "TikTok", "YouTube", "Snapchat", "X"];
 
 const HOWTO_JSON_LD = {
   "@context": "https://schema.org",
