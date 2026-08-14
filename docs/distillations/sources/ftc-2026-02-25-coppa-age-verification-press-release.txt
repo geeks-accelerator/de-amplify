@@ -10,7 +10,11 @@ The date printed under the headline reads "February 25, 2026", which matches the
 page's own article:published_time metadata (2026-02-25T13:03:34-05:00). The
 policy statement PDF at
 https://www.ftc.gov/system/files/ftc_gov/pdf/coppa-age-verification-policy-statement.pdf
-returns HTTP 403 to every fetch attempt, so the statement's own date was not read.
+returned HTTP 403 on the attempts made that day, so the statement's own date was not
+read then. CORRECTED 2026-08-14: that PDF is reachable by plain curl with a browser
+User-Agent (403 only on a default curl UA), and it was retrieved and cached as
+ftc-2026-02-25-coppa-age-verification-policy-statement.txt. It carries no date on its
+face either, which is the actual reason the site names this policy by year only.
 The New Mexico judgment says only that the FTC "issued a policy in early 2026".
 The site therefore states no month for this policy. See ledger claim 43a.
 

@@ -6,6 +6,10 @@ separately as ftc-2026-02-25-coppa-age-verification-press-release.txt.
 Retrieved 2026-08-13 from
 https://www.ftc.gov/system/files/ftc_gov/pdf/coppa-age-verification-policy-statement.pdf
 and extracted with `pdftotext -layout`. U.S. Government work, public domain.
+
+ACCESS NOTE, corrected 2026-08-14: ftc.gov gates on User-Agent. A default curl UA
+gets 403; a browser UA gets 200 and the real PDF. An earlier note claimed the block
+was TLS-fingerprint based and undefeatable by a User-Agent. That was wrong.
 3 pages. Extraction checked before use: zero doubled word pairs, zero typographic
 ligatures, probe run with a positive control.
 
