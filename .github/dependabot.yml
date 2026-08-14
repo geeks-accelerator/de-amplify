@@ -14,10 +14,31 @@ updates:
         update-types:
           - "minor"
           - "patch"
-    commit-message:
-      prefix: "deps"
+    ignore:
+      # ESLint 10 does not work in this repo, and the blocker is not ESLint.
+      # `eslint-config-next` applies its OWN parser to every file, and that
+      # parser returns a scope manager predating ESLint 10's addGlobals API, so
+      # `npm run lint` dies with `TypeError: scopeManager.addGlobals is not a
+      # function`. See the ESLint entry in CLAUDE.md for the full diagnosis and
+      # the one-line proof.
+      #
+      # This was proposed as #36, then again as #45. #45 was merged on
+      # 2026-08-14 with its own CI already red and had to be reverted the same
+      # day. The rule exists so the third attempt does not arrive unannounced.
+      #
+      # SCOPE, deliberately narrow. Only the major is ignored: the group above
+      # still ships every eslint 9.x minor and patch, so this does not freeze
+      # ESLint, it declines one specific known-broken jump.
+      #
+      # WHEN TO REMOVE IT: when `eslint-config-next` supports ESLint 10. That
+      # package is pinned exactly alongside `next`, so the fix arrives with a
+      # Next release, not a lint release. Re-test with `npm ci && npm run lint`
+      # rather than trusting either package's peer range; both currently
+      # advertise support they do not have.
+      - dependency-name: "eslint"
+        update-types: ["version-update:semver-major"]
 
-  # GitHub Actions (if any are added later)
+  # GitHub Actions used by .github/workflows/ci.yml
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
