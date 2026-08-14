@@ -77,7 +77,8 @@ const LEDGERS = {
     // to quote the policy from memory.
     sources: [
       "new-mexico-2026-08-06-final-judgment.txt",
-      "ftc-2026-coppa-age-verification-policy-statement.txt",
+      "ftc-2026-02-25-coppa-age-verification-press-release.txt",
+      "ftc-2026-02-25-coppa-age-verification-policy-statement.txt",
     ],
     sections: ["(g) The final judgment"],
   },
