@@ -64,7 +64,9 @@ One narrower thing did get resolved. Meta had moved before trial to exclude Beja
 - **Requested:** civil penalties of up to **$1,000 per violation, per defendant**, with each instance pleaded as a separate violation. No source states the State's aggregate demand, and the per-violation figure alone badly understates the arithmetic.
 - **Requested, and this is the part that matters here:** a permanent injunction "prohibiting Defendants from using platform features that cause compulsive use among Young Users", and an order that Meta "meaningfully disclose, on a regular basis, the risks posed by Instagram to Young Users".
 
-Both of those are design remedies rather than prices, and both would be decided by the Chancellor. Alongside New Mexico's pending abatement decision, this is one of only two live American proceedings positioned to order a company to change the product rather than to pay for having sold it.
+Both of those are design remedies rather than prices, and both would be decided by the Chancellor. New Mexico's was the only comparable one, and it was decided on August 6, 2026, which leaves this the last live American proceeding positioned to order a company to change the product rather than to pay for having sold it.
+
+New Mexico is also the closest thing to a preview, and it is a sobering one. That court ordered three changes to how minors' accounts work, and granted no relief at all against the recommendation algorithm, on the reasoning that push notifications and like counts sit furthest from platform content while the feed does not. A Tennessee order of the same shape would reach the notifications and stop short of the feed.
 
 ## The connection you will not find in the coverage
 

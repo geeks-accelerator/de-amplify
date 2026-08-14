@@ -57,6 +57,9 @@ document: "Implementation plan. The facts it publishes come from the Brake Integ
 - **JSON-LD: `Article` plus `BreadcrumbList`.** Explicitly not `NewsArticle`: the page is an explainer with a thesis, and claiming news-ness invites freshness expectations the site does not maintain. `dateModified` wired to the source file's mtime, same as `/proposal`. **(SUPERSEDED 2026-07-24: mtime was abandoned and is now a named anti-pattern. A fresh CI checkout resets every mtime to the deploy time, which restamps every page as changed on every deploy. Dates come from git author dates via `src/lib/contentDate.ts`; see the "Dates in JSON-LD and the sitemap" rule in CLAUDE.md. Do not implement the sentence above.)**
 - Add to `src/app/sitemap.ts` (changeFrequency: weekly through the trial window).
 - Add to `/llms.txt` under Pages, one line stating it is a dated explainer of the litigation record.
+  *(Stale as of 2026-08-14: `llms.txt` was restructured to the llmstxt.org list-item form and the
+  `## Pages` section no longer exists. Documents live under `## Documents`, the two action pages
+  under `## Actions`, and skippable rendered-HTML twins under `## Optional`.)*
 - Nav: add to Header ("the cases", visible on all breakpoints or sm+ to match "the paper") and Footer.
 - Homepage: link the five stat tiles (or the "receipts" section heading) to `/lawsuits`.
 - OG image: inherit the root card initially. A page-specific card ("the receipts" framing) is a fast follow, not a blocker. **(DONE, and the interim is now an anti-pattern: `src/app/lawsuits/opengraph-image.tsx` ships, and on 2026-07-24 the last root-card inheritance was removed from six pages' JSON-LD `image` fields, which had kept pointing at the site-root card long after each page had its own. Derive it as `${SITE}${PATH}/opengraph-image`, never a literal.)**

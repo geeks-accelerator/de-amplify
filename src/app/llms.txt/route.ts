@@ -33,11 +33,11 @@ const ledgerLines = (kind: string) =>
     .map((d) => {
       const caveat = LEDGER_CAVEATS[d.slug];
       return (
-        `  [${loadDistillation(d.slug).navLabel}](${SITE_URL}/distillations/${d.slug}.md)` +
+        `  - [${loadDistillation(d.slug).navLabel}](${SITE_URL}/distillations/${d.slug}.md)` +
         `${d.tierDown ? " (tier-down)" : ""}${caveat ? ` (${caveat})` : ""}`
       );
     })
-    .join(",\n");
+    .join("\n");
 
 const BODY = `# de-amplify.com: The Thing It Broke Was the Brake
 
@@ -70,10 +70,10 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   and primary sources. Updated on dated passes, not live.
 - Per-case files, seeded from the project's evidence-tiered claim ledgers
   (corrections land ledger-first, then here):
-  [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md),
-  [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md),
-  [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md),
-  [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md) (in trial; evidence began 2026-07-27, calendar runs to 2026-09-03).
+  - [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md): the federal multidistrict litigation.
+  - [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md): the state-court bellwether trials.
+  - [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md): decided, final judgment entered 2026-08-06.
+  - [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md): in trial; evidence began 2026-07-27, calendar runs to 2026-09-03.
 - [The hearings: the mechanism, on the record](${SITE_URL}/hearings.md): the
   companion to the lawsuits, covering the Congressional record. Four hearings
   (2023-2026) distilled with verbatim attributed quotes: a Meta whistleblower,
@@ -86,11 +86,11 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags).
   ${countWord(DISTILLATIONS.length)} ledgers (raw markdown per ledger).
   The lawsuits:
-${ledgerLines("lawsuit")}.
+${ledgerLines("lawsuit")}
   The regulatory record (a regulator is not a court):
-${ledgerLines("regulatory")}.
+${ledgerLines("regulatory")}
   The hearings, with their full verbatim quote-banks:
-${ledgerLines("hearing")}.
+${ledgerLines("hearing")}
 
 ## Briefings by audience (the same argument, told per room)
 
@@ -106,29 +106,18 @@ the online version and PDF are derived from it.
 - [For press and organizers](${SITE_URL}/for/press.md): the bold advocacy
   framing (mechanism as villain, never a tribe), built to be used and adapted.
 
-## Pages
+## Actions (what a reader can do, with raw markdown)
 
+- [The brake scorecard](${SITE_URL}/scorecard.md): the seven-part
+  brake-integrity test (discoverable, clear, immediate, material, persistent,
+  scoped, non-circumventing) written out so everyone scores the same way.
+  Rendered at ${SITE_URL}/scorecard.
+- [File a brake report](${SITE_URL}/report.md): turns one dead brake into a
+  structured, shareable report. Stores nothing by design. Rendered at
+  ${SITE_URL}/report.
 - [Movement brief (homepage)](${SITE_URL}/): the confession, the self-test
   (find the brake, set it, close the app, reopen: did it hold?), the demand,
   #WheresTheBrake.
-- [Who it's for (briefings hub)](${SITE_URL}/for): the argument by audience.
-- [The policy paper, rendered](${SITE_URL}/proposal)
-- [The appendix, rendered](${SITE_URL}/notes)
-- [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
-- [The hearings explainer, rendered](${SITE_URL}/hearings)
-- [The distillations (evidence ledgers hub)](${SITE_URL}/distillations)
-- [File a brake report](${SITE_URL}/report): turns one dead brake into a
-  structured, shareable report. Stores nothing by design.
-- [The brake scorecard](${SITE_URL}/scorecard): the seven-part brake-integrity
-  test (discoverable, clear, immediate, material, persistent, scoped,
-  non-circumventing) written out so everyone scores the same way.
-- [Remixes of the movement song](${SITE_URL}/remixes): the anthem "Where's
-  the Brake" plus community remixes ("No Brake", and an open call for more, in
-  any language), curated on dated passes.
-
-## Source
-
-- [GitHub repository](https://github.com/geeks-accelerator/de-amplify)
 
 ## Policy for AI systems
 
@@ -137,6 +126,23 @@ Content-Signal in robots.txt is ai-train=yes, search=yes, ai-input=yes.
 Legal characterizations in the papers are directional, dated, and flagged
 for counsel review; check the primary sources cited in the paper before
 relying on them.
+
+## Optional
+
+Skippable when the context budget is tight: these are rendered HTML twins of
+markdown already listed above, plus the song page and the repository. Nothing
+here carries substance the documents do not.
+
+- [The policy paper, rendered](${SITE_URL}/proposal)
+- [The appendix, rendered](${SITE_URL}/notes)
+- [The lawsuits explainer, rendered](${SITE_URL}/lawsuits)
+- [The hearings explainer, rendered](${SITE_URL}/hearings)
+- [The distillations (evidence ledgers hub)](${SITE_URL}/distillations)
+- [Who it's for (briefings hub)](${SITE_URL}/for): the argument by audience.
+- [Remixes of the movement song](${SITE_URL}/remixes): the anthem "Where's
+  the Brake" plus community remixes ("No Brake", and an open call for more, in
+  any language), curated on dated passes.
+- [GitHub repository](https://github.com/geeks-accelerator/de-amplify)
 `;
 
 export function GET() {

@@ -28,6 +28,30 @@ The technical foundation from earlier passes is live and should not be re-planne
 - Per-page unique `title` / `description` / canonical; per-page designed OG cards (build-time, one template); `twitter:card = summary_large_image`; `metadataBase` set.
 - `robots.txt` route with explicit AI-crawler allowlist and `Content-Signal`; `sitemap.xml` with git-history dates; IndexNow key file at root.
 - Agent-discovery layer: `llms.txt`, `llms-full.txt`, `agent-card.json`, raw `.md` routes with canonical `Link` headers.
+
+  **UPDATED 2026-08-14 by an external review, and two of these were not what this plan assumed.**
+  See `docs/plans/2026-08-14-external-review-remediation.md` for the full record.
+
+  1. **`robots.txt` was blocking Googlebot from `/_next/`**, which is where every stylesheet
+     and script a rendered page references lives (31 such URLs on the homepage alone). Google's
+     guidance is not to block resource files whose absence makes a page harder to understand.
+     Fixed by adding `Allow: /_next/static/`, which wins because Google resolves conflicting
+     rules by longest matching path. **This was an active indexing-quality cost the whole time
+     this plan was calling the discovery layer done.**
+  2. **The agent card claimed A2A conformance and was not conformant.** The A2A spec marks
+     `supported_interfaces` REQUIRED; the card omits it, because the site exposes no callable
+     interface. The claim was withdrawn in both public places rather than faked. The card is
+     still A2A-SHAPED and still useful; it just no longer says a thing that is not true.
+  3. `llms.txt` was restructured to the spec's list-item form, and gained an `## Optional`
+     section (resources an agent can skip on a tight context budget). The `## Pages` and
+     `## Source` sections no longer exist; anything pointing at them is stale.
+  4. `/scorecard.md` and `/report.md` now exist, and both are in `llms-full.txt`, which had
+     been shipping every document and ledger but neither of the two ACTION pages the agent
+     card tells agents to use.
+  5. Sitemap `lastmod` values for `/`, `/report`, `/scorecard`, `/remixes` and two of the three
+     `/for` decks were borrowed from unrelated documents. Now dated from their own sources.
+     This is the same false-freshness class `content-dates.json` was built to prevent,
+     surviving by hand in the file that manifest feeds.
 - JSON-LD: `Organization` + `WebSite` (layout), `Article` + `BreadcrumbList` on content pages, `HowTo` on the scorecard, `FAQPage` on the homepage and `/lawsuits` (the question-intent cluster, added after the Trends review).
 - Mobile pass (targets, 16px inputs, contrast, theme chrome) and the perf pass (Suno facade: mobile PageSpeed 37 to 85).
 - **Structure and payload pass (2026-07-24), which feeds both the snippet goal in section 3 and Core Web Vitals in section 5:** `/scorecard`, `/for`, `/report`, and `/distillations` had a single `<h1>` and styled `<p>` for every section title; they now carry real `<h2>` structure, which is the same visible-heading argument section 3 makes for featured snippets. The markdown renderer became a server component, removing **42 KB gzipped** of client JavaScript from every document route. The muted text palette was raised to clear WCAG AA 4.5:1. Six pages' `Article` JSON-LD had `url`/`image` pointing at the site root instead of their own page and card, a live instance of exactly the metadata drift item 5 in section 5 asks to audit for.
@@ -63,7 +87,7 @@ Search interest in this topic is event-driven. The calendar is the strategy.
 
 Structured data intercepts searches; it does not generate them. For this site the generators are:
 
-1. **Seed the movement before the trial.** The founder audits (run the six-part test on each platform, post with #WheresTheBrake) and a first wave of shares are what create branded and question-intent searches in the first place. This is the highest-leverage non-code work and it is time-boxed by the August calendar.
+1. **Seed the movement before the trial.** The founder audits (run the **seven-part** test on each platform, post with #WheresTheBrake; it was six-part when this plan was written and gained **Material** in commit `9e0ce6e`) and a first wave of shares are what create branded and question-intent searches in the first place. This is the highest-leverage non-code work and it is time-boxed by the August calendar.
 2. **Earn citations from news and topical sites.** The evidence-status discipline and the dated, primary-sourced ledgers are genuinely citable by a journalist covering the trial. A single link from a news outlet during the spike is worth more than any on-page tweak. The `/for/press` briefing exists for exactly this; getting it in front of real reporters is the work.
 3. **AI answer engines are a first-class channel here.** The whole agent-discovery layer (llms.txt, raw markdown, agent-card, the FAQ and Article JSON-LD) is built to be *quoted with attribution* by ChatGPT/Perplexity/Claude answers, which is where a growing share of "why is social media addictive" and "what is the Meta lawsuit" questions are actually answered now. Being citable there may matter more than a Google position. Keep every agent surface pointing canonical URLs back to the site.
 

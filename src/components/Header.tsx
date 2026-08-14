@@ -1,47 +1,23 @@
 import Link from "next/link";
+import HeaderNav from "./HeaderNav";
+import { FOCUS_RING } from "@/lib/focus";
 
-const GITHUB = "https://github.com/geeks-accelerator/de-amplify";
-
+// The header shell stays a SERVER component. Only the nav needs the current
+// pathname (for aria-current), so only the nav is a client component; see the
+// comment at the top of HeaderNav for the measured cost and why this does not
+// reopen the rule that keeps react-markdown off the client.
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-white/[0.06] bg-void/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-5 py-3.5">
         <Link
           href="/"
-          className="font-mono text-[13px] tracking-tight text-bone/90 transition-colors hover:text-bone"
+          className={`font-mono text-[13px] tracking-tight text-bone/90 transition-colors hover:text-bone ${FOCUS_RING}`}
         >
           <span className="text-brake">de</span>-amplify
           <span className="text-brake animate-blink">_</span>
         </Link>
-        <nav className="flex items-center gap-4 font-mono text-[11px] lowercase tracking-wide text-bone/63 sm:gap-5">
-          {/* py-2 grows each link's tap target past the 24px WCAG floor */}
-          <Link
-            href="/#ask"
-            className="hidden py-2 text-brake/90 underline decoration-brake/40 underline-offset-4 transition-colors hover:text-brake sm:inline-block"
-          >
-            find the brake
-          </Link>
-          <Link href="/report" className="py-2 transition-colors hover:text-brake">
-            report
-          </Link>
-          <Link href="/proposal" className="py-2 transition-colors hover:text-signal">
-            standard
-          </Link>
-          <Link href="/for" className="py-2 transition-colors hover:text-bone/80">
-            for you
-          </Link>
-          <Link href="/notes" className="hidden py-2 transition-colors hover:text-bone/80 sm:inline-block">
-            notes
-          </Link>
-          <a
-            href={GITHUB}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden py-2 text-bone/63 underline decoration-white/15 underline-offset-4 transition-colors hover:text-bone/70 sm:inline-block"
-          >
-            github
-          </a>
-        </nav>
+        <HeaderNav />
       </div>
     </header>
   );

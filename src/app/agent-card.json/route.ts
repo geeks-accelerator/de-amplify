@@ -35,9 +35,24 @@ const ledgerLinks = DISTILLATIONS.map((d) => ({
 }));
 
 const BODY = {
-  // A2A Agent Card fields (the /.well-known/agent-card.json spec shape), so
-  // A2A-aware clients read a conformant card; the HATEOAS _links/_actions
-  // below are de-amplify extensions for "where to go next".
+  // A2A-SHAPED, DELIBERATELY NOT CLAIMED AS CONFORMANT. Corrected 2026-08-14
+  // after reading the normative proto rather than the prose spec page.
+  //
+  // AgentCard in specification/a2a.proto marks eight fields REQUIRED: name,
+  // description, supported_interfaces, version, capabilities, skills,
+  // default_input_modes, default_output_modes. This card carries seven of them
+  // and omits supported_interfaces, because that field declares the transports
+  // and endpoints an agent can be CALLED on, and this site has none: it is a
+  // stateless document site whose _actions are plain GET content links, not A2A
+  // task or message operations.
+  //
+  // The honest options were to invent an interface or to stop claiming
+  // conformance. Inventing one would advertise a capability that does not exist,
+  // which is the failure this project spends its whole evidence discipline
+  // policing in other people's claims. So the field names below stay, because
+  // they are genuinely useful to an A2A-aware reader, and the word "conformant"
+  // goes. Adding supported_interfaces would only be right if the site grew a
+  // real callable endpoint.
   name: "de-amplify.com",
   description:
     "A framing proposal and movement site on engagement feeds and minors: regulate the loop, re-attach consent, de-amplify don't censor. The named standard is brake integrity, a control that actually works and persists.",
@@ -136,8 +151,8 @@ const BODY = {
     "hearings-markdown": { href: `${SITE}/hearings.md`, type: "text/markdown" },
     distillations: { href: `${SITE}/distillations`, title: "The evidence ledgers (distillations) behind the lawsuit and hearing pages" },
     "distillations-all-markdown": { href: `${SITE}/llms-full.txt`, type: "text/markdown", title: `All ${DISTILLATIONS.length} ledgers concatenated (per-ledger .md is on each entry in \`ledgers\`)` },
-    scorecard: { href: `${SITE}/scorecard`, title: "The seven-part brake-integrity test" },
-    report: { href: `${SITE}/report`, title: "File a structured brake report" },
+    scorecard: { href: `${SITE}/scorecard`, markdown: `${SITE}/scorecard.md`, title: "The seven-part brake-integrity test" },
+    report: { href: `${SITE}/report`, markdown: `${SITE}/report.md`, title: "File a structured brake report" },
     remixes: { href: `${SITE}/remixes`, title: "The movement song and its remixes" },
     briefings: { href: `${SITE}/for`, title: "The same argument, briefed for three audiences" },
     audiences: [
@@ -203,7 +218,7 @@ const BODY = {
   ],
   _meta: {
     as_of: AS_OF,
-    spec: "Dual A2A Agent Card + HATEOAS discovery card. Top-level fields (name, skills, capabilities) are A2A-spec; _links is the resource map and _actions are next steps ordered by priority. Served at /agent-card.json and the A2A-canonical /.well-known/agent-card.json. The human/agent index is at /llms.txt.",
+    spec: "HATEOAS discovery card using A2A Agent Card field names. NOT a conformant A2A Agent Card: the spec marks supported_interfaces REQUIRED, and this site omits it because it exposes no callable A2A interface. _actions are plain GET content links, not A2A task or message operations. _links is the resource map; _actions are next steps ordered by priority. Served at /agent-card.json and, for A2A-aware clients that look there, /.well-known/agent-card.json. The human/agent index is at /llms.txt.",
     note: "This is a stateless content site: responses do not adapt to per-consumer state, so the same card is served to every client.",
   },
 };

@@ -92,6 +92,8 @@ jobs:
 
       - name: check:quotes (quoted spans verbatim against the source caches)
         run: npm run check:quotes
+      - name: check:surfaces (share cards and structured data vs the record)
+        run: npm run check:surfaces
 
       # The house-style sweep from CLAUDE.md. One exact codepoint per pattern
       # under the C locale: the naive bracket-class grep over-reports badly on

@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import ProposalContent from "../proposal/ProposalContent";
 import JsonLd, { breadcrumbs } from "@/components/JsonLd";
 import { contentDate } from "@/lib/contentDate";
+import Toc from "@/components/Toc";
 
 const TITLE = "Congressional Hearings on Social Media and Kids, Distilled (2023-2026)";
 const DESCRIPTION =
@@ -66,6 +67,7 @@ export default function HearingsPage() {
               the hearings &middot; the mechanism, on the record
             </p>
           </div>
+          <Toc markdown={markdown} />
           <ProposalContent markdown={markdown} />
         </div>
       </main>

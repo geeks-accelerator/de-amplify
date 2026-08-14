@@ -9,7 +9,7 @@ export default function OgImage() {
   return ogCard({
     eyebrow: "the lawsuits · the record, kept honest",
     title: "The social media addiction lawsuits, explained",
-    chips: ["$6M jury-found", "$375M jury-found", "~$953M requested", "~$1.4T estimate"],
+    chips: ["$6M jury-found", "$375M jury-found", "$567M court-ordered", "~$1.4T estimate"],
     accent: "brake",
   });
 }
