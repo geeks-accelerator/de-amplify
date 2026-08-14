@@ -82,6 +82,18 @@ const LEDGERS = {
     ],
     sections: ["(g) The final judgment"],
   },
+  // The corpus's first non-English source. The quoted spans are the DUTCH
+  // originals, which is the only way this check means anything: an English
+  // rendering of a Dutch judgment is a translation, and would fail against the
+  // cache exactly as it should. The ledger carries the translation beside each
+  // span, labelled as one.
+  "bits-of-freedom-v-meta": {
+    sources: [
+      "bits-of-freedom-2025-10-02-rechtbank-amsterdam.txt",
+      "bits-of-freedom-2026-03-10-gerechtshof-amsterdam.txt",
+    ],
+    sections: ["Quotes"],
+  },
   "eu-dsa-proceedings": {
     sources: ["ec-ip-26-312.txt", "ec-ip-26-920.txt", "ec-ip-26-1579.txt", "ec-ip-26-1679.txt"],
     allowlist: "eu-dsa-quote-allowlist.txt",

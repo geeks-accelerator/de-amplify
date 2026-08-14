@@ -1,0 +1,1576 @@
+SOURCE CACHE. Stichting Bits of Freedom v. Meta, interim relief judgment (vonnis in
+kort geding), Rechtbank Amsterdam, 2 October 2025, ECLI:NL:RBAMS:2025:7253,
+case C/13/774725 / KG ZA 25-687 MK/JD.
+
+Retrieved 2026-08-14 from the Dutch judiciary's official open-data API,
+https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2025:7253
+XML converted to text (tags stripped, entities unescaped). Public judgment.
+
+*** THIS DOCUMENT IS IN DUTCH. READ BEFORE QUOTING IT ANYWHERE. ***
+
+dcterms:language on the record is "nl". There is no official English text. Any
+English rendering of any sentence in this file is a TRANSLATION, not a quote, and
+must never be presented on the site as a verbatim quotation of the court. If a
+ledger quotes this judgment, the quoted span must be the DUTCH original, so
+`npm run check:quotes` can verify it against this cache; the English goes beside
+it, explicitly labelled as a translation. This is the first non-English source in
+the corpus and the convention did not exist before it.
+
+*** ATTRIBUTION TRAP, ALREADY TRIGGERED ONCE ***
+
+The most quotable line in this judgment is:
+
+  "Het is onmogelijk om in de apps of op de websites een 'persistente' keuze in te
+  stellen."
+
+docs/plans/2026-07-25-ledger-candidates.md renders that in English and calls it
+"The court's finding". IT IS NOT. It sits inside paragraph 4.16, which opens
+"BoF heeft als volgt toegelicht op welke wijze Meta Ierland VOLGENS HAAR inbreuk
+maakt op voornoemde artikelen:" -- BoF explained as follows how, IN ITS VIEW,
+Meta Ireland infringes. It is the claimant's contention, recited by the court.
+
+The court's own equivalent reasoning is at 4.33 ("Aannemelijk is ...", concluding
+"Deze functionaliteit van de platforms betreft dan ook een door de DSA verboden
+donker patroon") and the operative orders are at 5.1 to 5.3. Quote those.
+
+RECHTBANK Amsterdam
+ 
+
+ 
+
+ 
+Afdeling privaatrecht, voorzieningenrechter civiel
+
+ 
+ 
+
+ 
+
+ 
+Zaaknummer: C/13/774725 / KG ZA 25-687 MK/JD
+
+ 
+ 
+
+ 
+
+ 
+
+ Vonnis in kort geding van 2 oktober 2025
+ 
+
+ 
+ 
+
+ 
+
+ 
+in de zaak van
+
+ 
+ 
+
+ 
+
+ 
+
+ STICHTING BITS OF FREEDOM, 
+
+ 
+gevestigd te Amsterdam,
+
+ 
+eisende partij bij dagvaarding van 8 september 2025,
+
+ 
+advocaat: mr. Chr.A. Alberdingk Thijm te Amsterdam, 
+
+ 
+ 
+
+ 
+
+ 
+tegen
+
+ 
+ 
+
+ 
+ 
+ 
+## 
+ 1 FACEBOOK NETHERLANDS B.V., 
+
+ 
+
+ 
+gevestigd te Amsterdam, 2. META PLATFORMS IRELAND LTD., 
+
+ 
+gevestigd te Dublin (Ierland),3. META PLATFORMS INC., 
+
+ 
+gevestigd te Menlo Park, Californië (Verenigde Staten van Amerika),
+
+ 
+gedaagde partijen,
+
+ 
+advocaat: mr. J.J. Valk, te Amsterdam.
+
+ 
+ 
+
+ 
+
+ 
+Eiseres zal hierna BoF worden genoemd. Gedaagden zullen hierna afzonderlijk Facebook Nederland, Meta Ierland en Meta Inc, en gezamenlijk Meta c.s. worden genoemd
+
+ 
+ 
+
+ 
+ 
+ 
+## 
+ 1 De procedure
+
+ 
+
+ 
+
+ 
+Ter zitting van 22 september 2025 heeft BoF de vorderingen zoals omschreven in de dagvaarding toegelicht. Meta c.s. heeft verweer gevoerd aan de hand van een vooraf ingediende conclusie van antwoord. Beide partijen hebben producties en een pleitnota ingediend.
+
+ 
+ 
+
+ 
+
+ 
+Ter zitting waren aanwezig: 
+
+ 
+aan de kant van BoF:
+
+ 
+ 
+ 
+ 
+mevrouw [naam algemeen directeur] , algemeen directeur, 
+
+ 
+ 
+ 
+de heer [naam beleidsadviseur] , beleidsadviseur,
+
+ 
+ 
+ 
+mevrouw [naam deskundige] , deskundige,
+
+ 
+ 
+ 
+de heer [naam technisch deskundige] , technisch deskundige
+
+ 
+ 
+ 
+mrs. Alberdingk Thijm, N.S.G. de Bruijn en B.J. van Eijk,
+
+ 
+ 
+ 
+aan de kant van Meta c.s.:
+
+ 
+ 
+ 
+de heer [naam medewerker] , medewerker Government and Social Impact Meta,
+
+ 
+ 
+ 
+mrs R. Aspetti, L. McCauley en N. van der Post, medewerkers van De Brauw Blacktone Westbroek, 
+
+ 
+ 
+ 
+mrs. Valk en T. Cohen Jehoram, 
+
+ 
+ 
+ 
+Vonnis is, na aanhouding van twee dagen, bepaald op heden.
+
+ 
+
+ 
+ 
+ 
+## 
+ 2 De feiten
+
+ 
+
+ 
+
+ 2.1. 
+ 
+BoF is een Nederlandse stichting die zich inzet voor de belangen van Nederlandse ingezetenen in een digitale omgeving. Over het doel van BoF staat het volgende in haar statuten.
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 2.2. 
+ 
+Meta Inc is een Amerikaans technologieconcern, opgericht in 2004 als The Facebook Inc en in 2005 hernoemd naar Facebook Inc, voordat het bedrijf in 2021 de naam veranderde in Meta Platforms. Meta Inc bezit en beheert verschillende prominente sociale media platforms waaronder Facebook, Instagram, Threads, Messenger en Whatsapp. Het bedrijf heeft wereldwijd ongeveer 3,48 miljard dagelijks actieve gebruikers.
+
+ 
+
+ 
+ 
+
+ 2.3. 
+ 
+
+ 
+Meta Ierland is een dochteronderneming van Meta Inc Meta Ierland treedt
+
+ 
+op als enige contractspartij voor het aanbieden van Facebook en Instagram aan
+
+ 
+gebruikers in Europa (waaronder Nederland). 
+
+ 
+ 
+
+ 
+ 
+
+ 2.4. 
+ 
+Facebook Nederland is een Nederlandse vennootschap binnen het Meta-concern, die zich hoofdzakelijk bezighoudt met marketing- en verkoopondersteunende diensten. Een recente jaarrekening (2023) beschrijft de activiteiten van Facebook Nederland als volgt: "The principal activity of Facebook Netherlands B.V. (…) is the provision of sales support, marketing services, and engineering support to Meta Group companies as well as acting as a reseller of advertising services to designated Dutch customers".
+
+ 
+
+ 
+ 
+
+ 2.5. 
+ 
+
+ 
+Op 15 april 2025 heeft BoF, samen met European Digital Rights AISBL (EDRi), Gesellschaft für Freiheitsrechte e.V. (GFF) en Convocation Design + Research 
+
+ 
+namens een Ierse Facebook- en Instagram-gebruiker een klacht ingediend bij de Ierse toezichthouder op de omroep- en onlinemedia Coimisiún na Meán, met betrekking tot de gepersonaliseerde startpagina. In die procedure stelt BoF dat Meta in strijd handelt met de artikelen 27, 38 en 25 van de Digital Services Act (DSA) door de optie om een niet-geprofileerde feed te kiezen contra-intuïtief te maken en te voorkomen dat deze als standaardervaring op haar Platforms wordt ingesteld. 
+
+ 
+ 
+
+ 
+ 
+
+ 2.6. 
+ 
+Bij gelijkluidende brieven van 1 augustus 2025 heeft BoF Meta c.s. (voor zover hier van belang) gesommeerd tot het volgende:
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 2.7. 
+ 
+Dezelfde dag heeft Facebook Nederland (kort gezegd) gereageerd dat Facebook en Instagram in de Europese Regio worden aangeboden door Meta Ierland. 
+
+ 
+
+ 
+ 
+
+ 2.8. 
+ 
+Op 8 augustus 2025 heeft Meta Ierland een inhoudelijke reactie aangekondigd op 12 augustus 2025. Bij brief van die datum heeft Meta Ierland (kort gezegd) gereageerd dat de sommaties van BoF geen grondslag hebben in de DSA. Meta Ierland heeft verder geschreven dat zij reeds verregaande risicobeperkende maatregelen neemt in het licht van de komende verkiezingen in Nederland en dat zij bereid is tot overleg om een en ander nader toe te lichten.
+
+ 
+
+ 
+ 
+
+ 2.9. 
+ 
+Op 20 augustus 2025 heeft overleg plaatsgevonden tussen BoF en Meta Ierland. Dit heeft niet geleid tot een minnelijke oplossing van het geschil.
+
+ 
+
+ 
+ 
+ 
+ 
+## 
+ 3 Het geschil
+
+ 
+
+ 
+
+ 3.1. 
+ 
+BoF vordert bij uitvoerbaar bij voorraad te verklaren vonnis (samengevat):
+
+ 
+
+ 
+
+ 
+
+ primair
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ verbod om de keuze of wijziging instelling gebruiker(s) ongedaan te maken
+ 
+
+ 
+ 
+
+ 
+
+ 
+I. Meta c.s. te bevelen om binnen twee weken na dit vonnis te staken en gestaakt te houden het negeren van de door gebruikers van de websites en/of apps van Facebook en/of Instagram gemaakte keuzes of gewijzigde instellingen, in het bijzonder het ongedaan maken van de keuze of instelling voor chronologische of anderszins profileringsvrije aanbevelingssystemen, een en ander 
+
+ 
+i. nadat de gebruiker heeft gekozen het activiteitenoverzicht en/of direct messages te raadplegen en/of 
+
+ 
+ii. bij het sluiten en/of heropenen van de websites en/of apps van Facebook en Instagram, voor:
+
+ 
+A. de feed c.q. startpagina;
+
+ 
+B. de opmerkingensectie;
+
+ 
+C. de reels-sectie,
+
+ 
+ 
+
+ 
+
+ 
+
+ bevel tot mogelijkheid om de voorkeursoptie te selecteren en te wijzigen
+ 
+
+ 
+ 
+
+ 
+
+ 
+II. Meta c.s. te bevelen om binnen twee weken na dit vonnis de gebruikersvoorkeuren voor aanbevelingssystemen door gebruikers van de websites en/of apps van Facebook en/of Instagram, met inbegrip van de keuze voor of het wijzigen van de instelling naar een chronologische of anderszins profileringsvrije feed, te respecteren, persistent te maken en te onthouden, waaronder ten minste wanneer gebruikers de apps en websites afsluiten en heropenen, en wanneer gebruikers naar andere functionaliteiten binnen de app navigeren, voor:
+
+ 
+A. de feed c.q. startpagina;
+
+ 
+B. de opmerkingensectie;
+
+ 
+C. de reels-sectie,
+
+ 
+
+ 
+ bevel tot rechtstreeks en gemakkelijk toegankelijk maken van een profileringsvrije optie
+ 
+
+ 
+ 
+
+ 
+
+ 
+III. Meta c.s. te bevelen om binnen twee weken na dit vonnis de optie voor profileringsvrije aanbevelingssystemen rechtstreeks en gemakkelijk toegankelijk te maken via de websites en/of apps van Facebook en/of Instagram, op zodanige wijze dat gebruikers onmiddellijk kunnen identificeren waar de voorkeur voor een chronologische of anderszins profileringsvrije feed kan worden aangegeven, in ieder geval door middel van een duidelijke en aanklikbare geschreven tekst waaruit volgt dat de aanklikbare optie een profileringsvrij aanbevelingssysteem is, voor:
+
+ 
+A. de feed c.q. startpagina;
+
+ 
+B. de opmerkingensectie;
+
+ 
+C. de reels-sectie,
+
+ 
+IV. Meta c.s. te bevelen om binnen twee weken na dit vonnis de optie voor een profileringsvrij aanbevelingssysteem van de websites en/of apps van Facebook en/of Instagram rechtstreeks en gemakkelijk toegankelijk te maken door bovenaan elk profilerend aanbevelingssysteem, in ieder geval de feed c.q. startpagina, opmerkingensectie en reels-sectie, de duidelijk geschreven tekst “Profiled” or “Profilerend” op te nemen;
+
+ 
+ 
+
+ 
+
+ 
+
+ bevel tot opnemen informatie aanbevelingssystemen
+ 
+
+ 
+ 
+
+ 
+
+ 
+V. Meta c.s. te bevelen om binnen twee weken na dit vonnis in de Gebruikersvoorwaarden en het Transparency Center van Facebook en/of Instagram duidelijke en begrijpelijke informatie te publiceren over:
+
+ 
+A. het relatieve belang van de parameters die bepalen welke informatie gebruikers te zien krijgen;
+
+ 
+B. de redenen van dat relatieve belang per parameter; en/of
+
+ 
+C. een concrete toelichting hoe en waarom informatie in de aanbevelingssystemen wordt geprioriteerd,
+
+ 
+
+ bevel tot tonen informatief pop-up venster
+ 
+
+ 
+ 
+
+ 
+
+ 
+VI. Meta c.s. te bevelen om binnen twee weken na dit vonnis gebruikers bij het opstarten van de websites en/of apps van Facebook en/of Instagram door middel van een pop-up venster expliciet te informeren dat zij op de verschillende pagina’s standaard een profilerende feed en opmerkingensectie te zien krijgen en te wijzen op de mogelijkheid tot het wijzigen van de profilerende feed en opmerkingensectie naar een chronologische of anderszins profileringsvrije feed of opmerkingensectie en de wijze waarop deze kan worden geactiveerd,
+
+ 
+ 
+
+ 
+
+ 
+
+ subsidiair
+ 
+
+ 
+ 
+
+ 
+
+ 
+VII. Meta c.s. te bevelen om binnen twee weken na dit vonnis dusdanige maatregelen te nemen ten aanzien van de websites en/of apps van Facebook en/of Instagram dat gebruikers in staat worden gesteld om voor een rechtstreeks en gemakkelijk toegankelijke profileringsvrije optie voor aanbevelingssystemen te kiezen en de voorkeursoptie te selecteren en te wijzigen, 
+
+ 
+VIII. Meta c.s. te bevelen om binnen twee weken na dit vonnis dusdanige maatregelen te nemen om de gebruikersvoorkeuren voor aanbevelingssystemen door gebruikers van de websites en/of apps van Facebook en/of Instagram, met inbegrip van de keuze voor chronologische of anderszins profileringsvrije aanbevelingssystemen, te respecteren, persistent te maken en te onthouden, waaronder tenminste wanneer de gebruiker de websites en/of apps afsluit en heropent, en wanneer de gebruiker naar activiteitenoverzicht en/of direct messages navigeert, voor:
+
+ 
+A. de feed c.q. startpagina;
+
+ 
+B. de opmerkingensectie;
+
+ 
+C. de reels-sectie,
+
+ 
+ 
+
+ 
+
+ 
+
+ primair en subsidiair
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ dwangsom
+ 
+
+ 
+ 
+
+ 
+
+ 
+IX. Meta c.s. hoofdelijk te bevelen een dwangsom te betalen van € 250.000 voor iedere dag (of deel daarvan) dat zij geheel of gedeeltelijk in strijd handelen met de bevelen op grond van vordering I t/m VIII, met een maximum van €100.000.000,
+
+ 
+ 
+
+ 
+
+ 
+
+ proceskosten
+ 
+ 
+
+ 
+X. Meta c.s. hoofdelijk te veroordelen in de proceskosten.
+
+ 
+ 
+
+ 
+ 
+
+ 3.2. 
+ 
+Op de stellingen van partijen wordt hierna, voor zover van belang, ingegaan.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+## 
+ 4 De beoordeling
+
+ 
+
+ 
+
+ 
+
+ inleiding en de DSA 
+ 
+
+ 
+ 
+
+ 
+
+ 4.1. 
+ 
+In dit kort geding gaat het om de vraag of Facebook Nederland, Meta Ierland, en Meta Inc in strijd handelen met de DSA, de Europese verordening van 19 oktober 2022 die van toepassing is sinds 17 februari 2024 (en voor Facebook en Instagram als zeer grote onlineplatforms sinds 25 augustus 2023). De vorderingen van BoF kunnen in kort geding worden toegewezen, indien voldoende aannemelijk is dat een bodemrechter dit ook zou doen, en indien van BoF niet kan worden gevergd dat zij de uitkomst van een bodemprocedure afwacht.
+
+ 
+
+ 
+ 
+
+ 4.2. 
+ 
+Centraal staat de vraag of de wijze waarop de sociale media platforms Facebook en Instagram zijn ingericht in strijd is met de DSA waar het de aanbevelingssystemen betreft (kort gezegd: op welke wijze informatie wordt gepresenteerd). De DSA schrijft voor dat gebruikers rechtsreeks en gemakkelijk een ander aanbevelingssysteem moeten kunnen selecteren. Omdat het bij Facebook en Instagram om zeer grote onlineplatforms gaat moet bovendien steeds één aanbevelingssysteem beschikbaar zijn dat niet op profilering is gebaseerd. Verder komt aan de orde of een door de gebruiker gekozen aanbevelingssysteem steeds gevolgd moet worden (ook wel persistent genoemd) of dat Facebook en Instagram na het afsluiten en heropenen van de website en/of app terug mogen schakelen naar een geprofileerd aanbevelingssysteem.
+
+ 
+
+ 
+
+ 
+
+ internationale bevoegdheid van de Amsterdamse rechter (rechtsmacht)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.3. 
+ 
+Omdat Meta Ierland en Meta Inc in het buitenland zijn gevestigd, moet eerst worden beoordeeld of de Nederlandse rechter bevoegd is om ten aanzien van die partijen over het voorliggende geschil te oordelen. Niet in geschil is dat de Amsterdamse voorzieningenrechter ten aanzien van het in Amsterdam gevestigde Facebook Nederland in ieder geval bevoegd is. 
+
+ 
+
+ 
+ 
+
+ 4.4. 
+ 
+Ten aanzien van de Ierse entiteit Meta Ierland is de Nederlandse rechter bevoegd op grond van artikel 7 lid 2 Brussel I-bis, nu de gestelde schade als gevolg van het gestelde onrechtmatig handelen door Meta Ierland zich in Nederland voordoet. Meta Ierland heeft deze bevoegdheid ook niet weersproken.
+
+ 
+
+ 
+ 
+
+ 4.5. 
+ 
+De bevoegdheid van de Nederlandse rechter om kennis te nemen van de ingestelde vorderingen tegen de Amerikaanse entiteit Meta Inc heeft BoF (primair) gebaseerd op artikel 7 Wetboek van burgerlijke rechtsvordering (Rv). Dat artikel verbindt aan bevoegdheid de voorwaarde dat sprake is van een zodanige samenhang tussen de vorderingen (ingesteld tegen Facebook Nederland enerzijds en Meta Inc anderzijds) dat redenen van doelmatigheid een gezamenlijke behandeling rechtvaardigen. Die samenhang is er volgens BoF. Zij stelt gelijke vorderingen in tegen deze entiteiten, gebaseerd op dezelfde rechtsgrond, namelijk onrechtmatige daad als gevolg van het handelen in strijd met de artikelen 27, 38 en 25 van de DSA. Meta Inc heeft daartegen aangevoerd dat zij geen rol speelt bij het aanbieden van Facebook en Instagram aan Nederlandse gebruikers en dat de DSA-artikelen die BoF inroept haar helemaal niet regarderen. Naar het oordeel van de voorzieningenrechter maakt dit echter niet dat geen samenhang bestaat tussen de ingestelde vorderingen. De Nederlandse rechter is dus bevoegd om daarvan kennis te nemen. Het (inhoudelijke) verweer van Meta Inc dat de DSA-artikelen haar niet regarderen zal bij de verdere beoordeling van het geschil aan de orde komen. 
+
+ 
+
+ 
+
+ 
+
+ ontvankelijkheid Bits of Freedom
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.6. 
+ 
+Een andere ‘voorvraag’ die moet worden beantwoord (voordat aan een inhoudelijke beoordeling van de ingestelde vorderingen kan worden toegekomen) is de vraag of BoF in die vorderingen kan worden ontvangen. Daarover wordt het volgende overwogen.
+
+ 
+
+ 
+ 
+
+ 4.7. 
+ 
+In artikel 3:305a lid 1 Burgerlijk Wetboek (BW) is bepaald dat een stichting als BoF een rechtsvordering kan instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voor zover zij deze belangen ingevolge haar statuten behartigt en deze belangen voldoende zijn gewaarborgd. In artikel 3:305a lid 2 BW is uitgewerkt wanneer de belangen voldoende zijn gewaarborgd en daartoe zijn vereisten opgesomd. Het zesde lid van artikel 3:305a BW bepaalt wanneer slechts aan een deel van de vereisten hoeft te zijn voldaan: ook wel het ‘lichte regime’ genoemd. In dit geval is er aanleiding om toepassing te geven aan dat regime omdat de aard van de vorderingen van BoF (die bovendien geen vordering tot schadevergoeding omvatten) daartoe aanleiding geeft.
+
+ 
+
+ 
+ 
+
+ 4.8. 
+ 
+BoF heeft in dit kort geding rechtsvorderingen ingesteld met een ideëel doel dat zij omschrijft als: “het beschermen van belangen en mensenrechten van inwoners van Nederland in het kader van digitale vrijheid”. Het statutaire doel van BoF omvat de bescherming van deze belangen. Daarin staat: “(…) De Stichting heeft ten doel het verdedigen en bevorderen van digitale burgerrechten(…)”. Deze procedure betreft een ‘algemeen-belangactie’, waarbij van BoF niet kan worden verlangd dat zij haar achterban met naam en toenaam noemt, noch dat zij met het oog op haar representativiteit duidelijk maakt dat het om voldoende personen gaat. BoF heeft verder voldoende duidelijk gemaakt dat zij een adequate spreekbuis is voor de groep waarvoor zij opkomt. Toetsing aan het lichte regime van artikel 3:305a BW leidt tot de conclusie dat de belangen die BoF beoogt te beschermen met de ingestelde rechtsvorderingen voldoende zijn gewaarborgd. BoF en haar bestuurders hebben geen winstoogmerk en de rechtsvorderingen hebben een voldoende nauwe band met de Nederlandse rechtssfeer; de vorderingen strekken immers tot bescherming van Nederlanders die gebruik maken van Facebook en Instagram. Dit alles is door Meta c.s. niet weersproken.
+
+ 
+
+ 
+ 
+
+ 4.9. 
+ 
+Meta c.s. stelt dat BoF niettemin niet-ontvankelijk is omdat zij niet voldoende heeft getracht om het gevorderde te bereiken door het voeren van overleg met Meta c.s. (het overlegvereiste van artikel 3:305a lid 3 sub c BW). Vaststaat dat Facebook Nederland, Facebook Ierland en Facebook Inc een verzoek tot overleg hebben ontvangen op 1 augustus 2025 (zie 2.6). Alleen Facebook Ierland heeft inhoudelijk gereageerd. Met (alleen) Meta Ierland heeft vervolgens overleg plaatsgevonden op 20 augustus 2025. Zij stelt echter dat dit onvoldoende is, omdat dit overleg heeft plaatsgevonden op basis van de door BoF verstuurde sommatie (zie 2.6) en de daarop volgende correspondentie, waarin BoF enkel verzocht om de praktijk te staken waarin de keuze van gebruikers voor een chronologische feed en chronologische opmerkingensectie automatisch wordt gereset. Naast de vorderingen die daarop zien, heeft BoF in dit kort geding ook 11 extra vorderingen ingesteld, waarover zij vooraf geen overleg heeft gezocht en die bovendien anders van aard zijn dan de vorderingen waarover partijen wel hebben overlegd, aldus Meta Ierland. 
+
+ 
+
+ 
+ 
+
+ 4.10. 
+ 
+Geoordeeld wordt als volgt. BoF en Meta Ierland hebben op 20 augustus 2025 in ieder geval overlegd over de mogelijkheid om op Facebook en Instagram een voorkeursoptie te selecteren en blijvend te wijzigen, met betrekking tot profilering. BoF stelt dat daarnaast is gesproken over het rechtstreeks en gemakkelijk toegankelijk maken van een profileringsvrije optie, Meta Ierland weerspreekt dit. Wat daar van zij kan in het midden blijven. De ingestelde vorderingen hangen alle samen met de wijze waarop Meta Ierland uitvoering geeft aan verplichtingen die op haar rusten op grond van de DSA, in het kader van het gebruik van geprofileerde aanbevelingssystemen voor haar diensten. Duidelijk is dat de sommatie is ingestoken met de bedoeling om tot overleg te komen over de door BoF gestelde schending van de DSA door Meta c.s. in verband met geprofileerde aanbevelingssystemen. Dat daarbij (of daarvoor) niet alle in dit kort geding ingestelde vorderingen uitdrukkelijk aan de orde zijn gesteld maakt niet dat BoF niet aan het overlegvereiste heeft voldaan. Het overleg is kennelijk stukgelopen op het onderwerp dat wordt geadresseerd met de eerste twee vorderingen. Aannemelijk is dat Meta c.s. dan ook niet is overvallen door de collectieve actie van BoF. Dat Meta Ierland voorafgaand aan dit kort geding nog graag van gedachten had gewisseld over de onderwerpen die worden geadresseerd door de overige vorderingen, maakt niet dat BoF niet in die vorderingen kan worden ontvangen, nu deze vorderingen voldoende samenhangen met het centrale onderwerp van geschil waarover partijen overleg hebben gevoerd: naleving van de DSA door Meta c.s. op het onderwerp profilering.
+
+ 
+
+ 
+ 
+
+ 4.11. 
+ 
+Conclusie is dat de Amsterdamse voorzieningenrechter bevoegd is om kennis te nemen van het voorgelegde geschil, en dat BoF kan worden ontvangen in de door haar ingestelde vorderingen, die hierna inhoudelijk zullen worden beoordeeld.
+
+ 
+
+ 
+
+ 
+
+ Facebook Nederland en Meta Inc niet aansprakelijk
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.12. 
+ 
+BoF heeft niet weersproken dat de rol van Facebook Nederland binnen het Meta concern beperkt is tot het leveren van marketing- en verschillende verkoopondersteunende diensten. Daarnaast is ook Meta Inc niet betrokken bij het aanbieden van de platforms aan Nederlandse gebruikers; zij houdt zich bezig met de operationele aansturing van de platforms voor landen buiten Europa. Binnen Europa wordt die rol door Meta Ierland vervuld. Als aanbieder van de platforms in de zin van de DSA rusten de uit de DSA volgende verplichtingen dan ook op Meta Ierland. Dit betekent dat de ingestelde vorderingen ten aanzien van Facebook Nederland en Meta Inc zullen worden afgewezen, en dat hierna de naleving van de DSA door Meta Ierland zal worden beoordeeld.
+
+ 
+
+ 
+
+ 
+
+ aanbevelingssystemen binnen Facebook en Instagram en de bezwaren van BoF daartegen
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.13. 
+ 
+De vorderingen van BoF richten zich op de manier waarop gebruikers op de sociale media platforms Facebook en Instagram in aanraking komen met aanbevelingssystemen. Beide platforms zijn toegankelijk via apps (voor de besturingssystemen iOS en Android) en websites. Die apps en websites bieden gebruikers een interface, waarbinnen gebruikers kunnen navigeren naar (onder meer) de volgende ‘secties’:
+
+ 
+ 
+ 
+Een startpagina, waarop een ‘feed’ te zien is. Met feed wordt hier bedoeld: een lijst met berichten (bestaande uit tekst, beeld, geluid en combinaties daarvan) die is samengesteld en gerangschikt volgens een aanbevelingssysteem. Dat aanbevelingssysteem kan ‘geprofileerd’ zijn, wat betekent dat de feed van een specifieke gebruiker is opgebouwd uit berichten die door algoritmes zijn geselecteerd en gerangschikt. Dit wordt ook wel ‘voor jou’ of ‘meest relevant’ genoemd. Het aanbevelingssysteem kan ook niet-geprofileerd zijn. Een voorbeeld daarvan is de chronologische feed op de startpagina, die bestaat uit berichten van (Facebook- of Instagram-) accounts die een gebruiker volgt, gerangschikt in chronologische volgorde. Dit wordt ook wel ‘volgend’ genoemd. In de processtukken hebben partijen de startpagina soms ook aangeduid met ‘tijdslijn’ of ‘feed’. In dit vonnis wordt deze sectie enkel aangeduid met startpagina. Het begrip ‘feed’ wordt gebruikt zoals hiervoor gedefinieerd.
+
+ 
+ 
+ 
+Een opmerkingensectie. Wanneer bij een bepaald bericht op het tekstballonnetje wordt geklikt (of gedrukt), opent de opmerkingensectie. Dit betreft een lijst met door verschillende gebruikers geplaatste opmerkingen bij dat bericht. Die lijst wordt ook gerangschikt volgens een aanbevelingssysteem, en ook weer geprofileerd (‘voor jou’ of ‘meest relevant’) of chronologisch (‘meest recent’ of ‘nieuwste’).
+
+ 
+ 
+ 
+Een reels-sectie, waarop een feed te zien is van ‘reels’ (video’s). Deze feed wordt eveneens samengesteld en gerangschikt volgens een aanbevelingssysteem, geprofileerd (‘voor jou’) of chronologisch (‘volgend’).
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 4.14. 
+ 
+Het aanbevelingssysteem van de startpagina, de opmerkingensecties en de reels-sectie staat bij de platformen standaard als geprofileerd ingesteld. Gebruikers kunnen ‘schakelen’ naar een ander aanbevelingssysteem op de volgende manier:
+
+ 
+
+ 
+
+ 
+
+ Instagram iOS app, Android app en website:
+
+ 
+ 
+- Startpagina: Op de startpagina van de iOS app en de website staat linksboven “Voor jou” met een “v” symbool ernaast . Als daarop wordt geklikt/gedrukt kan “Volgend” worden geselecteerd. Op de startpagina van de Android app staat linksboven het Instagram logo. Als daarop wordt geklikt/gedrukt kan “Volgend” worden geselecteerd.
+
+ 
+
+ 
+ 
+ 
+Opmerkingensectie: In de opmerkingensectie staat linksboven “Voor jou” met een “v” symbool ernaast. Als daarop wordt geklikt/gedrukt kan “Volgend” worden geselecteerd.
+
+ 
+ 
+ 
+Reels-sectie: Bovenaan de reels-sectie staan de woorden “Reels” en “Vrienden”. Als op “Reels” wordt geklikt/gedrukt kan “Volgend” worden geselecteerd. Als de gebruiker naar een tweede reel ‘swipet’, verschijnt “Voor jou” ook linksboven in beeld. Ook daarop kan worden geklikt/gedrukt, waarna “Volgend” kan worden geselecteerd.
+
+ 
+ 
+ 
+
+ Facebook iOS app, Android app en website:
+
+ 
+
+ 
+ 
+ 
+Startpagina: Op de startpagina van Facebook kan niet direct een ander aanbevelingssysteem worden geselecteerd. Daarvoor moet een gebruiker eerst op “Menu” klikken/drukken, en daarna op “Overzichten”. Dan komt de gebruiker in een overzicht waarin een (chronologisch) aanbevelingssysteem kan worden geselecteerd van “Favorieten”, “Vrienden”, “Groepen” of “Pagina’s”. Op sommige apparaten is de knop “Overzichten” ook direct zichtbaar in een balk, onderaan de startpagina.
+
+ 
+ 
+ 
+Opmerkingensectie: Bovenaan de opmerkingensectie staat “Meest relevant” met een “v” symbool ernaast. Als daarop wordt geklikt/gedrukt kan de optie “Nieuwste” worden geselecteerd. 
+
+ 
+ 
+ 
+
+ 
+- Reels-sectie: Een niet-geprofileerde reels-sectie bestaat niet op Facebook. Wel kan een gebruiker via “Menu” en “Overzichten” (zie hiervoor) een chronologische feed bekijken, waar reels deel van kunnen uitmaken.
+
+ 
+
+ 
+ 
+
+ 4.15. 
+ 
+BoF stelt dat Meta Ierland de keuzevrijheid en autonomie van gebruikers beperkt door de manier waarop zij haar platforms inricht en dat zij daarmee in strijd handelt met artikelen 27, 38 en 25 van de DSA. 
+
+ 
+
+ 
+
+ 
+Artikel 27 lid 3 DSA stelt eisen aan de functionaliteit waarmee gebruikers kunnen kiezen voor een aanbevelingssysteem. Deze bepaling luidt als volgt: 
+
+ 
+
+ “(…)Wanneer (…) verschillende opties beschikbaar zijn voor aanbevelingssystemen die de relatieve volgorde bepalen van de informatie die aan afnemers van de dienst wordt getoond, stellen aanbieders van onlineplatforms tevens een functionaliteit ter beschikking die de afnemer van de dienst de mogelijkheid biedt zijn voorkeursoptie te allen tijde te selecteren en te wijzigen. Deze functionaliteit is rechtstreeks en gemakkelijk toegankelijk op het specifieke gedeelte van de online-interface van het onlineplatform waar aan de informatie prioriteit wordt gegeven. (…)”
+
+ 
+ 
+
+ 
+
+ 
+Artikel 38 DSA voegt aan deze verplichtingen het volgende toe voor zeer grote onlineplatforms:
+
+ 
+ 
+
+ 
+
+ 
+“(…) Naast de in artikel 27 uiteengezette vereisten bieden aanbieders van zeer grote 
+
+ 
+onlineplatforms (…) die gebruikmaken van aanbevelingssystemen ten minste één optie aan voor elk van hun aanbevelingssystemen dat niet gebaseerd is op profilering (…).”
+
+ 
+ 
+
+ 
+
+ 
+Artikel 25 DSA kent een algemene verplichting voor aanbieders om, kort gezegd, misleiding en manipulatie te voorkomen en het vermogen van gebruikers om vrije en geïnformeerde beslissingen te nemen niet te ondermijnen:
+
+ 
+ 
+
+ 
+
+ 
+“Aanbieders van onlineplatforms ontwerpen, organiseren of beheren hun online-interfaces niet zodanig dat zij de afnemers van hun dienst misleiden of manipuleren of hun vermogen om vrije en geïnformeerde beslissingen te nemen, anderszins wezenlijk verstoren of ondermijnen.”
+
+ 
+ 
+
+ 
+ 
+
+ 4.16. 
+ 
+BoF heeft als volgt toegelicht op welke wijze Meta Ierland volgens haar inbreuk maakt op voornoemde artikelen:
+
+ 
+ 
+ 
+De plek om voor een niet-geprofileerd aanbevelingssysteem te kiezen is moeilijk vindbaar en dus niet rechtstreeks en gemakkelijk toegankelijk op de platforms.
+
+ 
+ 
+ 
+Nadat een gebruiker (de apps en/of websites van) de platforms opent, wordt automatisch een geprofileerd aanbevelingssysteem toegepast op de startpagina, de opmerkingensectie, en de reels-sectie, ook als de gebruiker vóórdat de app/website voor het laatst werd afgesloten, een chronologisch aanbevelingssysteem selecteerde. Dit ‘terugschakelen’ naar een geprofileerd aanbevelingssysteem gebeurt ook automatisch gedurende een sessie wanneer een gebruiker navigeert tussen verschillende secties van het platform (de startpagina, de opmerkingensectie of de reels-sectie). 
+
+ 
+ 
+ 
+Het is onmogelijk om in de apps of op de websites een ‘persistente’ keuze in te stellen. Dat wil zeggen, een keuze voor de instelling van een niet-geprofileerd aanbevelingssysteem die niet ‘terugschakelt’ naar een geprofileerd aanbevelingssysteem, op het moment dat de gebruiker navigeert tussen verschillende secties van het platform, of de app of website van het platform afsluit en opnieuw opent.
+
+ 
+ 
+ 
+Als de gebruiker kiest voor een chronologisch aanbevelingssysteem voor de startpagina van de platforms, komt de gebruiker terecht in een aanzienlijk andere interface, waarin essentiële functionaliteiten niet toegankelijk zijn. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+De door BoF gestelde inbreuken op de DSA zullen hierna per punt worden beoordeeld.
+
+ 
+ 
+
+ 
+i. i) de vindbaarheid van de instelling van een niet-geprofileerde aanbevelingssysteem
+
+ 
+
+ 
+ 
+
+ 4.17. 
+ 
+Vaststaat dat op de platforms Facebook en Instagram een functionaliteit wordt aangeboden om te kunnen schakelen naar een niet-profilerend aanbevelingssysteem. De vraag is of deze functionaliteit conform artikel 27 lid 3 DSA “rechtstreeks en gemakkelijk toegankelijk” is “op het specifieke gedeelte van de online-interface (…) waar aan de informatie prioriteit wordt gegeven”. 
+
+ 
+
+ 
+ 
+
+ 4.18. 
+ 
+Ten aanzien van Instagram wordt als volgt geoordeeld. Op de startpagina van Instagram (iOS-app en website) en in de opmerkingensectie van Instagram (iOS, Android en website) kan de gebruiker rechtstreeks klikken/drukken op “Voor jou” en daarmee het aanbevelingssysteem wijzigen naar een chronologische feed (“Volgend”). Daarmee staat gebruikers een rechtstreeks en gemakkelijk toegankelijke functionaliteit ter beschikking, conform artikel 27 lid 3 DSA. Dit geldt niet voor de startpagina van Instagram op de Android-app. Daar kan de keuze voor een chronologische feed op de startpagina enkel worden gemaakt door op het Instagram-logo te klikken/drukken. Het wordt de gebruiker op geen enkele manier duidelijk gemaakt dat deze functionaliteit achter het logo verscholen zit, zodat deze niet rechtsreeks en gemakkelijk toegankelijk is. Dit geldt ook voor de reels-sectie. Daar zit de functionaliteit verborgen achter de tekst “Reels”. Zodra de gebruiker ‘swipet’ naar een volgende reel verschijnt de functionaliteit weliswaar alsnog, maar geoordeeld wordt dat dit niet voldoende rechtsreeks en gemakkelijk toegankelijk is. Van gebruikers wordt op deze manier immers gevergd dat zij voor het selecteren van een niet-geprofileerd aanbevelingssysteem ogenschijnlijk willekeurige handelingen uitvoeren die niets met het instellen van een aanbevelingssysteem te maken hebben (het klikken op de tekst “Reels” / het ‘swipen’ naar een volgende reel). 
+
+ 
+
+ 
+ 
+
+ 4.19. 
+ 
+Ten aanzien van Facebook wordt als volgt geoordeeld. Om het aanbevelingssysteem van de startpagina in de apps en/of website te wijzigen naar chronologisch moet een gebruiker navigeren naar “Menu” en vervolgens naar de submenu’s “Overzichten” en “Favorieten”/“Vrienden”/“Groepen”/“Pagina’s”. De functionaliteit is aldus niet toegankelijk op het specifieke gedeelte van de online-interface van Facebook, waar aan de informatie prioriteit wordt gegeven (de startpagina). Uit de naam van deze (sub)menu’s blijkt ook niet dat gebruikers via deze route kunnen kiezen voor een niet-geprofileerd aanbevelingssysteem op de startpagina. De functionaliteit is dus ook niet rechtstreeks en gemakkelijk toegankelijk. De opmerkingensecties voldoen wel, nu het aanbevelingssysteem daarvan direct kan worden gewijzigd door bovenaan die sectie “Nieuwste” te selecteren. De reels-sectie voldoet niet aan artikel 38 DSA, omdat deze sectie gebruik maakt van een geprofileerd aanbevelingssysteem, zonder een niet-geprofileerde optie van de reels-sectie aan te bieden. Meta Ierland heeft aangevoerd dat via het tabblad “Overzichten” kan worden gezocht op reels, waarna een overzicht van video’s wordt gegeven gebaseerd op de ingevoerde zoekterm, en niet op basis van een geprofileerd aanbevelingssysteem. Dit argument gaat niet op, reeds omdat het aanbieden van een zoekfunctie wat anders is dan het aanbieden van een niet-geprofileerd aanbevelingssysteem. 
+
+ 
+
+ 
+ 
+
+ 4.20. 
+ 
+Conclusie is dat de startpagina van Instagram op de Android-app, de reels-sectie van Instagram (op beide apps en de website), en de startpagina en de reels-sectie van Facebook (op beide apps en website) niet voldoen aan de door de DSA gestelde vereisten. 
+
+ 
+
+ 
+
+ 
+
+ ii) en iii) het ‘terugschakelen’ naar een geprofileerd aanbevelingssysteem 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.21. 
+ 
+Vervolgens ligt de vraag voor of het Meta Ierland onder de DSA is toegestaan om haar platforms zo in te richten, dat een door de gebruiker gekozen niet-profilerend aanbevelingssysteem enkel wordt toegepast zolang de gebruiker op die specifieke sectie van de online-interface (de startpagina / opmerkingensectie / reels-sectie) blijft, of dat deze instelling ‘persistent’ moet zijn. Uit de vorderingen van BoF blijkt dat zij met persistent ook bedoelt dat deze instelling behouden blijft wanneer de gebruiker de app of website van de platforms afsluit en heropent.
+
+ 
+
+ 
+ 
+
+ 4.22. 
+ 
+BoF heeft in dit verband allereerst aangevoerd dat het niet behouden blijven van een door gebruikers gekozen instelling impliceert dat Meta Ierland die keuze van gebruikers wijzigt, terwijl de DSA geen enkel aanknopingspunt biedt dat platforms gerechtigd zijn om dit te doen. Het wijzigen, althans niet onthouden van een voorkeursoptie van gebruikers is daarom onverenigbaar met artikel 27 lid 3 DSA, aldus BoF.
+
+ 
+
+ 
+ 
+
+ 4.23. 
+ 
+Dit argument gaat niet op. Dat artikel 27 lid 3 DSA geen aanknopingspunt biedt voor het wijzigen van een instelling door een platform, betekent niet zonder meer dat platforms dat dus niet mogen doen. 
+
+ 
+
+ 
+ 
+
+ 4.24. 
+ 
+BoF heeft voorts aangevoerd dat een grammaticale interpretatie van artikel 27 lid 3 DSA tot de conclusie moet leiden dat platforms gebruikers een peristente (duurzame) mogelijkheid tot wijziging van het aanbevelingssysteem moeten aanbieden, omdat in die bepaling staat dat gebruikers te allen tijde een ”voorkeursoptie” moeten kunnen “selecteren en wijzigen”.
+
+ 
+
+ 
+ 
+
+ 4.25. 
+ 
+Geoordeeld wordt als volgt. Uit een grammaticale interpretatie van de bepaling dat een gebruiker zijn of haar “voorkeursoptie” moet kunnen selecteren en wijzigen volgt dat deze wijziging in ieder geval enige duur moet hebben. Deze bepaling zou immers zinledig zijn als een gemaakte keuze voor een chronologisch aanbevelingssysteem, ongedaan zou worden gemaakt door een onmiddellijke automatische terugschakeling naar een geprofileerd aanbevelingssysteem. Dat het gaat om een voorkeursoptie is bovendien een aanknopingspunt voor de interpretatie dat het gaat om een instelling die bewaard blijft totdat de gebruiker ervoor kiest deze weer te wijzigen. Bij een andere lezing is immers onduidelijk welke meerwaarde de term “voorkeurs-” zou hebben naast het woord “optie”, want in het begrip “optie” zelf ligt al besloten dat een gebruiker een keuze kan maken naar eigen voorkeur. Aannemelijk is dan ook dat “voorkeursoptie” zo moet worden begrepen dat de gebruiker zijn of haar voorkeur kan instellen, en dat deze instelling behouden blijft totdat de gebruiker deze weer wijzigt. 
+
+ 
+
+ 
+ 
+
+ 4.26. 
+ 
+Deze lezing wordt ondersteund door een interpretatie van artikel 27 lid 3 DSA aan de hand van het achterliggende doel daarvan. BoF heeft terecht aangevoerd dat een niet-persistente keuzemogelijkheid voor een aanbevelingssysteem haaks staat op het doel dat met de DSA wordt gediend, namelijk dat gebruikers daadwerkelijk autonomie, keuzevrijheid en controle krijgen over de wijze waarop informatie aan hen wordt gepresenteerd. Daarover wordt als volgt overwogen.
+
+ 
+
+ 
+ 
+
+ 4.27. 
+ 
+De achtergrond van de verplichting voor zeer grote onlineplatforms zoals Facebook en Instagram om in ieder geval één keuzemogelijkheid voor een niet-geprofileerd aanbevelingssysteem aan te bieden, volgt uit de inleidende overwegingen bij de DSA, in het bijzonder uit paragrafen 75 en verder. Zeer grote onlineplatforms kunnen vanwege hun bereik risico’s voor de samenleving opleveren, die qua reikwijdte en impact verschillen van die van kleinere platforms. Deze aanbieders moeten daarom aan de hoogste standaard inzake zorgvuldigheid voldoen en de systeemrisico’s beoordelen die voortvloeien uit het ontwerp, de werking en het gebruik van hun diensten, en passende maatregelen nemen om deze risico’s te beperken met inachtneming van grondrechten. Ook waar het betreft werkelijke of voorzienbare negatieve effecten op democratische processen, het maatschappelijk debat en verkiezingsprocessen, en op de openbare veiligheid. De verplichte risicobeperking kan bestaan uit aanpassing van het ontwerp van de aangeboden dienst en kan er per geval ook toe leiden dat het ontwerp van het aanbevelingssysteem moet worden beoordeeld en zo nodig aangepast. 
+
+ 
+
+ 
+ 
+
+ 4.28. 
+ 
+BoF stelt dat in dit geval daadwerkelijk sprake is van een onmiddellijk en ernstig risico voor de integriteit van het democratische proces, omdat op 29 oktober 2025 Tweede Kamerverkiezingen plaatsvinden, en het gebruik van profilerende aanbevelingssystemen afbreuk doet aan de keuzevrijheid en autonomie van gebruikers. Daaruit volgt echter nog niet dat Meta Ierland zonder meer in strijd handelt met het hiervoor beschreven doel van de DSA om maatschappelijke risico’s te beperken, wanneer zij een niet-persistente keuzemogelijkheid voor een chronologisch aanbevelingssysteem aanbieden. 
+
+ 
+
+ 
+ 
+
+ 4.29. 
+ 
+Het betoog van BoF wordt zo begrepen dat de autonomie en keuzevrijheid van gebruikers bij het kiezen van een aanbevelingssysteem fundamenteel is voor de uitoefening van de vrijheid van informatiegaring, het grondrecht dat op haar beurt fundamenteel is voor een democratische proces, zoals verkiezingen. De vraag die dan voorligt is of het aanbieden van een niet-persistente keuzemogelijkheid zoals dat gebeurt op Facebook en Instagram een ongeoorloofde aantasting is van die autonomie en keuzevrijheid van gebruikers om beslissingen te nemen. Die vraag moet worden beoordeeld aan de hand van artikel 25 lid 1 DSA. 
+
+ 
+
+ 
+ 
+
+ 4.30. 
+ 
+De in artikel 25 lid 1 DSA genoemde ongeoorloofde aantasting van de autonomie van gebruikers wordt in de DSA ook gedefinieerd als een ‘donker patroon’ (in de literatuur ook aangeduid als dark pattern). In de inleidende overwegingen van de DSA wordt de definitie van een donker patroon als volgt toegelicht (onderstreping toegevoegd):
+
+ 
+
+ 
+
+ 
+“(67) Donkere patronen op online-interfaces van onlineplatforms zijn praktijken die, doelbewust of feitelijk, het vermogen van afnemers van de dienst om autonome en weloverwogen keuzes te maken of beslissingen te nemen, wezenlijk verstoren of belemmeren. Die praktijken kunnen worden gebruikt om de afnemers van de dienst te bewegen tot ongewenste gedragingen of tot ongewenste beslissingen die negatieve gevolgen voor hen hebben. (…)
+
+ 
+Daarom moet het aanbieders van onlineplatforms worden verboden om afnemers van de dienst via de structuur, het ontwerp of de functionaliteiten van een online-interface of delen daarvan te misleiden of te nudgen en de autonomie en beslissings- of keuzemogelijkheden van de afnemers van de dienst te verstoren of te belemmeren. Dit moet het volgende omvatten, maar niet beperkt blijven tot een op uitbuiting gericht ontwerp (…) Het moet ook het volgende omvatten: een afnemer van de dienst herhaaldelijk vragen een keuze te maken indien hij die reeds heeft gemaakt (…).”
+
+ 
+ 
+
+ 
+ 
+
+ 4.31. 
+ 
+Doorslaggevend voor de vraag of het aanbieden van een niet-persistente keuzemogelijkheid zoals dat gebeurt op Facebook en Instagram een verboden donker patroon is, is of deze praktijk doelbewust of feitelijk het vermogen van gebruikers om autonome en weloverwogen keuzes te maken wezenlijk verstoort of belemmert. 
+
+ 
+
+ 
+ 
+
+ 4.32. 
+ 
+Geoordeeld wordt dat dit ten aanzien van beide platforms, zowel op de apps als de website, het geval is om de volgende redenen. 
+
+ 
+
+ 
+ 
+
+ 4.33. 
+ 
+Aannemelijk is, wanneer een gebruiker ervoor kiest om een niet-geprofileerd (chronologisch) aanbevelingssysteem te selecteren in een van de secties van Instagram of Facebook, dat de gebruiker dit in zijn algemeenheid weloverwogen doet. De selectie vereist immers een actieve handeling van de gebruiker. Niet aannemelijk is dat, als vervolgens wordt genavigeerd tussen de verschillende secties van het platform, dit een weloverwogen keuze inhoudt om die selectie weer ongedaan te maken en weer voor een geprofileerd aanbevelingssysteem te kiezen. Het navigeren tussen de verschillende secties is veeleer normaal gebruik van het platform, waarmee de gebruiker zich op verschillende manieren bedient van informatie. Het gevolg van het resetten van de door de gebruiker gemaakte keuze bij het navigeren tussen de verschillende secties van het platform, is dat een gebruiker die zich wil bedienen van een niet-geprofileerd aanbevelingssysteem die keuze bij normaal gebruik van het platform steeds opnieuw actief zal moeten instellen. Aannemelijk is dat deze praktijk tot keuzemoeheid van gebruikers leidt en daarmee een wezenlijke verstoring vormt van de autonomie van de gebruikers van Facebook en Instagram. Deze functionaliteit van de platforms betreft dan ook een door de DSA verboden donker patroon. Dit oordeel wordt ondersteund door de eerder aangehaalde overweging 67 van de DSA, waarin een dergelijke functionaliteit van platforms uitdrukkelijk als voorbeeld van een donker patroon wordt benoemd (zie het onderstreepte gedeelte).
+
+ 
+
+ 
+ 
+
+ 4.34. 
+ 
+Dit geldt ook voor het resetten van de door de gebruiker gekozen instelling ten aanzien van een aanbevelingssysteem, nadat de app of de website van Facebook en/of Instagram wordt afgesloten en vervolgens wordt heropend. Ook op die manier wordt de gebruiker steeds opnieuw (iedere keer bij het openen van de apps en/of website van de platforms) gevraagd om een keuze te maken. Aannemelijk is dat dit niet verenigbaar is met een tekstuele interpretatie van artikel 27 lid 3 DSA, en dat dit tot keuzemoeheid en een aantasting van de autonomie van gebruikers leidt, hetgeen in strijd is met artikel 25 DSA en haaks staat op het doel van artikelen 27 lid 3 en 38 DSA. 
+
+ 
+
+ 
+ 
+
+ 4.35. 
+ 
+Conclusie is dat een door de gebruiker gekozen voorkeursoptie voor een niet-geprofileerd aanbevelingssysteem ‘persistent’ moet zijn, wat betekent dat de keuze voor dat aanbevelingssysteem behouden moet blijven totdat de gebruiker deze weer wijzigt, dus ook als een gebruiker binnen het platform naar andere secties navigeert, en ook als een gebruiker de apps en/of website van de platforms heeft afgesloten en deze vervolgens heropent. De functionaliteit die Facebook en Instagram op dit moment bieden voor het kiezen van een niet-geprofileerd aanbevelingssysteem is niet persistent, en dus in strijd met de DSA.
+
+ 
+
+ 
+
+ 
+
+ iv) de interface bij een chronologisch aanbevelingssysteem
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.36. 
+ 
+Ten aanzien van de interface van Facebook en Instagram heeft BoF gesteld dat deze verandert, op het moment dat op die platforms wordt gekozen voor een niet-geprofileerd aanbevelingssysteem voor de startpagina. 
+
+ 
+
+ 
+ 
+
+ 4.37. 
+ 
+Vaststaat dat het kiezen voor een chronologisch aanbevelingssysteem voor de startpagina op de Instagram apps leidt naar een interface met andere functionaliteiten. Vanuit die interface kan een gebruiker bijvoorbeeld niet meer navigeren naar het activiteitenoverzicht, of naar de ‘direct-messages’-sectie. Daarvoor dient de gebruiker eerst op een prominente pijl in de linker bovenhoek te klikken/drukken, waarmee de gebruiker terugkomt in de (interface van de) startpagina met een geprofileerd aanbevelingssysteem. Ook op Facebook leidt de keuze van een niet-geprofileerd aanbevelingssysteem naar een wezenlijk andere interface. De gebruiker bevindt zich dan niet meer op de interface van de startpagina, maar op een sectie die “Overzichten” heet, met andere functionaliteiten en met een andere soort feed, die bestaat uit berichten en Reels. 
+
+ 
+
+ 
+ 
+
+ 4.38. 
+ 
+Partijen staan tegenover elkaar met betrekking tot de vraag of de wijziging van de interface, die op de platforms gekoppeld is aan het kiezen van een niet-geprofileerd aanbevelingssysteem, donkere patronen betreffen. De standpunten over en weer met betrekking tot dit onderwerp behoeven in dit kort geding geen beoordeling omdat ten aanzien van die (wijzigende) interface geen vorderingen zijn ingesteld. 
+
+ 
+
+ 
+
+ 
+
+ conclusie: strijd met DSA door zeer grote onlineplatforms Facebook en Instagram
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.39. 
+ 
+Conclusie is dat de wijze waarop Meta c.s. Facebook en Instagram gebruikers in staat stelt om te kiezen voor een niet-geprofileerd aanbevelingssysteem, op een aantal onderdelen in strijd is met de verplichtingen uit de DSA. Op die onderdelen zullen de platforms moeten worden aangepast, ter bescherming van de autonomie en keuzevrijheid van gebruikers van deze platforms. 
+
+ 
+
+ 
+
+ 
+
+ spoedeisend belang
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.40. 
+ 
+De vrijheid van informatiegaring is een grondrecht, dat onderdeel uitmaakt van de vrijheid van meningsuiting. Dit grondrecht wordt beschermd ten behoeve van het publieke debat, dat fundamenteel is voor een democratische samenleving. In dat licht bezien zijn de ingestelde vorderingen in dit kort geding naar hun aard spoedeisend. Dit geldt temeer nu op 29 oktober 2025 Tweede Kamerverkiezingen zullen plaatsvinden, terwijl Nederlanders op dit moment door Facebook en Instagram onvoldoende in staat worden gesteld om op vrije en autonome wijze keuzes te maken over het gebruik van al dan niet geprofileerde aanbevelingssystemen. Meta c.s. heeft aangevoerd dat er geen bewijs is dat geprofileerde aanbevelingssystemen het verkiezingsproces zouden beïnvloeden, maar dit argument wordt gepasseerd. In de DSA is uitgebreid overwogen welke maatschappelijke risico’s de achtergrond vormen voor de verplichtingen die de wetgever via de DSA heeft opgelegd aan aanbieders van zeer grote onlineplatforms als Facebook en Instagram (zie hiervoor onder 4.27). Voor de gevorderde naleving van de DSA-bepalingen die ten doel hebben om deze risico’s te beperken is dan ook niet nodig dat BoF eerst bewijst dat die risico’s zich manifesteren. Meta Ierland heeft in haar conclusie van antwoord in dit kort geding wel een opsomming gemaakt met risicobeperkende maatregelen die zij heeft getroffen om oneigenlijke beïnvloeding van verkiezingen te voorkomen. Aannemelijk is dat Meta Ierland zich daarmee inspant om invulling te geven aan haar verantwoordelijkheden ten aanzien van het verkiezingsproces. Dit doet echter niet af aan de verplichtingen die op haar rusten uit hoofde van de DSA, noch aan het spoedeisend belang van de gevorderde naleving daarvan.
+
+ 
+
+ 
+ 
+
+ 4.41. 
+ 
+Meta Ierland heeft aangevoerd dat eventuele opgelegde maatregelen alleen tot aan de verkiezingen zouden moeten gelden, omdat daarna het spoedeisend belang daaraan ontvalt. Die beperking zal niet worden gevolgd. De DSA vereist steeds dat aanbieders van zeer grote onlineplatforms eraan bijdragen dat gebruikers op vrije en autonome wijze de keuzes kunnen maken voor een al dan niet geprofileerd aanbevelingssysteem, ook los van verkiezingen. De op te leggen maatregelen zullen dus ook na de verkiezingen blijven gelden.
+
+ 
+
+ 
+ 
+
+ 4.42. 
+ 
+Met de op te leggen maatregelen wordt beoogd een voorziening te treffen voor de achterban van BoF, voor wiens belangen zij in dit kort geding opkomt. Dit zijn de gebruikers van Facebook en/of Instagram binnen Nederland. Dit brengt mee dat de op te leggen maatregelen ook alleen betrekking kunnen hebben op het aanbieden van Facebook en/of Instagram aan gebruikers binnen Nederland.
+
+ 
+
+ 
+
+ 
+
+ geen bevel tot vermelden ‘profiled’ of ‘profilerend’
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.43. 
+ 
+Het onder vordering IV geformuleerde bevel om bovenaan de secties startpagina, opmerkingensectie en reels-sectie van Facebook en Instagram de duidelijk geschreven tekst ‘Profiled’ of ‘Profilerend’ op te nemen, zal worden afgewezen. BoF heeft niet toegelicht wat de juridische grondslag is van dit gevorderde bevel.
+
+ 
+
+ 
+
+ 
+
+ geen bevel tot opnemen informatie aanbevelingssystemen / tonen informatief pop-up venster
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.44. 
+ 
+BoF heeft onder V gevorderd dat Meta c.s. wordt bevolen tot het opnemen van informatie over welke parameters de grootste invloed hebben op hun informatievoorziening en waarom, met als doel te voorkomen dat gebruikers in strijd met artikel 27 lid 2 DSA onvoldoende toegang hebben tot informatie, en dat Meta c.s. (verder) onrechtmatig handelt jegens BoF en haar achterban. Dat Meta c.s. onrechtmatig handelt en dat BoF een spoedeisend belang heeft bij deze voorziening, heeft BoF gesteld, noch onderbouwd. Hetzelfde geldt voor de vordering tot het tonen van een informatief pop-up venster (vordering VI). Vorderingen V en VI zullen om die reden worden afgewezen. 
+
+ 
+
+ 
+
+ 
+
+ toewijzing vorderingen II en III
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.45. 
+ 
+Met inachtneming van het voorgaande zullen vorderingen II en III als volgt worden toegewezen. 
+
+ 
+
+ 
+ 
+
+ 4.46. 
+ 
+Meta Ierland zal worden bevolen om de gebruikersvoorkeuren voor aanbevelingssystemen te respecteren en persistent te maken, inhoudende dat een door Nederlandse gebruikers ingestelde keuze voor een niet-geprofileerd aanbevelingssysteem behouden blijft, ook als de gebruiker binnen het platform naar andere secties navigeert, en ook als de gebruiker de apps of website heeft afgesloten en vervolgens heropent. Dit betreft vordering II. Bij deze stand van zaken zal vordering I, mede gelet op hetgeen is overwogen onder 4.23 worden afgewezen. Bij toewijzing van vordering II heeft BoF immers geen belang meer bij toewijzing van de spiegelbeeldig geformuleerde vordering I.
+
+ 
+
+ 
+ 
+
+ 4.47. 
+ 
+Meta Ierland zal verder worden bevolen om de voorkeursoptie voor een niet-geprofileerd aanbevelingssysteem rechtstreeks en gemakkelijk toegankelijk te maken op de (i) de startpagina op de Android-app, (ii) de reels-sectie van Instagram (alle apps en websites) en (iii) de startpagina en de reels-sectie van Facebook (alle apps en websites). Dit betreft vordering III. Voor de implementatiewijze van dit bevel kan Meta Ierland aansluiten bij de overwegingen onder 4.18 en 4.19 van dit vonnis. Daarin staat beschreven welke implementatie van de keuzefunctionaliteit voor een aanbevelingssysteem wél voldoende rechtstreeks en gemakkelijk toegankelijk is, bijvoorbeeld de opmerkingensectie van Facebook en Instagram, waarin de gebruiker direct kan klikken/drukken op “Voor jou”, respectievelijk “Nieuwste”.
+
+ 
+
+ 
+
+ 
+
+ implementatie onmogelijk?
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.48. 
+ 
+
+ 
+Meta Ierland heeft verder aangevoerd en onderbouwd met een verklaring van de Director of Product Management van Meta Inc, dat zij onmogelijk binnen twee weken uitvoering kan geven aan deze bevelen, omdat dit ingrijpende wijzigingen voor haar platforms behelzen, waarvan implementatie ten minste zes tot twaalf maanden zal duren. 
+
+ 
+BoF heeft gesteld en met een deskundigenrapport onderbouwd dat het implementeren van persistente (blijvende) gebruikersvoorkeuren voor Meta Ierland “technisch triviaal en organisatorisch verwaarloosbaar” is. Partijen staan op dit punt dus lijnrecht tegenover elkaar. Dat de bevelen vereisen dat Meta Ierland de kernactiviteiten fundamenteel moet veranderen en een geheel andere dienst moet gaan leveren, zoals zij heeft aangevoerd, is echter niet aannemelijk. Zowel Facebook als Instagram bieden gebruikers op dit moment in de meeste gevallen een mogelijkheid om een niet-geprofileerd aanbevelingssysteem te selecteren. In dit kort geding is niet gevorderd dat het aanbevelingssysteem zélf wordt aangepast. Het gaat hier slechts om de wijze waarop gebruikers een aanbevelingssysteem kunnen selecteren (vordering III) en om het persistent maken van die keuze (vordering II). Uit de in dit kort geding te geven bevelen volgt dat die keuze rechtstreeks en gemakkelijk toegankelijk moet zijn, en dat een eenmaal gemaakte keuze in stand moet blijven, totdat de gebruiker een andere keuze maakt. Dat dit complexe implementatiehandelingen vereist die meer dan twee weken in beslag nemen is onvoldoende aannemelijk. Aan Meta Ierland zal daarom een termijn van twee weken, te rekenen vanaf de datum van dit vonnis, worden gegeven om aan de bevelen te voldoen.
+
+ 
+ 
+
+ 
+
+ 
+
+ dwangsom
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.49. 
+ 
+Als prikkel tot nakoming zal aan de bevelen een dwangsom worden verbonden. De gevorderde dwangsom zal worden gematigd en gemaximeerd zoals hierna onder de beslissing vermeld. Voor het verbeuren van dwangsommen is vereist dat BoF dit vonnis betekent. 
+
+ 
+
+ 
+
+ 
+
+ proceskosten
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.50. 
+ 
+Meta Ierland is grotendeels in het ongelijk gesteld en moet daarom de proceskosten (inclusief nakosten) betalen. De proceskosten van BoF worden begroot op:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- kosten van de dagvaarding
+
+ 
+ 
+ 
+€
+
+ 
+ 
+ 
+144,47
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+- griffierecht
+
+ 
+ 
+ 
+€
+
+ 
+ 
+ 
+714,00
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+- salaris advocaat
+
+ 
+ 
+ 
+€
+
+ 
+ 
+ 
+1.661,00
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+- nakosten
+
+ 
+ 
+ 
+€
+
+ 
+ 
+ 
+178,00
+
+ 
+ 
+ 
+(plus de verhoging zoals vermeld in de beslissing)
+
+ 
+ 
+ 
+ 
+ 
+Totaal
+
+ 
+ 
+ 
+€
+
+ 
+ 
+ 
+2.143,47
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+Er is geen aanleiding BoF te veroordelen in de kosten van Facebook Nederland en Meta Inc Deze twee partijen hebben geen extra kosten van betekenis gemaakt. 
+
+ 
+ 
+
+ 
+ 
+
+ 4.51. 
+ 
+De gevorderde wettelijke rente over de proceskosten wordt toegewezen zoals vermeld in de beslissing.
+
+ 
+
+ 
+ 
+ 
+ 
+## 
+ 5 De beslissing
+
+ 
+
+ 
+
+ 
+De voorzieningenrechter
+
+ 
+ 
+
+ 
+
+ 5.1. 
+ 
+beveelt Meta Ierland om binnen twee weken na dit vonnis de door gebruikers van de websites en/of apps van Facebook en/of Instagram aangegeven keuze voor een aanbevelingssysteem, met inbegrip van de keuze voor een chronologische of anderszins niet-geprofileerd aanbevelingssysteem, persistent te maken, inhoudende dat een door gebruikers ingestelde keuze voor een niet-geprofileerd aanbevelingssysteem behouden blijft, ook als de gebruiker binnen het platform naar andere secties navigeert, en ook als de gebruiker de apps en/of website van de platforms heeft afgesloten en deze vervolgens heropent,
+
+ 
+
+ 
+ 
+
+ 5.2. 
+ 
+beveelt Meta Ierland om binnen twee weken na dit vonnis de keuze voor niet-geprofileerde aanbevelingssystemen rechtstreeks en gemakkelijk toegankelijk te maken op (i) de startpagina van Instagram op de Android-app, (ii) de reels-sectie van Instagram (alle apps en websites) en (iii) de startpagina en de reels-sectie van Facebook (alle apps en websites),
+
+ 
+
+ 
+ 
+
+ 5.3. 
+ 
+veroordeelt Meta Ierland om aan BoF een dwangsom te betalen van € 100.000,00 voor iedere dag of gedeelte daarvan dat zij niet of niet volledig aan de bevelen onder 5.1 en/of 5.2 voldoet, tot een maximum van in totaal € 5.000.000,00 is bereikt,
+
+ 
+
+ 
+ 
+
+ 5.4. 
+ 
+veroordeelt Meta Ierland in de proceskosten van € 2.143,47, te betalen binnen veertien dagen na aanschrijving daartoe, te vermeerderen met € 92,00 plus de kosten van betekening als het vonnis wordt betekend,
+
+ 
+
+ 
+ 
+
+ 5.5. 
+ 
+veroordeelt Meta Ierland tot betaling van de wettelijke rente als bedoeld in artikel 6:119 BW over de proceskosten als deze niet binnen veertien dagen na aanschrijving zijn betaald,
+
+ 
+
+ 
+ 
+
+ 5.6. 
+ 
+verklaart dit vonnis uitvoerbaar bij voorraad,
+
+ 
+
+ 
+ 
+
+ 5.7. 
+ 
+wijst het meer of anders gevorderde af.
+
+ 
+
+ 
+
+ 
+Dit vonnis is gewezen door mr. M.L.S. Kalff, voorzieningenrechter, bijgestaan door mr. J. Dekker, griffier, en in het openbaar uitgesproken op 2 oktober 2025.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Coll: MV

@@ -73,7 +73,7 @@ const BODY = {
       id: "read-litigation-record",
       name: "Read the dated litigation record",
       description:
-        "The social media addiction lawsuits explained: five proceedings, evidence-tiered and sourced.",
+        "The social media addiction lawsuits explained: six proceedings across three legal systems, evidence-tiered and sourced.",
       tags: ["lawsuits", "litigation", "mdl-3047", "meta"],
       examples: ["What are the social media addiction lawsuits?", `GET ${SITE}/lawsuits.md`],
       inputModes: ["text/plain"],

@@ -1,0 +1,501 @@
+SOURCE CACHE. Bits of Freedom v. Meta on appeal, Gerechtshof Amsterdam,
+10 March 2026, ECLI:NL:GHAMS:2026:594, case 200.360.457/01.
+
+Retrieved 2026-08-14 from https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2026:594
+Public judgment. IN DUTCH: the same translation rule as the first-instance cache
+applies, see that file's header.
+
+WHAT THIS DECIDED, so nobody has to reconstruct it:
+  "vernietigt het vonnis waarvan beroep voor zover daarbij de dwangsommen (onder
+  5.3) zijn gemaximeerd tot EUR 5.000.000,-, en in zoverre opnieuw rechtdoende:
+  stelt het onder 5.3 bedoelde maximum ... op EUR 10.000.000,-; bekrachtigt het
+  vonnis waarvan beroep voor het overige"
+
+So the penalty cap went UP, on Bits of Freedom's cross-appeal, and everything else
+was upheld. Note also paragraph 274: after withdrawing grounds 4 to 7, Meta Ireland
+"bestrijdt ... niet langer het oordeel van de voorzieningenrechter dat Facebook en
+Instagram niet voldeden aan de door Bits of Freedom ingeroepen DSA-bepalingen".
+It stopped contesting non-compliance.
+
+STILL UNVERIFIED: whether a merits proceeding (bodemprocedure) is pending. Neither
+judgment says so. Do not state it without a source.
+
+GERECHTSHOF AMSTERDAM 
+ 
+
+ 
+
+ 
+afdeling civiel recht en belastingrecht,
+
+ 
+team I (handel)
+
+ 
+ 
+
+ 
+
+ 
+zaaknummer : 200.360.457/01
+
+ 
+zaak- en rolnummer rechtbank Amsterdam : C/13/774725 / KG ZA 25-687 
+
+ 
+ 
+
+ 
+
+ 
+
+ arrest van de meervoudige burgerlijke kamer van 10 maart 2026
+ 
+
+ 
+ 
+
+ 
+
+ 
+in de zaak van
+
+ 
+ 
+
+ 
+
+ 
+de rechtspersoon naar buitenlands recht
+
+ 
+
+ META PLATFORMS IRELAND LTD.,
+
+ 
+gevestigd te Dublin, Ierland,
+
+ 
+appellante, tevens geïntimeerde in incidenteel hoger beroep,
+
+ 
+advocaat: mr. J.J. Valk te Amsterdam,
+
+ 
+ 
+
+ 
+
+ 
+tegen
+
+ 
+ 
+
+ 
+
+ 
+
+ STICHTING BITS OF FREEDOM,
+ 
+
+ 
+gevestigd te Amsterdam,
+
+ 
+geïntimeerde, tevens appellante in incidenteel hoger beroep,
+
+ 
+advocaat: mr. Chr.A. Alberdink Thijm te Amsterdam.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Partijen worden hierna Meta Ierland en Bits of Freedom genoemd.
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+## 
+ 1 De zaak in het kort
+
+ 
+
+ 
+
+ 
+Dit is het hoger beroep van een kortgeding vonnis waarbij de voorzieningenrechter Meta had bevolen om maatregelen te treffen aangaande keuzes voor een aanbevelingssysteem op Facebook en Instagram, op straffe van dwangsommen. Bij arrest in het incident heeft het hof de tenuitvoerlegging van dat vonnis geschorst tot 31 december 2025. Inmiddels is een groot deel van de maatregelen getroffen. Ook heeft Meta een bodemprocedure aangekondigd en haar meer fundamentele grieven ingetrokken. Dit arrest gaat vooral nog over de spoedeisendheid en de dwangsommen. Het hof verhoogt het maximum van de dwangsommen naar 10 miljoen euro en bekrachtigt verder het vonnis.
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+## 
+ 2 Het verdere verloop van het geding in hoger beroep
+
+ 
+
+ 
+
+ 
+Op 28 oktober 2025 is arrest gewezen in het door Meta Ierland opgeworpen schorsingsincident. Daarin is het procesverloop weergegeven tot aan dat arrest. Partijen hebben vervolgens de volgende processtukken ingediend:
+
+ 
+ 
+ 
+ 
+memorie van antwoord tevens houdende incidenteel hoger beroep met producties;
+
+ 
+ 
+ 
+memorie van antwoord in incidenteel hoger beroep.
+
+ 
+ 
+ 
+
+ 
+
+ 
+De conclusie van Meta Ierland strekt ertoe dat het hof het bestreden vonnis van de voorzieningenrechter in de rechtbank Amsterdam van 2 oktober 2025, onder bovenvermeld zaak- en rolnummer gewezen tussen Bits of Freedom als eiseres en Meta Ierland als gedaagde, zal vernietigen en alsnog de vorderingen van Bits of Freedom zal afwijzen, met – uitvoerbaar bij voorraad – beslissing over de proceskosten.
+
+ 
+ 
+
+ 
+
+ 
+Bits of Freedom concludeert (in incidenteel hoger beroep) tot vernietiging van het bestreden vonnis en het opnieuw beslissen zoals besproken in haar grieven en verder (in principaal hoger beroep) tot bekrachtiging van het bestreden vonnis, met – uitvoerbaar bij voorraad – beslissing over de proceskosten.
+
+ 
+ 
+
+ 
+
+ 
+Tijdens de mondelinge behandeling op 26 januari 2026 hebben partijen aan de hand van spreekaantekeningen hun standpunten laten toelichten door hun advocaten en door mrs. T. Cohen Jehoram en D.J.B. Hereijgers, advocaten te Amsterdam (Meta Ierland) en mr. B.J. van Eijk, advocaat te Amsterdam (Bits of Freedom). 
+
+ 
+ 
+
+ 
+
+ 
+Meta Ierland heeft voorafgaand aan de mondelinge behandeling producties en een akte intrekking deel van de grieven ingediend. Bits of Freedom heeft een akte houdende vermeerdering van eis tevens aanvullende producties ingediend. 
+
+ 
+ 
+
+ 
+
+ 
+Ten slotte is arrest gevraagd. 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+## 
+ 3 Beoordeling
+
+ 
+
+ 
+
+ 3.1. 
+ 
+In het bestreden vonnis is Meta Ierland bevolen om binnen twee weken na het vonnis: 
+
+ 
+ 
+ 
+de door gebruikers van de websites en/of apps van Facebook en/of lnstagram aangegeven keuze voor een aanbevelingssysteem, met inbegrip van de keuze voor een chronologische of anderszins niet-geprofileerd aanbevelingssysteem persistent te maken, inhoudende dat een door gebruikers ingestelde keuze voor een niet-geprofileerd aanbevelingssysteem behouden blijft ook als de gebruiker binnen het platform naar andere secties navigeert, en ook als de gebruiker de apps en/of website van de platforms heeft afgesloten en deze vervolgens heropent;
+
+ 
+ 
+ 
+de keuze voor niet geprofileerde aanbevelingssystemen rechtstreeks en gemakkelijk toegankelijk te maken op (i) de startpagina van lnstagram op de Android-app, (ii) de reels-sectie van lnstagram (alle apps en websites) en (iii) de startpagina en de reels-sectie van Facebook (alle apps en websites);
+
+ 
+ 
+ 
+een en ander op straffe van een aan Bits of Freedom te betalen dwangsom van € 100.000,- per dag of gedeelte daarvan dat zij niet of niet volledig aan deze bevelen voldoet, tot een maximum van in totaal € 5.000.000,- is bereikt. Het door Bits of Freedom meer of anders gevorderde is afgewezen.
+
+ 
+
+ 
+ 
+
+ 3.2. 
+ 
+Bij arrest van 28 oktober 2025 in het door Meta Ierland opgeworpen schorsingsincident is de tenuitvoerlegging van het bestreden vonnis tot en met 31 december 2025 geschorst.
+
+ 
+
+ 
+ 
+
+ 3.3. 
+ 
+De grieven van partijen richten zich tegen de onder 3.1 bedoelde beslissing en de daaraan ten grondslag gelegde motivering. Meta Ierland heeft haar grieven 4 tot en met 7 ingetrokken, met dien verstande dat zij hetgeen zij bij grief 4 naar voren heeft gebracht handhaaft als verweer in incidenteel hoger beroep. Daarmee resteren de grieven 1 tot en met 3 en grief 8 van Meta Ierland, de in incidenteel hoger beroep opgeworpen grieven van Bits of Freedom en de vermeerdering van eis Bits of Freedom die ertoe strekt Meta Ierland te veroordelen in de volledige proceskosten. Het tegen die eisvermeerdering gemaakte bezwaar van Meta Ierland is ter zitting verworpen.
+
+ 
+
+ 
+ 
+
+ 3.4. 
+ 
+Het verzoek van Bits of Freedom om Meta Inc., gevestigd in de VS , en Meta Nederland op de voet van art. 118 Rv op te roepen wordt niet gehonoreerd. De door Bits of Freedom aan dit verzoek ten grondslag gelegde processueel ondeelbare rechtsverhouding doet zich voor als een rechtsverhouding in geschil is waarbij het rechtens noodzakelijk is dat de beslissing ten aanzien van alle bij die rechtsverhouding betrokkenen in dezelfde zin luidt. Het hof acht het niet noodzakelijk dat de beslissing op de vorderingen van Bits of Freedom ten opzichte van Meta Ierland, Meta Inc. en Facebook Nederland in dezelfde zin luidt. De aard en inhoud van de rechtsverhouding noopt daartoe niet. Dat deze drie entiteiten behoren tot hetzelfde concern is onvoldoende. Dat Meta Ierland de hulp van Meta Inc.nodig heeft om de gevorderde wijzigingen te bewerkstelligen is in dit verband eveneens onvoldoende. 
+
+ 
+
+ 
+ 
+
+ 3.5. 
+ 
+Hiermee is ook het lot van incidentele grief I gegeven. Het hof kan de door de voorzieningenrechter afgewezen vorderingen tegen Meta Inc. en Facebook Nederland niet (alsnog) toewijzen reeds omdat deze entiteiten geen partij zijn in hoger beroep.
+
+ 
+
+ 
+
+ 
+
+ In principaal hoger beroep
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3.6. 
+ 
+Als gevolg van de intrekking van een deel van haar grieven bestrijdt Meta Ierland in dit hoger beroep niet langer het oordeel van de voorzieningenrechter dat Facebook en Instagram niet voldeden aan de door Bits of Freedom ingeroepen DSA-bepalingen. Meta Ierland heeft toegelicht dat zij het nog steeds oneens is met dit oordeel, maar dat zij hierover een bodemprocedure zal gaan voeren.
+
+ 
+
+ 
+ 
+
+ 3.7. 
+ 
+
+ 
+Met haar grieven 1 en 2 bestrijdt Meta Ierland dat Bits of Freedom spoedeisend belang heeft bij haar vorderingen. 
+
+ 
+Het hof is, net als de voorzieningenrechter, van oordeel dat de vorderingen van Bits of Freedom naar hun aard, zowel in eerste aanleg als in hoger beroep, spoedeisend zijn. Zij strekken immers ertoe (gesteld) voortdurend onrechtmatig handelen door handelen in strijd met de DSA tegen te gaan en voorts om de vrijheid van informatiegaring van de gebruikers van Facebook en Instagram te beschermen. Dit grondrecht is onderdeel van de vrijheid van meningsuiting en wordt mede beschermd door de door Bits of Freedom ingeroepen DSA-bepalingen. 
+
+ 
+In eerste aanleg, bij het aanbrengen van de zaak in hoger beroep en het wijzen van het arrest in het schorsingsincident gold daarnaast dat de maatschappelijke risico’s waartegen 
+
+ 
+de DSA beoogt te beschermen zich in het bijzonder deden gelden, nu het ging om de periode rond de Tweede Kamerverkiezingen die op 29 oktober 2025 zijn gehouden. Dat die periode nu voorbij is doet niet af aan het spoedeisend belang dat voortvloeit uit de aard van de vorderingen. 
+
+ 
+Met de schorsing van de tenuitvoerlegging van het bestreden vonnis tot 31 december 2025 is voorts een nieuwe situatie ontstaan. Meta Ierland stelt dat de bevolen wijzigingen op 6 januari 2026 zijn doorgevoerd. Zij heeft voorts toegelicht dat de wijzigingen voor ongeveer 4% van de gebruikers van Facebook en/of Instagram, tot en met halverwege maart 2026 nog niet zichtbaar zullen zijn in verband met het opsporen van glitches, bugs of andere technische problemen als gevolg van de doorgevoerde wijzigingen. Niet ter discussie staat dat dit een klein percentage maar in absolute zin een aanzienlijk aantal gebruikers is. Het belang van Meta om haar aldus en opnieuw meer tijd te gunnen om haar processen, kort gezegd, in te richten conform de eisen die volgen uit de DSA, legt in de gegeven omstandigheden onvoldoende gewicht in de schaal tegenover het belang van Bits of Freedom dat een onmiddellijke voorziening bij voorraad wordt getroffen. 
+
+ 
+ 
+
+ 
+ 
+
+ 3.8. 
+ 
+Hieruit volgt dat ook grief 3, waarin Meta betoogt dat Bits of Freedom na de Tweede Kamerverkiezingen van 9 oktober 2025 geen spoedeisend belang meer bij had bij haar vorderingen faalt.
+
+ 
+
+ 
+ 
+
+ 3.9. 
+ 
+In de beslissing in het incident om de tenuitvoerlegging van het bestreden vonnis op te schorten ligt besloten dat de in dat vonnis opgenomen termijn van twee weken niet realistisch was. De belangenafweging met betrekking tot de te treffen voorziening valt op dit punt hetzelfde uit als de belangenafweging in het incident, die het hof als herhaald en ingelast beschouwd. Bij een nadere beslissing op grief 8 die zich richt tegen het oordeel van de voorzieningenrechter dat de wijzigingen binnen twee weken na het vonnis moesten worden doorgevoerd heeft Meta dus geen belang meer. 
+
+ 
+
+ 
+
+ 
+
+ In incidenteel hoger beroep (voorts)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3.10. 
+ 
+
+ 
+Meta Ierland voert aan dat Bits of Freedom niet-ontvankelijk moet worden verklaard in haar vorderingen omdat zij niet heeft voldaan aan het overlegvereiste (art. 3:305a lid 3 sub c BW). Dit betoog gaat niet op. Het staat vast dat partijen overleg hebben gevoerd. De specifieke punten die Meta Ierland in dit verband noemt zijn een nadere uitwerking van de onderwerpen die onbetwist zijn betrokken in het gevoerde overleg. 
+
+ 
+Terecht is verder niet in geschil dat is voldaan aan de andere ontvankelijkheidseisen die gelden voor de collectieve vorderingen van Bits of Freedom in kort geding.
+
+ 
+ 
+
+ 
+ 
+
+ 3.11. 
+ 
+
+ 
+Met grief II betoogt Bits of Freedom dat de keuze voor een niet-geprofileerde feed op de iOS-app van Instagram en de niet-geprofileerde opmerkingensectie via de iOS-app, Android en website van Instagram niet rechtstreeks en gemakkelijk toegankelijk zijn. Het is voor gebruikers van Instagram onvoldoende duidelijk dat zij via het “ [symbool] ”-symbool, naast het “ [teken] ”-teken op de Instagram-startpagina (de feed) van de iOS-app en in de opmerkingensectie van Instagram (iOS-app, Android en website) kunnen navigeren naar de niet op profilering gebaseerde versies van de feed en de opmerkingensectie. 
+
+ 
+Bits of Freedom kan niet worden gevolgd in dit betoog. Meta Ierland heeft onweersproken toegelicht dat het “ [symbool] ”-symbool een pijl naar beneden weerspiegelt die, als daarop wordt geklikt, de weg opent naar andere optie(s). Voldoende aannemelijk is voorts dat het “ [symbool] ”-symbool een gebruikelijk symbool voor een keuzemenu is. Dat wordt niet anders doordat keuzemenu’s ook op andere manieren kunnen of plegen te worden aangeduid dan met dit “ [symbool] ”-symbool en het (technisch) mogelijk is voor Meta Ierland om dat ook te doen. Voorshands is dan ook voldoende aannemelijk dat het voor Instagram-gebruikers voldoende duidelijk is hoe kan worden geschakeld naar het niet-geprofileerde aanbevelingssysteem.
+
+ 
+ 
+
+ 
+ 
+
+ 3.12. 
+ 
+Het hof gaat voorbij aan het in het kader van grief II gevoerde betoog van Bits of Freedom over het weghalen van een aantal essentiële functionaliteiten als gevolg van de aanpassing van de interface op het moment dat een gebruiker kiest voor een niet-geprofileerde feed. Bits of Freedom heeft geen kenbare grief gericht tegen de vaststelling van de voorzieningenrechter dat zij aan deze bedenkingen geen vordering heeft verbonden. Evenmin heeft zij in hoger beroep haar vorderingen op dit punt aangevuld.
+
+ 
+
+ 
+ 
+
+ 3.13. 
+ 
+Grief III van Bits of Freedom gaat over de aan de veroordeling van Meta Ierland verbonden dwangsommen. De hoogte van de dwangsom, die een prikkel tot nakoming vormt, dient te worden vastgesteld naar de aard en omstandigheden van het geval, in het bijzonder ook de financiële toestand en het gedrag van de schuldenaar. Tot de omstandigheden van het geval kunnen ook de feitelijke gevolgen behoren die voor de schuldenaar voortvloeien uit het daadwerkelijk verbeuren van dwangsommen. Dit geldt onverkort in hoger beroep, waarin – binnen het door de grieven ontsloten gebied – een nieuwe beoordeling plaatsvindt. Er is geen grief gericht tegen het bedrag per dag van € 100.000,-. Bits of Freedom is het niet eens met de maximering van de dwangsom door de voorzieningenrechter tot € 5.000.000,-. In de gegeven omstandigheden, waaronder de financiële toestand van Meta Ierland en met name de periode waarbinnen het maximum zal zijn ‘volgelopen’, vormt het door de voorzieningenrechter gestelde maximum een onvoldoende prikkel tot nakoming van de aan Meta Ierland opgelegde bevelen. Het hof ziet hierin aanleiding om het maximum van de dwangsommen te verhogen naar € 10.000.000,-. Voor het verhogen van het maximum naar € 100 miljoen, zoals Bits of Freedom voorstaat, ziet het hof in de gegeven situatie onvoldoende aanleiding. Grief III van Bits of Freedom slaagt dus ten dele.
+
+ 
+
+ 
+ 
+
+ 3.14. 
+ 
+
+ 
+De slotsom luidt dat het bestreden vonnis zal worden vernietigd voor zover daarbij de dwangsommen (onder 5.3) zijn gemaximeerd tot € 5.000.000,-. Het onder 5.3 bedoelde maximum van de dwangsommen zal worden gesteld op € 10.000.000,-. Voor het overige zal het bestreden vonnis worden bekrachtigd. Bij (verdere) bespreking van de grieven bestaat geen belang. 
+
+ 
+Meta Ierland zal als de in het ongelijk gestelde partij worden veroordeeld in de proceskosten in het incident en in principaal hoger beroep. In hetgeen Bits of Freedom stelt is onvoldoende grond gelegen voor veroordeling van Meta in de volledige proceskosten. Het hof zal het reguliere liquidatietarief toepassen. In incidenteel hoger beroep zal het hof bepalen dat partijen hun eigen kosten dragen omdat zij over en weer op punten in het ongelijk zijn gesteld. 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+## 
+ 4 Beslissing
+
+ 
+
+ 
+
+ 
+Het hof:
+
+ 
+ 
+
+ 
+
+ 
+vernietigt het vonnis waarvan beroep voor zover daarbij de dwangsommen (onder 5.3) zijn gemaximeerd tot € 5.000.000,-,
+
+ 
+ 
+
+ 
+
+ 
+en in zoverre opnieuw rechtdoende:
+
+ 
+ 
+
+ 
+
+ 
+stelt het onder 5.3 bedoelde maximum van de te verbeuren dwangsommen op € 10.000.000,-;
+
+ 
+ 
+
+ 
+
+ 
+bekrachtigt het vonnis waarvan beroep voor het overige;
+
+ 
+ 
+
+ 
+
+ 
+veroordeelt Meta Ierland in de kosten van het geding in het incident en in principaal hoger beroep, tot op heden aan de zijde van Bits of Freedom vastgesteld op € 827 aan verschotten en € 3.870 aan advocatensalaris; 
+
+ 
+ 
+
+ 
+
+ 
+bepaalt dat partijen elk hun eigen proceskosten in incidenteel hoger beroep dragen;
+
+ 
+ 
+
+ 
+
+ 
+verklaart deze veroordelingen uitvoerbaar bij voorraad;
+
+ 
+ 
+
+ 
+
+ 
+wijst af het meer of anders gevorderde.
+
+ 
+ 
+
+ 
+
+ 
+Dit arrest is gewezen door mrs. L. Alwin, J.W.M. Tromp en P.F.G.T. Hofmeijer-Rutten en in het openbaar uitgesproken op 10 maart 2026 in tegenwoordigheid van de griffier.

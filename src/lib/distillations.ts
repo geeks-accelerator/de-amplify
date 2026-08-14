@@ -55,6 +55,12 @@ export const DISTILLATIONS: DistillationMeta[] = [
     related: { href: "/lawsuits/tennessee-v-meta", label: "the Tennessee case file" },
   },
   {
+    slug: "bits-of-freedom-v-meta",
+    kind: "lawsuit",
+    tierDown: false,
+    related: { href: "/lawsuits", label: "the lawsuits hub" },
+  },
+  {
     slug: "eu-dsa-proceedings",
     kind: "regulatory",
     tierDown: false,
