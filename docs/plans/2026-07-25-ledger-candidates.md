@@ -1,7 +1,7 @@
 ---
 title: "Plan: ledger candidates (proceedings, hearings, and regulations worth distilling)"
 subtitle: "Nine research passes over the primary record, July 2026. What exists, where the official document actually lives, what posture it is really in, and what is not worth chasing."
-status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26; candidate 4.2 (the EU DSA proceedings) was built as the ninth ledger on 2026-08-02, and candidate 4.7 (Bits of Freedom v Meta) as the tenth on 2026-08-14, scoped to the four European Commission preliminary findings only, which closed the last gap in the ledger-first rule. Section 4 is otherwise still a queue: 4.1 and 4.3 through 4.6 and 4.8 through 4.10 remain undistilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
+status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26; candidate 4.2 (the EU DSA proceedings) was built as the ninth ledger on 2026-08-02, and candidate 4.7 (Bits of Freedom v Meta) as the tenth on 2026-08-14, scoped to the four European Commission preliminary findings only, which closed the last gap in the ledger-first rule; candidate 4.1 (the FTC control-integrity record) became the eleventh ledger on 2026-08-14, with two of the claims in its entry corrected on contact with the primary sources. Section 4 is otherwise still a queue: 4.3 through 4.6 and 4.8 through 4.10 remain undistilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
 date: 2026-07-25
 site: "de-amplify.com"
 document: "Ledger candidate inventory. Companion to the cases-page plan (2026-07-15-cases-page-plan.md). Adds no legal claims to the site; the ledger-first pipeline still governs everything that ships."
@@ -96,7 +96,29 @@ Two bonuses in that printed record:
 
 ## 4. Ranked candidates
 
-### 4.1 The FTC control-integrity record (build this one)
+### 4.1 The FTC control-integrity record (build this one) [BUILT 2026-08-14]
+
+> **BUILT 2026-08-14** as the eleventh ledger, `docs/distillations/ftc-control-integrity.md`, from
+> five primary documents cached in `sources/`: the Eighth Circuit opinion vacating the Negative
+> Option Rule, the Amazon Prime complaint and stipulated order, the Epic Games complaint, and the
+> Chitika complaint and order. Registered with `npm run check:quotes` (Claims and Quotes sections,
+> 41 spans) and surfaced on `/lawsuits` as "The standard already exists in American law, for
+> everything except feeds".
+>
+> **Two things below did not survive the primary-source reading and are corrected in the ledger:**
+>
+> 1. **"The FTC has enforced all three of its prongs for years" overstates the posture**, and the
+>    ledger's own tier key now says so in capitals. Amazon ended in a **stipulated** order, which
+>    is an agreement and adjudicates nothing; Epic is an FTC **administrative** matter; Chitika is
+>    a **consent** order entered without adjudication or admission. The only adjudicated decision
+>    in the whole set is the Eighth Circuit's, and what it decided was **procedural**: it vacated
+>    the rule for a defect in the rulemaking, not on the merits of the standard.
+> 2. **The Chitika scope term is an inversion, not the win this entry reads it as.** See claim 22a.
+>    It requires Chitika to **disclose** that the choice is browser-specific, not to make it carry
+>    across browsers. The mapping onto this site's seven criteria is therefore two clean matches
+>    (Persistent, Discoverable), one near-match (Clear), and one inversion (Scoped), not the
+>    five-of-seven a first reading suggested. That is still the most useful document in the record;
+>    it is just useful as the compromise to argue against as much as the template to copy.
 
 **This is the highest-leverage candidate in the document, and it is not the newest material.**
 

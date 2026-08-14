@@ -1,0 +1,20 @@
+# Quoted spans in bits-of-freedom-v-meta.md that are deliberately NOT quotes from
+# the two cached Dutch judgments. Whitespace-normalized exact match.
+#
+# Authored 2026-08-14, when the ledger's Claims section was brought under the
+# check alongside its Quotes section.
+#
+# NOTE THE CONVENTION THAT MAKES THIS FILE SHORT. These are the first non-English
+# sources in the corpus, and the rule adopted with them is that the quoted span in
+# the ledger is the ORIGINAL DUTCH, so the checker can verify it against the
+# cache, with the English beside it explicitly labelled as a translation rather
+# than inside quotation marks. An English rendering of a Dutch judgment is a
+# translation, not a quotation. Had the ledger quoted the English instead, every
+# span in it would have had to live in this file, and the check would have proved
+# nothing at all about the ledger's fidelity to the court.
+
+# --- the drafter's own shorthand, quoted in claim 13 in order to say it is WEAKER
+# --- than what the record supports. Meta Ireland withdrew grounds of appeal 4 to
+# --- 7, so the substance was never contested on appeal, which is a stronger fact
+# --- than "lost". Not attributed to either court anywhere in the ledger.
+Meta appealed and lost

@@ -1,0 +1,30 @@
+# Quoted spans in ftc-control-integrity.md that are deliberately NOT quotes from
+# the five cached FTC and Eighth Circuit documents. Whitespace-normalized exact
+# match. Everything else quoted in that ledger's Claims and Quotes sections must
+# verify against one of those caches.
+#
+# Authored 2026-08-14, when the ledger's Claims section was brought under the
+# check. It had been scoped to Quotes only, and that blind spot was holding four
+# real defects: the Claims section had absorbed sentence punctuation INSIDE
+# quotation marks on spans from the Eighth Circuit opinion, the Epic complaint,
+# and the Chitika order (twice). The cache reads "...procedural error." and the
+# ledger had written "...procedural error,"; the cache reads "...their choice(s),
+# and shall remain" and the ledger had written "...their choice(s)." Each was
+# corrected in the ledger, moving the punctuation outside the closing quote the
+# way the New Mexico ledger already does, NOT allowlisted here. That is the point
+# of keeping this file short: an allowlist is where a real defect goes to hide.
+#
+# The entries below are a different thing entirely. They are quotations of THIS
+# SITE, not of a source in this folder, and they are correctly absent from the
+# caches. They were each verified verbatim against src/app/scorecard/page.tsx on
+# 2026-08-14. If the scorecard wording changes, these must be re-checked by hand;
+# no script relates them to their real source.
+
+# --- the four brake-integrity criteria, quoted from /scorecard in claim 22 to
+# --- map the Chitika order terms onto this site's own standard. Source of truth
+# --- is src/app/scorecard/page.tsx, not any document in this folder. The ledger
+# --- lower-cases the leading letter to sit inside its parenthetical.
+can you find the control without googling it?
+does it say what will change?
+does the choice survive closing and reopening the app, another device, and time?
+does it cover Reels, Shorts, Explore, notifications, and suggested accounts, or just one screen?

@@ -179,7 +179,7 @@ const BODY = {
       href: `${SITE}/lawsuits.md`,
       priority: "medium",
       reason:
-        "Five proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
+        "Six proceedings kept separate, every figure evidence-tiered and sourced; the receipts behind the homepage claims.",
       timing: "soon",
     },
     {

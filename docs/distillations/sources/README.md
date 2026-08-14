@@ -1,7 +1,9 @@
-# Hearing-distillation source cache
+# Distillation source cache
 
-Ground-truth transcripts for the `hearing-*` distillations in this folder, cached so quote
-verification and line-anchored locators survive link rot and are re-runnable by anyone.
+Ground-truth sources for the distillations in this folder, cached so quote verification and
+line-anchored locators survive link rot and are re-runnable by anyone. It began as hearing
+transcripts alone, which is why some entries below still speak in those terms; it now also
+holds court filings, agency documents, an appellate opinion, and two Dutch judgments.
 
 ## Files
 
@@ -64,13 +66,25 @@ verification and line-anchored locators survive link rot and are re-runnable by 
 ## Verifying
 
 **This is now a script: `npm run check:quotes`** (`scripts/check-quotes.mjs`), added 2026-08-13.
-It applies all four normalizations below at once, self-tests its own matcher against known answers
+It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
-on every run which ledgers it does **not** cover. Coverage today is six of nine ledgers: the four
-hearings and the EU proceedings in full, and `new-mexico-v-meta` scoped to its judgment-anchored
-section, because the rest of that ledger quotes coverage that is not cached. The remaining three
-(`mdl-3047`, `california-state-bellwethers`, `tennessee-v-meta`) need an allowlist authored the way
-the Nov 2023 one was before they can be registered. Do not re-derive this check by hand.
+on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
+today is **432 spans across eight of eleven ledgers**: the four hearings and the EU proceedings in
+full, plus three scoped with `sections` to the parts a cache actually reaches (`new-mexico-v-meta`
+to its judgment-anchored section, `bits-of-freedom-v-meta` and `ftc-control-integrity` to their
+Claims and Quotes sections). The remaining three (`mdl-3047`, `california-state-bellwethers`,
+`tennessee-v-meta`) need an allowlist authored the way the Nov 2023 one was before they can be
+registered. Do not re-derive this check by hand.
+
+**Scoping is a blind spot, and on 2026-08-14 that blind spot was holding four real defects.** The
+FTC and Bits of Freedom ledgers were first registered scoped to `Quotes` only, on the reasoning
+that the quote-banks are where the record quotes live. They are not: the **Claims** sections quote
+the same sources, and being unchecked, they had absorbed sentence punctuation **inside** quotation
+marks on four spans (the Eighth Circuit opinion's `procedural error.` written as `procedural
+error,`, the Chitika order's `their choice(s), and shall remain` written as `their choice(s).`, and
+two more). Widening both to `["Claims (the ledger)", "Quotes"]` took coverage from 404 spans to 432
+and surfaced all four at once. **When scoping a ledger, scope to what the cache covers, not to
+where you expect the quotes to be**, and re-read the exclusion whenever the ledger grows.
 
 Every quoted span in each `hearing-*` distillation (ledger, reader summary, coverage note,
 and quote-bank) was verified as a verbatim, whitespace-normalized substring of that
@@ -88,6 +102,21 @@ one source cache, and its "source lines N-M" locators refer to line numbers in t
 - `hearing-2024-01-31-big-tech-child-safety.md` -> `CHRG-118shrg57444.txt`
 - `hearing-2026-05-13-courtroom-to-congress.md` -> `senate-2026-05-13-testimony-combined.txt`
 - `hearing-2025-12-02-legislative-solutions.md` -> `house-2025-12-02-testimony-combined.txt`
+
+The four non-hearing ledgers under the check map to **several** caches each, and three of them are
+scoped by section, so the one-to-one framing above does not carry. The registry in
+`scripts/check-quotes.mjs` is the source of truth for those; the script prints the mapping and the
+scoping on every run, precisely so this list cannot become the authority and then go stale:
+
+- `eu-dsa-proceedings.md` -> the four `ec-ip-26-*.txt` releases, checked whole
+  (plus `eu-dsa-quote-allowlist.txt`)
+- `new-mexico-v-meta.md` -> the final judgment plus the two FTC COPPA files, scoped to
+  `(g) The final judgment`
+- `bits-of-freedom-v-meta.md` -> the two Dutch judgments, scoped to Claims and Quotes
+  (plus `bits-of-freedom-quote-allowlist.txt`)
+- `ftc-control-integrity.md` -> the Eighth Circuit opinion, the two Amazon Prime filings, the Epic
+  complaint and the Chitika file, scoped to Claims and Quotes
+  (plus `ftc-control-integrity-quote-allowlist.txt`)
 
 Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and to
 `content/hearings.md`; all resolve against `CHRG-118shrg60432.txt`.
@@ -171,6 +200,23 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
      anchored to line starts. **This produced a false "absent from both complaints" on the single
      best quote in the Amazon record before it was caught**, which is the same shape as every other
      failure recorded in this folder: the query was broken, not the corpus.
+- `ftc-2011-chitika-complaint-and-order.txt`: *In the Matter of Chitika, Inc.*, FTC File No.
+  102 3087, the complaint and the Decision and Order together in one file. Retrieved 2026-08-14
+  from ftc.gov with a browser User-Agent. **This is the most useful document in the FTC ledger and
+  it is fifteen years old.** It is the only matter in the corpus where the *remedy*, not just the
+  allegation, reads like the specification this project says is missing: Part II.C writes a
+  **minimum five-year duration**, a **one-click friction cap**, and a **status display** as
+  enforceable order terms, and Part II.D requires a hyperlink to the mechanism inside every ad.
+  Two cautions before quoting it:
+
+  1. **It is a consent order.** Chitika settled; nothing was adjudicated and nothing was admitted.
+     It binds Chitika and nobody else. "The FTC alleged" for the complaint, "the parties agreed"
+     for the order, and never "a court held".
+  2. **Part II.C(4) is an inversion, not a win, and the ledger says so at claim 22a.** The scope
+     term requires Chitika to **disclose** that the choice is browser-specific, not to make it
+     carry across browsers. Read as support for a scope criterion it says the opposite of what it
+     looks like: a regulator holding the drafting pen chose transparency about a limit over
+     coverage of it.
 - `paxton-2025-06-27-free-speech-coalition-v-paxton.txt`: *Free Speech Coalition, Inc. v. Paxton*,
   No. 23-1122 (U.S. June 27, 2025), the 63-page slip opinion from supremecourt.gov, cached
   2026-08-13. **Cached because the section 7 plan made a claim about this case that reading it
@@ -203,6 +249,16 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   a term being defined). Same role as the Nov 2023 allowlist. Authored 2026-08-13 when that ledger
   was registered with `npm run check:quotes`; the file itself records the one span that looked like
   it belonged there and did not.
+- `ftc-control-integrity-quote-allowlist.txt` and `bits-of-freedom-quote-allowlist.txt`: the same
+  role for those two ledgers, authored 2026-08-14 when their Claims sections were brought under the
+  check. Both are deliberately tiny, and each records the defects that were **corrected rather than
+  allowlisted** when the scope widened, because an allowlist is where a real defect goes to hide.
+  The FTC one holds four spans that are quotations of **this site's own `/scorecard`**, verified
+  against `src/app/scorecard/page.tsx` by hand and correctly absent from every cache here; no script
+  relates them to their real source, so they need re-checking by hand if the scorecard wording
+  changes. The Bits of Freedom one holds a single span, and the reason it is only one is the
+  original-language convention: because the ledger quotes the Dutch and labels the English as a
+  translation, its spans are checkable at all.
 - `tennessee-2024-03-13-mtd-order.txt`: Chancellor Perkins's 34-page order denying Meta's motion
   to dismiss, 2024-03-13. This document is public only because the California Attorney General
   filed it as an exhibit on the federal MDL 3047 docket. **It is a scan and the OCR is poor**:
@@ -210,11 +266,12 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   introductory paragraph renders `Section 230` as `Section 320` while the Conclusion renders it
   correctly. Quote from the Conclusion and verify anything else by eye.
 
-## Four normalizations the check is sensitive to (2026-07-25)
+## Five normalizations the check is sensitive to (2026-07-25, extended 2026-08-14)
 
 A full re-run over all four hearing ledgers on 2026-07-25 verified **245 of 246** quoted spans.
-Getting there required four normalizations, and each one flips a *different* set of quotes, so a
-checker that applies some but not others produces false failures that look like fidelity problems:
+Getting there required four normalizations; a fifth arrived on 2026-08-14 with the first US court
+filings. Each one flips a *different* set of quotes, so a checker that applies some but not others
+produces false failures that look like fidelity problems:
 
 1. **Curly punctuation.** The testimony PDFs use curly apostrophes and quotes; the ledgers use
    straight ones. Without folding these together, roughly twenty spans in the May 2026 ledger
@@ -231,6 +288,14 @@ checker that applies some but not others produces false failures that look like 
    never match. Fold `ﬀ ﬁ ﬂ ﬃ ﬄ` to their letter pairs before comparing. This one is nastier than
    the other three because the two strings are visually identical at normal reading size, so the
    failure looks like a fabricated quote rather than an encoding mismatch.
+5. **Court-filing line numbers, added 2026-08-14 with the FTC ledger.** US court filings carry a
+   line number in the left margin of every line and `pdftotext` keeps it, so collapsing whitespace
+   injects it mid-sentence: `devices other than 11 computers and smartphones`. Any span crossing a
+   line boundary then fails against a perfectly faithful cache. Stripped anchored to line starts,
+   so a number that genuinely sits mid-sentence survives. **This produced a false "absent from both
+   complaints" on the single best quote in the Amazon record**, and the false negative was believed
+   for a while because it agreed with what was expected. Same shape as everything else recorded in
+   this folder: the query was broken, not the record.
 
 **The single span that does not verify under any combination** is in the Dec 2025 ledger:
 `Up to 95% of youth ages 13-17`, where the written testimony reads `13–17` with an EN DASH and
