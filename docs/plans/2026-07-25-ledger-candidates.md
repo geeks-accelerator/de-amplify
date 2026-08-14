@@ -1,7 +1,7 @@
 ---
 title: "Plan: ledger candidates (proceedings, hearings, and regulations worth distilling)"
 subtitle: "Nine research passes over the primary record, July 2026. What exists, where the official document actually lives, what posture it is really in, and what is not worth chasing."
-status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26; candidate 4.2 (the EU DSA proceedings) was built as the ninth ledger on 2026-08-02, scoped to the four European Commission preliminary findings only, which closed the last gap in the ledger-first rule. Section 4 is otherwise still a queue: 4.1 and 4.3 through 4.10 remain undistilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
+status: "Research inventory and prioritization, not a commitment to build. PARTIALLY EXECUTED: section 2 (the live corrections) and section 3 (the Dec 2025 transcript, with its premise corrected on contact) shipped 2026-07-25; a proceeding that was NOT in this inventory, State of Tennessee v. Meta, was built as the eighth ledger on 2026-07-26; candidate 4.2 (the EU DSA proceedings) was built as the ninth ledger on 2026-08-02, and candidate 4.7 (Bits of Freedom v Meta) as the tenth on 2026-08-14, scoped to the four European Commission preliminary findings only, which closed the last gap in the ledger-first rule. Section 4 is otherwise still a queue: 4.1 and 4.3 through 4.6 and 4.8 through 4.10 remain undistilled, and nothing here may be quoted on the site until it clears the verification protocol in section 1. AI-assisted research; every candidate needs a human primary-source pass before it becomes a ledger."
 date: 2026-07-25
 site: "de-amplify.com"
 document: "Ledger candidate inventory. Companion to the cases-page plan (2026-07-15-cases-page-plan.md). Adds no legal claims to the site; the ledger-first pipeline still governs everything that ships."
@@ -228,7 +228,17 @@ A reset control that silently expires. Morell adds the definitional line: parent
 - **Tiering discipline required:** the TikTok reset-button claim is a witness characterizing documents from a state case. That is OBSERVED, not ESTABLISHED, unless traced to the Massachusetts complaint itself.
 - **Hearsay score:** 3. Barely covered, which makes it low-risk: there is no viral narrative to correct against.
 
-### 4.7 Bits of Freedom v Meta (the thesis, ordered by a court)
+### 4.7 Bits of Freedom v Meta (the thesis, ordered by a court) [BUILT 2026-08-14]
+
+**Built as the tenth ledger, `docs/distillations/bits-of-freedom-v-meta.md`, from both judgments read in full via the Dutch judiciary open-data API and cached in `sources/`. Three statements in the entry below did NOT survive that reading and are corrected in the ledger Discrepancies section:**
+
+1. **The headline quote is misattributed here.** "It is impossible in the apps or on the websites to set a persistent choice" is presented below as "The court finding". It is the CLAIMANT contention, recited at paragraph 4.16 under "volgens haar" (in its view). Same failure class as the 2026-07-24 Bejar/Blumenthal error.
+2. **Order 5.2 is an accessibility order, not a persistence order.** The surface list belongs to 5.2; the persistence order 5.1 carries no surface limit, so it is broader than described below.
+3. **The pending merits proceeding is unsourced.** Neither judgment mentions one. Demoted to ASSUMED.
+
+Everything else below verified: both ECLIs, both dates, both courts, the 10,000,000 EUR ceiling, the withdrawal of Meta substantive grounds, and the interim posture.
+
+**A new corpus-wide rule came out of it:** these are the first non-English sources, so quoted spans are the Dutch originals and every English rendering is labelled a translation. See `sources/README.md`.
 
 - Rechtbank Amsterdam, **October 2, 2025**, ECLI:NL:RBAMS:2025:7253. Affirmed Gerechtshof Amsterdam, **March 10, 2026**, ECLI:NL:GHAMS:2026:594, penalty cap raised to **10,000,000 EUR**.
 - The order requires the user's chosen non-profiled feed to **persist**, defined as retained when the user navigates to other sections **and when the user has closed the app and reopened it**. Order 5.2 separately mandates coverage of named surfaces (Instagram Android home, reels across all apps and web, Facebook home and reels).

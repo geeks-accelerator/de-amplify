@@ -143,6 +143,27 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   disproved** (it does not say what that plan said about general-audience services; see the
   corrected entry there). No ledger quotes it yet. It is here so the next revision of the paper's
   section 7.2 can cite it verifiably rather than from a summary.
+- `bits-of-freedom-2025-10-02-rechtbank-amsterdam.txt` and
+  `bits-of-freedom-2026-03-10-gerechtshof-amsterdam.txt`: the two Dutch judgments in *Stichting
+  Bits of Freedom v. Meta*, ECLI:NL:RBAMS:2025:7253 and ECLI:NL:GHAMS:2026:594. Retrieved
+  2026-08-14 from the Dutch judiciary's open-data API,
+  `https://data.rechtspraak.nl/uitspraken/content?id=<ECLI>`, which returns the full body as XML.
+  **These fetched cleanly over plain HTTPS with no blocking**, which makes rechtspraak.nl the least
+  obstructed primary source in this folder; contrast `ftc.gov`, `nmdoj.gov` and CourtListener,
+  which all refuse plain fetches.
+
+  **THESE ARE THE FIRST NON-ENGLISH SOURCES IN THE CORPUS, AND THEY CHANGE A RULE.** There is no
+  official English text. **An English rendering of a Dutch judgment is a translation, not a
+  quotation**, and must never appear on the site inside quotation marks attributed to the court.
+  The convention adopted with this ledger, and the one to follow for any future non-English source:
+  **the quoted span is the original-language text**, so `npm run check:quotes` can verify it against
+  the cache, and the English sits beside it explicitly labelled as a translation. On reader-facing
+  pages, paraphrase in the site's own voice and cite the paragraph number rather than quoting Dutch
+  at a reader who cannot read it.
+
+  Each file's header also records the attribution trap that the candidate plan fell into: the most
+  quotable line in the first-instance judgment is the claimant's contention recited at paragraph
+  4.16, not the court's finding. Read those headers before quoting either file.
 - `eu-dsa-quote-allowlist.txt`: the drafter-prose quoted spans in `eu-dsa-proceedings.md` that are
   deliberately NOT Commission quotes (rhetorical contrasts, claims the ledger warns against making,
   a term being defined). Same role as the Nov 2023 allowlist. Authored 2026-08-13 when that ledger
