@@ -2,9 +2,42 @@
 // agents. The two papers are served raw at /proposal.md and /notes.md so an
 // agent never has to parse HTML to read the substance.
 
+import { DISTILLATIONS, loadDistillation } from "@/lib/distillations";
+
 export const dynamic = "force-static";
 
 const SITE_URL = "https://de-amplify.com";
+
+// The per-ledger list is GENERATED from the registry, not hand-listed. It used
+// to be nine hand-written labels plus the literal word "Nine", which meant a
+// tenth ledger would have been advertised by the agent card (whose ledger links
+// are generated) while this file kept saying nine and omitted it. Labels are
+// each ledger's own navLabel variant, so they are not unvalidated summaries
+// written here; only the per-slug caveats below are authored in this file.
+const COUNT_WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"];
+const countWord = (n: number) => {
+  const w = COUNT_WORDS[n] ?? String(n);
+  return w.charAt(0).toUpperCase() + w.slice(1);
+};
+
+// Substantive caveats that belong with a specific ledger in this index, keyed by
+// slug so they survive reordering. Not summaries (those are the ledger's own
+// variants); these are the "do not overread this" notes.
+const LEDGER_CAVEATS: Record<string, string> = {
+  "eu-dsa-proceedings":
+    "preliminary findings, not decisions, and no fine has been imposed",
+};
+
+const ledgerLines = (kind: string) =>
+  DISTILLATIONS.filter((d) => d.kind === kind)
+    .map((d) => {
+      const caveat = LEDGER_CAVEATS[d.slug];
+      return (
+        `  [${loadDistillation(d.slug).navLabel}](${SITE_URL}/distillations/${d.slug}.md)` +
+        `${d.tierDown ? " (tier-down)" : ""}${caveat ? ` (${caveat})` : ""}`
+      );
+    })
+    .join(",\n");
 
 const BODY = `# de-amplify.com: The Thing It Broke Was the Brake
 
@@ -50,22 +83,14 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
 - [The distillations (evidence ledgers)](${SITE_URL}/distillations): the
   source-of-truth claim ledgers behind the lawsuit and hearing pages, published
   in full for transparency. Every claim is tagged by the strength of its source
-  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags). Nine ledgers
-  (raw markdown per ledger):
-  [MDL 3047](${SITE_URL}/distillations/mdl-3047.md),
-  [the California bellwethers](${SITE_URL}/distillations/california-state-bellwethers.md),
-  [New Mexico v. Meta](${SITE_URL}/distillations/new-mexico-v-meta.md),
-  [Tennessee v. Meta](${SITE_URL}/distillations/tennessee-v-meta.md),
-  the regulatory record,
-  [the EU DSA proceedings](${SITE_URL}/distillations/eu-dsa-proceedings.md)
-  (four European Commission preliminary findings against Meta and TikTok,
-  quoted from the Commission's own releases; preliminary, not decisions,
-  and no fine has been imposed),
-  and the four hearings with their full verbatim quote-banks:
-  [Nov 2023 Bejar](${SITE_URL}/distillations/hearing-2023-11-07-teen-mental-health.md),
-  [Jan 2024 five-CEO](${SITE_URL}/distillations/hearing-2024-01-31-big-tech-child-safety.md),
-  [May 2026 verdicts (tier-down)](${SITE_URL}/distillations/hearing-2026-05-13-courtroom-to-congress.md),
-  [Dec 2025 legislative (tier-down)](${SITE_URL}/distillations/hearing-2025-12-02-legislative-solutions.md).
+  ([ESTABLISHED] / [OBSERVED] / [ASSUMED], plus provenance flags).
+  ${countWord(DISTILLATIONS.length)} ledgers (raw markdown per ledger).
+  The lawsuits:
+${ledgerLines("lawsuit")}.
+  The regulatory record (a regulator is not a court):
+${ledgerLines("regulatory")}.
+  The hearings, with their full verbatim quote-banks:
+${ledgerLines("hearing")}.
 
 ## Briefings by audience (the same argument, told per room)
 

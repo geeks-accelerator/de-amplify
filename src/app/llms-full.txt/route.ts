@@ -28,6 +28,46 @@ const DOCS: [title: string, file: string, url: string][] = [
   ["For press and organizers (briefing deck)", "docs/proposals/2026-07-16-brake-integrity-pitch-press-organizers.md", `${SITE_URL}/for/press`],
 ];
 
+// Read a document by its LITERAL path, not by a variable joined at runtime.
+//
+// The obvious version, fs.readFileSync(path.join(process.cwd(), file)) over the
+// DOCS array, makes `file` opaque to static analysis, and Turbopack responds by
+// tracing THE WHOLE PROJECT into the server bundle: "Dynamic filesystem access
+// causes tracing of the whole project ... leads to all source files (including
+// the public folder) to be deployed as part of the server code." That is every
+// megabyte of docs/distillations/sources/ shipped to the server for no reason.
+// Every other markdown route escapes this by passing literal path segments; this
+// route was the only one that did not.
+//
+// The literal has to be AT THE CALL SITE. An intermediate lookup does not help:
+// a Record<string, string> of prebuilt literal paths still leaves readFileSync(p)
+// opaque and the warning stands (measured, not assumed). Thunks are what work,
+// because each fs.readFileSync then has its full literal argument in place. The
+// DOCS table above stays the readable list; this is just the reader for it.
+const DOC_READERS: Record<string, () => string> = {
+  "content/proposal.md": () => fs.readFileSync(path.join(process.cwd(), "content", "proposal.md"), "utf-8"),
+  "content/notes.md": () => fs.readFileSync(path.join(process.cwd(), "content", "notes.md"), "utf-8"),
+  "content/lawsuits.md": () => fs.readFileSync(path.join(process.cwd(), "content", "lawsuits.md"), "utf-8"),
+  "content/hearings.md": () => fs.readFileSync(path.join(process.cwd(), "content", "hearings.md"), "utf-8"),
+  "content/lawsuits/mdl-3047.md": () => fs.readFileSync(path.join(process.cwd(), "content", "lawsuits", "mdl-3047.md"), "utf-8"),
+  "content/lawsuits/kgm-v-meta.md": () => fs.readFileSync(path.join(process.cwd(), "content", "lawsuits", "kgm-v-meta.md"), "utf-8"),
+  "content/lawsuits/new-mexico-v-meta.md": () => fs.readFileSync(path.join(process.cwd(), "content", "lawsuits", "new-mexico-v-meta.md"), "utf-8"),
+  "content/lawsuits/tennessee-v-meta.md": () => fs.readFileSync(path.join(process.cwd(), "content", "lawsuits", "tennessee-v-meta.md"), "utf-8"),
+  "docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md": () => fs.readFileSync(path.join(process.cwd(), "docs", "proposals", "2026-07-16-brake-integrity-pitch-policymakers.md"), "utf-8"),
+  "docs/proposals/2026-07-16-brake-integrity-pitch-parents.md": () => fs.readFileSync(path.join(process.cwd(), "docs", "proposals", "2026-07-16-brake-integrity-pitch-parents.md"), "utf-8"),
+  "docs/proposals/2026-07-16-brake-integrity-pitch-press-organizers.md": () => fs.readFileSync(path.join(process.cwd(), "docs", "proposals", "2026-07-16-brake-integrity-pitch-press-organizers.md"), "utf-8"),
+};
+
+function readDoc(file: string): string {
+  const reader = DOC_READERS[file];
+  if (!reader) return "(source unavailable)";
+  try {
+    return reader().trim();
+  } catch {
+    return "(source unavailable)";
+  }
+}
+
 export function GET() {
   const header =
     `# de-amplify.com: full text\n\n` +
@@ -36,12 +76,7 @@ export function GET() {
     `This file is generated from the source markdown and is current as of the deploy.\n\n`;
 
   const body = DOCS.map(([title, file, url]) => {
-    let md = "(source unavailable)";
-    try {
-      md = fs.readFileSync(path.join(process.cwd(), file), "utf-8").trim();
-    } catch {
-      /* leave the placeholder */
-    }
+    const md = readDoc(file);
     return `---\n\n# ${title}\n\nSource: ${url}\n\n${md}\n`;
   }).join("\n");
 

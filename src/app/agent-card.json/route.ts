@@ -11,7 +11,17 @@ import { DISTILLATIONS, loadDistillation } from "@/lib/distillations";
 export const dynamic = "force-static";
 
 const SITE = "https://de-amplify.com";
-const AS_OF = "2026-07-25";
+
+// Derived, not hand-written. This was a literal, and it went stale the moment a
+// ledger landed after it: the card advertised as_of 2026-07-25 while the EU DSA
+// ledger it links was current to 2026-08-02. Nothing failed, because a stale
+// date is not a compile error, which is the same shape as the contentDate bug.
+// The newest ledger as-of date is the honest answer to "how current is the
+// evidence behind this card", and it cannot drift.
+const AS_OF = DISTILLATIONS.map((d) => loadDistillation(d.slug).asOf)
+  .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d))
+  .sort()
+  .at(-1) as string;
 
 // The per-ledger routes, built from the registry rather than hand-listed,
 // so registering a new ledger wires it into the card automatically. Titles are
