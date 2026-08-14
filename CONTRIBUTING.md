@@ -89,6 +89,13 @@ You do not have to remember all of these: CI runs every one of them, plus the
 house-style sweep, on your pull request. Running them locally just gets you the
 answer sooner.
 
+One version floor to know about: `npm run check:ledgers` needs **Node 22.6 or
+newer**. It imports the site's own TypeScript module so the checker can never
+disagree with the build, which means it passes `--experimental-strip-types`. On
+Node 20 that fails with `node: bad option: --experimental-strip-types`, which
+looks like a broken script and is really just an old Node. Everything else in
+the list runs fine on Node 20.
+
 If you touched styling, check contrast: real text must clear WCAG AA 4.5:1
 against the `#070709` background, which means `text-bone/50` is the floor.
 Anything dimmer has to be genuinely decorative and marked `aria-hidden="true"`.
