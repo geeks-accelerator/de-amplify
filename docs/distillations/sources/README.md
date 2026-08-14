@@ -63,6 +63,15 @@ verification and line-anchored locators survive link rot and are re-runnable by 
 
 ## Verifying
 
+**This is now a script: `npm run check:quotes`** (`scripts/check-quotes.mjs`), added 2026-08-13.
+It applies all four normalizations below at once, self-tests its own matcher against known answers
+before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
+on every run which ledgers it does **not** cover. Coverage today is six of nine ledgers: the four
+hearings and the EU proceedings in full, and `new-mexico-v-meta` scoped to its judgment-anchored
+section, because the rest of that ledger quotes coverage that is not cached. The remaining three
+(`mdl-3047`, `california-state-bellwethers`, `tennessee-v-meta`) need an allowlist authored the way
+the Nov 2023 one was before they can be registered. Do not re-derive this check by hand.
+
 Every quoted span in each `hearing-*` distillation (ledger, reader summary, coverage note,
 and quote-bank) was verified as a verbatim, whitespace-normalized substring of that
 document's cached source in this folder, or of the drafter-prose allowlist where one exists.
@@ -95,6 +104,22 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   text that looks plausible. **This cache is the `-raw` extraction, which has zero doubling** but
   interleaves footnote markers into the body. Every quoted span in the Tennessee ledger was
   verified individually against this file.
+- `new-mexico-2026-08-06-final-judgment.txt`: the **final judgment** in *State of New Mexico ex rel.
+  Torrez v. Meta Platforms, Inc.*, No. D-101-CV-2023-02838 (1st Jud. Dist. Ct.), captioned "Findings
+  of Fact, Conclusions of Law, and Judgment, Order, and Decree of the Court", 68 pages, file-stamped
+  **8/6/2026 4:41 PM**, signed Bryan Biedscheid, Chief District Court Judge, Division VI. Downloaded
+  2026-08-13 from the New Mexico DOJ's copy and extracted with `pdftotext -layout`.
+  **This one extracts cleanly**, unlike the two Tennessee filings below: it is a native Word PDF, not
+  a scan. Checked before use, because a clean extraction is a claim and not an assumption: zero
+  doubled word pairs in either `-layout` or `-raw` (probe run with a positive control, since the
+  first attempt used a regex engine without backreference support and silently reported zero), and
+  zero typographic ligatures. **Note the event/announcement split**: the judgment is dated August 6,
+  the Attorney General's fuller release August 7. The event date is the filing.
+- `eu-dsa-quote-allowlist.txt`: the drafter-prose quoted spans in `eu-dsa-proceedings.md` that are
+  deliberately NOT Commission quotes (rhetorical contrasts, claims the ledger warns against making,
+  a term being defined). Same role as the Nov 2023 allowlist. Authored 2026-08-13 when that ledger
+  was registered with `npm run check:quotes`; the file itself records the one span that looked like
+  it belonged there and did not.
 - `tennessee-2024-03-13-mtd-order.txt`: Chancellor Perkins's 34-page order denying Meta's motion
   to dismiss, 2024-03-13. This document is public only because the California Attorney General
   filed it as an exhibit on the federal MDL 3047 docket. **It is a scan and the OCR is poor**:

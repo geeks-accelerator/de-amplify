@@ -1,7 +1,7 @@
 ---
 title: "Plan: the MDL 3047 trial tense flip (August 12 and August 18, 2026)"
 subtitle: "Every string on the site that becomes false when the Oakland trial starts, located in advance, so the pass is mechanical rather than archaeological."
-status: "Prepared 2026-08-02, before the event. NOT YET APPLIED. Two dated passes are described below; apply each on or after its date, and only after confirming the event actually happened."
+status: "Prepared 2026-08-02, before the event. PASS 1 APPLIED 2026-08-13. Pass 2 is still pending and fires on or after August 18, 2026. Apply it only after confirming openings actually happened."
 date: 2026-08-02
 site: "de-amplify.com"
 document: "Operational checklist. Adds no legal claims; every string below already exists on the site and this file only says where it is and what it becomes."
@@ -36,6 +36,10 @@ Low-volume. Only the two "scheduled" framings need attention, and only if select
 | `content/lawsuits/mdl-3047.md` | "**Scheduled, and confirmed on the docket rather than from coverage:** jury selection begins **August 12, 2026**; opening statements **August 18**" | same flip; also drop or past-tense the August 4 questionnaire and August 9 hardship-stipulation sentences |
 
 Leave the ledger's TLDR variants alone at this pass. "Headed to an August 2026 trial" is still true during jury selection, and re-seeding a TLDR is a bigger operation than this event justifies.
+
+**Applied 2026-08-13.** Both rows above are done, the August 4 and August 9 interim dates were dropped from `content/lawsuits/mdl-3047.md`, and each page's as-of line records the partial pass in the same shape the 2026-08-02 Brussels/Tennessee pass used. The TLDR variants were left alone, as this section instructs.
+
+**On the evidence, stated at the tier it deserves, because this is the one thing the flip could get wrong.** The *dates* remain docket-sourced (Pretrial Order No. 3 and the July 23 case-management order, both already quoted on the pages). That jury selection *actually began* on August 12 is **courthouse reporting, not a docket minute entry**: the RECAP mirror of 4:22-md-03047 carries no minute entry for the proceeding, and an attempt to filter that docket for one could not be given a positive control, so its absence is a fact about the query and not about the record. What the docket does establish is that the schedule was never disturbed: entries through August 13 show live trial-eve practice (Meta's second updated exhibit list on August 12, oppositions on August 11 to a motion to preclude Bejar "at Trial", Pretrial Order No. 7 on disputed discovery designations on August 13) and no continuance or stay. Both pages say so in those terms rather than claiming a docket confirmation that was not obtained. **Upgrade this when the minute entry appears**, and note that Pass 2 should not repeat the shortcut: openings are the bigger claim.
 
 ## Pass 2: on or after August 18 (openings and evidence)
 

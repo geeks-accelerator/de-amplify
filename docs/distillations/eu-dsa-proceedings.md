@@ -51,7 +51,7 @@ Three of this site's seven scorecard dimensions appear almost verbatim in the Co
 
 - **Material.** The finding is not that the tool is missing. It is that it exists and does "not lead to a meaningful reduction and control of the usage of the service." A control that changes nothing measurable is the exact failure this project names.
 - **Discoverable.** Seven clicks to reach a reporting form, on a form not pre-filled, is a discoverability finding with a number attached.
-- **Non-circumventing.** "Can be easily dismissed" and "introduce limited friction" are findings that the product routes around the user's own choice.
+- **Non-circumventing.** "can be easily dismissed" and "introduce limited friction" are findings that the product routes around the user's own choice.
 
 And the remedies the Commission names are design remedies, not speech remedies: disable autoplay and infinite scroll by default, implement effective screen-time breaks including at night, adapt the recommender system to be less engagement-oriented. That is de-amplification rather than censorship, proposed by a regulator, which is the precise shape this site argues for.
 

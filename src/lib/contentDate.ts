@@ -37,11 +37,28 @@ const ISO = /^\d{4}-\d{2}-\d{2}$/;
 export type DateSource = "manifest" | "git" | "fallback";
 const used: Record<DateSource, number> = { manifest: 0, git: 0, fallback: 0 };
 
+/**
+ * Does the SHIPPED manifest carry a usable date for this path?
+ *
+ * This is the question /api/health actually needs to answer, and the counters
+ * below cannot answer it. Every page is prerendered during `next build`, in a
+ * different process from the one serving traffic, so the running server's
+ * counters only ever record the health route's own lookups: they would read
+ * `{manifest: N, fallback: 0}` on a deploy whose pages had all fallen back.
+ * A counter that cannot go red is not provenance. This can.
+ */
+export function manifestHas(pathOrRel: string): boolean {
+  const v = DATES.modified?.[relKey(pathOrRel)];
+  return Boolean(v && ISO.test(v));
+}
+
 export function dateProvenance() {
   return {
     manifestGenerated: DATES.generated ?? null,
     manifestEntries: Object.keys(DATES.modified ?? {}).length,
-    resolvedFrom: { ...used },
+    // Renamed from `resolvedFrom`, which read like a build-wide tally and was
+    // one: a per-process lookup count, almost entirely from this endpoint.
+    lookupsThisProcess: { ...used },
   };
 }
 

@@ -1,0 +1,131 @@
+# CI: run the guards that were previously honor-system.
+#
+# WHY THIS EXISTS. This repo's whole discipline is catching drift that looks
+# exactly like correctness, and until now every one of its guards was a command
+# a human had to remember. CONTRIBUTING.md asks for five of them; nothing ran
+# any of them. Every incident in the project's history was silent and green:
+# the content dates that froze for three weeks, the K.G.M. opener that stayed in
+# the future tense for eight days, the two indexable URLs with one meta
+# description. A wrong date is not a compile error, which is exactly why it needs
+# a job that fails.
+#
+# fetch-depth: 0 is load-bearing. check:dates resolves git author dates and
+# compares them to the committed manifest; a shallow clone has no history, so it
+# would report drift on every path and the check would be worse than useless.
+
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # TWO JOBS, ON DIFFERENT NODE VERSIONS, AND THE SPLIT IS THE POINT.
+  #
+  # This job runs on Node 20 because that is what production runs
+  # (nixpacks.toml pins nodejs_20). Linting and building on any other version
+  # would mean CI could go green on a build Railway cannot reproduce, which is
+  # the same shape as every other bug in this repo's history: verified in an
+  # environment that is not the one that matters.
+  build:
+    name: lint and build (Node 20, matching production)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      # npm ci proves the lockfile tree. Production does NOT use it (railway.toml
+      # deletes the lockfile and installs fresh from the semver ranges), so this
+      # is the closest local approximation of a resolution Railway will redo from
+      # scratch, not a guarantee about it.
+      - run: npm ci
+
+      - name: lint
+        run: npm run lint
+
+      - name: build (typecheck + compile)
+        run: npm run build
+
+  # The guard scripts run on Node 22 because `check:ledgers` passes
+  # --experimental-strip-types, which does not exist before Node 22.6. It needs
+  # that flag because it imports the real src/lib/distillations.ts rather than
+  # reimplementing the TLDR parser, which is deliberate: a checker with its own
+  # parser can disagree with the build and silently pass.
+  #
+  # So the repo's `engines` field (>=20) is right about the APP and wrong about
+  # this one dev script. Production never runs it, so the mismatch costs nothing
+  # there, but it cost a red CI run on the very first execution of this
+  # workflow, which is exactly what a first execution is for.
+  #
+  # fetch-depth: 0 is load-bearing HERE and not in the build job: check:dates
+  # compares the committed manifest against real git author dates, and a shallow
+  # clone would report drift on every path.
+  guards:
+    name: the drift guards (Node 22, for --experimental-strip-types)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: check:dates (committed manifest matches git history)
+        run: npm run check:dates
+
+      - name: check:ledgers (verbatim TLDR consumers, raw-route coverage)
+        run: npm run check:ledgers
+
+      - name: check:quotes (quoted spans verbatim against the source caches)
+        run: npm run check:quotes
+
+      # The house-style sweep from CLAUDE.md. One exact codepoint per pattern
+      # under the C locale: the naive bracket-class grep over-reports badly on
+      # BSD/macOS and sends you chasing ghosts. sources/ and reviews/ are exempt
+      # because their punctuation is evidence, not prose. CLAUDE.md is excluded
+      # because it documents the rule by quoting the characters, so it always
+      # self-matches.
+      - name: house style (no em/en dashes, no curly quotes)
+        run: |
+          if LC_ALL=C grep -rn \
+            --exclude-dir=sources --exclude-dir=reviews --exclude=CLAUDE.md \
+            -e $'—' -e $'–' -e $'‘' -e $'’' -e $'“' -e $'”' \
+            src/ content/ docs/ *.md; then
+            echo "::error::House style violation. Use commas, colons, parentheses, or restructure."
+            echo "Straight quotes only; no em-dash or en-dash as punctuation. See CLAUDE.md."
+            exit 1
+          fi
+          echo "house style OK."
+
+  audit:
+    # Deliberately a SEPARATE job. A dependency advisory is worth seeing on every
+    # PR, but it is not the PR author's fault and should not be the thing that
+    # blocks an unrelated content fix. No status checks are required on main, so
+    # this reports without gating. It exists because the sharp/libvips advisories
+    # sat in the production tree unnoticed: package.json's exact pins are the
+    # ONLY real production pins, since the lockfile is deleted before install.
+    name: dependency audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: npm audit (high and above)
+        run: npm audit --audit-level=high

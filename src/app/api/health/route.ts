@@ -1,8 +1,29 @@
-import { contentDate, dateProvenance } from "@/lib/contentDate";
+import { contentDate, dateProvenance, manifestHas } from "@/lib/contentDate";
+import { DISTILLATIONS } from "@/lib/distillations";
 
 export const dynamic = "force-dynamic";
 
 const SITE = "https://de-amplify.com";
+
+// Every content path the site's dated surfaces resolve, so the coverage probe
+// below asks about the real thing rather than one sample. The ledger paths come
+// from the registry, so a new ledger is covered without anyone remembering.
+const TRACKED = [
+  "content/proposal.md",
+  "content/notes.md",
+  "content/lawsuits.md",
+  "content/hearings.md",
+  "content/lawsuits/mdl-3047.md",
+  "content/lawsuits/kgm-v-meta.md",
+  "content/lawsuits/new-mexico-v-meta.md",
+  "content/lawsuits/tennessee-v-meta.md",
+  "docs/proposals/2026-07-16-brake-integrity-pitch-policymakers.md",
+  "docs/proposals/2026-07-16-brake-integrity-pitch-parents.md",
+  "docs/proposals/2026-07-16-brake-integrity-pitch-press-organizers.md",
+  "docs/distillations",
+  "docs/distillations/*.md",
+  ...DISTILLATIONS.map((d) => `docs/distillations/${d.slug}.md`),
+];
 
 // Date provenance, reported because its absence cost weeks. The build used to
 // resolve content dates by shelling out to git; that silently failed on Railway
@@ -16,9 +37,23 @@ const SITE = "https://de-amplify.com";
 // covers, and a live sample resolved through the same code path the pages use.
 // If `sample` ever comes back as the fallback literal while the sitemap
 // disagrees, the manifest did not make it into the image.
+//
+// `coverage` is the part that can actually go red. It asks the SHIPPED manifest
+// whether it carries every content path the dated surfaces need, and names the
+// ones it does not. A path listed in `missing` is a page whose JSON-LD
+// dateModified and sitemap lastmod are a hardcoded literal in production, which
+// is the exact failure that ran unnoticed for three weeks: green build, correct
+// looking page, frozen dates. This makes it one curl instead of a sitemap diff.
 function dates() {
+  const missing = TRACKED.filter((p) => !manifestHas(p));
   return {
     ...dateProvenance(),
+    coverage: {
+      tracked: TRACKED.length,
+      fromManifest: TRACKED.length - missing.length,
+      missing,
+      ok: missing.length === 0,
+    },
     sample: { path: "content/lawsuits.md", resolved: contentDate("content/lawsuits.md", "1970-01-01") },
   };
 }

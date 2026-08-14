@@ -1,0 +1,3231 @@
+                                                                  FILED 1st JUDICIAL DISTRICT COURT
+                                                                                       Santa Fe County
+                                                                                      8/6/2026 4:41 PM
+STATE OF NEW MEXICO                                             KATHLEEN VIGIL CLERK OF THE COURT
+COUNTY OF SANTA FE                                                                      Marina Sisneros
+FIRST JUDICIAL DISTRICT COURT
+
+STATE OF NEW MEXICO, EX REL.,
+RAÚL TORREZ, ATTORNEY GENERAL,
+
+       Plaintiff,
+
+v.                                                          No. D-101-CV-2023-02838
+
+META PLATFORMS, INC.,
+
+       Defendant.
+
+
+                     FINDINGS OF FACT, CONCLUSIONS OF LAW, AND
+                    JUDGMENT, ORDER, AND DECREE OF THE COURT
+
+       THIS MATTER came before the Court for a two-phase proceeding, with Phase 1 being a
+
+jury trial held between February 2, 2026 and March 24, 2026, and Phase 2 being a bench trial held
+
+between May 4, 2026 and May 22, 2026, upon complaint by the Plaintiff, the State of New Mexico,
+
+ex rel., Raúl Torrez, Attorney General (the “State”). The Phase 1 jury trial considered the State’s
+
+Unfair Practices Act claims and resulting civil penalties. The Phase 2 bench trial considered the
+
+State’s request for abatement based upon the State’s allegation that the Defendant, Meta Platforms,
+
+Inc. (“Meta”), created a public nuisance. The State appeared through its attorneys with the New
+
+Mexico Department of Justice and Motley Rice, LLC. Meta appeared through its attorneys with
+
+Holland & Hart, LLP; Rodey, Dickason, Sloan, Akin & Robb, P.A.; Kellogg, Hansen, Todd, Figel
+
+& Frederick, P.L.L.C.; and, Covington & Burling, LLP. Having taken evidence, heard argument,
+
+considered the parties’ written submissions, and being otherwise fully advised, THE COURT
+
+FINDS, CONCLUDES, AND ORDERS:
+
+
+                                                1
+                                     FINDINGS OF FACT
+
+A. Background
+
+1.      On December 5, 2023, the State filed a complaint against Meta that included a request for
+
+injunctive relief to abate a public nuisance. The State brought its suit through Raúl Torrez, the
+
+New Mexico Attorney General.
+
+2.      Meta, formerly known as Facebook, Inc. and TheFacebook, Inc., is a multinational
+
+technology company incorporated in Delaware, with a principal place of business in Menlo Park,
+
+California. See Defendants’ Amended Answer and Affirmative Defenses ¶ 8, State ex rel. Torrez
+
+v. Meta Platforms, Inc., D-101-CV-2023-02838 (1st Jud. Dist. Ct. Aug. 2, 2024). Meta is
+
+registered to do business in New Mexico as a Foreign Profit Corporation. Id.
+
+3.      Meta designs, markets, and operates social media services, including Facebook, Instagram,
+
+Messenger, and WhatsApp. Id. ¶ 9. Facebook and Instagram are accessible via internet browser
+
+and mobile app. Id. ¶ 47.
+
+4.      Instagram, LLC provides a social media networking service that enables users to post and
+
+share images and videos with others, as well as interact with other users. Id. ¶ 11. Meta purchased
+
+Instagram on April 9, 2012. Id. Instagram, LLC is a wholly owned subsidiary of Meta. Id.
+
+5.      Meta “operates the services Facebook, Instagram, and WhatsApp” in New Mexico, and
+
+“New Mexico citizens and/or citizens of other states traveling in or visiting New Mexico use
+
+Facebook, Instagram, and/or WhatsApp.” Id. ¶ 30. Additionally, Meta operates a data center in
+
+Los Lunas, New Mexico, and the data center houses Meta’s computing equipment and hardware.
+
+Id. ¶ 21.
+
+6.      On December 18, 2023, Defendants filed a notice of removal invoking the federal district
+
+court’s federal question jurisdiction under 28 U.S.C. § 1331. While the matter was in federal court,
+
+
+                                                 2
+the State filed an amended complaint on January 9, 2024, which maintained a claim against Meta
+
+for public nuisance and request for injunctive relief.
+
+7.     The Court has personal and subject matter jurisdiction in this matter and venue is proper in
+
+Santa Fe County, State of New Mexico. Meta filed a motion to dismiss based on lack of personal
+
+jurisdiction on March 1, 2024, which this Court denied on June 21, 2024.
+
+8.     The Court bifurcated the trial of this matter into two phases. Phase 1 was a jury trial to
+
+reach a verdict on legal claims that Meta’s conduct violated the New Mexico Unfair Practices Act
+
+(“UPA”), NMSA 1978, §§ 57-12-1 to -27 (1967, as amended through 2025). Phase 2 was a bench
+
+trial to principally consider whether Meta’s platforms created a public nuisance in New Mexico
+
+and, if so, what abatement is appropriate.
+
+9.     Evidence in Phase 1 focused on Meta’s platforms, representations about those platforms,
+
+risks existing on or created by those platforms, and whether Meta’s representations or omissions
+
+violated the UPA because they did not accurately disclose characteristics and risks associated with
+
+those platforms.
+
+10.    To avoid juror confusion between UPA and statewide nuisance abatement claims, evidence
+
+of the latter was largely excluded from Phase 1 and was reserved for Phase 2. The jury was given
+
+a UPA instruction that focused on representations to adolescents, as opposed to harms caused to
+
+New Mexico’s populace as a whole. As the parties rely on evidence from both trial phases in their
+
+proposed findings of fact and conclusions of law, the Court similarly considers all relevant
+
+evidence from Phase 1 and Phase 2 with respect to the State’s public nuisance abatement claims.
+
+11.    In Instruction 16 to the jury, the jury was instructed that “[t]o determine the number of
+
+violations, it is for you to decide from the evidence presented how many, if any, people under 18
+
+in New Mexico either used the platform because they were not properly informed of the alleged
+
+
+                                                  3
+risks or would not have used the platform if they were so informed.” Final Jury Instructions, State
+
+ex rel. Torrez v. Meta Platforms, Inc., D-101-CV-2023-02838 (1st Jud. Dist. Ct. April 9, 2026).
+
+12.    Applying this measure of harm to the Phase 1 evidence to calculate the appropriate civil
+
+penalty under the UPA, the jury concluded that Meta committed 75,000 violations of the UPA and
+
+that each of these violations warranted the highest possible penalty of $5,000.00, for a total verdict
+
+of $375,000,000.00. Order Correcting Verdict Form, State ex rel. Torrez v. Meta Platforms, Inc.,
+
+D-101-CV-2023-02838 (1st Jud. Dist. Ct. March 26, 2026).
+
+B. New Mexico is experiencing a youth mental health crisis.
+
+13.    During Phase 1 and Phase 2, the Court received evidence of both national and New Mexico
+
+specific data related to the mental health of adolescents. To reach its decision in this matter, the
+
+Court relies first and foremost on data regarding the mental health of adolescents in New Mexico,
+
+but also takes note where the national data is more comprehensive than what is available in New
+
+Mexico. Both parties produced evidence from government reports and professional organizations
+
+observing that mental health is shaped by many factors, including genes, brain chemistry, family
+
+and friends, neighborhood conditions, and larger social forces and policies. [See Def. Ex 03044 at
+
+3-5, 9 (Surgeon General’s 2023 advisory); Pl. Ex. 03193 at 3-5, 9 (same); see also Def. Ex. 01045
+
+at 38 (providing in the consensus report study on social media from the National Academies of
+
+Science, Engineering, and Medicine, that “[g]un violence, climate change, parental attitudes, social
+
+unrest, poverty, inequity, and isolation have all been proposed as explanations” for recently
+
+reported declines in teen mental health)]
+
+14.    The Court finds based on the evidence that there is a youth mental health crisis in New
+
+Mexico, which has worsened in recent years. [See, e.g., 5-11-26 Tr. 17417:9-13, 17453:21-24
+
+(Pell); 5-11-26 Tr. 17642:7-13 (Cain)] As described herein, the youth mental health crisis in New
+
+
+                                                  4
+Mexico is adversely impacting teens, their families, and their communities. It is also burdening
+
+public and community resources throughout the State. New Mexico youth are particularly at risk
+
+of negative mental health outcomes, for a variety of factors, including adverse childhood
+
+experiences such as abuse, neglect, exposure to community violence, and living in under-resourced
+
+or racially segregated neighborhoods, which the New Mexico Department of Health has
+
+determined can increase the risk for mental health conditions, both during and beyond childhood.
+
+[See Def. Ex. 03044 at 6.] Schools can negatively or positively affect youth mental health, and
+
+most districts within the New Mexico education system do not have the funding or resources to
+
+provide mental health support to all students who need it.
+
+15.    Recent trends in public health data show that measures of youth mental health in New
+
+Mexico have significantly worsened in recent years. For example, data from the New Mexico
+
+Youth Risk and Resiliency Survey (“NM YRRS”) shows that, among New Mexico adolescents in
+
+grades 9-12, persistent feelings of sadness or hopelessness were 16% higher in 2023 than they
+
+were in 2013. [Pl. Ex. 07744 at 7; 5-11-26 Tr. 17454:22-17456:11 (Pell)] Dylan Pell, a mental
+
+health epidemiologist at the New Mexico Department of Health, testified that this “represents a
+
+massive public health burden in New Mexico.” [5-11-26 Tr. 17456:4-5; see 5-11-26 Tr. 17454:22-
+
+17456:11 (Pell)] Similarly, data from the National Survey on Drug Use and Health shows that
+
+major depressive episodes among youth in New Mexico more than doubled from 2013/2014 to
+
+2022/2023. [Pl. Ex. 07744 at 5; 5-11-26 Tr. 17450:5-17451:20 (Pell)] Mr. Pell testified that in
+
+recent years, New Mexico has had a higher prevalence of major depressive episodes among youths
+
+when compared to other states. [5-11-26 Tr. 17453:8-11] Data reflects that youth major depressive
+
+episodes, both in New Mexico and in the United States as a whole, increased at a fairly steady rate
+
+
+
+
+                                                5
+between 2009 and 2023, save for a period of time roughly coinciding with the COVID-19
+
+pandemic during which time depressive episodes increased more sharply. [See Pl. Ex. 07744 at 6]
+
+16.    In recent years, suicide has been either the leading or second leading cause of death among
+
+adolescents in New Mexico. [5-11-26 Tr. 17464:18-21 (Pell)] The rate of suicide deaths among
+
+adolescents in New Mexico for the five-year period of 2019-2023 was 31% higher than for the
+
+five-year period of 2009-2013. [5-11-26 Tr. 17464:18-21 (Pell)] For the five-year period of 2019-
+
+2023, suicide was the second leading cause of death among adolescents in New Mexico,
+
+representing about five times the number of children who died of cancer in that time period. [5-
+
+11-26 Tr. 17465:5-25 (Pell)] Clarie Miller, the lead suicide prevention coordinator at the New
+
+Mexico Department of Health, testified that youth suicide in New Mexico is “a public health
+
+crisis.” [5-4-26 Tr. 14762:21-25; 5-4-26 Tr. 14759:3-20, 14763:1-14 (Miller)]
+
+17.    Similarly, activity indicating disordered eating among youth in New Mexico has
+
+significantly increased. Between 2011 and 2023, the prevalence of New Mexico adolescents in
+
+grades 6-8 who reported vomiting or using laxatives for weight control more than doubled, and
+
+the prevalence of those adolescents who went without eating for weight control increased 80%.
+
+[Pl. Ex. 07744 at 12-13]
+
+18.    Dr. Kimothi Cain, a child and adolescent psychiatrist at the University of New Mexico
+
+whom the Court admitted as an expert in child and adolescent psychiatry, [2-26-26 Tr. 6948:21-
+
+6949:1], testified about similar trends she has observed over the last decade. Based on her clinical
+
+practice in New Mexico and her review of academic literature, she stated: “we’ve seen an increase
+
+in the number of children who are really struggling with mental health conditions and the severity
+
+is very concerning.” [2-26-26 Tr. 6951:1-9; accord 2-26-26 Tr. 7024:1-7025:7 (Cain)] Dr. Cain
+
+further testified that “we see more and more incidents of self-harming, of suicide attempts,” as
+
+
+                                                 6
+well as “more and more children who are struggling with . . . eating disorders . . . who are struggling
+
+from depression, who are struggling from anxiety.” [2-26-26 Tr. 6951:12-23]
+
+19.    The increasing rates of youth mental health issues in New Mexico create community-wide
+
+harms. Dr. Jean Twenge testified that rising rates of major depression, suicide, and self-harm at
+
+the population level burden entire communities, explaining that such increases “have a significant
+
+effect on the population, not just those who suffer from that but their siblings, their friends, their
+
+parents, their schoolmates.” [5-7-26 Tr. 16463:14-16464:3]
+
+20.    These increasing harms to New Mexico’s youth have overwhelmed the systems in place
+
+for addressing such harms. Dr. Dana Weiner, an expert in child welfare policy and improving
+
+healthcare systems for children and families, [5-12-26 Tr. 18118:7-13], testified that the capacity
+
+of New Mexico’s current behavioral health system “falls short of the growing need for behavioral
+
+health services for young people,” [5-12-26 Tr. 18101:13-22], and that the need for mental health
+
+treatment among New Mexico youth has “outpaced [the] capacity” of the state’s existing systems,
+
+meaning New Mexico lacks adequate capacity “at this time.” [5-12-26 Tr. 18152:20-18153:5]
+
+21.    Dr. Cain also observed the strain the youth mental health crisis places on New Mexico’s
+
+healthcare system, testifying that healthcare providers are “drowning” and that “there is a
+
+substantial shortage of resources in New Mexico to provide mental health screening, assessment,
+
+intervention, and treatment for children and adolescents.” [5-12-23 Tr. 17900:18-23, 17903:25-
+
+17904:4] She provided additional details on how this strain causes further harm to children in
+
+crisis: “[A]s we see the patterns of increasing suicide attempts, full emergency rooms with children
+
+with mental health conditions, boarding children in emergency rooms, that means they sleep in the
+
+hallways with no privacy until a psychiatric bed can open so we can keep these children safe. And
+
+we’ve just been inundated year after year after year.” [2-27-26 Tr. 7230:25-7231:8]
+
+
+                                                  7
+C. Problematic social media use is a cause of the youth mental health crisis.
+
+22.     In 2023, the U.S. Surgeon General issued a public advisory titled “Social Media and Youth
+
+Mental Health” (“2023 Advisory”) which “calls attention to the growing concerns about the effects
+
+of social media on youth mental health.” [Pl. Ex. 03193 at 3] As the 2023 Advisory notes, “[a]
+
+Surgeon General’s Advisory is a public statement that calls the American people’s attention to an
+
+urgent public health issue,” and such advisories “are reserved for significant public health
+
+challenges that require the nation’s immediate awareness and action.” [Pl. Ex. 03193 at 3] The
+
+2023 Advisory states that “[u]p to 95% of youth ages 13-17 report using a social media platform,
+
+with more than a third saying they use social media ‘almost constantly.’” [Pl. Ex. 03193 at 4] The
+
+2023 Advisory also notes that “nearly 40% of children ages 8-12 use social media.” [Pl. Ex. 03193
+
+at 4]
+
+23.     Importantly, the 2023 Advisory reports that features designed to maximize engagement
+
+can harm children by encouraging problematic use and behaviors. The 2023 Advisory provides
+
+that:
+
+        [e]xcessive and problematic use of social media can harm children and adolescents
+        by disrupting important healthy behaviors. Social media platforms are often
+        designed to maximize user engagement, which has the potential to encourage
+        excessive use and behavioral dysregulation. Push notifications, autoplay, infinite
+        scroll, quantifying and displaying popularity (i.e., “likes”), and algorithms that
+        leverage user data to serve content recommendations are some examples of these
+        features that maximize engagement.
+
+[Pl. Ex. 03193 at 9]
+
+24.     In 2026, the U.S. Surgeon General issued another advisory titled “Surgeon General’s
+
+Warning on the Harms of Screen Use” (“2026 Advisory”). [Pl. Ex. 07976] The 2026 Advisory
+
+stated that “[s]tudents who report frequent social media use exhibit worse overall cardiovascular
+
+
+
+
+                                                8
+health and related behaviors, including poor diet and increased tobacco and nicotine product use.”
+
+[Pl. Ex. 07976 at 17]
+
+25.    The Surgeon General’s warning is consistent with witness testimony about the increasing
+
+prevalence of problematic social media use. Dr. Anna Lembke, a psychiatrist who serves as
+
+medical director of the Stanford Addiction Medicine Initiative, chief of the Stanford Addiction
+
+Medicine Dual Diagnostic Clinic, and director of the Taube Youth Addiction Initiative, [2-23-26
+
+Tr. 5421:9-5422:10], testified that “we’re seeing really an explosion of people presenting with
+
+addiction to a variety of different kinds of digital media, including social media.” [2-23-26 Tr.
+
+5423:l-4] She also confirmed that the rising rates of social media addiction are trending “not just
+
+nationwide but worldwide.” [2-23-26 Tr. 5494:7-15]
+
+D. Meta’s platforms are widely used in New Mexico.
+
+26.    Meta’s platforms have a significant presence in New Mexico. Dr. Zachary Ward, a witness
+
+admitted by the Court as an expert in computational decision science and health science, [2-26-26
+
+Tr. 6860:l-5], testified that, according to Meta’s internal data, between the years 2018 and 2024,
+
+New Mexico had an average of 180,116 monthly active users of Instagram between the ages 13
+
+and 17, with the lowest number in the time frame being about 135,000 and the highest number in
+
+the time frame being just over 250,000. [2-26-26 Tr. 6864:14-6870:22] He noted that as of March
+
+2024, the figure was 195,453 monthly active users in New Mexico between the ages of 13 and 17,
+
+and 1,030,640 monthly active users of Instagram ages 18 or older. [2-26-26 Tr. 6870:12-22]
+
+27.    Based on this evidence and testimony, the Court finds that a significant number of New
+
+Mexico residents, and particularly New Mexico teens, use Meta’s platforms.
+
+
+
+
+                                                9
+E. Meta implemented platform features that were designed to maximize engagement and
+time spent on its platforms, for all users and for teenage users in particular.
+
+28.    An internal presentation from May 2020 states that “Approval and acceptance are huge
+
+rewards for teens and interactions are the currency on [Instagram]. [Direct messages],
+
+notifications, comments, follows, likes, etc. encourage teens to continue engaging and keep
+
+coming back to the app.” [Pl. Ex. 00362 at 54] Additionally, the presentation explicitly connected
+
+notifications to time spent: a graphic included in the presentation shows the phrase “Fewer
+
+Notifications,” which is then followed by an arrow pointing to “Fewer Sessions,” which is
+
+followed by an arrow pointing to “Less Time Spent.” [Pl. Ex. 00362 at 74]
+
+29.    An August 2022 internal presentation titled “Late Night Use” reported that “18.3% of
+
+[Weekly Average Users] IG [Instagram] teens (over one week) exhibit behaviors associated with
+
+problematic use overall,” and that “7.4% of [Weekly Average User] teens” exhibited behaviors of
+
+“[l]ate night usage during times that are likely displacing sleep for most people.” [Def. Ex. 0345
+
+at 4, 11] An internal research presentation from June 2023 titled “Youth Well-being” reported that
+
+“[p]erceived life interference from app use is highest for younger users, and tracks with age.” [Pl.
+
+Ex. 01487 at 19]
+
+30.    Dr. Damon McCoy, a witness admitted by the Court as an expert in social media integrity
+
+systems, [2-12-26 Tr. 2675:8-18], offered opinions about “autoplay; endless scroll, which is
+
+basically another word for infinite scroll; and low value notifs, which means notifications,”
+
+testifying that inside of Meta “they were considered dark patterns and addictive-like designs.” [2-
+
+13-26 Tr. 2860:13-21] Dr. McCoy testified that Meta also internally acknowledged the addictive
+
+nature of additional design features like nudges, publicly displaying the number of “likes” on a
+
+user’s post, and algorithms intended to leverage user data to recommend content. [2-13-26 Tr.
+
+2875:14-2877:8]
+
+                                                10
+F. Meta’s engagement features encourage and facilitate problematic interactions between
+adults and children.
+
+31.     Meta’s engagement-optimized platform features recommend the accounts of vulnerable
+
+children to adult sexual predators, and vice versa, if the company’s recommendation algorithms
+
+predict that such recommendations are likely to lead to engagement. Adam Mosseri, the head of
+
+Instagram, testified that as Instagram has developed over the years, it has become “more
+
+sophisticated in using ranking to understand people’s interests and try to connect them to content
+
+they’re interested in.” [3-10-26 Tr. 10179:2-16, 10168:9-11] However, Arturo Bejar, who worked
+
+as Meta’s Senior Director of Engineering in charge of the Protect and Care team from 2009-2015
+
+and as a consultant for Instagram’s WellBeing Team from 2019-2021, [2-10-26 Tr. 1482:13-
+
+1483:23], noted that “the product is very good at connecting people with interests, and if your
+
+interest is little girls, it will be really good at connecting you with little girls.” [2-10-26 Tr. 1524:9-
+
+12]
+
+32.     When a user engages with accounts held by children under the age of 18, the company’s
+
+algorithms recommend more accounts held by children under the age of 18 and similar content to
+
+that user. For example, Meta conducted internal tests in June 2019 which found that “[u]sers that
+
+follow minors’ accounts will be recommended similar accounts as well as photos of teens in
+
+explore.” [Pl. Ex. 01730 at 4] The June 2019 internal document assessed inappropriate interactions
+
+with children on Instagram, and reported that “26% of the people we recommend to Groomers
+
+were Teens.” [Pl. Ex. 1730 at 3] In an internal chat from October 2020, a Meta employee stated
+
+that the feature “[People You May Know] was responsible for 80% of violating adult/minor
+
+connections.” [Pl. Ex. 00248 at 2]
+
+33.     The harmful engagement extends to users interacting with Meta’s chatbots in a sexualized
+
+way. Dr. Brian Levine, an expert on online child exploitation, [5-6-26 Tr. 15872:14-24], testified
+
+                                                    11
+to how Meta’s chatbots can be misused by adults and adolescents to create sexualized interactions,
+
+and the dangers of doing so to users under the age of 18. [5-7-26 Tr. 16187:4-16195:4]
+
+G. Harm caused by Meta’s products affects a significant number of people in New Mexico.
+
+34.    Significant numbers of people in New Mexico experience harm from Meta’s products due
+
+to risks of sexual exploitation, interference with education, and adverse mental health outcomes.
+
+35.    Dr. Jennifer O’Brien, admitted as an expert in the field of child sexual abuse, [2-19-26 Tr.
+
+4811:8-19], estimated that in 2023, 70,784 children in New Mexico experienced technology-
+
+facilitated sexual abuse (“TFSA”). [2-19-26 Tr. 4817:6-23] She also testified that the long-lasting
+
+harms of TFSA are suffered by children in New Mexico, and that those harms can be “extremely
+
+psychologically distressing” for children who are victimized. [2-19-26 Tr. 4837:24-4838:16]
+
+36.    Similarly, the National Center for Missing & Exploited Children (“NCMEC”) testified
+
+(through its designee Fallon McNulty) that children who experience online solicitation or sexual
+
+exploitation—including children in New Mexico—can suffer “devastating and long-term impacts
+
+. . . ranging all the way to suicide.” [2-24-26 Tr. 5933:5-17, 5935:3-5, 5875:1-5876:8] Dr. Cain
+
+testified that she treats New Mexico children who are “victims of sex trafficking” and noted that
+
+“we just keep seeing it more and more” because social media, including WhatsApp, enables
+
+“predators from all over the place [to] target children.” [2-26-26 Tr. 7010:4-7, 7012:1-13; see
+
+generally 2-26-26 Tr. 7011:16-7012:18, 7013:23-7015:14 (Cain)]
+
+37.    One form of child sexual exploitation that has become increasingly common in New
+
+Mexico is sextortion, which is where an online predator threatens or coerces a child for financial
+
+gain, typically involving a threat to expose nude or exploitative imagery of that child. [2-24-26 Tr.
+
+5885:10-21 (NCMEC)]
+
+
+
+
+                                                 12
+38.    Benjamin Zwiebel, a Special Agent with the New Mexico Department of Justice in the
+
+Internet Crimes Against Children division (“ICAC”), [2-12-26 Tr. 2541:7-10], testified that ICAC
+
+“receive[s] dozens” of CyberTip reports each month regarding sextortion of New Mexico victims
+
+on Instagram. [2-12-26 Tr. 2575:13-2576:12] Special Agent Zwiebel further testified that “[t]he
+
+psychological effect of an adolescent child being sextorted is . . . a profound detriment to their
+
+mental health. It causes them fear, anxiety, shame, and depression, sometimes with tragic results.”
+
+[2-12-26 Tr. 2604:5-13]
+
+39.    Increases in CyberTip reports from Meta are uniquely burdensome on New Mexico law
+
+enforcement given Meta’s practice of sending reports without human review, which subsequently
+
+requires law enforcement to obtain a judicially issued warrant to review the reports’ contents. [See,
+
+e.g., 5-4-26 Tr. 14824:6-14827:10 (Talley) (discussing how ICAC obtains a warrant pursuant to
+
+U.S. v. Ackerman, 831 F.3d 1292 (10th Cir. 2016) before reviewing these reports); 2-12-26 Tr.
+
+2595:11-23 (Zweibel)] For example, Jonathan Talley, ICAC’s Commander, testified that
+
+approximately 75% of Meta’s CyberTip reports for New Mexico require law enforcement to obtain
+
+a warrant (a higher rate than from reports stemming from any other platform) because of Meta’s
+
+failure to use human review, resulting in resource burdens on law enforcement and the judicial
+
+system. [5-4-26 Tr. 14824:6-14827:10] He also described the significant workload burdens placed
+
+on New Mexico law enforcement by Meta’s practice of sending inactionable CyberTip reports,
+
+noting that a majority of Meta’s reports are “junk tips.” [5-4-26 Tr. 14821:19-14824:5]
+
+40.    Witnesses from New Mexico schools testified both to the impact of social media on their
+
+students and schools and to their own personal experiences with sexual exploitation on Meta’s
+
+platforms. For instance, Katherine de La Rosa Salazar, an assistant principal at Wilson Middle
+
+School in Albuquerque, testified to several instances of students at her school that were sexually
+
+
+                                                 13
+exploited. [2-9-26 Tr. 1241:16-1253:4, 1289:8-1290:9] Ms. Salazar testified that one child who
+
+was being sexually exploited “didn’t go to class. She would stay in the bathroom” because of the
+
+exploitation. [2-9-26 Tr. 1244:10-1245:20] Additionally, Eric Crites, the head of school at New
+
+Mexico School for the Arts in Santa Fe, [3-2-26 Tr. 7698:18-19], testified that his son was a victim
+
+of sextortion on Instagram at age 15, which caused “very distressing” impacts on his son and “a
+
+lot of rupture in the family” in the aftermath. [3-2-26 Tr. 7713:21-7716:19]
+
+41.    Commander Jonathan Talley from the New Mexico Department of Justice testified to the
+
+community-wide impacts of sextortion or the distribution of child sex abuse materials (“CSAM”),
+
+explaining that it leads to “collateral damage” to people like parents and grandparents of the
+
+victims, and that those effects are attributable to social media. [5-4-26 Tr. 14854:13-14855:6] He
+
+also described the “burnout” effects on New Mexico law enforcement from investigating these
+
+crimes, which often requires reviewing CSAM. [5-4-26 Tr. 14808:7-14809:15, 14805:25-
+
+14806:65]
+
+42.    Dr. Weiner testified that New Mexico law enforcement lacks sufficient resources to fully
+
+investigate the volume of CyberTip reports it receives, and that New Mexico lacks sufficient
+
+resources to provide services to victims of child sexual exploitation. [5-12-26 Tr. 18140:17-
+
+18141:7, 18142:1-10] Additionally, Dr. O’Brien testified that New Mexico lacks the resources
+
+necessary to address the increasing rates of TFSA. [5-12-26 Tr. 18029:14-18030:3]
+
+H. Although many social media platforms compete for the attention of New Mexico’s youth,
+Meta’s platforms rely on methods for optimizing engagement that disproportionately impact
+education and interpersonal relationships.
+
+43.    Although Meta is not alone in this regard, its social media platforms are a significant
+
+contributing factor to the current mental health crisis among New Mexico’s youth established by
+
+
+
+
+                                                14
+the substantial evidence in this case. The vast majority of New Mexico youth use social media,
+
+including Meta’s platforms. [See Def. Ex. 03161 at 29]
+
+44.    The widespread use of social media by New Mexico children, including Meta’s platforms,
+
+interferes with school operations and disturbs student learning environments. Ms. Salazar testified
+
+that students are constantly using their phones during class to check social media, preventing
+
+students from “learning the content that [they] need to be learning” and diverting teachers, as well
+
+as the classroom generally. [2-9-26 Tr. 1222:3-6, 1256:1-1258:7] Mr. Crites testified that students
+
+at his school are “glued to their phones” and that social media, and Instagram specifically, has
+
+made it “harder to educate children,” describing a regular “battle for attention” in class to “engage
+
+students in whatever they’re supposed to be engaging with to learn that day.” [3-2-26 Tr. 7702:25-
+
+7703:16, 7718:2-5]
+
+45.    Similarly, Cheryl Coyle, former Principal of Vado Elementary School in Vado, New
+
+Mexico, testified that addressing the pervasive issues stemming from students’ social media use
+
+consumes an inordinate amount of classroom and administrator time. [2-19-26 Tr. 4914:13-
+
+4916:5, 4919:12-20, 4900:4-14] Ms. Salazar testified that, based on her experience working in the
+
+New Mexico school system, schools are unable to effectively police students’ use of Instagram or
+
+meet their related social and emotional needs. [2-9-26 Tr. 1269:3-5, 1294:18-22]
+
+46.    Evidence also shows that Meta’s platforms are uniquely responsible for social media’s
+
+negative impact on New Mexico schools. Gregory Frostad, Assistant Secretary of Education for
+
+Policy and Technology, testified that when New Mexico school superintendents raise concerns
+
+about social media’s impact on their school, “it is typically Instagram[.]” [5-8-26 Tr. 17072:23-
+
+17072:10, 17073:16-19] Ms. Salazar testified that Instagram has made bullying and fighting
+
+among students worse, noting that social media, including Instagram, “exacerbates what we
+
+
+                                                 15
+already knew was there and it heightens it.” [2-9-26 Tr. 1305:13-1306:22] Mr. Crites testified that
+
+when he sees students “glued to their phones . . . I see social media, Instagram more than others[.]”
+
+[3-2-26 Tr. 7702:25-7703:8] Similarly, Ms. Coyle testified that she had to spend a disproportionate
+
+amount of time during school days reporting problems to Instagram to try and support students
+
+experiencing harm: “I should be in the classroom, I should be, you know, supervising lunch, and
+
+instead of fighting with Instagram[.]” [2-19-26 Tr. 4914:13-4916:5, 4919:12-20]
+
+47.     Impacts from social media are not confined to the internet. Mr. Crites also observed that
+
+the harms caused by Meta’s platforms are community-wide: “When the disruption from Instagram
+
+happens, it’s always an eruption that involves a lot of people because of the design. It’s designed
+
+so that everyone knows what happened if somebody posts something horrible. . . . [or] says
+
+something threatening.” [3-2-26 Tr. 7718:2-15]
+
+48.     Social media’s adverse impacts on the school environment are “widespread” throughout
+
+the state. [See 5-8-26 Tr. 17052:5-21 (Frostad)] Mr. Frostad testified that superintendents from
+
+across New Mexico report observing social media’s negative effects on students, including
+
+increases of maladaptive behaviors among students. [5-8-26 Tr. 17052:5-11] He further testified
+
+that every school superintendent in New Mexico has reported that social media is a problem in
+
+their schools. [5-8-26 Tr. 17053:8-15]
+
+49.     In sum, the Court finds that New Mexico is in the midst of a teen mental health crisis
+
+affecting public health and public safety in and throughout the state, and that Meta’s platforms are
+
+a significant contributing cause to the crisis.
+
+I. Meta and its platforms provide a valuable service in New Mexico despite these harms, and
+it is not the only social media company impacting youth.
+
+50.     Meta’s platforms provide a valuable service and value to many New Mexicans.
+
+Nonetheless, the Court must strive to abate the public nuisance—which has resulted in adolescent
+                                                  16
+mental health harms and sexual exploitation—without rendering Meta’s entire platforms non-
+
+competitive or unfeasible.
+
+51.    The evidence in this case demonstrates that social media has many benefits, such as helping
+
+people connect with friends and family. [See, e.g., 2-27-26 Tr. 7225:11-14 (Cain); 2-19-26 Tr.
+
+4904:1-11 (Coyle); Def. Ex. 01045 at 93] It also helps members of marginalized communities
+
+form and build online communities based on connections and shared interests, especially when
+
+members of those communities might not have access to supportive or even safe communities
+
+offline. [2-12-26 Tr. 2452:22-25 (Boyle); 3-11-26 Tr. 10882:22-10883:16 (Otaru)] It is also a
+
+source of news, educational content, and entertainment. [Def. Ex. 01045 at 93] Meta’s services in
+
+particular help small businesses grow by allowing them to reach more customers. [2-12-26 Tr.
+
+2451:7-10 (Boyle)]
+
+52.    Meta is not the only social media company operating in New Mexico, and it shares
+
+responsibility for harms attributed to social media with other companies, such as Snapchat,
+
+TikTok, YouTube, and X. The State’s Rule 1-030(B)(6) NMRA designee, Krystal Adams,
+
+identified Snapchat, TikTok, YouTube, X, Reddit, and Discord, among others, as companies that
+
+also have contributed to any adverse effect suffered by a New Mexico consumer. [5-20-26 Tr.
+
+20320:7-20 (Deposition of Krystal Adams, played into the record 5-20-26 Tr. 20291:24-
+
+20333:19)] Snapchat is the primary platform used by criminals to carry out sextortion. [5-20-26
+
+Tr. 20307:4-8 (Adams Deposition)]
+
+53.    Additionally, teenagers in the United States use other apps more frequently than Facebook
+
+and Instagram. A Pew Research study from 2024 found that 50% of U.S. teenagers used Instagram
+
+daily, and only 20% used Facebook daily. [Def. Ex. 05497 at 6] Meanwhile, 73% of U.S. teenagers
+
+used YouTube and 57% used TikTok daily. [Id.] A study from the National Academies of
+
+
+                                               17
+Sciences, Engineering, and Medicine likewise found that 95% of teenagers had ever used
+
+YouTube, while 62% and 32% said the same of Instagram and Facebook, respectively. [Def. Ex.
+
+01045 at 67]
+
+J. Meta knowingly designed its platforms to maximize engagement, including in ways that
+are harmful to teenagers, and does not adequately disclose the risks of harm to its users.
+
+54.     As outlined above, the 2023 Advisory noted that adolescents face a heightened risk of a
+
+social media platform impacting their brain development. [Pl. Ex. 03193 at 3-5, 9] Further, social
+
+media platforms use engagement-maximizing features, such as “[p]ush notifications, autoplay,
+
+infinite scroll, quantifying and displaying popularity (i.e., ‘likes’), and algorithms that leverage
+
+user data to serve content recommendations.” [Pl. Ex. 03193 at 9]
+
+55.     The 2026 Advisory found that “[s]creen use is most likely to harm children and
+
+adolescents” when it “[i]s designed to increase use, with features like . . . infinite scrolls, auto play,
+
+and algorithmic feeds.” [Pl. Ex. 07976 at 11]
+
+56.     Meta “was aware that addiction and problematic use was a concern on the platform.” [5-5-
+
+26 15240:22-24 (Lubin); accord 2-23-26 5581:12-25, 5602:23-5603:1 (Lembke)] Dr. McCoy
+
+testified that Meta knew that its addictive design features led to harms among its users: “Meta had
+
+knowledge that, you know, their products were, you know, basically Attention-Capture Damaging
+
+Patterns and the harms that come from using these Attention-Capture Damaging Patterns and
+
+implementing them in the design of their features.” [2-13-26 Tr. 2873:11-16] And various
+
+witnesses testified to an internal report that demonstrated that Meta was aware, as early as 2018,
+
+that its features such as autoplay, endless scroll, low-value notifications, and count updates were
+
+“addictive-like.” [See Feb. 13 Trial Tr. at 2857:23-2864:8 (McCoy); 2-23-26 Tr. 5594:20-5597:19
+
+(Lembke); 5-5-26 Tr. 15240:9-15246:15 (Lubin)]
+
+
+
+                                                   18
+57.    A core design feature of Meta’s social media platforms is their use of recommendation
+
+algorithms. As explained by Dr. Arvind Narayanan, a witness admitted by the Court as an expert
+
+in social media algorithms, [2-17-26 Tr. 3550:18-25], social media recommendation algorithms
+
+“[are] involved in selecting and ranking items that are going to be shown to users” and do so “based
+
+on goals that are set for the algorithm by the developers of the system.” [2-17-26 Tr. 3555:20-25]
+
+Dr. Narayanan further testified that these recommendation algorithms “play a very central role in
+
+how Meta’s apps work,” and “Meta collects a lot of data about users as they engage with its apps.
+
+And it’s this large collection of data that allows Meta’s algorithms to be able to predict moment to
+
+moment what it is that a user might be most likely to engage with.” [2-17-26 Tr. 3556:1-6, 3556:22-
+
+3557:7]
+
+58.    Meta uses engagement-maximizing recommendation algorithms for all users, including
+
+teens. [2-17-26 Tr. 3573:15-17, 3581:15-3582:16 (Narayanan)] Meta acknowledged in an internal
+
+research presentation from June 2023 that “[t]eens have worse integrity experiences than adults”
+
+[Pl. Ex. 01487 at 42] and “[t]een ranking is especially driven by engagement terms.” [Pl. Id. at 44]
+
+59.    Notably, while Meta optimizes its recommendation algorithms to maximize engagement
+
+and time spent, that is not the only way such algorithms can be designed. As Dr. Narayanan
+
+explained, “[w]hen you’re optimizing for a metric, the algorithm uses all of that data to get better
+
+over time. Right now it’s getting better at showing engaging content. It could get better at these
+
+integrity goals[.]” [2-17-26 Tr. 3732:5-9] For instance, Dr. Narayanan testified that:
+
+       Meta could optimize for educational goals. It could incorporate safety and well-
+       being goals more closely in its optimization. It could ask users more often what
+       they truly value. It could minimize the role of these implicit signals or base or
+       impulses in the way that Meta takes in signals for optimization. It could measure
+       value over the long run instead of very short-term experiments, which I found was
+       the common practice at Meta. That is just a few of the things that Meta could be
+       doing differently.
+
+
+                                                19
+[2-17-26 Tr. 3672:21-3673:7]
+
+60.    Meta had information that teens’ developing brains diminish their capacity for sound
+
+judgment and emotional regulation, making them especially vulnerable to addictive use of Meta’s
+
+platforms and the addictive effects of the platforms’ engagement-maximizing features. For
+
+example, an internal presentation from May 2020 titled “Teen Fundamentals,” which provided “a
+
+synthesis of adolescent development concepts, neuroscience[,] as well as nearly 80 studies of our
+
+own product research,” stated that “[t]he teenage brain is usually about 80% mature,” and that
+
+“[t]he remaining 20% rests in the frontal cortex,” which is responsible for “[j]udgment,”
+
+“[p]lanning,” and “[f]oresight.” [Pl. Ex. 00362 at 11] The “Teen Fundamentals” research
+
+presentation further stated that “[t]eens’ decisions and behavior are mainly driven by emotion, the
+
+intrigue of novelty and reward. . . . While these all seem positive, they make teens very vulnerable
+
+at the elevated levels they operate on. Especially in the absence of a mature frontal cortex to help
+
+impose limits on the indulgence in these.” [Pl. Ex. 00362 at 12]
+
+61.    Based on the evidence in the record, the Court finds that Meta implemented platform
+
+features that were designed to optimize engagement, and that these features were and are harmful
+
+to teenagers. [See, e.g. 2-17-26 Tr. 3573:15-17, 3581:15-3582:16 (Narayanan) (outlining how
+
+Meta’s algorithm uses engagement-maximizing recommendation algorithms); 2-23-26 Tr.
+
+5468:22-5470:15 (Lembke) (describing how children are “uniquely vulnerable” to harm on social
+
+media because their brains are still developing)]
+
+62.    The risks of harm in Meta’s platforms are not adequately communicated to its users.
+
+Although Meta publishes Community Standards Enforcement Reports (“CSERs”), which outline
+
+the “prevalence” of violations to Meta’s community standards, [see, e.g., 2-10-26 Tr. 1707:14-
+
+1714:9 (Bejar) (describing CSERs generally)], the Court finds that these are insufficient to disclose
+
+
+                                                 20
+to the public and to New Mexicans the risks of Meta’s platforms to youth users and to correct the
+
+misrepresentations Meta has made about its platforms.
+
+63.     Demonstrations during the trial confirmed that CSERs are not easily accessible on Meta’s
+
+platforms. For example, the CSERs on https://www.meta.com are located in Meta’s “Transparency
+
+Center,” but there is no direct link from the home page of Meta’s website to the “Transparency
+
+Center.” [5-22-26 Tr. 21299:5-21300:1, 21300:22-21301:10] And on the app, a user must click on
+
+the “hamburger” icon; then click “help;” and then click on the “community guidelines button.” [5-
+
+22-26 Tr. 21304:7-21306:21] There is no direct disclosure or link to the CSERs at sign up or sign
+
+on for an individual user.
+
+64.     Further, Nathaniel Lubin, admitted as an expert in abatement on social media platforms,
+
+[5-5-26 Tr. 15221:9-19], testified that “CSERs are assessing Meta’s own compliance with its own
+
+ability to detect problems, as opposed to the reality prevalence of those problems.” [5-5-26 Tr.
+
+15314:6-11] This means that CSERs are “not a sufficient” indicator for teenagers “to know what
+
+the real prevalence of users experience with these particularly relevant points like suicide and
+
+eating disorders and sexual exploitation.” [5-5-26 Tr. 15314:11-22 (Lubin)]
+
+K. Meta’s conduct is a cause of and significantly contributes to the youth mental health crisis
+in New Mexico.
+
+65.     Based on the evidence presented in Phase 1 and Phase 2 of the proceedings and the parties’
+
+arguments, the Court finds that Meta’s platforms are a cause of and have substantially contributed
+
+to a public nuisance in New Mexico, and is required to abate that public nuisance, to the extent of
+
+its contribution.
+
+66.     Ample evidence describes the relationship between social media, including Meta’s
+
+platforms, and youth mental health. The 2023 Advisory detailed how frequent social media use
+
+may affect brain development. [Pl. Ex. 03193] The 2023 Advisory noted that adolescents face
+
+                                                21
+heightened risks of these impacts and that harms can also stem from the use of engagement-
+
+maximizing features (e.g., “[p]ush notifications, autoplay, infinite scroll, quantifying and
+
+displaying popularity (i.e., ‘likes’), and algorithms that leverage user data to serve content
+
+recommendations”). [Pl. Ex. 03193 at 3-5, 9] Relatedly, the 2026 Advisory explains, “[i]ncreased
+
+screen-related distraction (technoference) may reduce opportunities for social interaction,
+
+particularly in younger children. Adolescents who use media during face-to-face interactions tend
+
+to have lower feelings of mental well-being.” [Pl. Ex. 07976 at 16]
+
+67.    One aspect of social media’s harm to youth mental health and wellbeing is problematic
+
+use. Significant evidence demonstrates increasing prevalence of problematic social media use. Dr.
+
+Lembke—a psychiatrist who is medical director of the Stanford Addiction Medicine Initiative,
+
+chief of the Stanford Addiction Medicine Dual Diagnostic Clinic, and director of the Taube Youth
+
+Addiction Initiative [2-23-26 Tr. 5421:9-5422:10]—testified that “we’re seeing really an
+
+explosion of people presenting with addiction to a variety of different kinds of digital media,
+
+including social media” and that rising rates of social media addiction are trending “not just
+
+nationwide but worldwide.” [2-23-26 Tr. 5495:7-15; accord Pl. Ex. 03193 at 3-5, 9 (2023
+
+Advisory)]
+
+68.    Dr. Cain confirmed that these trends are present in New Mexico, stating that she sees
+
+problematic social media use or addiction in the children she treats, and particularly with
+
+Instagram. [2-26-26 Tr. 6961:12-13, 6986:2-5, 6988:2-3] Meta’s internal data confirms that New
+
+Mexico teens demonstrate problematic use, with the top 1% in terms of time spent on Facebook
+
+spending at least 290 minutes—nearly five hours—per day on that platform alone. [5-5-26 Tr.
+
+15286:18-15288:10 (Lubin)]
+
+
+
+
+                                               22
+69.    Increasing use of social media, including Meta’s platforms, has led to increasing harms to
+
+youth mental health and wellbeing. In 2023, New Mexico high school students who used social
+
+media more than once per hour, when compared to students who used social media less frequently,
+
+were: 25% more likely to have attempted suicide; 38% more likely to be injured in a suicide
+
+attempt; 17% more likely to have symptoms of anxiety; 23% more likely to have persistent feelings
+
+of sadness or hopelessness; and 36% more likely to have symptoms of depression. [Pl. Ex. 07744
+
+at 14; see also Pl. Ex. 01797 (Pell stating that 27.8% of “child suicide deaths (ages 5-17) in New
+
+Mexico” involved “social media/technology related concerns” between 2020-2022)]
+
+70.    Dr. Twenge likewise testified that time series studies at the population level establish that
+
+teens spending more time on social media leads to a higher likelihood of symptoms of depression.
+
+[5-7-26 Tr. 16438:20-16439:6] Dr. Twenge testified that most longitudinal studies confirm that
+
+adolescents’ social media use leads to depression, [5-7-26 Tr. 16448:19-21], and that experimental
+
+studies show that people who eliminate or reduce social media are less lonely and depressed, which
+
+further confirms the causal path between social media and teen mental health harms. [5-7-26 Tr.
+
+16449:18-5]
+
+71.    This evidence aligns with testimony of mental health practitioners. Dr. Cain testified that
+
+“over the years that we have seen this grouping of mental health conditions on the rise in
+
+adolescents and found that social media bears a strong role in worsening these conditions.” [2-26-
+
+26 Tr. 6950:10-21] Screening procedures recently implemented by Dr. Cain’s clinic revealed that
+
+social media plays a significant role in the mental health conditions of about 30% of the children
+
+treated. [5-11-26 Tr. 17636:1-17637:13]
+
+72.    Dr. Ward provided statistical measurements of social media’s impact on youth mental
+
+health in New Mexico based on an analysis of NM YRRS data from 2023 that accounted for
+
+
+                                                23
+confounding factors available in the NM YRRS data, as well as his review of medical literature
+
+that prioritized strong study designs. [See 5-8-26 Tr. 16913:9-16920:22, 16927:3-16932:17] Dr.
+
+Ward’s analysis measured social media’s causal impact on the mental health of New Mexico’s
+
+youth population: 1 in 10 children in New Mexico ages 11-17 have at least one mental health
+
+concern that would not have existed but for their social media exposure. [5-8-26 Tr. 16947:2-
+
+16948:8] He also measured the extent to which mental health issues among New Mexico youth
+
+issues were attributable to social media, as opposed to other factors: of the New Mexico children
+
+ages 11-17 who have at least one mental health concern, 21% would not have had that mental
+
+health concern but for their social media use. [5-8-26 Tr. 16946:23-16947:9]
+
+73.    Additionally, Dr. Ward detailed the widespread occurrence of specific mental health
+
+concerns among New Mexico teens because of social media:
+
+           ● “26 percent of youth in New Mexico who have symptoms of depression would not
+             have had those symptoms but for social media exposure.” [5-8-26 Tr. 16922:18-
+             16923:5]
+
+           ● Among New Mexico middle school and high school students, “20 percent of them
+             who have symptoms of anxiety would not have had that but for their social media
+             exposure.” [5-8-26 Tr. 16932:3-7]
+
+           ● “When you look at all youth in middle school and high school in New Mexico, the
+             attributable fraction or the proportion of kids who have sleep deprivation, less than
+             8 hours, is 15 percent [who] would not be experiencing sleep deprivation but for
+             their social media exposure.” [5-8-26 Tr. 16935:7-13]
+
+           ● “[W]hen you combine across middle school and high school boys and girls, 22
+             percent of youth who have at least one risk factor for suicide would not . . . have
+             those risk factors but for their social media exposure.” [5-8-26 Tr. 16939:25-
+             16940:4]
+
+           ● “[A]cross all middle schoolers [in New Mexico], 40 percent of kids who are
+             experiencing disordered eating behaviors would not be experiencing that but for
+             their social media exposure.” [5-8-26 Tr. 16945:3-13]
+
+
+
+
+                                               24
+74.    The Court finds Dr. Ward’s analysis and conclusions to be reasonable and consistent with
+
+the evidence presented by other witnesses. Meta’s expert witness Dr. Justin McCrary criticized Dr.
+
+Ward’s analysis, but Dr. McCrary’s own presentation of the data was incomplete and the Court
+
+finds that Dr. McCrary’s testimony is insufficient to undermine Dr. Ward’s more thorough
+
+analysis. [See, e.g., 5-21-26 Tr. 20939:16-19, 20940:10-20971:71 (McCrary)]
+
+75.    Testimony also shows that social media platforms, including Meta’s, bear responsibility
+
+for the current youth mental health crisis in New Mexico. For example, Dr. Cain noted that while
+
+self-harm among children in New Mexico is “not new,” “we’re seeing it a lot more and . . . we’re
+
+seeing different ways of self-harming that we didn’t see.” [2-26-26 Tr. 6994:6-18] Similarly, Ms.
+
+Miller testified that since the creation of social media, the pervasiveness of suicide and self-harm
+
+in New Mexico “has been amplified” throughout the state, noting that social media increases risk
+
+factors for suicide and self-harm in New Mexico communities. [5-4-26 Tr. 14759:3-20, 14762:21-
+
+14763:14] In training sessions that Ms. Miller conducted with New Mexico students, the students
+
+listed “Cyber bullying,” “Sextortion,” “Getting addicted,” and “Bad for mental health” among the
+
+“Cons” of social media. [Pl. Ex. 02648]
+
+76.    Dr. Cain specifically attributed the shortage of healthcare resources to “the impacts of
+
+social media on our children.” [5-12-26 Tr. 17900:18-17901:9] The capacity of New Mexico’s
+
+healthcare system is so outpaced by the needs of youth with conditions associated with social
+
+media use that it does not have enough of any of the following providers or programs to serve this
+
+population: child and adolescent psychiatrists; primary care physicians; psychiatric mental health
+
+nurse practitioners; social workers; mental health technicians; community health workers; clinical
+
+support staff; behavioral health providers; school-based health centers; intensive outpatient
+
+
+
+
+                                                25
+programs; inpatient facilities; residential treatment facilities; or post-acute care residential
+
+programs. [5-12-26 Tr. 17903:25-17906:6 (Cain)]
+
+77.    Expert testimony supports a causal link between social media and the youth mental health
+
+crisis in New Mexico. Dr. Twenge testified that, based on her review of the totality of the evidence,
+
+“social media use is a substantial contributing factor” in causing mental health outcomes such “as
+
+depression, anxiety, suicide, self-harm, and sleeping disorders” at the population level. [5-7-26 Tr.
+
+16509:22-16510:13] She also confirmed that Meta’s platforms, specifically, are a substantial
+
+contributing factor to these mental health harms. [5-8-26 Tr. 16863:3-12] Dr. Ward testified that,
+
+based on his review of New Mexico data and academic literature, social media is a substantial
+
+contributing factor to mental health harms among youth in New Mexico, including depression,
+
+anxiety, suicide risk factor, and disordered eating. [5-8-26 Tr. 16881:7-20, 16949:13-22] He noted
+
+that “a large number of youth . . . would not have had these harms but for their social media
+
+exposure.” [5-8-26 Tr. 16949:13-22] Mr. Pell testified that, based on his review of New Mexico
+
+data and academic literature, social media, including Facebook and Instagram, is a significant
+
+contributing factor to the mental health crisis in New Mexico. [5-11-26 Tr. 17418:12-17419:25]
+
+Dr. Cain testified that social media use is a substantial contributing factor to the mental health
+
+crisis in New Mexico. [5-11-26 Tr. 17651:5-18]
+
+78.    Meta presented testimony from expert witnesses—including Drs. Laurence Steinberg,
+
+Randy Auerbach, and Michael Baiocchi (none of whom treat patients on a regular basis). [5-20-
+
+26 Tr. 20507:9-11 (Meta calling Steinberg); 5-21-26 Tr. 20844:2-9 (Steinberg); 3-12-26 Tr.
+
+11251:9-11, 11358:2-6, 11366:7-15 (Auerbach); 5-20-26 Tr. 20333:24-20334:1, 20376:2-5
+
+(Baiocchi)] Although these witnesses opined that scientific studies do not definitively establish
+
+that social media causes mental health harms, [see, e.g., 5-21-26 Tr. 20744:21-20745:8
+
+
+                                                 26
+(Steinberg); 5-20-26 Tr. 20428:12-18 (Auerbach); 5-20-26 Tr. 20341:21-20342:5 (Baiocchi)], the
+
+Court finds that the restrictive analysis applied by those witnesses fails to consider the full scope
+
+of relevant evidence and is inconsistent with the extensive record developed at trial. The Court
+
+finds that the more appropriate analysis here is to consider the evidence as a whole, as Dr. Twenge,
+
+Dr. Ward, and Mr. Pell have done. [See, e.g., 5-7-26 Tr. 16450:9-18 (Twenge); 5-8-26 Tr.
+
+17006:10-17007:10 (Ward); 5-11-26 Tr. 17423:23-17424:14 (Pell); 5-11-26 Tr. 17650:7-21
+
+(Cain)]
+
+79.       The Court finds that the weight of the evidence presented demonstrates that Meta’s
+
+platforms are a cause of and substantial contributing factor to the youth mental health crisis in New
+
+Mexico.
+
+                                        CONCLUSIONS OF LAW
+
+80.       During the Phase 2 portion of the trial proceedings, Meta helpfully analogized to a polluting
+
+factory in order to argue the limitations on equitable relief that can be granted by this Court.1
+
+Essentially, Meta argued that, if a factory was emitting pollution into the air and that a community
+
+was being harmed thereby, the appropriate abatement measure is one which requires the factory to
+
+stop the emissions and cure the existing harm. This limitation was contrasted with inappropriate
+
+abatement measures, such as ordering the closure or demolition of the factory, enjoining or
+
+obstructing the production function of the factory, or requiring the factory owner to treat
+
+community health issues that are not causally related to the factory’s emissions well into the future.
+
+Finally, Meta argued that the Court must consider rights common to the public, as opposed to more
+
+
+
+
+1
+ The Court is aware that this analogy may not weather as well as the ferae naturae, migratory wild animal, analogy
+used in relation to oil and gas extraction in Hammonds v. Central Kentucky Natural Gas Co., 75 S.W.2d 204 (Ky.
+1934), overruled on other grounds by Texas American Energy Corp. v. Citizens Fidelity Bank & Trust Co., 736 S.W.2d
+25 (Ky. 1987).
+
+                                                       27
+isolated private rights, in determining whether a public nuisance exists, rather than numerous
+
+potential individual injury claims. This Court agrees with Meta’s argument and applies both the
+
+polluting factory analogy and the public right element to its analysis of this case.
+
+81.    Applying the factory analogy and the public right element to the present case, the Court
+
+finds and concludes, on the basis stated more specifically elsewhere in this decision, that the effects
+
+of Meta’s activities constitute a public nuisance such that abatement is an appropriate remedy. The
+
+Court considers Meta’s platforms to be analogous to the factory, the advertising and other content
+
+displayed on those platforms to be what is produced by the factory, and the psychological harm to
+
+and sexual exploitation of children to be the pollution that must be abated. With regard to the
+
+public right element, the Court finds and concludes that, just as noxious pollution produced by the
+
+factory can harm the common public right to reasonably clean air, the harmful effects of Meta’s
+
+platforms on children do not stay contained by its platforms and, instead, migrate to the internet
+
+as a whole and, perhaps most concerning, to the real world and create a common, societal burden
+
+on and harm to the affected children and their families and schools, as well as hospitals and law
+
+enforcement.
+
+82.     This decision does not seek to close or demolish Meta’s platforms, enjoin specific
+
+advertising or content (which the Court is also mindful is protected by the First Amendment and
+
+47 U.S.C. Section 230 of the federal Communications Decency Act (CDA)), or require Meta to
+
+cure causally disconnected harms. Rather, this decision seeks to address existing harms created
+
+by Meta’s platforms and to prevent future harm to children and future burdens on New Mexico, in
+
+general, that would otherwise be caused by Meta’s platforms. It is this Court’s conclusion that
+
+Meta is a cause of and has substantially contributed to a public nuisance in New Mexico, and is
+
+required to abate that public nuisance to the extent of its contributions.
+
+
+                                                  28
+A. Public nuisance in New Mexico
+
+83.    The State brought its action to abate a public nuisance under both NMSA 1978, Section
+
+30-8-1 (1963) and common law. The public nuisance statute provides that:
+
+       A public nuisance consists of knowingly creating, performing or maintaining
+       anything affecting any number of citizens without lawful authority which is either:
+
+       A. injurious to public health, safety, morals or welfare; or
+
+       B. interferes with the exercise and enjoyment of public rights, including the right
+       to use public property.
+
+Id.
+84.    The public nuisance statute is enforceable through a civil action for abatement. NMSA
+
+1978, § 30-8-8(B) (1963). A court can order injunctive relief when an act is “(1) declared by statute
+
+to be a nuisance per se, (2) in the absence of a statute the act would constitute a common law
+
+nuisance per se, [or] (3) because of the time, place, or circumstances involved, an act may cause
+
+irreparable injury to the public health, morals, safety, or welfare.” State v. Davis, 1958-NMSC-
+
+138, ¶ 6, 65 N.M. 128 (internal citations omitted).
+
+85.    The common elements of the statutory and common law public nuisance claims, in the
+
+context of this case, are whether Meta has unreasonably interfered with a right common to the
+
+general public. “Common law and statutory public nuisance are similar concepts in New Mexico,
+
+both described as an unreasonable interference with a right common to the general public.” City
+
+of Sunland Park v. Harris News, Inc., 2005-NMCA-128, ¶ 40, 138 N.M. 588 (internal quotation
+
+marks omitted). New Mexico courts define a public right as “one common to—belonging to—‘all
+
+members of the general public.’” State ex rel. Vill. of Los Ranchos de Albuquerque v. City of
+
+Albuquerque, 1994-NMSC-126, ¶ 52, 119 N.M. 150 [hereinafter Los Ranchos] (citing Restatement
+
+(Second) of Torts § 821B (1979) cmt. g). “In New Mexico, the public nuisance statute applies to
+
+anything affecting any number of citizens,” which Courts have interpreted to mean “a considerable
+                                                 29
+number of people or an entire community or neighborhood.” Id. (internal quotation marks
+
+omitted). The New Mexico Court of Appeals recently explained that “[a]s the law [on the definition
+
+of ‘affecting any number of citizens’] developed, however, our Supreme Court expressed a broader
+
+and more nuanced view that ‘[i]t is not . . . necessary that the entire community be affected by a
+
+public nuisance, so long as the nuisance will interfere with those who come in contact with it in
+
+the exercise of a public right or it otherwise affects the interests of the community at large.” See
+
+State ex rel. Bigney v. City of Rio Rancho, ___-NMCA-___, ¶ 16, ____P.3d_____ (A-1-CA-40664,
+
+Jan. 16, 2025) (quoting Los Ranchos, 1994-NMSC-126, ¶ 52).
+
+86.     The key distinction between statutory and common law claims for public nuisance is that
+
+the statute requires a finding that the actor causing the public nuisance did so “knowingly” and
+
+“without lawful authority.” Compare § 30-8-1, with Espinosa v. Roswell Tower, Inc., 1996-
+
+NMCA-006, ¶ 9, 121 N.M. 306.
+
+87.     “The concept of public nuisance is further divided into nuisances per se and nuisances in
+
+fact. A nuisance per se . . . is an activity, or an act, structure, instrument, or occupation which is a
+
+nuisance at all times and under any circumstances, regardless of location or surroundings.” Los
+
+Ranchos, 1994-NMSC-126, ¶ 53 (internal quotation marks omitted). A nuisance in fact “is usually
+
+defined as an activity or structure which is not a nuisance by nature, but which becomes so because
+
+of such factors as surroundings, locality, and the manner in which it is conducted or managed.” Id.
+
+88.     Equitable relief for public nuisance is intended to abate an existing ongoing harm or risk
+
+of harm. In order to award equitable relief for a public nuisance, New Mexico courts require a
+
+finding that the harm is a highly probable result of the defendant’s actions. “One distinguishing
+
+feature of equitable relief is that it may be granted upon the threat of harm which has not yet
+
+occurred.” Id. ¶ 58 (citing W. Page Keeton et al., Prosser and Keeton on the Law of Torts § 89, at
+
+
+                                                  30
+640–41 (5th ed. 1984)). “The defendant may be restrained from entering upon an activity where it
+
+is highly probable that it will lead to a nuisance, although if the possibility is merely uncertain or
+
+contingent he may be left to his remedy of damages until after the nuisance has occurred.” Id.; see
+
+also Phillips v. Allingham, 1934-NMSC-047, ¶ 27, 38 N.M. 361 (holding that where “apprehended
+
+dangers relied upon to constitute the thing challenged a nuisance are ‘doubtful, eventual, or
+
+contingent,’ rather than necessary results,” permanent injunction was inappropriate), holding
+
+limited on other grounds by Sundance Mech. & Util. Corp. v. Atlas, 1990-NMSC-031, ¶ 24, 109
+
+N.M. 683. The reasoning by New Mexico courts is consistent with the Restatement (Second) of
+
+Torts, which provides that injunctive relief, unlike damages, is intended to be prospective. “[A]n
+
+award of damages is retroactive, applying to past conduct, while an injunction applies only to the
+
+future.” Restatement (Second) of Torts § 821B, cmt. i.
+
+89.    Thus, the Court considers remedial measures for harms shown by the evidence to be
+
+currently ongoing, and for highly probable risks of harm.
+
+B. Meta’s platforms interfere with public rights in New Mexico.
+
+90.    Meta’s platforms and its conduct related to those platforms cause harms that significantly
+
+interfere with public safety, public peace, and public comfort. Those harms are of a continuing and
+
+long-lasting nature, and Meta has interfered with a public right and shared public resources. While
+
+Meta focuses on the fact that its platforms and services are private, evidence before the Court
+
+established that harms caused by its platforms negatively impact public spaces, functions and
+
+institutions, including public schools, hospitals, and law enforcement. The New Mexico Court of
+
+Appeals recognizes that an action may become a public nuisance when its impacts spread into the
+
+public sphere.
+
+       A public right is one common to all members of the general public. . . . Thus the
+       pollution of a stream that merely deprives fifty or a hundred lower riparian owners
+
+                                                 31
+       of the use of the water for purposes connected with their land does not for that
+       reason alone become a public nuisance. If, however, the pollution prevents the use
+       of a public bathing beach or kills the fish in a navigable stream and so deprives all
+       members of the community of the right to fish, it becomes a public nuisance.
+
+State ex rel. Smith v. Riley, 1997-NMCA-063, ¶ 8, 123 N.M. 453 (quoting Restatement (Second)
+
+of Torts § 821B cmt. g).
+
+91.    As Meta pointed out in its proposed findings of fact and conclusions of law, New Mexico
+
+courts have recognized a public nuisance in cases involving interferences with shared public
+
+resources, including Los Ranchos, 1994-NMSC-126, ¶ 11 (addressing whether a bridge the City
+
+proposed to build over the Rio Grande was a public nuisance); Barrett v. Lopez, 1953-NMSC-107,
+
+¶ 3, 57 N.M. 697 (addressing whether a dance hall whose patrons brought littering, “offensive
+
+odors,” and noise, among other things, to the area was a public nuisance); Mahone v. Autry, 1951-
+
+NMSC-006, ¶ 4, 55 N.M. 111 (describing how a district court concluded a horse corral in a
+
+residential area that brought “noise, odor, excessive number of animals, uncleanliness, flies and
+
+unusual filth” was a public nuisance); Town of Clayton v. Mayfield, 1971-NMSC-061, ¶ 3, 82 N.M.
+
+596 (affirming that a junk yard that would create “a great deal of smoke” in common air was a
+
+public nuisance); Riley, 1997-NMCA-063, ¶ 8 (discussing how water pollution that interferes with
+
+“the right to fish” in a navigable stream could be a public nuisance); State ex rel. N.M. Water
+
+Quality Control Comm’n v. City of Hobbs, 1974-NMSC-064, ¶¶ 12-15, 86 N.M. 444 (concluding
+
+that the operation of a sewage treatment plant that contaminated underground water constituted a
+
+public nuisance). See Defendant’s Post-Trial [Proposed] Findings of Fact and Conclusions of Law,
+
+¶¶ 117-130, State ex rel. Torrez v. Meta Platforms, Inc., D-101-CV-2023-02838 (1st Jud. Dist.
+
+Ct. June 12, 2026).
+
+92.    The evidence shows that the youth mental health crisis in New Mexico has adverse impacts
+
+on persons and public resources throughout the state. These impacts include feature-connected
+
+                                                32
+mental health conditions that afflict tens of thousands of teens and children throughout the state,
+
+the adverse effects of these conditions on their families and communities, and the disruptive effect
+
+of these conditions on the school environments in which they are educated and socialized and on
+
+the law enforcement and health services systems tasked with ensuring their wellbeing. These
+
+widespread adverse impacts upon persons and their access to public resources throughout the state
+
+create a public nuisance under New Mexico law.
+
+C. Meta’s platforms injure the public health, safety, and welfare in New Mexico.
+
+93.    In addition to interfering with New Mexico’s public resources, Meta has also engaged in
+
+an activity that injures the public health, safety, and welfare in New Mexico.
+
+94.    The New Mexico Supreme Court has recognized that abatement for public nuisance is the
+
+appropriate remedy for harm to a community due to the unskilled practice of medicine, as such
+
+activity threatens the health and lives of an entire community:
+
+       This is not to say that in a trial upon the facts, the mere showing of illegal practice
+       warrants injunction. Nevertheless, if carried on from day to day among the people
+       generally by one unskilled in and ignorant of its fundamentals, who prescribes
+       drugs, dangerous as well as harmless, and directs treatment for all manner of ills,
+       physical or mental, which the flesh is heir to, it requires little imagination to foresee
+       the most serious consequences to the public thus served. The health and lives of the
+       people of a whole community become jeopardized. The practice of such a person
+       falls easily under the definition of a public nuisance.
+
+State ex rel. Marron v. Compere, 1940-NMSC-041, ¶ 14, 44 N.M. 414.
+
+95.    Critically, the Compere Court determined that an injunction was appropriate because the
+
+unskilled practice of medicine presented a community-wide threat to the health and lives of the
+
+people within that community. Id. Compere includes no discussion of connection to a physical
+
+space or piece of land, and indeed, connection to land is not an element of a public nuisance in
+
+New Mexico. New Mexico courts’ interpretation of public nuisance is consistent with the
+
+Restatement (Second) of Torts, which provides that “[u]nlike a private nuisance, a public nuisance
+
+                                                  33
+does not necessarily involve interference with use and enjoyment of land.” Restatement (Second)
+
+of Torts § 821B, cmt. h. There is no exclusive requirement that the public nuisance interfere with
+
+the community’s right to use a public resource or space in order for abatement to be an available
+
+remedy. Rather, the inquiry focuses on the nature of the harm, and its impact on the community.
+
+96.    Here, the evidence developed at trial reflects that Meta operates its platforms in a manner
+
+that injures community-wide youth mental health and safety. Meta’s platforms are designed to
+
+capture attention, including by taking advantage of teenagers’ developing brains and encouraging
+
+problematic use. Even without the evidence and testimony that certain percentages of youth with
+
+mental health conditions would not have those conditions but for social media use, the highly
+
+probable result of Meta’s engagement optimization practices, including employing features that
+
+quantify popularity and encourage use at all hours of the day, is that such practices would increase
+
+anxiety, depression, and sleep deprivation among teenagers. These practices affect a significant
+
+number of people within New Mexico and are community-wide. Therefore, in addition to
+
+interfering with public resources, the way that Meta’s platforms are currently operated create a
+
+public nuisance by jeopardizing the health, safety, and welfare of the whole community.
+
+D. Meta is required to abate the public nuisance to the extent of its contribution.
+
+97.    Meta is a cause of and has substantially contributed to a public nuisance in New Mexico
+
+and is required to abate that public nuisance. In reaching this conclusion, the Court considers
+
+instructive the Uniform Jury Instruction on causation, which provides as follows:
+
+       An [act] [or] [omission] [or] [ __________ (condition)] is a “cause” of [injury]
+       [harm] [__________ (other)] if[, unbroken by an independent intervening cause,]
+       it contributes to bringing about the [injury] [harm] [__________ (other)] [, and if
+       injury would not have occurred without it]. It need not be the only explanation for
+       the [injury] [harm] [__________ (other)], nor the reason that is nearest in time or
+       place. It is sufficient if it occurs in combination with some other cause to produce
+       the result. To be a “cause”, the [act] [or] [omission] [or] [__________ (condition)],
+
+
+                                                34
+       nonetheless, must be reasonably connected as a significant link to the [injury]
+       [harm].
+
+UJI 13-305 NMRA.
+
+98.    The Court additionally considers the reasoning in People v. ConAgra Grocery Products
+
+Co., a California case, and finds it persuasive. See People v. ConAgra Grocery Prods. Co., 227
+
+Cal. Rptr. 3d 499, 549 (Cal. Ct. App. 2017). In ConAgra, the state government brought a public
+
+nuisance action against several companies that produced lead-based paint. Id. at 525. The
+
+companies argued that they could not be held liable for creating a public nuisance except in
+
+proportion to their individual contributions. Id. at 549. The California court concluded that the fact
+
+that other companies contributed to a public nuisance did not relieve any one company of liability.
+
+Id. The court reasoned that “[p]roportionality is not a causation issue. Defendants may be held
+
+liable for a public nuisance that they assisted in creating if their wrongful promotions were a
+
+substantial factor in the creation of that public nuisance.” Id.
+
+       i. The fact that other social media companies also contribute to the existing public
+       nuisance does not relieve Meta of its obligation to abate the public nuisance.
+
+99.    Meta’s platforms, Facebook and Instagram, are not the social media platforms that
+
+teenagers in New Mexico use most. Many social media platforms compete for the attention of
+
+teenagers in New Mexico, particularly YouTube and TikTok. However, the Court’s concern is not
+
+just how often New Mexico youth use social media, but whether that use is problematic.
+
+Specifically, the Court considers whether the use is amplifying bullying and fighting, whether it is
+
+keeping teenagers from sleeping or from paying attention in class, and whether it is exposing them
+
+to predators and sextortionists. Educators who testified in this proceeding emphasized that
+
+Instagram, more than other platforms, is the platform that most impacts their students and their
+
+work. The Court heard from Eric Crites, Gregory Frostad, and Katherine de la Rosa Salazar that
+
+
+                                                  35
+Instagram is the largest source of problems that they see in New Mexico schools. While YouTube,
+
+TikTok, and other platforms also engage teenagers, Instagram and Facebook are unique in their
+
+emphasis on interpersonal relationships.
+
+100.   Here, the evidence is conclusive that Facebook and Instagram are major social media
+
+companies that are widely used both in New Mexico and all over the nation and world. Meta’s
+
+platforms create a public nuisance because their purpose and effect is to optimize engagement,
+
+including in ways that are detrimental to teenagers’ health and safety, and in ways that affect public
+
+resources. The fact that other companies also have platforms that optimize engagement does not
+
+relieve Meta of liability, because Meta’s platforms remain a cause of and substantial factor in
+
+creating the public nuisance. The evidence does not show that any other company’s actions were
+
+an independent, intervening cause for the harm. Instead, the evidence shows that Meta acted in
+
+combination with other social media companies to create a public nuisance. In continuing to apply
+
+Meta’s factory analogy, Meta’s platforms substantially contribute to the emissions that create risks
+
+of harm to the surrounding community, including risks of sexual exploitation and psychological
+
+harm. The fact that other companies also operate social media is not a defense to liability. The
+
+Court therefore concludes that Meta is liable for abating the public nuisance because it is a cause
+
+of and has substantially contributed to the activity that causes the public nuisance.
+
+       ii. Meta is liable for abating the public nuisance even though social, environmental,
+       and other factors also injure New Mexico teenagers’ mental health.
+
+101.   Additionally, Meta has argued that multiple factors contribute to adverse mental health
+
+outcomes for New Mexico teenagers, and the Court agrees that the evidence reflects that New
+
+Mexico youth face challenges due to multiple existing conditions in the state. However, the fact
+
+that a number of factors imperil youth mental health in New Mexico does not mean that harm
+
+cannot be attributed to Meta’s platforms, nor that existing harm cannot be worsened. In reaching
+
+                                                 36
+this conclusion, the Court considers analogous the “eggshell plaintiff rule” from injury and
+
+employment law. “[T]he eggshell plaintiff” is one who is “unusually susceptible to injury or likely
+
+to be harmed. The defendant must take the plaintiff as he finds him.” Salopek v. Friedman, 2013-
+
+NMCA-087, ¶ 20, 308 P.3d 139 (internal quotation marks, brackets, and citation omitted),
+
+overruled on other grounds by Siebert v. Okun, 2021-NMSC-016, ¶ 15, 485 P.3d 1265; Molinar
+
+v. Larry Reetz Constr., Ltd., 2018-NMCA-011, ¶ 22, 409 P.3d 956 (“[T]he employer takes the
+
+employee as it finds that employee.”). The Court determines that Meta is responsible for the results
+
+of its actions, even if “the consequences are more serious than they would have been, had the
+
+injured person been in perfect health.” Salopek, 2013-NMCA-087, ¶ 20 (internal quotation marks
+
+omitted). The fact that New Mexico teenagers may, in general, experience threats to their mental
+
+health and safety more than teenagers in some other states does not relieve the creator of a public
+
+nuisance of its responsibility to abate the harm it causes.
+
+102.   The harm to the impacted New Mexicans is not doubtful, eventual, or contingent, but an
+
+immediate, temporally connected, and highly probable result of Meta’s actions. The youth mental
+
+health crisis has inflicted significant and widespread harm in New Mexico in terms of the number
+
+of youth suffering mental health harms, the profound suffering they and those in their families
+
+suffer, and the resulting interferences with the functioning of the schools, law enforcement, and
+
+healthcare systems in New Mexico.
+
+       iii. Meta’s conduct was unreasonable and without lawful authority, including what
+       the Phase 1 jury found to be 75,000 violations of the UPA.
+
+103.   The Court finds the Restatement (Second) of Torts persuasive in considering the jury award
+
+against Meta as evidence of the unreasonableness of Meta’s interference with public rights and
+
+injuries to public safety, health, and welfare. Meta’s conduct is proscribed by statute, and as
+
+described in Restatement (Second) of Torts § 821B(2)(b), this is unreasonable. The jury’s verdict
+
+                                                 37
+that Meta committed 75,000 statutory violations of the UPA underscores the Court’s conclusion
+
+that its conduct is unreasonable with respect to public nuisance. The Court need not go further to
+
+decide whether the jury’s UPA verdict alone would be controlling as to unreasonableness because
+
+the State also proved that Meta’s conduct is unreasonable under the Restatement (Second) of Tort’s
+
+other alternative prongs. Each of these independently sustains the Court’s conclusion that Meta’s
+
+conduct was unreasonable.
+
+E. Section 230 does not preclude the State’s public nuisance claim.
+
+104.     Meta raised an affirmative defense that it is immune from the State’s public nuisance claim
+
+pursuant to Section 230(c)(1) of the CDA. Defendants’ Amended Answer and Affirmative
+
+Defenses at 65, ¶ 17, State ex rel. Torrez v. Meta Platforms, Inc., D-101-CV-2023-02838 (1st Jud.
+
+Dist. Ct. Aug. 2, 2024). This Court concludes that Meta is not immune from the public nuisance
+
+claim.
+
+105.     Section 230(c)(1) states that “[n]o provider or user of an interactive computer service shall
+
+be treated as the publisher or speaker of any information provided by another information content
+
+provider.” As is pertinent here, Section 230 immunizes website operators from liability for content
+
+posted by third-parties on those websites. See Woodhull v. Meinel, 2009-NMCA-015, ¶ 19, 145
+
+N.M. 533; accord Barnes v. Yahoo!, Inc., 570 F.3d 1096, 1101 (9th Cir. 2009) (“By its terms, then,
+
+[Section 230(c)(1)] only ensures that in certain cases an internet service provider will not be
+
+‘treated’ as the ‘publisher or speaker’ of third-party content for the purposes of another cause of
+
+action.”). To determine if a claim is protected by Section 230, the New Mexico Court of Appeals
+
+has applied a Ninth Circuit test: “(1) the defendant is a ‘provider or user of an interactive computer
+
+service,’ (2) the claim asserted treats the defendant as the ‘publisher or speaker of information,’
+
+and (3) the published information was ‘provided by another information content provider.’”
+
+
+                                                  38
+Woodhull, 2009-NMCA-015, ¶ 20. At the heart of this analysis is “whether the duty that the
+
+plaintiff alleges the defendant violated derives from the defendant’s status or conduct as a
+
+‘publisher or speaker.’ If it does, [S]ection 230(c)(1) precludes liability.” Barnes, 570 F.3d at 1102.
+
+106.   The Court has not found binding authority that is analogous to guide its application of the
+
+test; but it considers the reasoning in several out-of-state cases to be persuasive. See TikTok, Inc.
+
+v. Eighth Jud. Dist. Ct., 578 P.3d 640, 644-46, 649-52 (Nev. 2025) (holding Section 230 did not
+
+bar the plaintiff’s claim that TikTok “knowingly designed its . . . platform” with addictive features
+
+that were “intended to keep young users on the app for as long as possible,” and that were
+
+ultimately harmful to the young users, because the plaintiff’s claims “ar[o]se from TikTok’s
+
+alleged duty to provide a reasonably safe social media app rather than any failure to edit or remove
+
+third-party content”); Lemmon v. Snap, Inc. 995 F.3d 1085, 1090-94 (9th Cir. 2021) (holding
+
+Section 230 did not immunize Snapchat from the “the predictable consequences of designing” its
+
+app—namely, a “Speed Filter” along with “an incentive system within Snapchat that encouraged
+
+its users to pursue certain unknown achievements and rewards”—in such a manner that
+
+“encourage[d] dangerous behavior”); Anderson v. TikTok, Inc., 116 F.4th 180, 181, 183-84 (3rd
+
+Cir. 2024) (holding Section 230 did not immunize TikTok from certain tort claims that were based
+
+on how the app’s algorithm promoted a “Blackout Challenge” video to a ten-year-old, resulting in
+
+the child “unintentionally hang[ing] herself,” because TikTok’s algorithm was the “platform’s own
+
+‘expressive activity’” and Section 230 only protects against liability from third-party content).
+
+107.   Based on the foregoing authority, and seeing that the State’s claim seeks to impose liability
+
+on Meta for the impact of various platform designs and features, rather than third-party content,
+
+the Court concludes that Section 230 does not protect Meta from the State’s public nuisance claim.
+
+
+
+
+                                                  39
+See TikTok, Inc., 578 P.3d at 649-51; Lemmon, 995 F.3d at 1090-94; Anderson, 116 F.4th at 183-
+
+84.
+
+                       ENTRY OF JUDGMENT AND DECREE, AND
+                       ORDER GRANTING ABATEMENT RELIEF
+
+108.   The Court orders equitable abatement relief. Available remedies differ between a statutory
+
+public nuisance and a common law public nuisance. With respect to a statutory public nuisance,
+
+New Mexico’s public nuisance statute explains how a public officer or private citizen may pursue
+
+a civil enforcement action to abate a public nuisance. Section 30-8-8 provides in its entirety:
+
+       A. Except as herein provided, an action for the abatement of a public nuisance shall
+       be governed by the general rules of civil procedure.
+       B. A civil action to abate a public nuisance may be brought, by verified complaint
+       in the name of the state without cost, by any public officer or private citizen, in the
+       district court of the county where the public nuisance exists, against any person,
+       corporation or association of persons who shall create, perform or maintain a public
+       nuisance.
+       C. When judgment is against the defendant in an action to abate a public nuisance,
+       he shall be adjudged to pay all court costs and a reasonable fee for the complainant’s
+       attorney, when the suit is not prosecuted exclusively by the attorney general or a
+       district attorney.
+
+109.   Thus, the authorized remedy is for abatement and the statute is silent on damages. Within
+
+this vein, federal courts have concluded that New Mexico law does not permit pecuniary damages
+
+in a statutory public nuisance enforcement action. See Schwartzman, Inc. v. Atchison, Topeka &
+
+Santa Fe Ry. Co., 857 F. Supp. 838, 851 (D.N.M. 1994) (“Plaintiff’s reliance on New Mexico’s
+
+public nuisance statute is similarly misplaced. . . . Obviously, the statute does not provide for
+
+recoverability of damages. Nonrecoverability of pecuniary loss is consistent with the statute’s
+
+intent.”); New Mexico v. Gen. Elec. Co., 335 F. Supp. 2d 1185, 1242 (D.N.M. 2004) (“The civil
+
+remedy available to the Plaintiffs under § 30–8–2 is abatement of the nuisance—equitable relief—
+
+rather than an award of pecuniary damages.”); see generally Gen. Elec. Co., 335 F. Supp. 2d at
+
+1235-44 (discussing statutory and common law public nuisance concepts generally). Furthermore,
+
+                                                 40
+the New Mexico Attorney General has endorsed, or at least reiterated, this interpretation as to
+
+statutory public nuisances. See N.M. Att’y Gen., No. 2024-05 (Mar. 7, 2024) (“Notably, federal
+
+district courts have determined that New Mexico law does not permit compensatory damages for
+
+statutory public nuisance because abatement of the nuisance is the remedy prescribed by statute.
+
+It is possible that an action based on common law, as opposed to statutory, public nuisance would
+
+not be limited in such a manner.” (citations omitted)).
+
+110.   While statutory actions are confined to abatement remedies, New Mexico appellate
+
+authority recognizes that certain damages are permissible in common law public nuisance actions.
+
+For instance, in Espinosa v. Roswell Tower, Inc., the New Mexico Court of Appeals permitted
+
+punitive damages in a common law public nuisance action relating to improper asbestos removal.
+
+1996-NMCA-006, ¶¶ 8-12, 15, 121 N.M. 306 (“Having determined that the penalties stem from a
+
+cause of action based on Appellants’ failure to comply with regulations regarding the removal and
+
+disposal of asbestos, we reject Appellants’ challenge to the penalties.”). Further, in Rio Costilla
+
+Cooperative Livestock Association v. W.S. Ranch Company, the New Mexico Supreme Court
+
+wrote, “[a]s in other cases of public nuisances, a private individual has no right of action, either at
+
+law or in equity, because of the obstruction of a street or highway, unless he suffers some peculiar
+
+or special injury not common to the general public.” 1970-NMSC-020, ¶ 24, 81 N.M. 353 (quoting
+
+39 Am. Jur. 2d Highways, Streets and Bridges § 311).
+
+111.   Applying the same concept as Rio Costilla, the U.S. District Court for the District of New
+
+Mexico looked to the Restatement (Second) of Torts § 821C (1979) to explain that, “[i]n order to
+
+recover damages in an individual action for a public nuisance, one must have suffered harm of a
+
+kind different from that suffered by other members of the public exercising the right common to
+
+
+
+
+                                                  41
+the general public that was the subject of interference.” Gen. Elec. Co., 335 F. Supp. 2d at 1239.
+
+Expounding therefrom, the District Court held,
+
+       [t]o satisfy the ‘special injury’ requirement in this case and establish any
+       entitlement to compensatory damages on their common-law public nuisance claim,
+       the Plaintiffs must show that the State has suffered some discrete physical harm or
+       pecuniary loss apart from the more generalized injury to the public’s interest that
+       results from the public nuisance, here the contamination of public groundwater at
+       South Valley by hazardous substances.
+
+Id. at 1240. “Absent proof of some discrete ‘special injury’ to the State’s interest apart from the
+
+injury to the public’s interest in unappropriated groundwater, Plaintiffs may be limited to equitable
+
+relief seeking the abatement of the claimed nuisance.” Id. at 1241.
+
+112.   Similar to a statutory public nuisance, abatement, as a form of equitable relief, is the default
+
+remedy to address a common law public nuisance.
+
+113.   An injunction to abate “may be employed to protect the public health, morals, safety and
+
+welfare from irreparable injury by a public nuisance[.]” Compere, 1940-NMSC-041, ¶ 10; id. ¶¶
+
+1, 21 (concluding the trial court erred by sustaining a “demurrer to the plaintiff’s complaint seeking
+
+to enjoin defendant from engaging in the practice of medicine”). Further, an injunction may be
+
+prohibitory or mandatory. See, e.g., State v. Robertson, 1957-NMSC-060, ¶¶ 1, 19, 63 N.M. 74
+
+(affirming in part a judgment imposing a prohibitory injunction vis-a-vis a house of lewdness
+
+constituting a public nuisance).
+
+114.   An example in New Mexico of the latter applied in a public nuisance context is State ex
+
+rel. N.M. Water Quality Control Comm’n v. City of Hobbs, 1974-NMSC-064, 86 N.M. 444. In
+
+City of Hobbs, the New Mexico Supreme Court considered whether the trial court erred by ordering
+
+substantial rehabilitation of a water system in light of the city’s creation of a public nuisance (i.e.,
+
+its haphazard operation of a sewage treatment plant that “allowed sewage effluent to form a mound
+
+of contaminated water about two miles in diameter in the water table . . . [and this] water gravitated
+
+                                                  42
+toward water wells in the surrounding area”). Id. ¶ 3. Specifically, the mandatory injunction
+
+ordered the city: (a) to install water service lines; (b) to address the whereabouts of the effluent
+
+discharge; (c) to “[i]mprove the quality of the sewage effluent”; (d) to furnish free hookups to the
+
+new water service lines to customers within a certain amount of time and pay for the construction
+
+thereof; and, (e) to accomplish all components of the judgment within a certain period of time. Id.
+
+¶ 4. Ultimately, the New Mexico Supreme Court found no error, on the grounds argued, in the
+
+judgment of the trial court in fashioning its comprehensive public nuisance abatement remedy. Id.
+
+¶ 17.
+
+115.    Although this Court could not find, and the parties did not cite, any New Mexico appellate
+
+or trial case in which a trial court created an abatement fund to ensure the availability of funds for
+
+use towards the abatement of a public nuisance, courts in other jurisdictions have recognized the
+
+permissibility of such a measure as a form of equitable relief.
+
+116.    In People v. ConAgra Grocery Products Company, the California Court of Appeals
+
+affirmed a trial court’s creation of a public abatement fund, reasoning that “[t]he abatement fund
+
+ordered by the trial court was a reasonable method of prefunding the remediation that is required
+
+to abate the public nuisance created by defendants. The choice of this method was not an abuse
+
+of the court’s broad discretion to fashion an appropriate abatement injunction.” 227 Cal. Rptr. 3d
+
+at 570; see also id. at 569 (“A public entity may not recover in a representative public nuisance
+
+action any funds that it has already expended to remediate a public nuisance.”).
+
+117.    Although applying West Virginia law, the United States Court of Appeals for the Fourth
+
+Circuit recently concluded that “West Virginia law permits abatement of a public nuisance to
+
+include a requirement that a defendant pay money to fund efforts to eliminate the resulting harm
+
+to the public.” City of Huntington v. AmerisourceBergen Drug Corp., 157 F. 4th 547, 574 (4th
+
+
+                                                 43
+Cir. 2025). The Fourth Circuit reasoned that “West Virginia has long characterized abatement as
+
+an equitable remedy.” Id. “And notably, the goal of abatement in a public nuisance case is to
+
+repair a public right that has been damaged by a defendant.” Id. The Fourth Circuit further
+
+explained that “[c]ourts have broad powers to effect equitable relief, . . . and [the Fourth Circuit
+
+had] not found anything in West Virginia law to suggest that the State Supreme Court would limit
+
+abatement to include purely declaratory or injunctive relief.” Id.
+
+118.    Ultimately, equity serves as the basis for the creation of an abatement fund. The New
+
+Mexico Supreme Court explained:
+
+        Equitable remedies . . . are distinguished by their flexibility, their unlimited variety,
+        their adaptability to circumstances, and the natural rules which govern their use.
+        There is in fact no limit to their variety and application; the court of equity has the
+        power of devising its remedy and shaping it so as to fit the changing circumstances
+        of every case and the complex relations of all the parties.
+
+Navajo Academy, Inc. v. Navajo United Methodist Mission School, Inc., 1990-NMSC-005, ¶ 17,
+
+109 N.M. 324 (quoting 1 J. Pomeroy, Equity Juris. Sec. 109 (5th ed. 1941)).
+
+119.    “A court of equity has traditionally had the power to fashion any remedy deemed necessary
+
+and appropriate in the particular case.” United States v. Price, 688 F.2d 204, 211 (3rd Cir. 1982).
+
+“Equity, in addition to achieving an individualization of justice, is also, . . . a set of effective and
+
+flexible remedies admirably adapted to the needs of a complex society.” Id. (internal quotation
+
+marks omitted). Thus, “[t]he fact that an injunction may require the payment or expenditure of
+
+money does not necessarily foreclose the possibility of equitable relief.” Id. at 212. The Third
+
+Circuit continued:
+
+        It is not unusual for a defendant in equity to expend money in order to obey or
+        perform the act mandated by an injunction. Injunctions, which by their terms
+        compel expenditures of money, may similarly be permissible forms of equitable
+        relief. In all cases the question the court must decide is whether, considering all of
+        the circumstances, it is appropriate to grant the specific relief requested.
+
+
+                                                   44
+Id. at 213. Thus, a mandatory injunction that orders a party to prefund an expense as a step in the
+
+abatement process is a permissible form of equitable relief. Id. at 212-13.
+
+120.   Having concluded that both a statutory and common law public nuisance exists, the Court
+
+orders Meta to abate the public nuisance in accordance with the following instructions.
+
+A. Abatement Fund
+
+121.   The Court orders the creation of an abatement fund, in addition to the jury’s Phase 1 award
+
+of $375,000,000 in civil penalties for Meta’s UPA violations. As established above, the creation
+
+of a fund and use of the monies therein to abate a public nuisance is not without precedent, and in
+
+this case, the Court finds such a fund necessary, due to the wide-ranging impacts of the harm and
+
+the complex nature of the remedy. The Court further orders Meta to pay and deposit a total of
+
+$567,000,000.00 into a fund. Additionally, the funds shall be allocated as specified below to
+
+address the following categories of abatement measures:
+
+
+
+
+ Category                                                            Amount
+
+
+ Awareness and Prevention                                            $33,000,000.00
+
+
+ Screening and Assessment                                            $90,000,000.00
+
+
+ Referral, Linkage, and Coordination                                 $15,000,000.00
+
+
+ Treatment                                                           $420,000,000.00
+
+
+ Implementation,      Continuous       Quality        Improvement,   $9,000,000.00
+ and Evaluation
+
+
+                                                            Total:   $567,000,000.00
+
+
+
+                                                 45
+122.   In determining the cost of the abatement fund, the Court begins with the cost estimate from
+
+Plaintiff State of New Mexico’s Proposed Findings of Fact and Conclusions of Law, State ex rel.
+
+Torrez v. Meta Platforms, Inc., D-101-CV-2026-02838 (1st Jud. Dist. Ct. June 12, 2026), as
+
+premised on economist Dr. Kelly O’Donnelly’s testimony, [see 5-13-26 Tr. 18462:2-18463:2,
+
+18467:12-18468:11, 18468:20-18469:1], and report, [Pl. Ex. 07743]. The abatement costs use the
+
+framework from the abatement plan (“Abatement Plan”) proposed by Dr. Dana Weiner. [See
+
+generally Pl. Ex. 07739; Pl. Ex. 07740]
+
+123.   The Court does not accept all of Dr. Weiner’s proposals. Dr. Weiner proposed a 15-year
+
+abatement period, which she asserted was “necessary to effectively implement a sustainable
+
+infrastructure and workforce to address and begin to mitigate social media-related harms.” [Pl. Ex.
+
+07740 at 3] However, it is this Court’s conclusion that 15 years exceeds the scope of remedies
+
+available to abate currently existing harm and risk of harm. While the Court recognizes that some
+
+elements of Dr. Weiner’s proposal require multiple years to bring to fruition (e.g., increasing the
+
+behavioral health workforce), and others will take some time to implement and scale-up, a 15-year
+
+plan would necessarily involve treating harms beyond those that exist today.
+
+124.   Consequently, the Court calculates the abatement fund based on a shorter period than was
+
+proposed at trial. Specifically, the Court concludes that expense activity (i.e., drawdown events to
+
+cover fund expenditures) shall be limited to a five (5) year period, and the overall abatement fund
+
+amount reflects such a five (5) year period of permissible expense activity. The Court reasons that
+
+five years is a sufficient amount of time for the State to spend monies from the abatement fund to
+
+urgently address the public nuisance with a goal towards swift abatement and amelioration of harm
+
+and risk of future harm caused therefrom.
+
+
+
+                                                46
+125.   Additionally, evidence before the Court reflects that other social media companies share
+
+responsibility for harm to New Mexico teenagers. While Meta did not apportion liability for the
+
+harm, the Court nevertheless determines that the total abatement fund amount should be reduced,
+
+based on the evidence and equitable principles.
+
+126.   With respect to funding for “Awareness and Prevention,” Dr. Weiner recommended digital
+
+citizenship and youth internet safety training for teachers, school counselors, school psychologists,
+
+and healthcare professionals, which included a 5-year workforce scale-up for school psychologists,
+
+but for other elements of the plan predicted that the time to full implementation would be
+
+“immediate[.]” [Pl. Ex. 07740 at 3] The Awareness and Prevention element of the Abatement Plan
+
+is intended to help “prepare youth to safely navigate social media” as well as provide training to
+
+care-takers and educators. [Pl. Ex. 07739 at 16] The Abatement Plan anticipated that the fund will
+
+support media campaigns, school-based education, and toolkits for pediatricians. [Id.] The Court
+
+calculated the Awareness and Prevention abatement allocation based on a determination that the
+
+bulk of any work needed to accomplish these goals will occur early in the process, but some time
+
+will be needed to distribute funding, develop, and begin the programs.
+
+127.   With respect to funding for “Screening and Assessment” and “Referral, Linkage, and
+
+Coordination,” the Court similarly reduces Dr. Weiner’s recommended allocations based on a
+
+reduced time period and Meta’s market share.
+
+128.   With respect to funding for “Treatment,” Dr. Weiner recommended extensive community-
+
+based and family-based services, including fully funding new community-based health centers.
+
+[See Pl. Ex. 07740 at 5] Treatment is a necessary component of addressing harms to mental health
+
+and safety. Any abatement fund must include funding for appropriate clinical or other behavioral
+
+health programs and professionals. However, requiring Meta to fund entire new physical facilities
+
+
+                                                  47
+goes beyond what remedies are necessary to abate current harm. The allocation for “Treatment”
+
+does not contemplate funding for the construction of entire new hospitals or clinics, and the Court
+
+reduces Dr. Weiner’s recommended allocations based on a reduced time period and Meta’s market
+
+share.
+
+129.     With respect to funding for “Implementation, Continuous Quality Improvement,
+
+and Evaluation,” the Court finds that collaboration and engagement across stakeholder groups,
+
+oversight of expenditures, and technological development are all important aspects of ensuring
+
+that funding is distributed appropriately and used efficiently. [See Pl. Ex. 07740 at 5] However,
+
+the Court also finds that much of the work to implement, oversee, and evaluate use of Abatement
+
+Plan funding will occur at initiation, and Meta cannot be required to fund continuous oversight.
+
+Consequently, the funding allocation for “Implementation, Continuous Quality Improvement,
+
+and Evaluation” is based on a shorter time period than Dr. Weiner recommended, and Meta’s
+
+market share.
+
+130.     Given the scale and scope of the abatement fund, the Court anticipates entering separate
+
+orders to address the administration of the abatement fund and the process of drawing down monies
+
+in the abatement fund to facilitate the efficient and transparent purchase of goods, services, and
+
+other expenses required for the abatement of the public nuisance. The Court anticipates additional
+
+briefing and hearings to address these topics and a related scheduling order will be entered
+
+forthwith.
+
+B. Abatement Period and Reporting Requirements
+
+131.     Regarding the duration of the abatement measures, the Court limits the duration of Meta’s
+
+compliance obligations to a period of five (5) years (the “Abatement Period”). The Abatement
+
+Period shall begin to run from entry of this order, but shall be tolled during the pendency of any
+
+
+                                                48
+appeals, provided that Meta pays a supersedeas bond. Further, the Abatement Period shall be the
+
+default period of time applicable to any component of the abatement measures adopted herein,
+
+unless this order specifies otherwise.
+
+132.   Regarding reporting requirements, the Court orders Meta to report in writing on a
+
+semiannual basis the status and progress of its compliance with each of the abatement measures
+
+ordered by the Court. Meta shall report to the Court and to the State by June 30 and December 31
+
+of each year during the Abatement Period. To ensure transparency, Meta shall file its report into
+
+the above-captioned cause on or before the aforementioned reporting deadlines. The Court may
+
+hold a status hearing to address any component of the report if requested by either party or on the
+
+Court’s own motion.
+
+C. Age Assurance
+
+       i. The Children’s Online Privacy Protection Act limits this Court’s options to require
+       age-verification tools.
+
+133.   Plaintiff requests that the Court require Meta to apply various age-verification tools on its
+
+platforms. See, e.g., Plaintiff State of New Mexico’s Proposed Findings of Fact and Conclusions
+
+of Law, ¶¶ 112-170, State ex rel. Torrez v. Meta Platforms, Inc., et al., D-101-CV-2023-02838
+
+(1st Jud. Dist. Ct. June 12, 2026).
+
+134.   The Children’s Online Privacy Protection Act of 1998 (“COPPA”), 15 U.S.C. §§ 6501-06,
+
+and requirements developed by the Federal Trade Commission (“FTC”) in 16 C.F.R. Sections
+
+312.1 to 312.12 (2025) (“the COPPA Rule”) limit the available relief. The COPPA makes it
+
+unlawful to knowingly collect personal information from a child under the age of 13 without
+
+meeting the COPPA Rule requirements. 15 U.S.C. § 6502(a)-(b). The COPPA Rule requires, as
+
+an example, that parents receive notice and give consent before a website or online service collects,
+
+uses or discloses such personal information. 16 C.F.R. §§ 312.2-.5. The COPPA likely limits age-
+
+                                                 49
+verification tools. The COPPA Rule defines “collection” broadly and expressly includes, among
+
+other methods, requesting the child to submit personal data and “passive tracking of a child
+
+online.” 16 C.F.R. § 312.2. Although the FTC issued a policy in early 2026 stating that, in certain
+
+instances, it will not enforce COPPA against a website or online service that collects “personal
+
+information for the purpose of determining a user’s age,” the policy “does not create any
+
+substantive rights or entitlements” and the FTC retains its ability to bring actions for violations of
+
+COPPA through age-verification tools. [Pl. Ex. 06024 at 5-6] Even more, “[a]gencies are free to
+
+change their existing policies,” so long as their change is explained; and, if altering a longstanding
+
+policy, they take into account “reliance interests.” Encino Motorcars, LLC v. Navarro, 579 U.S.
+
+211, 212 (2016); see generally Jones v. Google LLC, 73 F.4th 636, 639 (9th Cir. 2023) (“[COPPA]
+
+gives the [FTC] authority to regulate the online collection of personal identifying information
+
+about children under the age of 13.”).
+
+135.   Because of the COPPA Rule, it is the Court’s conclusion that it cannot order Meta to
+
+request children to submit personal data or be passively tracked online, even for age-verification
+
+purposes. The FTC policy from 2026 does not change the COPPA Rule.
+
+       ii. Meta shall take measures to verify user age, within the limits of COPPA.
+
+136.   Age verification is the key to making Meta’s platforms safe for adolescents because there
+
+must be substantial certainty about whether a user is: (a) over 13 years of age, thus old enough to
+
+use the platforms; and, (b) over 18 years of age, so that adolescent protective restrictions on use
+
+should be removed and restrictions on the ability to connect with adolescents must be put in place.
+
+Without substantial certainty, there will be adults communicating with adolescents by claiming a
+
+false younger age and tweens communicating with teens and adults by claiming a false older age.
+
+
+
+
+                                                 50
+137.   The 2026 Advisory recommended that technology companies “[a]dhere to and enforce age
+
+minimums for usage through robust, privacy-protecting assurance methods[,]” [Pl. Ex. 07976 at
+
+35], and the Court concludes that this is an appropriate goal. With regard to users near the age of
+
+18, such users likely have “signal” through internet activity and identification, such as a driver’s
+
+license, passport, and consumer history to easily allow Meta to determine their age or to, if
+
+necessary, prove their age with relatively little effort on the part of the user. [See 5-15-26 Tr.
+
+19660:17-19661:7 (Protti); 5-22-26 Tr. 21626:23-21627:6 (Sherman)]
+
+138.   With regard to users near the age of 13, it is far more difficult to assure their age, despite
+
+the importance of doing so. Users in that age group likely do not have identification, credit,
+
+numerous transactions in their name, or other “signal” to allow Meta to determine their age with
+
+accuracy. While the Court agrees that the inability to determine who is actually 13 years of age or
+
+older and who is 18 years of age or older creates avoidable risks of harm to children, the regulatory
+
+solutions to these problems lie in the executive and legislative branches and not with this Court.
+
+As discussed above, COPPA presents a legal barrier to this Court. Even more, as only one social
+
+media company is subject to the Court’s jurisdiction, creating significant friction at sign up for
+
+only Meta would be inequitable and unduly injurious to Meta (i.e., the equivalent of potentially
+
+closing the factory). Importantly, potential solutions, such as phone service providers or app stores
+
+sharing information with Meta, are outside this Court’s jurisdiction. Finally, the fact that the oft-
+
+cited examples of the United Kingdom, European Union, and Australia social media legal
+
+limitations were all promulgated by their respective parliaments and not by courts in individual
+
+cases further supports the view that this issue is properly addressed in the broader industry-wide
+
+context and in other forums.
+
+
+
+
+                                                 51
+139.   Meta’s efforts to train a classifier to predict the age of users in this group is hindered by
+
+COPPA and its prohibition on the use of data that is needed to train a classifier to be more accurate
+
+in its age predictions. The court is not criticizing the policies behind COPPA but, rather, notes its
+
+impact on age verification of tweens and early teens.
+
+140.   All of the State’s proposals, such as using unproven technology or requiring users in this
+
+youngest age group to acquire identification or appear before a judge to obtain a judicial
+
+determination of their age, are unreasonable and would result in an unworkable barrier to the use
+
+of Meta’s platforms by those who have a right to do so. Additionally, because this Court has
+
+jurisdiction over just one social media company, it is predictable that placing such significant
+
+barriers to use of Meta’s platforms would merely shift users to other, non-party platforms.
+
+141.   Other possible solutions, such as using cellphone company or app store data to verify age
+
+more accurately, are unavailable to this Court for a lack of jurisdiction over any such parties.
+
+142.   As such, the Court concludes that the following abatement relief proposed by Meta, while
+
+far from ideal or sufficient, is most appropriate. See Defendant’s Post-Trial [Proposed] Findings
+
+of Fact and Conclusions of Law, State ex rel. Torrez v. Meta Platforms, Inc., D-101-CV-2023-
+
+02838 (1st Jud. Dist. Ct. June 12, 2026); see also Meta’s Addendum in Support of Defendant’s
+
+Post-Trial [Proposed] Finds of Fact and Conculsions [sic] of Law, Appendix B, State ex rel. Torrez
+
+v. Meta Platforms, Inc., D-101-CV-2023-02838 (1st Jud. Dist. Ct. June 12, 2026). Specifically,
+
+the Court orders that Meta undertake the following:
+
+       a.      Continue improving Meta’s age assurance models and tools in New Mexico. These
+
+       efforts include: (i) using Artificial Intelligence tools to enhance Meta’s heuristics,
+
+       including by incorporating additional signals; and (ii) attempting to develop, within two
+
+
+
+
+                                                 52
+years, a dedicated under-13-years-of-age prediction model (using reasonable best efforts
+
+in light of COPPA limitations).
+
+b.     Proactively request proof of age for known or estimated New Mexico Instagram
+
+and Facebook accounts belonging to users that Meta’s systems predict to be under the age
+
+of 13, and mark for deletion the accounts of those who do not verify their age within 30
+
+days, consistent with any legal hold obligations.
+
+c.     Proactively assess profiles, images, posts, and comments of New Mexico accounts
+
+to determine whether users have admitted an age inconsistent with their stated age.
+
+d.     Where Meta believes a user is under 13 years of age or under 18 years of age but
+
+cannot estimate a precise age, Meta will treat the user as under 13 years of age or under 18
+
+years of age, respectively, unless and until the user age verifies.
+
+e.     In the event Meta engages in age-related account suspension or deletion because
+
+the user is under 13 years of age, Meta will review accounts in the user’s friend network to
+
+attempt to assess whether any of their friends are under 13 years of age.
+
+f.     Partner with schools or a child safety organization to create a reporting portal where
+
+school administrators can flag suspected accounts where users may be under 13 years of
+
+age across any social media platform. Meta must thereafter promptly review all reported
+
+accounts.
+
+g.     Make it easier to report underage users by reducing the number of steps and
+
+information required to report a Facebook or Instagram account as belonging to a user
+
+under the age of 13.
+
+h.     Delete the accounts and all personal information collected from accounts belonging
+
+to a user under 13 years of age.
+
+
+                                          53
+       i.     Establish and maintain an age-assurance appeal process that timely allows users
+
+       who contend their age was estimated incorrectly to appeal the finding.
+
+D. Child Sexual Exploitation
+
+143.   Meta shall maintain its Teen Account features for users under the age of 18 that reside in
+
+New Mexico during the Abatement Period. Further, Meta shall ensure the following, at minimum,
+
+in relation to Teen Accounts. Meta shall undertake all of the following items below:
+
+       a.      Maintain and enforce private by default setting for users under 18 years of age on
+
+       Instagram, and limit by default friends on Facebook to users under 18 years of age for
+
+       accounts belonging to users under 18 years of age. Private accounts belonging to users
+
+       under the age of 18 shall not show up in a search, unless specifically identified by
+
+       username, and shall not be recommended. Default settings shall not be changed without a
+
+       parent’s or guardian’s consent or with proof that the user under 18 years of age is
+
+       emancipated.
+
+       b.     Ensure that, regardless of account status, no account belonging to a user under 18
+
+       years of age is recommended to an adult, albeit that adults may search for a specific account
+
+       belonging to a user under the age of 18 by name or username to facilitate family and friend
+
+       connections, but in no circumstances may Meta recommend an account belonging to a user
+
+       under 18 years of age to an unconnected account belonging to an adult.
+
+       c.     Ensure that no unconnected adult may message a user under the age of 18.
+
+       d.     Implement default safety settings, generally incorporating at least those measures
+
+       identified above, so that any changes to these settings require approval by a parent or
+
+       guardian.
+
+
+
+
+                                                54
+144.   The Court does not adopt Plaintiff’s requests for a prohibition on end-to-end encryption
+
+(“E2EE”) for the following reasons. Meta has already ceased offering E2EE on its Instagram
+
+platform, and the Court orders that such cessation of E2EE on Instagram remain in place during
+
+the Abatement Period. Regarding Facebook, the Court does not agree with ending E2EE on this
+
+platform. Facebook has few adolescent users in New Mexico, and the Court only has jurisdiction
+
+over New Mexico accounts. Therefore, in light of the benefits E2EE may offer in many other
+
+markets outside of New Mexico, and the limited use of E2EE by adolescents on Facebook in New
+
+Mexico, the Court does not impose a prohibition on E2EE in relation to Facebook.
+
+145.   Meta, during the course of this litigation, made significant improvements to adolescent
+
+protections on its platforms. The minimum standards of protection may be improved upon and,
+
+with improvements in technology and classifier training, improvement is very likely. However,
+
+any minimum standards of protection—and features related to their implementation—may not be
+
+discontinued or diminished without the written stipulation of the State or order of the Court prior
+
+to the end of the Abatement Period.
+
+146.   Meta operates three platforms that are relevant to this matter: Instagram, Facebook, and
+
+WhatsApp. Instagram and Facebook employ algorithms to recommend content and people as
+
+possible connections to platform users. WhatsApp is an encrypted communication platform that
+
+does not recommend content or people you may know or follow.
+
+147.   Instagram is widely used by adolescents and Facebook is far less popular with adolescents.
+
+148.   The Court finds that WhatsApp is not a contributing cause to the public nuisance being
+
+abated, as predators and harmful content are not recommended to adolescents on that site. To the
+
+extent that WhatsApp’s E2EE poses a risk to adolescents, that risk is outweighed by the benefits
+
+that E2EE offers to address privacy concerns of New Mexicans and other populations.
+
+
+                                                55
+Additionally, the evidence offered at trial established that communication risks are principally
+
+created by the algorithmic connection and content recommendations by Meta on the Facebook and
+
+Instagram platforms. As a result, the Court’s abatement orders apply to Facebook and Instagram
+
+and do not apply to WhatsApp.
+
+149.   Fundamentally, regarding sextortion, grooming and other exploitative activities, it is the
+
+algorithmically recommended connections of adults and adolescents that creates the most
+
+significant harm.
+
+150.   For many other platform risks, they are properly abated by setting certain controls to
+
+default, requiring parental consent to change the default settings, giving adolescents additional
+
+tools to manage their content and interactions, and educating parents and adolescents about
+
+platform hazards. With such abatement measures, the actual content need not be changed in a way
+
+that could violate Section 230 or the First Amendment.
+
+151.   Meta shall continue to display alerts to users under the age of 18 when they are at risk of
+
+potential sextortion or contact by a suspicious account. Nonetheless, Meta shall modify or enhance
+
+this safety protection such that the user under the age of 18 is strongly encouraged to end the
+
+communication immediately and any option to continue the communication is significantly
+
+deemphasized in the user interface.
+
+152.   Meta shall continue to employ, or increase the development of, methods to detect sextortion
+
+activity and other sexual exploitative activities, and maintain its Take It Down Program.
+
+153.   Meta shall prohibit New Mexico users under the age of 18 from sending or receiving
+
+images containing nudity and identified as violative of Meta’s policies. Meta shall maintain
+
+functionality that results in the blurring of images where Meta suspects an image contains nudity.
+
+
+
+
+                                               56
+154.   Meta shall enforce a 1-strike policy for adult users who engage in child sexual exploitation.
+
+If evidence of such exploitation is found, Meta shall disable all accounts related to an offending
+
+adult user and prevent new account creation by such user. Meta shall ensure that account-opening
+
+prevention efforts are based on Meta’s then most-advanced matching tools.
+
+155.   Meta shall ensure that all of its platforms include a clearly visible, forward-facing reporting
+
+mechanism to enable reporting of child sexual exploitation related to New Mexico users on each
+
+platform surface. Meta shall ensure that a human reviews any and all reports submitted through
+
+said mechanism within 48 hours from the time of report submission.
+
+156.   Meta shall ensure that all of its platforms include a clearly visible, forward-facing reporting
+
+mechanism to enable reporting of unwanted sexual advances by another platform user. The feature
+
+that allows reporting must be low-friction from a user interaction perspective, intuitive for the user,
+
+and must use language that is accessible and effective with adolescent users. Meta must provide
+
+prompt feedback to any reporter that submits a report using such a reporting feature.
+
+E. Chatbot Usage and Interactions Therewith
+
+157.   Meta spent considerable time in Phase 1 and Phase 2 of the proceedings providing
+
+argument and evidence about how adolescents frequently worked to circumvent its age verification
+
+and other safety tools and yet, when it came to artificial intelligence chatbots, Meta expressed
+
+exasperated surprise that adolescent and other users were not using the chatbots as instructed and
+
+intended.
+
+158.   It is not only foreseeable but reasonably expected that adolescent and other users would
+
+interact with artificial intelligence chatbots maliciously or mischievously use chatbots in ways that
+
+cause harm to themselves or others.
+
+
+
+
+                                                  57
+159.   Therefore, Meta shall prohibit and prevent New Mexico users under the age of 18 from
+
+engaging in romantic or sexualized interactions with Meta’s artificial intelligence chatbots.
+
+Further, Meta shall prohibit and prevent New Mexico adult users from interacting with an artificial
+
+intelligence chatbot in a manner that simulates or discusses a sexualized or romantic interaction
+
+with a person or persons under the age of 18.
+
+F. Addiction and Problematic Use
+
+160.   The Court is, in large measure, adopting Meta’s proposals and requiring that they stay in
+
+place for the duration of the Abatement Period. In particular, the Court finds Meta’s proposed
+
+measures to address push notifications on Facebook and Instagram to be compelling. The Court
+
+considers the 2026 Advisory, which recommends that technology companies “[e]liminate features
+
+designed to maximize screen time, such as autoplay videos, infinite scroll, recommendation
+
+algorithms, and reward notifications” as ways to design for user well-being, not engagement. [Pl.
+
+Ex. 07976 at 35] Nonetheless, regulation of industry-wide features that contribute to problematic
+
+use, such as infinite scroll and autoplay, require legislative or executive branch action; if the Court
+
+were to order changes to such features, it would risk competitively damaging Meta’s platforms to
+
+an unreasonable extent, and possibly running afoul of the First Amendment and Section 230
+
+because of the direct effect those features have on content presentation.
+
+161.   Regardless of whether it is labelled as an “addiction” or “problematic use,” the evidence at
+
+trial proved that design elements, such as autoplay, infinite scroll, “like counts,” and push
+
+notifications create a product that, particularly for adolescent users, is highly rewarding
+
+psychologically and neurochemically. As a result, for many, it is irresistibly compelling to start
+
+scrolling and very difficult to stop or abstain from its use.
+
+
+
+
+                                                  58
+162.   In addition, algorithmic content recommendations can create harmful feedback loops and
+
+“rabbit hole” users. Within a similar vein, “like counts,” i.e., an aggregate count of unique
+
+instances where a user has noted their support of, agreement with or enjoyment of another user’s
+
+content by clicking on a thumbs-up, heart or other emoji depending upon the platform, can provide
+
+a potentially harmful focus for adolescent users.
+
+163.   Of the above-mentioned design features, autoplay, infinite scroll and algorithmic content
+
+recommendations are most closely tied to content presentation because they directly impact the
+
+manner in which users are presented with third-party postings and advertising. As a result,
+
+autoplay, infinite scroll, and algorithmic content are features with clear Section 230 and First
+
+Amendment implications.
+
+164.   The evidence and argument at trial also showed that autoplay, infinite scroll, and
+
+algorithmic content recommendations are used widely in the industry. Therefore, in light of the
+
+broader market in which Meta operates and given the absence of Meta’s competitors in this
+
+litigation, restrictions imposed on Meta’s offering of the aforementioned features could harm the
+
+viability of Meta and its platforms.
+
+165.   In contrast, push notifications and “like counts” are least connected with platform content.
+
+Indeed, push notifications occur in many instances even when the user is not directly interacting
+
+with the “pushing” application on their device. Additionally, “like counts” are merely a feature
+
+created and offered by Meta to principally track and motivate user feedback, all without altering
+
+the underlying published content.
+
+166.   As with Age Assurance, while the Court agrees with the State that autoplay, infinite scroll,
+
+“like counts,” and algorithmic recommendations combine to facilitate addictive or problematic
+
+behaviors in adolescent users, the Court does not see an equitable abatement method: (a) that
+
+
+                                                59
+impacts only Meta, rather than imposing restrictions industry-wide; and, (b) that respects the
+
+protections of the First Amendment and Section 230.
+
+167.    With regard to the above-stated features and their impact on users, the Court’s Accurate
+
+Disclosure and Educational Program abatement provisions is its most appropriate manner of
+
+abating the harms to adolescents. The Accurate Disclosure and Educational Program abatement
+
+provisions serve to educate adolescents, their parents or guardians, and community members about
+
+the risk of harm that certain features pose so that those users and other affected members of the
+
+public can understand how best to identify and respond to problematic use. Therefore, the Court
+
+orders as follows:
+
+168.    Meta shall eliminate push notifications on its platforms for known or estimated accounts
+
+belonging to users under 18 years of age: (a) from 10:00 PM to 7:00 AM (i.e., hours when the vast
+
+majority of children are sleeping or should be asleep) on all days; and, (b) from 8:00 AM to 3:00
+
+PM (i.e., typical school hours) during the academic year, excluding weekends. Notwithstanding
+
+the foregoing, Meta may make exclusions to this rule for messaging from connected users and for
+
+urgent, targeted messages, such as for security or hazard alerts.
+
+169.    Meta shall hide, as a default setting for all accounts where the user is under 18 years of
+
+age, all “like counts” that Meta appends to content. Meta may only allow an override of the default
+
+setting when a parent or guardian gives the user under 18 years of age their permission to change
+
+the default setting.
+
+170.    Meta shall implement a mandatory usage time limit for accounts belonging to users under
+
+18 years of age. Meta shall restrict the usage of all such users to not more than 90 hours of use per
+
+month cumulatively across Facebook and Instagram.
+
+
+
+
+                                                 60
+G. Algorithm
+
+171.    Plaintiff’s requests for algorithm abatement measures are vague and aspirational, rather
+
+than objective and measurable, and would unreasonably interfere with the functioning of Meta’s
+
+business activities (equivalent to putting the factory in receivership in order to abate its pollution).
+
+172.    Unlike the Court’s other abatement relief that seeks to minimize or resolve harms caused
+
+by Meta’s algorithmic content and connection recommendations without directly impacting
+
+platform content, the State’s requested algorithm relief would directly alter and limit the manner
+
+in which platform content is displayed. As a result, Plaintiff’s requests would likely violate the
+
+First Amendment and Section 230.
+
+173.    The Court grants no abatement relief relative to the design and implementation of Meta’s
+
+algorithms.
+
+H. Accurate Disclosure and Educational Programs
+
+174.    The Court views abatement measures that focus on accurate disclosure and educational
+
+programming as fundamental forms of relief, as such measures relate to Plaintiff’s UPA claims for
+
+which the jury found Meta liable. Thus, the Court adopts many of the Plaintiff’s proposals,
+
+including those already agreed to by Meta. A centerpiece of the measures the Court orders Meta
+
+to adopt for abatement of the public nuisance is the requirement that Meta make information
+
+available on its platforms in a forward-facing manner, rather than hidden in a pamphlet or buried
+
+elsewhere on https://www.meta.com.
+
+175.    A theme of this trial, from voir dire at the start of Phase 1 through argument throughout
+
+Phase 2, is that adolescents, parents or guardians, teachers, other community and family members,
+
+and Meta all have roles to play in keeping children safe from harms to mental health and sexual
+
+exploitation on Meta’s platforms.
+
+
+                                                  61
+176.   While the Court agrees and adopts this view, the Court also notes that Meta’s platforms
+
+ultimately create the need for the protection; Meta created a public nuisance through inter alia its
+
+failure to provide sufficiently accurate and accessible information on its platforms, thereby
+
+hindering other stakeholders from understanding and performing their protective roles.
+
+177.   Meta’s failure in this regard is strongly established by the jury’s verdict in Phase 1 of the
+
+proceedings.
+
+178.   Unless and until Meta eliminates the dangers to adolescents on its platforms, accurate
+
+disclosure of platform dangers to adolescents and educational programs to instruct adolescents and
+
+their supporting adults how to identify and avoid the harms posed by those risks is essential to
+
+mitigating the public nuisance harms caused by those aspects of Meta’s platform and content that
+
+the First Amendment, Section 230, and this Court’s jurisdiction prevent from being more directly
+
+addressed in abatement relief.
+
+179.   Meta’s public disclosures of platform risks on its website, i.e., https://www.meta.com, are
+
+insufficiently clear and visible, particularly compared to its platform content and particularly in
+
+the context of adolescent users. As such, the disclosures are inadequate to inform users of the risks
+
+on the platforms and they are a significant contributing cause of Meta’s public nuisance.
+
+180.   Meta shall build a banner screen on Facebook and Instagram to be displayed to all adult
+
+users in New Mexico at least once a month and all under 18 years of age at least once a week that
+
+provides a link to the following materials: (a) Meta’s Transparency Center; (b) Meta’s Parents
+
+Guide; (c) Meta’s Safety Center; (d) Meta’s Help Center; (e) Meta’s Teen Accounts Information
+
+Webpage, where a clear explanation of all features and protections shall be provided in adolescent-
+
+centric verbiage; and (e) a link to any other comparable features or sources of information that
+
+
+
+
+                                                 62
+address safety or security topics. The banner screen shall be submitted to the State for its review,
+
+possible edits, and approval.
+
+181.   Meta shall provide information screens on Facebook and Instagram to be displayed to all
+
+new users under 18 years of age once a day that explain one or more of the following: (a) an aspect
+
+of safe platform use best practices; (b) available tools to address inappropriate content and
+
+behavior; (c) the concept of rabbit holing and ways to reset the algorithm to address the issue; and,
+
+(d) tools to avoid problematic use, such as nudges, self-imposed limits and other tools. These
+
+screens shall be displayed for the first 30 days that a new user under 18 years of age joins a
+
+platform, similar to Meta’s presentation of new users under 18 years of age with Pristine Pool
+
+content. The screens shall be submitted to the State for its review, possible edits, and approval.
+
+182.   Meta shall fund, design, and implement an educational campaign in New Mexico, prepared
+
+in collaboration with and with the approval of the State, that publicizes: (a) risks associated with
+
+platform use; (b) safety tools and best practices to address those risks; (c) parental controls; (d)
+
+problematic content and behavior reporting tools; (d) risks associated with online bullying and
+
+features that help victims address it; and, (e) reporting mechanisms for accounts belonging to users
+
+under 13 years of age. This campaign shall also provide schools with ready-made materials, also
+
+prepared in collaboration with and with the approval of the State, that set forth information on
+
+these topics to be distributed as desired by the State.
+
+183.   The above-mentioned screens and materials are not intended to be a requirement for
+
+frightening, to constitute engagement damaging warnings, or to be mere glossy advertisements for
+
+Meta’s products. Rather, the Court expects that a straightforward presentation of risks, and
+
+associated practices and tools for addressing those risks, will be provided for distribution and
+
+education.
+
+
+                                                  63
+184.    Meta shall maintain the Meta Content Library, Content Library API, and the Center for
+
+Open Science Partnership to permit qualified researchers to conduct research on Meta platforms
+
+using appropriate and ethical methods to pursue meritorious research. The decision as to who is
+
+qualified, what methods are appropriate and ethical, and what research is meritorious shall be made
+
+by university research oversight boards and not by Meta so that Meta’s data security concerns are
+
+respected and independent research may be accomplished.
+
+I. Law Enforcement Reporting
+
+185.    The State proved in Phase 1 and Phase 2 that the State and NCMEC have limited resources.
+
+It is imperative that the State and NCMEC use those resources as efficiently as possible to address
+
+child sexual exploitation, including CSAM distribution.
+
+186.    The State also proved that Meta’s interaction and collaboration with New Mexico law
+
+enforcement and NCMEC is problematic and prevents the State and NCMEC from using their
+
+resources most efficiently.
+
+187.    While Meta argues, in essence, that the lack of sufficient law enforcement resources is,
+
+itself, an independent cause of the sexual exploitation of children on its platforms, the Court
+
+disagrees. It concludes that Meta cannot outsource the consequences of problems created on and
+
+by its platforms to the State and NCMEC and claim that any failure in enforcement is exclusively
+
+the fault of those entities.
+
+188.    Meta has a duty to prevent and, when prevention is not possible, minimize the societal and
+
+governmental burdens that its activities created. Just like brick-and-mortar business locations,
+
+Meta can be held liable for repeated breaches of the law and peace resulting from its operation.
+
+189.    During the Abatement Period, Meta shall prepare semiannual trainings in New Mexico for
+
+state and federal law enforcement related to internet crimes against children. Meta shall fund the
+
+
+                                                64
+semiannual trainings to a reasonable degree. Meta and the State shall collaborate and communicate
+
+regarding the necessity and desired content of the trainings to ensure that they are necessary and
+
+beneficial.
+
+190.   Meta shall identify and maintain, at all times, an individual as the point of contact for
+
+ICAC. The phone number and email address for said contact shall be kept up to date and provided
+
+to ICAC. The said contact shall help ICAC regarding referrals, reporting, and any identified
+
+improvements in communication between Meta and the State.
+
+191.   Within 30 days of the entry of this order, Meta shall communicate with NCMEC and
+
+discuss how Meta’s CyberTip report system can be improved. Specifically, they should discuss
+
+whether its CyberTip reports: contain all of the relevant information that would be useful to law
+
+enforcement; do not contain information that is unnecessary, unhelpful and/or hindering to law
+
+enforcement in evaluating the reports; are being provided to NCMEC as soon as reasonably
+
+possible after learning of an apparent violation; are being relayed to NCMEC in the most efficient
+
+manner; and use the most accurate and helpful tags when appropriate. If NCMEC expresses
+
+reasonable requests or concerns regarding any of these issues, within 45 days of Meta’s receipt of
+
+the request, Meta shall either modify its CyberTip reports to address the request or explain in
+
+writing to NCMEC and the State why it cannot reasonably address the request.
+
+192.   To reduce the number of errant referrals and the amount of time law enforcement takes to
+
+follow up on appropriate referrals, Meta shall ensure a human reviews all CyberTip reports of new
+
+CSAM posted by or shared with users in New Mexico. The human review shall be done in an
+
+expedited manner and prior to referring the report to NCMEC.
+
+193.   Prior to launching any updates or modifications to its CyperTip report system relating to
+
+New Mexico reports, Meta shall seek appropriate input from NCMEC to ensure the updates or
+
+
+                                               65
+modifications are the most efficient and helpful to NCMEC and law enforcement in their
+
+identification of CSAM and CSEM. And Meta shall ensure, by appropriate testing, that the updates
+
+and modifications are deployed as intended and as discussed with NCMEC.
+
+194.   Within 30 days of the entry of this order, Meta shall report its current rates of detection of
+
+new CSAM to NCMEC and the State (the “Baseline Measurement”). At least annually thereafter,
+
+Meta shall report its rates of detection of new CSAM to NCMEC and the State. At the end of the
+
+Abatement Period, Meta’s rate of detection shall have improved by no less than 5% from the
+
+Baseline Measurement.
+
+J. Child Safety Monitor
+
+195.   The State requested a Child Safety Monitor. See Plaintiff State of New Mexico’s Proposed
+
+Findings of Fact and Conclusions of Law, pages 112-23, State ex rel. Torrez v. Meta Platforms,
+
+Inc., D-101-CV-2023-02838 (1st Jud. Dist. Ct. June 12, 2026).
+
+196.   The State’s explanation of what would be monitored and what standards would be applied
+
+by the monitor to define compliance are extremely vague and, often, aspirational. Going back to
+
+the factory analogy, a monitor usually would measure pollution in the air and report whether or
+
+not identified pollutants were within satisfactory levels. But, the State asks for much more here.
+
+Applying the State’s request to the analogy, the monitor not only would determine which pollutants
+
+to test, but also decide what level of each pollutant would be satisfactory, and whether to force the
+
+factory ownership to use the factory to produce a new product that is more to the monitor’s liking.
+
+197.   The abatement requirements in this decree are wide-ranging, both in its implementation
+
+and in assessing its compliance. A monitor is unlikely to be helpful in all areas at issue.
+
+198.   On this basis, the Court denies the request for a monitor.
+
+
+
+
+                                                 66
+199.   Instead, in this decree, the Court seeks to articulate objective, identifiable requirements that
+
+Meta must satisfy. If Meta does not meet those requirements, then the State may seek additional,
+
+appropriate relief or penalties from the Court.
+
+200.   The New Mexico Department of Justice may delegate review and consideration of Meta’s
+
+compliance with any abatement terms to any agency or entity that it chooses; for instance, the New
+
+Mexico Public Education Department may be best positioned to consider educational materials,
+
+the New Mexico Department of Finance and Administration may be most qualified to manage and
+
+account for abatement proceeds, and some assessments may require expertise from outside of New
+
+Mexico.
+
+201.   If it becomes apparent to the Court that a specific requirement is frequently at issue, such
+
+that coming to the Court for its decision is unduly burdensome on the parties, the Court may
+
+appoint a monitor or special master to address the more specific term or area in dispute.
+
+                                         CONCLUSION
+
+       IT IS THEREFORE ORDERED, ADJUDGED, AND DECREED BY THE COURT that
+
+judgment and relief is hereby entered in favor of Plaintiff State of New Mexico, ex rel., Raúl
+
+Torrez, Attorney General.
+
+                                                       IT IS SO ORDERED.
+
+
+
+
+                                                       ___________________________
+                                                       BRYAN BIEDSCHEID
+                                                       CHIEF DISTRICT COURT JUDGE
+                                                       DIVISION VI
+
+
+
+
+                                                  67
+                               CERTIFICATE OF SERVICE
+
+
+        I, the undersigned, hereby certify that on the date of acceptance for e-filing a true and
+correct copy of the foregoing was e-served on counsel registered for e-service in this matter as
+listed below.
+
+
+                                                    ___________________________________
+                                                    Terri S. Sossman,
+                                                    Trial Court Administrative Assistant
+
+
+
+
+                                               68
+

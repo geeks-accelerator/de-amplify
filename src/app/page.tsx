@@ -442,7 +442,7 @@ export default function Home() {
               <Stat value="29" label="states' consolidated case at trial in August" />
               <Stat value="~2,900" label="lawsuits, consolidated (N.D. Cal.)" />
               <Stat value="$1.4T" label="penalty exposure, per Meta's own filing" />
-              <Stat value="$375M" label="New Mexico jury verdict" />
+              <Stat value="$942M" label="New Mexico judgment, penalties plus fund" />
               <Stat value="$6M" label="California jury verdict" />
             </div>
 

@@ -76,6 +76,27 @@ for (const meta of DISTILLATIONS) {
     });
   }
 
+  // Every registered ledger must have a raw-markdown route, because the agent
+  // card ADVERTISES one for every ledger. _links.ledgers is generated from this
+  // same registry and emits `markdown: /distillations/<slug>.md`, while the
+  // route itself is a hand-created folder per slug. So registering a ledger
+  // without creating that folder publishes a machine-readable link to a 404,
+  // and nothing else in the build notices: the page, the OG card, the sitemap
+  // and llms-full.txt all self-wire, which makes the one surface that does not
+  // easy to forget. (Renaming the folder to [slug].md does not collapse these:
+  // Next only treats a segment as dynamic when it both starts with "[" and ends
+  // with "]", so "[slug].md" is a literal path.)
+  const rawRoute = `src/app/distillations/${meta.slug}.md/route.ts`;
+  check(exists(rawRoute), {
+    ledger: meta.slug,
+    variant: "raw markdown route",
+    consumer: rawRoute,
+    detail:
+      `the agent card advertises ${meta.slug}.md for this ledger but the route does not exist,\n` +
+      `    so /distillations/${meta.slug}.md returns 404. Copy an existing sibling route folder\n` +
+      `    and swap the slug; it is the one surface a new ledger does not wire itself into.`,
+  });
+
   // A curated case page and its route file only exist for ledgers that sit
   // behind their own page. Hearings share /hearings and the regulatory ledger
   // sits behind a section of /lawsuits, so neither has one, and neither has an

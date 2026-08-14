@@ -10,7 +10,7 @@ import { contentDate } from "@/lib/contentDate";
 
 const TITLE = "Social Media Addiction Lawsuits, Explained (2026)";
 const DESCRIPTION =
-  "Inside MDL 3047 and the state lawsuits against Meta, TikTok, YouTube, and Snap: the $6M and $375M verdicts, the August 2026 trial, and what should change.";
+  "Inside MDL 3047 and the state lawsuits against Meta, TikTok, YouTube, and Snap: New Mexico's $942M judgment, the Oakland trial now underway, and what should change.";
 const PATH = "/lawsuits";
 
 export const metadata: Metadata = {
