@@ -1,0 +1,494 @@
+SOURCE CACHE. In the Matter of Chitika, Inc., FTC File No. 102 3087. Two documents,
+both from the final June 2011 action:
+
+  - the COMPLAINT (110617chitikacmpt.pdf, 4 pages)
+  - the DECISION AND ORDER (110617chitikado.pdf, 7 pages)
+
+Retrieved 2026-08-14 from ftc.gov (browser User-Agent required; a default curl UA
+gets 403; the /enforcement/ URL 301s to /legal-library/, so follow redirects).
+Extracted with pdftotext -layout. Clean: zero doubled word pairs, zero ligatures,
+probes run with a positive control. U.S. Government work, public domain.
+
+POSTURE. A complaint is an allegation. A Decision and Order entered on consent is
+AGREED, not adjudicated: Chitika settled. Nothing here is a finding that Chitika
+did what was alleged, and the order itself records that it is entered without any
+admission. Cite it as what the FTC required by agreement, never as a holding.
+
+WHY IT MATTERS. The complaint describes an opt-out that silently expired after ten
+days while the interface said the user was opted out. The order is the remedy, and
+it is the closest thing in American law to this project's standard written down:
+a minimum duration, a status display, a scope disclosure, a friction cap, and a
+surface-coverage requirement, all in one 2011 consent order.
+
+================================================================================
+COMPLAINT
+================================================================================
+
+                                                                                           102 3087
+
+                              UNITED STATES OF AMERICA
+                             FEDERAL TRADE COMMISSION
+
+
+COMMISSIONERS:               Jon Leibowitz, Chairman
+                             William E. Kovacic
+                             J. Thomas Rosch
+                             Edith Ramirez
+                             Julie Brill
+
+                                            )
+In the Matter of                            )
+                                            )
+CHITIKA, INC.,                              )              DOCKET NO. C-4324
+a corporation.                              )
+                                            )
+
+                                        COMPLAINT
+
+        The Federal Trade Commission, having reason to believe that Chitika, Inc. has violated
+the provisions of the Federal Trade Commission Act, and it appearing to the Commission that
+this proceeding is in the public interest, alleges:
+
+1.     Respondent Chitika, Inc. (“Chitika” or “respondent”) is a Delaware corporation with its
+       principal office or place of business at 1800 West Park Drive, Westborough,
+       Massachusetts, 01581.
+
+2.     The acts and practices of respondent as alleged in this complaint have been in or
+       affecting commerce, as “commerce” is defined in Section 4 of the Federal Trade
+       Commission Act.
+
+                         RESPONDENT’S BUSINESS PRACTICES
+
+3.     Respondent is in the business of online behavioral advertising, which is the practice of
+       tracking a consumer’s online activities in order to deliver advertising targeted to the
+       individual consumer’s interests. Specifically, respondent tracks the searches a consumer
+       has conducted, the web pages visited, and the content viewed in order to deliver or
+       “serve” advertising targeted to the individual consumer’s interests.
+
+4.     Respondent offers an online behavioral advertising service that it markets as “Chitika
+       Ads for Online Advertising.” As part of this service, respondent acts as an intermediary
+       between website publishers (“publishers”) and advertisers that wish to have their
+       advertisements placed on websites. Respondent purchases advertising space on
+
+                                          Page 1 of 4
+     publishers’ websites and contracts with advertisers to place their advertisements on the
+     websites. Respondent refers to the network of publishers from which it purchases
+     advertising space as the “Chitika network.”
+
+5.   When a consumer visits a website within the Chitika network, respondent sets a new
+     cookie or automatically receives a cookie it has previously set in the consumer’s browser
+     (the “Chitika tracking cookie”). Cookies are small text files that are commonly used to
+     store information about a consumer’s online activities, including information such as the
+     content or advertisements that a consumer views or the pages a consumer visits within a
+     particular website. Respondent facilitates the setting or receiving of Chitika tracking
+     cookies by providing code to publishers that redirects a consumer’s browser to
+     respondent’s server with an instruction to request a new cookie or send a cookie
+     previously set by respondent. The communication between the browser and respondent’s
+     server occurs almost instantaneously in the background and is not visible to the
+     consumer, unless the consumer uses sophisticated web diagnostics tools.
+
+6.   The Chitika tracking cookie contains a unique identification number that allows
+     respondent to recognize the particular consumer or computer and correlate it to online
+     activity. When respondent sets a new Chitika tracking cookie or receives a previously-
+     set Chitika tracking cookie, respondent adds information about the consumer’s web
+     browsing activities to the cookie, including, in some instances, the consumer’s search
+     terms. Respondent uses this cookie to serve advertisements to the consumer that are
+     targeted to his or her interests.
+
+7.   As long as a consumer visits a website in the Chitika network from the same web
+     browser on the same computer at least once a year, the consumer will indefinitely retain
+     the Chitika tracking cookie in his browser.
+
+8.   Respondent stores data contained in Chitika tracking cookies in log files on its servers for
+     up to two years.
+
+                    RESPONDENT’S STATEMENTS & OPT-OUT
+
+9.   From at least May 2008 to the present, respondent disseminated or caused to be
+     disseminated a privacy policy on respondent’s website, including, but not limited to, the
+     following statements regarding respondent’s collection and use of consumer information:
+
+            When users visit a page in the Chitika network, one or more
+            cookies - a small file containing a string of characters - are set to
+            the computer that uniquely identifies the users (sic) browser.
+            Chitika uses cookies to improve the quality of the targeting service
+            by storing anonymous activity data and tracking user trends, such
+            as how people search and browse. Users can reset their browsers
+            to refuse all cookies or to indicate when a cookie is being sent. . . .
+
+
+                                         Page 2 of 4
+             Chitika encourages and promotes business practices that protect
+             and honor the privacy of users.
+             You can opt-out of receiving Chitika cookies by using the button
+             below.
+
+10.   Directly following the above statement is a button labeled “Opt-Out,” with an adjacent
+      statement that “You are currently not opted out.” (Exhibit A) When a consumer clicks
+      the “Opt-Out” button, the message adjacent to the button changes to, “You are currently
+      opted out.” (Exhibit B)
+
+11.   When a consumer selects respondent’s opt-out, respondent sets an “opt-out cookie” in the
+      consumer’s browser. When the consumer subsequently visits a website in the Chitika
+      network, the consumer’s browser automatically sends the opt-out cookie to respondent’s
+      servers. When respondent receives the opt-out cookie, it does not set any additional
+      cookies in the consumer’s browser. It also does not add any information to a previously-
+      set Chitika tracking cookie or use the data from the cookie to target advertisements to the
+      consumer.
+
+12.   From at least May 2008 to February 28, 2010, respondent delivered opt-out cookies that
+      it set to expire after 10 days. Consequently, 10 days after consumers selected
+      respondent’s opt-out, the opt-out cookies automatically expired and disappeared from
+      consumers’ browsers. When consumers then visited websites in the Chitika network,
+      respondent: (1) set new Chitika tracking cookies in consumers’ browsers that did not
+      have a Chitika tracking cookie; or (2) automatically received Chitika tracking cookies
+      that it set before consumers selected the opt-out. In both instances, respondent added
+      information to the Chitika tracking cookies in order to track consumers’ online activities
+      and serve targeted advertisements to them. Respondent did not inform consumers that
+      the opt-out cookie would expire after 10 days.
+
+13.   As of March 1, 2010, after being contacted by FTC staff, respondent modified the
+      expiration date of its opt-out cookies, so that any future opt-out cookies it delivers will
+      expire after 10 years. Respondent’s modification of its opt-out cookies does not affect
+      any opt-out cookies delivered before March 1, 2010.
+
+                              VIOLATION OF THE FTC ACT
+
+14.   Through the means described in Paragraphs 9 and 10, respondent represents, expressly or
+      by implication, that when consumers opt out of targeted advertising by Chitika, such opt-
+      out will last for a reasonable period of time.
+
+15.   In truth and in fact, when consumers opted out of targeted advertising by Chitika, such
+      opt-out did not last for a reasonable period of time. Therefore, the representations set
+      forth in Paragraphs 9 and 10 were false or misleading.
+
+
+
+                                           Page 3 of 4
+16.   The acts and practices of respondent, as alleged in this complaint, constitute deceptive
+      acts or practices in or affecting commerce in violation of Section 5(a) of the Federal
+      Trade Commission Act.
+
+        THEREFORE, the Federal Trade Commission this seventh day of June, 2011, has
+issued this complaint against respondent.
+
+      By the Commission.
+
+
+                                            Donald S. Clark
+                                            Secretary
+
+
+
+
+                                          Page 4 of 4
+
+================================================================================
+
+DECISION AND ORDER
+
+================================================================================
+
+
+                                                                            102 3087
+
+                              UNITED STATES OF AMERICA
+                             FEDERAL TRADE COMMISSION
+
+COMMISSIONERS:                Jon Leibowitz, Chairman
+                              William E. Kovacic
+                              J. Thomas Rosch
+                              Edith Ramirez
+                              Julie Brill
+
+
+                                                     )
+In the Matter of                                     )
+                                                     )       DOCKET NO: C-4324
+CHITIKA, INC.,                                       )
+a corporation.                                       )
+                                                     )
+
+
+                                   DECISION AND ORDER
+
+        The Federal Trade Commission, having initiated an investigation of certain acts and
+practices of the respondent named in the caption hereof, and the respondent having been
+furnished thereafter with a copy of a draft Complaint that the Bureau of Consumer Protection
+proposed to present to the Commission for its consideration and which, if issued, would charge
+the respondent with violation of the Federal Trade Commission Act, 15 U.S.C. § 45 et seq.;
+
+         The respondent and counsel for the Commission having thereafter executed an
+Agreement Containing Consent Order (“Consent Agreement”), an admission by the respondent
+of all the jurisdictional facts set forth in the aforesaid draft Complaint, a statement that the
+signing of said Consent Agreement is for settlement purposes only and does not constitute an
+admission by the respondent that the law has been violated as alleged in such Complaint, or that
+the facts as alleged in such Complaint, other than jurisdictional facts, are true, and waivers and
+other provisions as required by the Commission’s Rules; and
+
+        The Commission having thereafter considered the matter and having determined that it
+has reason to believe that the respondent has violated the Federal Trade Commission Act, and
+that a Complaint should issue stating its charges in that respect, and having thereupon accepted
+the executed Consent Agreement and placed such Consent Agreement on the public record for a
+period of thirty (30) days for the receipt and consideration of public comments, and having duly
+considered the comments received from interested persons pursuant to Commission Rule 2.34,
+16 C.F.R. § 2.34, now in further conformity with the procedure described in Commission Rule
+2.34, the Commission hereby issues its Complaint, makes the following jurisdictional findings,
+and enters the following Order:
+
+                                                 1
+1.     Respondent Chitika, Inc. (“Chitika”) is a Delaware corporation with its principal office
+       or place of business at 1800 West Park Drive, Westborough, Massachusetts, 01581.
+
+2.     The Federal Trade Commission has jurisdiction of the subject matter of this proceeding
+       and of the respondent, and the proceeding is in the public interest.
+
+                                             ORDER
+
+                                         DEFINITIONS
+
+For purposes of this order, the following definitions shall apply:
+
+1.     Unless otherwise specified, “respondent” shall mean Chitika, Inc., a corporation, its
+       successors and assigns, and its officers, agents, representatives, and employees.
+
+2.     “Clear(ly) and prominent(ly)” shall mean:
+
+       A.      In textual communications (e.g., printed publications or words displayed on the
+               screen of a computer or mobile device), the required disclosures are of a type,
+               size, and location sufficiently noticeable for an ordinary consumer to read and
+               comprehend them, in print that contrasts highly with the background on which
+               they appear;
+
+       B.      In communications disseminated orally or through audible means (e.g., radio or
+               streaming audio), the required disclosures are delivered in a volume and cadence
+               sufficient for an ordinary consumer to hear and comprehend them;
+
+       C.      In communications disseminated through video means (e.g., television or
+               streaming video), the required disclosures are in writing in a form consistent with
+               subparagraph (A) of this definition and shall appear on the screen for a duration
+               sufficient for an ordinary consumer to read and comprehend them, and in the
+               same language as the predominant language that is used in the communication;
+               and
+
+       D.      In all instances, the required disclosures: (1) are presented in an understandable
+               language and syntax; and (2) include nothing contrary to, inconsistent with, or in
+               mitigation of any other statements or disclosures provided by respondent.
+
+3.     “Commerce” shall be defined as it is defined in Section 4 of the Federal Trade
+       Commission Act, 15 U.S.C. § 44.
+
+4.     “Computer” or “device” shall mean any desktop or laptop computer, handheld device,
+       telephone, or other product or device through which a consumer can access the Internet.
+
+
+
+                                                 2
+5.     “Collection of data” or “collecting data” shall mean the practice of receiving any
+       information or data from a computer or device, whether transmitted by a web browser or
+       otherwise, and retaining that information, whether on the user’s computer or on a server.
+       “Data collected” shall mean any information or data received from a computer or device,
+       whether transmitted by a web browser or otherwise, and retained, whether on the user’s
+       computer or respondent’s server(s).
+
+6.     “Chitika user” shall mean any consumer, computer, or device that respondent has
+       uniquely identified.
+
+7.     “Online behavioral advertising” shall mean the practice of tracking a consumer’s online
+       activities in order to deliver advertising targeted to the individual consumer’s interests.
+
+                                                 I.
+
+        IT IS ORDERED that respondent, directly or through any corporation, subsidiary,
+division, website, third party, or other means, in connection with the online advertising,
+marketing, promotion, offering for sale, sale, or dissemination of any product or service, in or
+affecting commerce, shall not misrepresent in any manner, expressly or by implication: (A) the
+extent to which consumers may exercise control over the collection, use, disclosure, or sharing
+of data collected from or about them, their computers or devices, or their online activities, or (B)
+the extent to which data from or about a particular consumer, computer, or device is collected,
+used, disclosed, or shared.
+
+                                                 II.
+
+        IT IS FURTHER ORDERED that respondent, directly or through any corporation,
+subsidiary, division, website, third party, or other means, in connection with the online
+advertising, marketing, promotion, offering for sale, sale, or dissemination of any product or
+service on websites other than respondent’s, in or affecting commerce, shall:
+
+       A.      Within thirty (30) days after the date of service of the order, place a clear and
+               prominent notice, including a hyperlink, on the homepage(s) of its website(s),
+               which states, “We collect information about your activities on certain websites to
+               send you targeted advertisements. To opt out of Chitika’s targeted ads, click
+               here.” When selected, the hyperlink shall directly take consumers to the
+               mechanism required by Part II.C. of the order;
+       B.      Within thirty (30) days after the date of service of the order, for a duration of
+               twelve (12) months, include immediately after the notice required by Part II.A. of
+               the order, the following statement: “If you opted out of our targeted ads before
+               March 1, 2010, the opt-out has expired and you must opt out again to avoid
+               targeted ads.”;
+
+       C.      Within thirty (30) days after the date of service of the order, provide a
+               mechanism, separate and apart from any preferences or controls offered by
+
+                                                 3
+               consumers’ browsers, to enable Chitika users to prevent respondent from
+               collecting data that can be associated with a Chitika user or a Chitika user’s
+               computer or device, or that contains any unique identifier, including Chitika user
+               ID or Internet Protocol (IP) address; from redirecting Chitika users’ browsers to
+               third parties that collect data, absent a click or other affirmative action by such
+               Chitika user; and from associating any previously collected data with any Chitika
+               user’s computer or device. This mechanism shall require no more than one
+               additional click for consumers to exercise their choice(s), and shall remain in
+               effect for a minimum time period of five (5) years, unless the consumer deletes
+               his or her cookies or takes deliberate action to disable the mechanism. Within
+               close proximity to the mechanism, respondent shall clearly and prominently
+               disclose to consumers: (1) that Chitika collects information about consumers’
+               activities on certain websites in order to deliver targeted advertisements; (2) that
+               by opting out, Chitika will not collect this information for the purpose of
+               delivering targeted advertisements; (3) the current status of their choice (i.e.,
+               “opted in” or “opted out” of collection); and (4) that their choice is specific to the
+               browser they are using, and they need to implement the mechanism again if they
+               use a different browser; and
+
+       D.      Within ninety (90) days after the date of service of the order, within any
+               advertisement that respondent serves as part of online behavioral advertising,
+               include a hyperlink that directly takes consumers to the mechanism required by
+               Part II.C. of this order. The hyperlink text shall clearly and prominently state:
+               “Opt out?” While a consumer’s cursor, or functional equivalent, hovers over the
+               hyperlink, a box shall be visible in close proximity to the hyperlink, which clearly
+               and prominently states, “Opt out of Chitika’s targeted ads.”
+
+                                                III.
+
+        IT IS FURTHER ORDERED that respondent, directly or through any corporation,
+subsidiary, division, third party, or other entity, shall not use, disclose, sell, rent, lease, or
+transfer any information that can be associated with a Chitika user or a Chitika user’s computer
+or device that respondent obtained prior to March 1, 2010. Within sixty (60) days after the date
+of service of the order, respondent shall permanently delete or destroy: (1) all such information
+stored in Chitika users’ cookies; and (2) all IP addresses and unique identifiers, including any
+Chitika user identification numbers, in log files on respondent’s server(s) and in backup tapes,
+and shall provide a written statement to the Commission, sworn under penalty of perjury,
+confirming that all such information has been deleted or destroyed. Provided that, if respondent
+is prohibited from deleting or destroying such information by law, regulation, or court order,
+respondent shall provide a written statement to the Commission, sworn under penalty of perjury,
+identifying any information that has not been deleted or destroyed and the specific law,
+regulation, or court order that prohibits respondent from deleting or destroying such information.
+Unless otherwise directed by a representative of the Commission, all statements required by this
+Part shall be sent by overnight courier (not the U.S. Postal Service) to the Associate Director of
+Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania
+
+                                                  4
+Avenue NW, Washington, DC 20580, with the subject line FTC v. Chitika. Provided, however,
+that, in lieu of overnight courier, notices may be sent by first-class mail, but only if an electronic
+version of such notices is contemporaneously sent to the Commission at DEbrief@ftc.gov.
+
+                                                 IV.
+
+        IT IS FURTHER ORDERED that respondent shall maintain, and upon request make
+available to the Federal Trade Commission for inspection and copying, a print or electronic copy
+of each document relating to compliance with the terms and provisions of this order, including,
+but not limited to:
+
+       A.      For a period of five (5) years, any documents, whether prepared by or on behalf
+               of respondent, that:
+
+               1.      Comprise or relate to complaints or inquiries, whether received directly or
+                       indirectly, concerning: (a) any data collection by respondent; (b) the use,
+                       disclosure or sharing of such data; or (c) any mechanism to limit or
+                       prevent such collection of data or the use, disclosure, or sharing of data
+                       collected, as well as any responses to those complaints or inquiries;
+
+               2.      Are necessary to demonstrate full compliance with each provision of this
+                       order, including, but not limited to, all documents obtained, created,
+                       generated, or which in any way relate to the requirements, provisions, or
+                       terms of this order, and all reports submitted to the Commission pursuant
+                       to this order; or
+
+               3.      Contradict, qualify, or call into question respondent’s compliance with
+                       this order; and
+
+       B.      For a period of five (5) years after the last public dissemination thereof, all
+               advertisements, terms of use, end-user license agreements, frequently asked
+               questions, privacy policies, and similar documents relating to: (a) any data
+               collection by respondent; (b) the use, disclosure or sharing of such data; or (c) any
+               mechanism to limit or prevent such collection of data or use, disclosure, or
+               sharing of data collected, as well as any responses to those complaints or
+               inquiries.
+
+                                                  V.
+
+        IT IS FURTHER ORDERED that Chitika, Inc., and its successors and assigns, shall
+deliver a copy of this order to all current and future principals, officers, directors, and managers,
+and to all current and future employees, agents, and representatives having responsibilities with
+respect to the subject matter of this order. Respondent shall deliver this order to current
+personnel within thirty (30) days after the date of service of the order, and to future personnel
+within thirty (30) days after the person assumes such position or responsibilities.
+
+                                                   5
+                                                 VI.
+.
+         IT IS FURTHER ORDERED that Chitika, Inc., and its successors and assigns, shall
+notify the Commission at least thirty (30) days prior to any change in the entity that may affect
+compliance obligations arising under this order, including, but not limited to, a dissolution,
+assignment, sale, merger, or other action that would result in the emergence of a successor
+entity; the creation or dissolution of a subsidiary, parent, or affiliate that engages in any acts or
+practices subject to this order; the proposed filing of a bankruptcy petition; or a change in the
+entity name or address. Provided, however, that with respect to any proposed change in the
+entity about which respondent learns less than thirty (30) days prior to the date such action is to
+take place, respondent shall notify the Commission as soon as is practicable after obtaining such
+knowledge. Unless otherwise directed by a representative of the Commission, all notices
+required by this Part shall be sent by overnight courier (not the U.S. Postal Service) to the
+Associate Director of Enforcement, Bureau of Consumer Protection, Federal Trade Commission,
+600 Pennsylvania Avenue NW, Washington, DC 20580, with the subject line FTC v. Chitika.
+Provided, however, that, in lieu of overnight courier, notices may be sent by first-class mail, but
+only if an electronic version of such notices is contemporaneously sent to the Commission at
+DEbrief@ftc.gov.
+
+                                                VII.
+
+        IT IS FURTHER ORDERED that Chitika, Inc., and its successors and assigns, within
+sixty (60) days after service of the order, and at such other times as the Federal Trade
+Commission may require, shall file with the Commission a true and accurate report, in writing,
+setting forth the manner and form in which respondent has complied with this order. Within ten
+(10) days of receipt of written notice from a representative of the Commission, Chitika, Inc. shall
+submit additional true and accurate written reports.
+
+                                                VIII.
+
+        This order will terminate on June 7, 2031, or twenty (20) years from the most recent date
+that the United States or the Federal Trade Commission files a complaint (with or without an
+accompanying consent decree) in federal court alleging any violation of the order, whichever
+comes later; provided, however, that the filing of such a complaint will not affect the duration of:
+
+       A.      Any Part of this order that terminates in less than twenty (20) years;
+
+       B.      This order’s application to any respondent that is not named as a defendant in
+               such a complaint; and
+
+       C.      This order if such complaint is filed after the order has terminated pursuant to this
+               Part.
+
+
+
+
+                                                  6
+Provided, further, that if such complaint is dismissed or a federal court rules that the respondent
+did not violate any provision of the order, and the dismissal or ruling is either not appealed or
+upheld on appeal, then the order will terminate according to this Part as though the complaint
+had never been filed, except that this order will not terminate between the date such complaint is
+filed and the later of the deadline for appealing such dismissal or ruling and the date such
+dismissal or ruling is upheld on appeal.
+
+       By the Commission.
+
+
+                                              Donald S. Clark
+                                              Secretary
+SEAL
+ISSUED: June 7, 2011
+
+
+
+
+                                                 7
+

@@ -11,7 +11,7 @@
 // and there was no way to re-run it. The two lesser drift checks were automated
 // and the one that guards quote fidelity on a public legal site was not.
 //
-// THE FOUR NORMALIZATIONS, and why all four or none. Each flips a DIFFERENT set
+// THE FIVE NORMALIZATIONS, and why all five or none. Each flips a DIFFERENT set
 // of quotes, so applying some but not others produces failures that read exactly
 // like fidelity defects:
 //
@@ -26,6 +26,15 @@
 //      characters, so "sufficient" never matches "sufﬁcient". This one is the
 //      nastiest: the two strings are visually identical at reading size, so the
 //      failure looks like a fabricated quote rather than an encoding mismatch.
+//   5. Court-filing line numbers, added 2026-08-14 with the FTC ledger. US court
+//      filings carry a line number in the left margin of every line and
+//      pdftotext keeps it, so collapsing whitespace injects it mid-sentence:
+//      "devices other than 11 computers and smartphones". Any span crossing a
+//      line boundary then fails against a perfectly faithful cache. Stripped
+//      anchored to line starts, so a number inside a sentence survives. This
+//      produced a false "absent from both complaints" on the best quote in the
+//      Amazon record before it was caught, which is the same shape as every
+//      other failure in this corpus: the query was broken, not the record.
 //
 // WHAT THIS CANNOT DO. Substring matching proves a span is verbatim. It says
 // NOTHING about who said it. On 2026-07-24 /hearings attributed Bejar's line to
@@ -92,7 +101,8 @@ const LEDGERS = {
       "bits-of-freedom-2025-10-02-rechtbank-amsterdam.txt",
       "bits-of-freedom-2026-03-10-gerechtshof-amsterdam.txt",
     ],
-    sections: ["Quotes"],
+    allowlist: "bits-of-freedom-quote-allowlist.txt",
+    sections: ["Claims (the ledger)", "Quotes"],
   },
   "ftc-control-integrity": {
     sources: [
@@ -100,8 +110,10 @@ const LEDGERS = {
       "ftc-2023-06-21-amazon-prime-complaint.txt",
       "ftc-2025-09-25-amazon-prime-stipulated-order.txt",
       "ftc-2022-epic-games-complaint.txt",
+      "ftc-2011-chitika-complaint-and-order.txt",
     ],
-    sections: ["Quotes"],
+    allowlist: "ftc-control-integrity-quote-allowlist.txt",
+    sections: ["Claims (the ledger)", "Quotes"],
   },
   "eu-dsa-proceedings": {
     sources: ["ec-ip-26-312.txt", "ec-ip-26-920.txt", "ec-ip-26-1579.txt", "ec-ip-26-1679.txt"],
@@ -366,7 +378,8 @@ for (const f of failures) {
 }
 console.error(
   "A span fails when it is not verbatim in its cached source. Before assuming the ledger is wrong,\n" +
-    "check the four normalizations in this file: a ligature or a curly apostrophe produces a failure\n" +
+    "check the five normalizations in this file: a ligature, a curly apostrophe, or a court-filing\n" +
+    "line number crossing the span produces a failure\n" +
     "that looks identical to a fabricated quote. Fix the LEDGER to match the record, never the record.\n",
 );
 process.exit(1);
