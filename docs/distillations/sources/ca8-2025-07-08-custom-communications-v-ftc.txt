@@ -1,0 +1,783 @@
+SOURCE CACHE. Custom Communications, Inc. v. Federal Trade Commission, Nos. 24-3137,
+24-3388, 24-3415, 24-3442, 24-3469 (8th Cir.), filed July 8, 2025, published, per curiam
+(LOKEN, ERICKSON, KOBES, Circuit Judges). The decision that vacated the FTC's 2024
+Negative Option Rule (the click-to-cancel rule), 16 C.F.R. part 425.
+
+Retrieved 2026-08-14 from the court's own server, https://ecf.ca8.uscourts.gov/opndir/25/07/243137P.pdf
+extracted with pdftotext -layout. U.S. Government work, public domain. 23 pages.
+Extraction checked: zero doubled word pairs, zero ligatures, positive control run.
+ecf.ca8.uscourts.gov serves this to plain curl with no User-Agent games.
+
+WHY IT MATTERS HERE: the rule embodied all three prongs of control integrity (the
+control must work, must cover related surfaces, must persist) as a general US rule,
+and it was vacated on PROCEDURAL grounds six days before its compliance date. The
+court expressly declined the merits. See the ledger for the exact language.
+
+================================================================================
+
+               United States Court of Appeals
+                          For the Eighth Circuit
+                      ___________________________
+
+                              No. 24-3137
+                      ___________________________
+
+       Custom Communications, Inc., doing business as Custom Alarm
+
+                           lllllllllllllllllllllPetitioner
+
+                                         v.
+
+                          Federal Trade Commission
+
+                           lllllllllllllllllllllRespondent
+
+                           ------------------------------
+
+American Property Casualty Insurance Association; Consumer Credit Industry
+Association; Health & Fitness Association; International Franchise Association;
+  National Association of Spa Franchises; Service Contract Industry Council
+
+                 lllllllllllllllllllllAmici on Behalf of Petitioner
+
+    Internet and Consumer Law Professors; Main Street Alliance; Truth in
+Advertising, Inc.; Consumer Law and Economic Justice; Consumer Federation of
+ America; Consumer Action; National Consumers League; National Consumer
+           Law Center; National Association of Consumer Advocates
+
+                lllllllllllllllllllllAmici on Behalf of Respondent
+                         ___________________________
+
+                              No. 24-3388
+                      ___________________________
+
+   The Chamber of Commerce of the United States of America; The Georgia
+                        Chamber of Commerce
+                           lllllllllllllllllllllPetitioners
+
+                                         v.
+
+                          Federal Trade Commission
+
+                           lllllllllllllllllllllRespondent
+
+                           ------------------------------
+
+American Property Casualty Insurance Association; Consumer Credit Industry
+Association; Health & Fitness Association; International Franchise Association;
+  National Association of Spa Franchises; Service Contract Industry Council
+
+                 lllllllllllllllllllllAmici on Behalf of Petitioner
+
+    Internet and Consumer Law Professors; Main Street Alliance; Truth in
+Advertising, Inc.; Consumer Law and Economic Justice; Consumer Federation of
+ America; Consumer Action; National Consumers League; National Consumer
+           Law Center; National Association of Consumer Advocates
+
+                lllllllllllllllllllllAmici on Behalf of Respondent
+                         ___________________________
+
+                              No. 24-3415
+                      ___________________________
+
+Michigan Press Association; National Federation of Independent Business, Inc.
+
+                           lllllllllllllllllllllPetitioners
+
+                                         v.
+
+                          Federal Trade Commission
+
+                           lllllllllllllllllllllRespondent
+
+
+
+                                         -2-
+                           ------------------------------
+
+American Property Casualty Insurance Association; Consumer Credit Industry
+Association; Health & Fitness Association; International Franchise Association;
+  National Association of Spa Franchises; Service Contract Industry Council
+
+                 lllllllllllllllllllllAmici on Behalf of Petitioner
+
+    Internet and Consumer Law Professors; Main Street Alliance; Truth in
+Advertising, Inc.; Consumer Law and Economic Justice; Consumer Federation of
+ America; Consumer Action; National Consumers League; National Consumer
+           Law Center; National Association of Consumer Advocates
+
+                lllllllllllllllllllllAmici on Behalf of Respondent
+                         ___________________________
+
+                              No. 24-3442
+                      ___________________________
+
+  Electronic Security Association; Interactive Advertising Bureau; NCTA-The
+                       Internet & Television Association
+
+                           lllllllllllllllllllllPetitioners
+
+                                         v.
+
+                          Federal Trade Commission
+
+                           lllllllllllllllllllllRespondent
+
+                           ------------------------------
+
+American Property Casualty Insurance Association; Consumer Credit Industry
+Association; Health & Fitness Association; International Franchise Association;
+  National Association of Spa Franchises; Service Contract Industry Council
+
+                 lllllllllllllllllllllAmici on Behalf of Petitioner
+
+                                         -3-
+    Internet and Consumer Law Professors; Main Street Alliance; Truth in
+Advertising, Inc.; Consumer Law and Economic Justice; Consumer Federation of
+ America; Consumer Action; National Consumers League; National Consumer
+           Law Center; National Association of Consumer Advocates
+
+                 lllllllllllllllllllllAmici on Behalf of Respondent
+                          ___________________________
+
+                               No. 24-3469
+                       ___________________________
+
+   Custom Communications, Inc., doing business as Custom Alarm; Electronic
+  Security Association; Interactive Advertising Bureau; NCTA-The Internet &
+   Television Association; Michigan Press Association; National Federation of
+ Independent Business, Inc.; The Chamber of Commerce of the United States of
+                 America; The Georgia Chamber of Commerce
+
+                           lllllllllllllllllllllPetitioners
+
+                                         v.
+
+                           Federal Trade Commission
+
+                           lllllllllllllllllllllRespondent
+
+                            ------------------------------
+
+American Property Casualty Insurance Association; Consumer Credit Industry
+Association; Health & Fitness Association; International Franchise Association;
+  National Association of Spa Franchises; Service Contract Industry Council
+
+                 lllllllllllllllllllllAmici on Behalf of Petitioner
+
+    Internet and Consumer Law Professors; Main Street Alliance; Truth in
+Advertising, Inc.; Consumer Law and Economic Justice; Consumer Federation of
+ America; Consumer Action; National Consumers League; National Consumer
+           Law Center; National Association of Consumer Advocates
+
+                                         -4-
+                  lllllllllllllllllllllAmici on Behalf of Respondent
+                                        ____________
+
+                      Petitions for Review of an Order of the
+                             Federal Trade Commission
+                                   ____________
+
+                             Submitted: June 10, 2025
+                                Filed: July 8, 2025
+                                   [Published]
+                                  ____________
+
+Before LOKEN, ERICKSON, and KOBES, Circuit Judges.
+                           ____________
+
+PER CURIAM.
+
+       Many American consumers have found themselves unwittingly enrolled in
+recurring subscription plans, continuing to pay for unwanted products or services
+because they neglected to cancel their subscriptions. These so-called “negative
+option” programs take various forms but generally share the key feature of a term or
+condition allowing sellers to interpret a customer’s silence, or failure to take any
+affirmative action, as acceptance of an offer.
+
+      Given the proliferation of negative option plans across economic sectors, the
+Federal Trade Commission (“FTC” or “Commission”) set out to modernize its
+original negative option rule, promulgated in 1973, which covered only one form of
+negative option plan. See Regulations Pertaining to the Use of Negative Option
+Plans, 38 Fed. Reg. 4896 (Feb. 22, 1973) (to be codified at 16 C.F.R. pt. 425) (the
+“1973 Rule”). In 2023, the Commission proposed extending the scope of the 1973
+Rule to cover “all forms of negative option marketing in all media.” Negative Option
+Rule, 88 Fed. Reg. 24716, 24716 (proposed Apr. 24, 2023) (to be codified at
+16 C.F.R. pt. 425). In October 2024, the FTC amended the 1973 Rule by a 3-2 vote,
+
+                                         -5-
+adding provisions that bar sellers from misrepresenting material facts and require
+disclosure of material terms, express consumer consent, and a simple cancellation
+mechanism. 16 C.F.R. § 425 (the “Rule” or “final Rule”).
+
+       Various industry associations and individual businesses (“Petitioners”) sought
+review of the Rule in four federal circuit courts on the grounds that the FTC exceeded
+the scope of its statutory authority in promulgating the Rule, failed to satisfy a
+procedural requirement by declining to conduct a preliminary regulatory analysis
+during the rulemaking process, and acted arbitrarily and capriciously under the
+Administrative Procedure Act (“APA”) in issuing a rule of this scope. The Judicial
+Panel on Multidistrict Litigation consolidated the petitions for review in this court.
+Concluding that the Commission failed to follow procedural requirements under § 22
+of the Federal Trade Commission Act (“FTC Act”), 15 U.S.C. § 57b-3(b)(1), we grant
+the petitions for review and vacate the Rule.
+
+                                    I. Background
+
+        A. Statutory Framework. We begin by reviewing the relevant provisions of
+the FTC Act. Section 5 empowers the Commission to “prevent . . . unfair or
+deceptive acts or practices in or affecting commerce.” 15 U.S.C. § 45(a). The
+Commission carries out this mandate through its own administrative proceedings,
+litigation in federal district courts, and rulemaking. Section 5 lays out the process for
+enforcement through administrative proceedings. If the Commission has “reason to
+believe” a party “has been or is using any unfair method of competition or unfair or
+deceptive act or practice,” it can initiate a proceeding before an Administrative Law
+Judge (“ALJ”), who after a hearing can order a party to cease and desist from its
+unlawful conduct. Id. § 45(b). The party ordered to cease and desist can seek review
+before the Commission and then a court of appeals. Id. § 45(b)-(c). Section 5(l)
+authorizes district courts to award civil penalties to the United States for violations
+of cease-and-desist orders, and district courts can “grant mandatory injunctions and
+
+                                          -6-
+such other and further equitable relief as they deem appropriate in the enforcement
+of such final orders of the Commission.” Id. § 45(l). Alternatively, before a cease-
+and-desist order is issued, the Commission can go directly to a district court to obtain
+a temporary restraining order or preliminary injunction, and “in proper cases,” a
+permanent injunction. Id. § 53(b).
+
+       The Commission’s formal rulemaking authority is found in § 18 of the FTC
+Act. Section 18 authorizes the Commission to adopt “rules which define with
+specificity acts or practices which are unfair or deceptive acts or practices in or
+affecting commerce” within the meaning of § 5, as well as “requirements prescribed
+for the purpose of preventing such acts or practices.” 15 U.S.C. § 57a(a)(1)(B)
+(emphasis added). Once a rule is promulgated, the Commission can enforce it
+directly against a regulated party by commencing an action in district court seeking
+civil penalties. Id. § 45(m)(1)(A). The FTC can also seek injunctive relief pursuant
+to § 53(b) and monetary redress for injured consumers. See id. § 57b(a)-(b). In
+addition to the “specificity” requirement, § 18 provides that the Commission can issue
+proposed rules “only where it has reason to believe that the unfair or deceptive acts
+or practices which are the subject of the proposed rulemaking are prevalent.” Id.
+§ 57a(b)(3) (emphasis added).
+
+        Besides the specificity and prevalence requirements, § 18 requires a number
+of procedural steps, some of which go beyond those required for APA notice-and-
+comment rulemaking. The FTC must first publish an “advance notice of proposed
+rulemaking” containing “a brief description of the area of inquiry under
+consideration, the objectives which the Commission seeks to achieve, and possible
+regulatory alternatives under consideration.” 15 U.S.C. § 57a(b)(2)(A). Also
+required is a notice of proposed rulemaking “stating with particularity the text of the
+rule, including any alternatives, which the Commission proposes to promulgate, and
+the reason for the proposed rule.” Id. § 57a(b)(1)(A). Interested parties must be
+
+
+
+                                          -7-
+afforded the opportunity for “an informal hearing” and to “to submit written data,
+views, and arguments” on the proposed rule. Id. § 57a(b)(1)(B)-(C), (c).
+
+       Congress further required the Commission to conduct regulatory analyses of
+proposed and final rules, or amendments to rules, at two stages of the rulemaking
+process. First, when the Commission publishes a notice of proposed rulemaking, it
+also must issue a “preliminary regulatory analysis” containing “a description of any
+reasonable alternatives to the proposed rule which may accomplish the stated
+objective of the rule” and for the proposed rule and each alternative, “a preliminary
+analysis of the projected benefits and any adverse economic effects and any other
+effects, and of the effectiveness of the proposed rule and each alternative in meeting
+the stated objectives of the proposed rule.” 15 U.S.C. § 57b-3(b)(1)(B)-(C).
+
+       Second, the Commission must issue a “final regulatory analysis” when it
+promulgates a final rule. 15 U.S.C. § 57b-3(b)(2). Similar to the preliminary
+regulatory analysis, the final regulatory analysis must include a description of
+alternatives considered by the Commission and an analysis of projected benefits and
+adverse economic and other effects. The Commission must also provide “an
+explanation of the reasons for the determination of the Commission that the final rule
+will attain its objectives” and a “summary of any significant issues raised by the
+comments submitted . . . in response to the preliminary regulatory analysis.” Id.
+§ 57b-3(b)(2)(B)-(E). Importantly, the preliminary and final regulatory analysis
+requirements do not apply to “any amendment to a rule” unless the FTC estimates that
+the amendment “will have an annual effect on the national economy of $100,000,000
+or more.” Id. § 57b-3(a)(1)(A).
+
+      B. The Rulemaking Process. The 1973 Rule covered only one type of
+negative option strategy, so-called prenotification plans, through which sellers
+provide periodic notices offering goods to consumers and then send and charge for
+those goods if the consumer does not decline the offer. The periodic notices and
+
+                                         -8-
+shipments can continue indefinitely. Once popular book-of-the-month clubs typify
+this type of negative option plan. Negative Option Rule, 89 Fed. Reg. 90476, 90476-
+77 (Nov. 15, 2024) (to be codified at 16 C.F.R. pt. 425). The 1973 Rule required
+sellers to clearly and conspicuously disclose seven categories of material terms:
+(i) how subscribers must notify the seller to indicate they do not want to make a
+purchase; (ii) any minimum purchase obligations; (iii) the subscriber’s right to cancel;
+(iv) whether billing charges include postage and handling; (v) disclosure confirming
+subscribers have ten days to mail a rejection; (vi) disclosure that the seller will credit
+the return of the selection if the subscriber did not have ten day to reject the selection;
+and (vii) the frequency with which announcements and forms would be sent.
+16 C.F.R. § 425.1(a)(1)(i)-(vii) (1974). Sellers were also required to disclose the
+specific periods during which they would send introductory merchandise, provide
+instructions for rejecting merchandise, and promptly honor cancellation requests. Id.
+§ 425.1(a)(2)-(3), (b).
+
+      The Commission’s effort to modernize the 1973 Rule began in 2019 with an
+advance notice of proposed rulemaking (the “ANPRM”), which posed a series of
+general questions about the 1973 Rule and current negative option practices. These
+included whether there was “a continuing need for the [1973] Rule as currently
+promulgated,” what modifications the Commission should make to increase benefits
+to consumers, and whether there are “potentially unfair or deceptive practices
+concerning the marketing of negative option plans, not covered by the [1973] Rule,
+occurring in the marketplace.” Rule Concerning the Use of Prenotification Negative
+Option Plans, 84 Fed. Reg. 52393, 52397 (Oct. 2, 2019).
+
+       The ANPRM identified three other variants of negative option programs not
+covered by the 1973 Rule. The first is continuity plans, under which consumers agree
+in advance to periodic shipments of goods or provision of services, to continue until
+the consumer cancels the agreement. A bottled water delivery service exemplifies
+this type of agreement. The second is automatic renewal plans. As the name
+
+                                           -9-
+suggests, sellers, like magazine publishers, automatically renew customers’
+subscriptions when they expire unless the customer takes the affirmative step of
+cancelling the subscription. The third is free-to-pay plans, in which consumers
+receive free goods or services (or pay only a nominal fee), typically for a free trial
+period, and are automatically charged a fee at the end of that period unless they
+affirmatively cancel or return the goods to the seller. Rule Concerning the Use of
+Prenotification Negative Option Plans, 84 Fed. Reg at 52394. Because the 1973 Rule
+“does not reach most modern negative option marketing” and “[t]he existing
+patchwork of laws and regulations does not provide industry and consumers with a
+consistent legal framework across different media and types of plans,” the
+Commission sought public comment on how to improve the existing regulatory
+framework. Id. at 52394, 52396.
+
+      The Commission received only seventeen comments in response to the
+ANPRM. After reviewing public comments, the Commission published an
+enforcement policy statement reiterating various principles from FTC guidance and
+case law, as well as statutes addressing recurring subscriptions, like the Restore
+Online Shoppers’ Confidence Act of 2010, 15 U.S.C. § 8403. The policy statement
+emphasized the importance of clear and conspicuous disclosure of material terms
+before purchase, obtaining consumers’ express, informed consent, and marketers’
+honoring cancellation requests and not “erect[ing] unreasonable barriers to
+cancellation.” Enforcement Policy Statement Regarding Negative Option Marketing,
+86 Fed. Reg. 60822, 60823 (Nov. 4, 2021).
+
+       Over three years after the publication of the ANPRM, the Commission issued
+a notice of proposed rulemaking in April 2023 (the “NPRM”) with proposed
+requirements that “would be applicable to all forms of negative option marketing in
+all media.” Negative Option Rule, 88 Fed. Reg. at 24716. Based on evidence
+received in response to the ANPRM, including “complaint data, studies, survey
+results, and law enforcement actions,” the Commission determined that deceptive
+
+                                        -10-
+negative option marketing practices had become prevalent across industries. Id. at
+24725. The NPRM proposed a number of amendments to the 1973 Rule that would
+broaden its scope and introduce new requirements regarding disclosures, advance
+consent, and cancellation mechanisms. Id. at 24726-30.
+
+      As for the preliminary regulatory analysis, the NPRM explained that the
+Commission had “preliminarily determined” that the proposed amendments to the
+1973 Rule would not have the requisite $100 million effect on the national economy
+that would trigger the requirement for that analysis. Compliance with the proposed
+requirements “should not create any substantial added burden” on sellers because
+most already provide some forms of disclosures, consent procedures, and cancellation
+mechanisms to consumers. In addition, the Commission had “sought to minimize
+prescriptive requirements and provide flexibility to sellers.” It therefore declined to
+provide a preliminary regulatory analysis. Negative Option Rule, 88 Fed. Reg. at
+24731.
+
+        In January and February 2024, the Commission held informal hearing sessions
+before an ALJ to resolve disputed issues of material fact about costs of the proposed
+rule. Five interested parties and the FTC Bureau of Consumer Protection appeared
+at the hearing sessions and offered submissions and experts reports on the costs of the
+proposed rule. Based on the FTC’s estimate that 106,000 entities currently offer
+negative option features and estimated average hourly rates for professionals such as
+lawyers, website developers, and data scientists whose services would be required by
+many businesses to comply with the new requirements, the ALJ observed that unless
+each business used fewer than twenty-three hours of professional services at the
+lowest end of the spectrum of estimated hourly rates, the Rule’s compliance costs
+would exceed $100 million. Such an estimate was “clearly unrealistically low
+inasmuch as there are several new requirements proposed that would require changes
+in existing practices and/or disclosure forms.” The Internet and Television
+Association, which appeared before the ALJ, submitted an estimate that achieving
+
+                                         -11-
+compliance with the proposed rule would cost major cable operators alone between
+$12 and $25 million per company. Negative Option Rule, Project No. P064202 (Apr.
+12, 2024) (Recommended Decision).
+
+       Weighing the estimated costs and benefits to consumers, the ALJ found that
+the proposed rule would have an annual effect on the national economy surpassing
+the $100 million threshold. The ALJ noted that even though it was “conceivable that
+the practices of almost all businesses that would be affected by the proposed Negative
+Option Rule amendments already comply with the proposal, this would be
+inconsistent with the widespread problems and abuses that the NPRM describes.” Id.
+After the ALJ’s decision, the Commission did not issue a preliminary regulatory
+analysis. Instead, it proceeded to finalize the Rule.
+
+       The Commission issued the final Rule by a 3-2 vote on November 15, 2024,
+imposing new requirements “related to any form of negative option program in any
+media.” 16 C.F.R. § 425.1. First, the Rule bars sellers from misrepresenting “any
+[m]aterial fact,” including but not limited to cost, negative option feature terms, and
+other information about the underlying good or service. Id. § 425.3. Second, the
+Rule requires “[c]lear and [c]onspicuous” disclosure, “immediately adjacent” to the
+means of recording the consumer’s consent to the recurring subscription, of all
+material terms, “regardless of whether those terms directly relate to the Negative
+Option Feature.” Id. § 425.4(a), (b)(1)-(2). Third, the Rule requires sellers to obtain
+the consumer’s “unambiguously affirmative consent to the Negative Option Feature
+separately from any other portion of the transaction.” Id. § 425.5(a)(1). Fourth, the
+Rule introduces an “equal dignities” requirement for cancellation of negative option
+contracts. Sellers must provide “a simple mechanism” for cancellation that allows
+consumers to immediately stop all recurring charges and is “at least as easy to use as
+the mechanism the consumer used to consent” to the subscription initially. Id.
+§ 425.6(a)-(b). Acknowledging the ALJ’s finding that the Rule would have an annual
+effect on the national economy of $100 million or more, the Commission issued a
+
+                                         -12-
+final regulatory analysis in conjunction with the final Rule as required by § 22 of the
+FTC Act, 15 U.S.C. § 57b-3(b)(2). Negative Option Rule, 89 Fed. Reg. at 90517-34.
+
+      FTC Commissioner Holyoak and now-Chairman Ferguson dissented.
+Questioning the majority’s “race to cross the finish line,” Commissioner Holyoak
+argued that the Rule was much broader than the “area of inquiry” proposed by the
+ANPRM; it failed to satisfy § 18’s specificity requirement by “improperly
+generalizing from narrow industry-specific complaints and evidence to the entire
+American economy”; and the Commission did not demonstrate that unfair or
+deceptive negative option practices are actually “prevalent.” She also warned that the
+breadth of the Rule “incentivizes companies to avoid negative option features that
+honest businesses and consumers find valuable” and characterized the Rule as “a
+missed opportunity to make useful amendments to the preexisting negative option
+rule within the scope of the Commission’s authority.” Negative Option Rule, 89 Fed.
+Reg. at 90540.
+
+       C. Petitioners’ Challenges. Petitioners filed petitions for review shortly after
+the Rule was issued in four circuit courts of appeals, which have jurisdiction to
+review FTC rules pursuant to 15 U.S.C. § 57a(e)(1)(A). The Commission transmitted
+the petitions to the Judicial Panel on Multidistrict Litigation, which, by means of
+random selection, designated this court as the one in which to consolidate the
+petitions. 28 U.S.C. § 2112(a).
+
+       Petitioners challenge the Rule on three grounds and request that the court
+vacate the Rule in its entirety. First, they argue the Rule exceeds the scope of the
+FTC’s statutory authority under § 18 of the FTC Act because it does not satisfy the
+specificity and prevalence requirements. In Petitioners’ view, this “one-size-fits-all
+regulation of all recurring subscriptions everywhere” using general requirements such
+as disclosure of “any [m]aterial fact” and “easy” cancellation mechanisms is far from
+specific. And the Commission did not provide sufficient evidence regarding the
+
+                                         -13-
+existence of unfair or deceptive recurring subscriptions practices across industries to
+demonstrate prevalence. Congress would also not have authorized a Rule of this
+breadth when it already has passed legislation addressing specific recurring
+subscription practices and classes in specific industries. The Commission responds
+that the Rule satisfies the specificity requirement because it targets clearly defined
+types of contracts and particular unfair or deceptive acts or practices. In addition,
+nothing in § 18 precludes the Commission from regulating across industries; the FTC
+can reach conduct “in or affecting commerce.” 15 U.S.C. § 57a(a)(1)(B). As for the
+prevalence requirement, the Commission states that the Rule is based on “copious
+evidence” of unfair and deceptive negative options practices, including dozens of
+enforcement actions, consumer complaints, economic studies, and comments from
+industry and consumer groups.
+
+        Second, Petitioners contend the Rule must be set aside because the
+Commission never issued the statutorily required preliminary regulatory analysis, and
+reviewing courts “may set aside such rule if the Commission has failed entirely to
+prepare a regulatory analysis.” 15 U.S.C. § 57b-3(c)(1). The Commission responds
+that it was not required to prepare that analysis because its initial estimate of the
+annual economic impact did not surpass the statutory threshold of $100 million, and
+the FTC Act did not require the Commission to conduct the preliminary regulatory
+analysis later in the rulemaking process after the informal hearing. In addition, any
+alleged error was harmless because the NPRM addressed alternatives to the proposed
+amendments to the 1973 Rule and analyzed recordkeeping and compliance costs.
+
+       Third, Petitioners argue that the Rule is arbitrary and capricious under the
+APA, see 15 U.S.C. § 57a(e)(3) (incorporating 5 U.S.C. § 706(2)), because it is
+overbroad and creates unworkable, sometimes impossible-to-meet standards for
+sellers by treating all recurring subscriptions the same. The Commission takes the
+position that the Rule was appropriately tailored to prevent specific unfair and
+
+
+
+                                         -14-
+deceptive practices, and the need for its chosen approach was supported by
+substantial evidence.
+
+      The Commission originally set a compliance date of May 14, 2025, for all
+regulated entities. This court denied Petitioners’ motion for a stay of the Rule
+pending judicial review. On May 9, the Commission opted to defer the compliance
+deadline until July 14, 2025, exercising its “enforcement discretion” to “ensure ample
+time for companies to conform their conduct to the Rule.” FTC, Statement of the
+Commission Regarding the Negative Option Rule, Matter No. P064202 (May 9,
+2025).
+
+                                      II. Discussion
+
+       Section 18 of the FTC Act provides that reviewing courts “shall hold unlawful
+and set aside the rule on any ground specified in subparagraphs (A), (B), (C), or (D)
+of section 706(2) of [the APA].” 15 U.S.C. § 57a(e)(3). Those incorporated
+provisions of APA § 706(2) authorize courts to set aside agency action that is
+“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with
+law”; “contrary to constitutional right, power, privilege, or immunity”; “in excess of
+statutory jurisdiction, authority, or limitations, or short of statutory right”; or “without
+observance of procedure required by law.” 5 U.S.C. § 706(2)(A)-(D). “If a petitioner
+challenges the agency’s compliance with the [APA’s] procedural requirements, then
+de novo review is required because compliance is not a matter that Congress has
+committed to the agency’s discretion.” Citizens Telecomms. Co. of Minn., LLC v.
+FCC, 901 F.3d 991, 1001 (8th Cir. 2018) (quotation omitted). We begin with
+Petitioners’ procedural challenge based on the Commission’s failure to provide a
+preliminary regulatory analysis.
+
+      A. The Preliminary Regulatory Analysis Requirement. In issuing the Rule,
+the Commission acknowledged the ALJ’s finding that the Rule’s annual effect on the
+
+                                           -15-
+national economy would exceed $100 million: “Although the Commission
+preliminarily determined the proposed amendments to the Rule would not have such
+effects on the national economy . . . [u]ltimately, the presiding officer determined . . .
+the proposed amendments would have such effect.” Negative Option Rule, 89 Fed.
+Reg. at 90517. Rather than conducting the preliminary regulatory analysis, the
+Commission proceeded to issue only the final regulatory analysis alongside the final
+Rule.
+
+       The plain text of the FTC Act explains when a regulatory analysis is required
+and to what extent it is subject to judicial review. Section 22 states that “[i]n any case
+in which the Commission publishes notice of a proposed rulemaking, the Commission
+shall issue a preliminary regulatory analysis relating to the proposed rule involved.”
+15 U.S.C. § 57b-3(b)(1). As previously noted, the scope of this requirement is limited
+by the exclusion from the definition of “rule” amendments with an estimated annual
+economic effect under $100 million. Id. § 57b-3(a)(1)(A). In addition, § 22 limits
+the scope of judicial review of the substance of the preliminary and final regulatory
+analyses when they are required: “The contents and adequacy of any regulatory
+analysis prepared or issued by the Commission under this section, including the
+adequacy of any procedure involved in such preparation or issuance, shall not be
+subject to any judicial review in any court.” Id. § 57b-3(c)(1). This circumscribed
+judicial review provision, however, contains an exception -- “a court . . . may set
+aside such rule if the Commission has failed entirely to prepare a regulatory analysis.”
+Id.
+
+       Despite this exception and the Commission’s acknowledged failure to prepare
+a preliminary regulatory analysis, the FTC argues on appeal that “nothing in the FTC
+Act requires a preliminary regulatory analysis at that late stage” of rulemaking. The
+Commission points out that the ALJ issued her decision on the costs of the Rule one
+year after the NPRM, contending that the statute did not require the Commission to
+
+
+
+                                          -16-
+conduct a preliminary analysis just six months before the Rule was ultimately
+promulgated to account for its initial underestimate.
+
+      But the statutory language, “shall issue,” mandates a separate preliminary
+analysis for public review and comment “in any case” where the Commission issues
+a notice of proposed rulemaking and the $100 million threshold is surpassed.
+15 U.S.C. § 57b-3(b)(1). We do not read § 22 to require the Commission to issue the
+preliminary regulatory analysis contemporaneously with the notice of proposed
+rulemaking. While that is the typical order of operations, deviating from this
+sequence of events is not statutorily prohibited. Likewise, § 22 does not excuse the
+Commission from having to prepare the analysis in the event that its initial economic
+estimate is later deemed inaccurate. After the ALJ’s decision, the Commission could
+have reissued the NPRM with the required preliminary analysis. It is not uncommon
+for administrative agencies, including the FTC, to issue supplemental notices of
+proposed rulemaking as the scope of a proposed rule changes in response to
+comments or to ensure statutory compliance. See, e.g., Business Opportunity Rule,
+76 Fed. Reg. 76816, 76818-19 (Dec. 8, 2011) (to be codified at 16 C.F.R. pt. 437);
+Regulations Under the Fur Products Labeling Act, 79 Fed. Reg. 30445, 30447 (May
+28, 2014) (to be codified at 16 C.F.R. pt. 301).
+
+        The final regulatory analysis provision also supports Petitioners’ view that the
+Commission was not excused from issuing the preliminary regulatory analysis.
+Section 22 requires, as a component of the final regulatory analysis, “a summary of
+any significant issues raised by the comments submitted during the public comment
+period in response to the preliminary regulatory analysis, and a summary of the
+assessment by the Commission of such issues.” 15 U.S.C. § 57b-3(b)(2)(E). The fact
+that Congress requires the Commission to consider issues raised in the preliminary
+analysis at this later stage of rulemaking suggests that a preliminary analysis would
+still have been required, even if well after the NPRM. Without it, the Commission
+
+
+
+                                         -17-
+cannot provide any responses to comments on its earlier analysis in the final
+regulatory analysis.
+
+       The Commission emphasizes that § 22 directs it to address comments from “the
+public comment period” responding to the preliminary regulatory analysis and that
+the only statutorily required public comment periods follow the advance notice of
+proposed rulemaking and notice of proposed rulemaking. But § 22’s reference to
+“public comment period” is not specifically tied to or limited by any procedural
+requirements of § 18 or the APA. And if no preliminary regulatory analysis is issued,
+it is impossible for interested parties to submit comments “in response to the
+preliminary regulatory analysis.” The Commission’s interpretation allows it to
+sidestep the requirement that the final regulatory analysis respond to comments
+responding to the preliminary regulatory analysis by simply not publishing a
+preliminary analysis and cutting off the ability of regulated parties to respond to the
+preliminary analysis in the first place. We conclude that § 22 required the
+Commission to issue a preliminary regulatory analysis after the ALJ found the Rule
+would meet the $100 million economic impact threshold, even though the
+Commission initially estimated it would not.
+
+       B. Harmless Error. Even if a preliminary regulatory analysis was required,
+the Commission responds that any procedural error committed in not preparing one
+was ultimately harmless. The APA instructs reviewing courts to take “due
+account . . . of the rule of prejudicial error.” 5 U.S.C. § 706. Section 18 of the FTC
+Act incorporates this APA provision. 15 U.S.C. § 57a(e)(3). APA § 706 creates “the
+same kind of ‘harmless-error’ rule that courts ordinarily apply in civil cases” and
+“seeks to prevent appellate courts from becoming impregnable citadels of
+technicality.” Shinseki v. Sanders, 556 U.S. 396, 406-07 (2009) (quotation omitted).
+“[T]he burden of showing that an error is harmful normally falls upon the party
+attacking the agency’s determination.” Id. at 409. Petitioners have met that burden.
+
+
+
+                                         -18-
+       When required, a preliminary regulatory analysis must include a description of
+reasonable alternatives to the proposed rule, a cost-benefit analysis of each
+alternative, and an assessment of the effectiveness of the proposed rule and each
+alternative in achieving the Commission’s stated objectives in promulgating the rule.
+15 U.S.C. § 57b-3(b). Petitioners claim that they suffered prejudice because the
+Commission never provided this analysis of alternatives to the Rule or addressed
+comments explaining how less burdensome alternatives could provide comparable
+benefits. Petitioners could have attempted to show the Commission that their
+industries do not engage in the allegedly prevalent unfair and deceptive practices the
+Rule sought to root out.
+
+       The Commission suggests that Petitioners actually did have the opportunities
+for comment they claim to have been deprived of. The NPRM sought comment on
+“several alternatives” and analyzed recordkeeping and compliance costs associated
+with the proposed rule. Negative Option Rule, 88 Fed. Reg. at 24732-34. And during
+the informal hearing process before the ALJ, interested parties submitted their own
+briefs and expert reports addressing the Rule’s costs and benefits, which the
+Commission considered in promulgating the final Rule. In the Commission’s view,
+“tweaks to the cost-benefit analysis would not have made any difference when the
+low-end assessment of the Rule’s benefits is seven times greater than the high-end
+assessment of its costs,” citing the Commission’s final regulatory analysis estimates.
+See Negative Option Rule, 89 Fed. Reg. at 90519.
+
+       In Citizens Telecommunications, we considered the Federal Communications
+Commission’s (“FCC”) failure to provide adequate notice that it was completely
+ending ex ante regulation of one type of communications line, despite stating in its
+notice of proposed rulemaking that it sought to regulate both types of services at issue
+the same way. The FCC never proposed “complete deregulation” or requested public
+comment on treating the two services differently, which “did not allow for informed
+participation by interested parties in that portion of the rulemaking.” Citizens
+
+                                         -19-
+Telecomms., 901 F.3d at 1004-05. The early release of a draft of the final rule three
+weeks before it was adopted was insufficient to cure the harm from inadequate notice.
+Id. at 1005. In addition, even though commenters in prior submissions to the
+administrative record may have already addressed “everything that needed to be said”
+regarding the regulated transport services, in assessing whether the regulated entities
+challenging the final rule had suffered prejudice, we explained that “the law regarding
+prejudice under the APA ensures procedural integrity. Losing the opportunity to
+dissuade an agency from adopting a particular rule is prejudicial.” Id. at 1006.
+
+       Citizens Telecommunications does not authorize us to presume prejudice based
+on the loss of any opportunity to respond to an agency’s rulemaking process, as
+Petitioners suggested at oral argument; the APA’s harmless error provision would be
+rendered meaningless otherwise. But Petitioners “do not have a high burden in
+demonstrating prejudice in notice-and-comment cases. In general, an utter failure to
+comply with notice and comment cannot be considered harmless if there is any
+uncertainty at all as to the effect of that failure.” Am. Pub. Gas Ass’n v. United States
+Dep’t of Energy, 72 F.4th 1324, 1338 (D.C. Cir. 2023) (quotations and citation
+omitted).
+
+       Applying these principles, we agree with Petitioners that they lost a notable
+opportunity to dissuade the FTC from adopting the Rule as proposed in the NPRM.
+The NPRM’s discussion of “significant alternatives,” which the Commission argues
+provided Petitioners an opportunity to convince the FTC to change course, referenced
+only “provisions related to consent requirements (additional consent for free trials)
+and reminder requirements (narrowing the scope of product types requiring
+reminders).” Negative Option Rule, 88 Fed. Reg. at 24732-33. Neither the informal
+hearing nor the final regulatory analysis made up for the lack of discussion of
+alternatives and Petitioners’ inability to engage with the Commission’s cost-benefit
+estimates at an earlier stage of rulemaking.
+
+
+
+                                          -20-
+       The informal hearing addressed the Rule’s annual effect on the national
+economy and the Rule’s recordkeeping and disclosure costs but not the costs and
+benefits of any alternatives. By the time the final regulatory analysis was issued,
+Petitioners still did not have the opportunity to assess the Commission’s cost-benefit
+analysis of alternatives, an element of the preliminary regulatory analysis not required
+in the final analysis. See 15 U.S.C. § 57b-3(b)(1)-(2). And the Commission’s
+discussion of alternatives in the final regulatory analysis was perfunctory. It briefly
+mentioned two alternatives to the final Rule, either terminating the rulemaking
+altogether and continuing to rely on the existing regulatory framework or limiting the
+Rule’s scope to negative option plans marketed in-person or through the mail.
+Negative Option Rule, 89 Fed. Reg. at 90518. While the Commission’s decision to
+bypass the preliminary regulatory analysis requirement was certainly not made in bad
+faith or an “outright dodge of APA procedures,” Petitioners have raised “enough
+uncertainty whether [their] comments would have had some effect if they had been
+considered,” especially in the context of a closely divided Commission vote that
+elicited a lengthy dissenting statement. Chamber of Com. of U.S. v. SEC, 443 F.3d
+890, 904 (D.C. Cir. 2006) (cleaned up).
+
+      The Fifth Circuit’s recent decision in National Automobile Dealers Ass’n v.
+FTC provides additional support for Petitioners’ claim of prejudice. 127 F.4th 549
+(5th Cir. 2025). There, automobile dealers associations sought review of the
+Commission’s rule, Combating Auto Retail Scams Trade Regulation, targeting dealer
+misrepresentations like “bait-and-switch tactics” and “hidden or junk fees.” Id. at
+554. Invoking a provision of the Dodd-Frank Act that relaxes the required statutory
+procedures for FTC rulemaking, the Commission promulgated the rule without first
+issuing an advance notice of proposed rulemaking. The court vacated the rule,
+concluding that the Commission’s rulemaking authority actually derived from
+§ 18(a)(1)(B) of the FTC Act and its failure to publish an advance notice of proposed
+rulemaking, required under that section, was sufficiently prejudicial. Id. at 553, 556,
+560-61.
+
+                                         -21-
+       Even though the petitioners in National Automobile Dealers “took full
+advantage of every opportunity to participate” in the rulemaking process, “there [was]
+reason to believe that petitioners would have used the advanced notice to participate
+earlier and more extensively than they were otherwise able to.” 127 F.4th at 560.
+That reasoning applies to Petitioners here as well. The opportunity to be heard earlier
+on in the rulemaking process may well have impacted the Commission’s decision-
+making on the scope of the final Rule and on whether alternatives, which would have
+received more substantive consideration by the Commission and regulated entities,
+were indeed viable. Petitioners have shown that “it is far from clear that the failure
+to issue a[] [preliminary regulatory analysis] had no bearing on the procedure used
+or the substance of decision reached.” Id. at 561 (quotation omitted).
+
+       Excusing the Commission’s noncompliance with § 22 could open the door to
+future manipulation of the rulemaking process. Furnishing an initially unrealistically
+low estimate of the economic impacts of a proposed rule would avail the Commission
+of a procedural shortcut that limits the need for additional public engagement and
+more substantive analysis of the potential effects of the rule on the front end. More
+fundamentally, the Commission has attempted to import § 5’s general standards
+prohibiting unfair or deceptive acts or practices into § 18’s more circumscribed
+rulemaking process. This would allow the FTC to commence civil actions for
+monetary penalties directly against regulated entities, rather than following the
+administrative cease-and-desist process (with potential judicial review) laid out in
+§ 5. Although this is important context for Petitioners’ arguments about the
+Commission’s compliance with the specificity and prevalence requirements in § 18,
+because we hold the Commission’s rulemaking process was procedurally insufficient
+and Petitioners demonstrated prejudicial error, we need not address Petitioners’ other
+substantive challenges to the Rule.
+
+      C. Remedy. Section 18 of the FTC Act directs that a reviewing court “shall
+hold unlawful and set aside the rule” if it finds agency action to be “without
+
+                                         -22-
+observance of procedure required by law.” 15 U.S.C. § 57a(e)(3); 5 U.S.C.
+§ 706(2)(D). “The ordinary practice is to vacate unlawful agency action.” United
+Steel v. Mine Safety & Health Admin., 925 F.3d 1279, 1287 (D.C. Cir. 2019).
+Nevertheless, “the decision whether to vacate depends on the seriousness of the
+order’s deficiencies (and thus the extent of doubt whether the agency chose correctly)
+and the disruptive consequences of an interim change that may itself be changed.”
+Sugar Cane Growers Co-op. of Fla. v. Veneman, 289 F.3d 89, 98 (D.C. Cir. 2002)
+(cleaned up).
+
+       While we certainly do not endorse the use of unfair and deceptive practices in
+negative option marketing, the procedural deficiencies of the Commission’s
+rulemaking process are fatal here. The Rule does contain a severability provision
+which keeps the remaining provisions in effect if any provisions are stayed or
+determined to be invalid. 16 C.F.R. § 425.9. But vacatur of the entire Rule is
+appropriate in this case because of the prejudice suffered by Petitioners as a result of
+the Commission’s procedural error. Given the breadth of the Rule’s coverage, the
+party-specific vacatur requested by the Commission is not feasible. Accordingly, we
+grant the petitions for review and vacate the Rule.
+                         ______________________________
+
+
+
+
+                                         -23-
+

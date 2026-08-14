@@ -132,11 +132,45 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   page's `article:published_time`); a stray `<time>` element reading February 13 is unsupported and
   unexplained. The site therefore names the policy by year only. See ledger claim 43a.
 
-  **Retrieval, because it cost real effort.** `ftc.gov` returns HTTP 403 to plain fetches and to the
-  PDF, and the block is **TLS-fingerprint based, not User-Agent based**: adding a browser User-Agent
-  and a Referer to `curl` does not defeat it. A real browser reaches both. Chrome's PDF viewer then
-  ignores injected scroll and keyboard input, so the file has to be downloaded and extracted
-  locally. Budget for that on any future `ftc.gov` source.
+  **Retrieval, corrected 2026-08-14.** `ftc.gov` gates on **User-Agent**: a default `curl` UA gets
+  403, a browser UA gets 200, verified five times in a row including with the exact header
+  combination that had failed earlier. An earlier version of this note said the block was
+  TLS-fingerprint based and that a browser User-Agent would not defeat it. **That was wrong**,
+  generalised from a single 403 that was probably transient rate-limiting.
+
+  **The blocked-looking domains in this folder do not behave alike, so do not carry one rule across
+  them.** `ftc.gov` gates on User-Agent. `nmdoj.gov` returns 403 to `curl` whatever the User-Agent
+  and needs a real browser. `courtlistener.com` does not block `curl` at all; the 403s seen there
+  came from the sandboxed fetcher, not from the domain. `ecf.ca8.uscourts.gov` serves opinion PDFs
+  to plain `curl` with no UA games at all. **Test the specific host before concluding anything about
+  it**, and prefer reporting the status code you actually saw over naming a mechanism.
+
+  Separately, and still true: Chrome's PDF viewer ignores injected scroll and keyboard input, so a
+  PDF opened there has to be downloaded to be read past the first page.
+- `ca8-2025-07-08-custom-communications-v-ftc.txt`: *Custom Communications, Inc. v. FTC*, Nos.
+  24-3137 et al. (8th Cir., July 8, 2025), the decision vacating the FTC's 2024 Negative Option
+  Rule (click-to-cancel). Retrieved 2026-08-14 from the court's own server,
+  `ecf.ca8.uscourts.gov`, which serves opinion PDFs to plain `curl` with no User-Agent condition.
+  Clean extraction. This is the only adjudicated decision in the FTC ledger, and what it decided
+  was procedural.
+- `ftc-2023-06-21-amazon-prime-complaint.txt`, `ftc-2025-09-25-amazon-prime-stipulated-order.txt`
+  and `ftc-2022-epic-games-complaint.txt`: the three FTC matters behind
+  `ftc-control-integrity.md`. Retrieved 2026-08-14 from ftc.gov with a browser User-Agent. **Read
+  the headers before quoting any of them**, for three reasons that are easy to get wrong:
+
+  1. **A complaint is an allegation.** "The FTC alleged" is supportable; "the company did" is not.
+     The Amazon matter ended in a **stipulated** order, which is an agreement and adjudicates
+     nothing. Epic is an FTC **administrative** matter, not a court case.
+  2. **The Amazon paragraph numbers differ between complaints.** The cached original (filed
+     2023-06-21) and the amended complaint of 2023-09-20 are offset by 14: the End Membership
+     allegation is 119 in the original and 133 in the amended. Cite which one.
+  3. **Line numbers are inside the text.** US court filings carry a line number in the left margin
+     of every line and `pdftotext` keeps it, so collapsing whitespace injects it mid-sentence
+     ("devices other than 11 computers and smartphones"). A span crossing a line boundary then
+     fails against a perfectly faithful cache. `check-quotes` strips these as normalization 5,
+     anchored to line starts. **This produced a false "absent from both complaints" on the single
+     best quote in the Amazon record before it was caught**, which is the same shape as every other
+     failure recorded in this folder: the query was broken, not the corpus.
 - `paxton-2025-06-27-free-speech-coalition-v-paxton.txt`: *Free Speech Coalition, Inc. v. Paxton*,
   No. 23-1122 (U.S. June 27, 2025), the 63-page slip opinion from supremecourt.gov, cached
   2026-08-13. **Cached because the section 7 plan made a claim about this case that reading it
@@ -148,9 +182,9 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   Bits of Freedom v. Meta*, ECLI:NL:RBAMS:2025:7253 and ECLI:NL:GHAMS:2026:594. Retrieved
   2026-08-14 from the Dutch judiciary's open-data API,
   `https://data.rechtspraak.nl/uitspraken/content?id=<ECLI>`, which returns the full body as XML.
-  **These fetched cleanly over plain HTTPS with no blocking**, which makes rechtspraak.nl the least
-  obstructed primary source in this folder; contrast `ftc.gov`, `nmdoj.gov` and CourtListener,
-  which all refuse plain fetches.
+  **These fetched cleanly over plain HTTPS with no blocking.** Do not turn that into a ranking of
+  which domains block fetches; the earlier version of this line did and was wrong on two of three.
+  See the access note under the FTC entry above for what each host actually does.
 
   **THESE ARE THE FIRST NON-ENGLISH SOURCES IN THE CORPUS, AND THEY CHANGE A RULE.** There is no
   official English text. **An English rendering of a Dutch judgment is a translation, not a

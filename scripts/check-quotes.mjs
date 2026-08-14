@@ -94,6 +94,15 @@ const LEDGERS = {
     ],
     sections: ["Quotes"],
   },
+  "ftc-control-integrity": {
+    sources: [
+      "ca8-2025-07-08-custom-communications-v-ftc.txt",
+      "ftc-2023-06-21-amazon-prime-complaint.txt",
+      "ftc-2025-09-25-amazon-prime-stipulated-order.txt",
+      "ftc-2022-epic-games-complaint.txt",
+    ],
+    sections: ["Quotes"],
+  },
   "eu-dsa-proceedings": {
     sources: ["ec-ip-26-312.txt", "ec-ip-26-920.txt", "ec-ip-26-1579.txt", "ec-ip-26-1679.txt"],
     allowlist: "eu-dsa-quote-allowlist.txt",
@@ -116,12 +125,30 @@ const KNOWN_DEVIATIONS = [
 
 const LIGATURES = { "ﬀ": "ff", "ﬁ": "fi", "ﬂ": "fl", "ﬃ": "ffi", "ﬄ": "ffl" };
 
-/** The four normalizations plus whitespace folding. Applied to BOTH sides. */
+/**
+ * The normalizations, plus whitespace folding. Applied to BOTH sides.
+ *
+ * 5 was added 2026-08-14 with the first federal court filings. Complaints filed
+ * in US district courts carry a LINE NUMBER in the left margin of every line,
+ * and `pdftotext -layout` keeps it, so collapsing whitespace injects it into the
+ * middle of the sentence: "devices other than 11 computers and smartphones".
+ * A quoted span that crosses a line boundary then fails against a cache that is
+ * perfectly faithful, which reads as a fidelity defect and is not one. This cost
+ * a false "absent from both complaints" on the single best quote in the Amazon
+ * record before it was spotted.
+ *
+ * The strip is deliberately anchored and narrow: line start, at most 8 spaces of
+ * indent, one or two digits, then at least two spaces. Requiring the double
+ * space is what keeps it from eating real text like a line beginning "15 U.S.C."
+ * It must run BEFORE the whitespace collapse, which is the only reason it can be
+ * anchored to a line start at all.
+ */
 function normalize(s) {
   return s
     .replace(/[ﬀ-ﬄ]/g, (c) => LIGATURES[c]) // 4: ligatures
     .replace(/[‘’‛]/g, "'") // 1: curly apostrophes
     .replace(/[“”]/g, '"') // 1: curly quotes
+    .replace(/^[ \t]{0,8}\d{1,2}[ \t]{2,}/gm, "") // 5: court-filing line numbers
     .replace(/-\s+/g, "-") // 3: GPO hyphenated line wraps
     .replace(/\s+/g, " ")
     .trim();

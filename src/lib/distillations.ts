@@ -61,6 +61,12 @@ export const DISTILLATIONS: DistillationMeta[] = [
     related: { href: "/lawsuits", label: "the lawsuits hub" },
   },
   {
+    slug: "ftc-control-integrity",
+    kind: "regulatory",
+    tierDown: false,
+    related: { href: "/lawsuits", label: "the lawsuits hub" },
+  },
+  {
     slug: "eu-dsa-proceedings",
     kind: "regulatory",
     tierDown: false,

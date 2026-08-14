@@ -1,0 +1,522 @@
+SOURCE CACHE. In the Matter of Epic Games, Inc., FTC Matter 192-3203, administrative
+complaint (dark patterns / unauthorized charges; the $245 million matter, distinct
+from the separate Epic COPPA matter).
+
+Retrieved 2026-08-14 from https://www.ftc.gov/system/files/ftc_gov/pdf/1923203EpicGamesComplaint.pdf
+(browser User-Agent required). pdftotext -layout. Zero doubled pairs, zero ligatures.
+
+POSTURE: this is an FTC ADMINISTRATIVE complaint under Part 3, before the Commission
+itself, not a federal district court action. It is an allegation, resolved by consent
+order. Paragraphs 39 and 40 carry the undo-button degradation and the internal Epic
+email quoted by the FTC; note that the 35% figure is Epic's own words quoted inside
+an FTC allegation, which is two attribution hops from an adjudicated fact.
+
+================================================================================
+
+                                                                                        192-3203
+                         UNITED STATES OF AMERICA
+                    BEFORE THE FEDERAL TRADE COMMISSION
+
+COMMISSIONERS:          Lina M. Khan, Chair
+                        Rebecca Kelly Slaughter
+                        Christine S. Wilson
+                        Alvaro M. Bedoya
+________________________________________________
+In the Matter of
+
+EPIC GAMES, INC., a corporation.
+                                                                   DOCKET NO.
+________________________________________________
+
+                                         COMPLAINT
+
+        The Federal Trade Commission, having reason to believe that Epic Games, Inc., a
+corporation (“Respondent” or “Epic”), has violated the provisions of the Federal Trade
+Commission Act, and it appearing to the Commission that this proceeding is in the public
+interest, alleges:
+
+                                       Summary of Case
+
+        1.      Epic is the developer and distributor of the hit video game Fortnite, which is
+popular among kids. Though Fortnite itself is free to download and play, Epic charges consumers
+for certain in-game items, such as costumes, dance moves, and item-filled piñatas shaped like
+llamas. The problem: in many cases, Epic – employing myriad design tricks known as “dark
+patterns” – has charged consumers for such items without first obtaining their express informed
+consent, and then has banned consumers from accessing previously paid-for content when they
+have disputed unauthorized charges with their credit card providers.
+
+        2.       Millions of consumers have complained to Epic about these unfair practices and
+disputed Epic’s unauthorized charges with their credit card providers. Epic’s own employees
+also have repeatedly raised concerns about these practices and recommended measures to
+address them. Yet despite consumers’ repeated complaints and employees’ concerns, Epic has
+persisted in its unlawful conduct.
+
+                                          Respondent
+
+        3.     Respondent Epic Games, Inc. is a Maryland corporation with its principal office
+or place of business at 620 Crossroads Blvd., Cary, North Carolina 27518.
+
+       4.      Respondent has advertised, marketed, offered for sale, sold, and distributed
+products to consumers, including the video game Fortnite and Fortnite-related digital content.
+
+                                                1
+        5.    The acts and practices of Respondent alleged in this Complaint have been in or
+affecting commerce, as “commerce” is defined in Section 4 of the Federal Trade Commission
+Act.
+
+                                    Epic’s Business Activities
+
+        6.     Epic is the developer of the video game Fortnite, which is available on multiple
+platforms, including Sony PlayStation, Microsoft Xbox, and Nintendo Switch game consoles,
+mobile devices with Google Android, and personal computers (“PCs”) with Windows operating
+systems. Fortnite has previously been available on Apple iOS (mobile devices) and Mac OS
+(PCs) operating systems. Launched in July 2017, Fortnite has more than 400 million registered
+users, many of whom are children or the parents of children who use Fortnite.
+
+       7.     Epic also built and runs the Epic Games Store, an online video game store
+through which it distributes Fortnite and other video games developed by third parties to PC
+users.
+
+       8.      Fortnite is free to download, though Epic also sells a premium version of the
+game that costs money to download.
+
+        9.      At the time of Fortnite’s launch, when consumers first made a purchase through
+Epic – for example, of any video game – Epic saved consumers’ payment information by default
+and used it to bill consumers for future charges, including charges incurred by children while
+playing Fortnite or other games. Many consumers did not realize that Epic had saved their cards.
+
+                      Downloading Fortnite from the Epic Games Store
+
+        10.      Account holders can download Fortnite by visiting the Epic Games Store and
+searching for the game by name or browsing the various categories within the store. At times,
+Fortnite has appeared under the categories “Most Popular” and “Free to Play.” Epic displays
+search results or the contents of a category in rows of icons. Below each icon is the title and price
+of the game. The price listed for Fortnite is “Free.”
+
+       11.     Below is a screenshot of what consumers have seen after clicking on the Fortnite
+icon on a personal computer.
+
+
+
+
+                                                 2
+        12.     Next to a brief description of the game is a yellow “GET” button to initiate
+installation. Above the box, Epic reminds consumers that Fortnite is “Free.”
+
+       13.      If the account holder had scrolled down the page, they could have viewed the full
+game description, the game’s age rating, and other information. At the very bottom of the page,
+and “below the fold” (meaning that the account holder would not have seen it without scrolling
+down), was a small white box containing the game’s age rating. Below the age rating, in tiny
+font, was text stating “In-Game Purchases/Users Interact.” Epic did not provide any further
+information about how or when it seeks account holder authorization for in-game charges. See
+Exhibit 1.
+
+        14.     More than three years after it began billing for in-game charges, Epic began
+including this box nearer the top of the page, but still under the “GET” button. The download
+page still does not explain how or when Epic seeks account holder authorization for in-game
+charges. See Exhibit 2.
+
+       Epic Has Charged Parents and Other Account Holders Without Authorization
+
+      15.   The consumers who create Epic accounts and download Fortnite include parents
+who download Fortnite so that their kids can play the game.
+
+        16.     Once Fortnite has been downloaded, kids can compete against other players in
+head-to-head battles, complete missions and objectives, or develop their own mini-games and
+build custom structures. Kids also can customize a character’s appearance with different outfits,
+emotes (i.e., dance moves), and gliders (collectively, “Cosmetics”), use “Battle Passes” to unlock
+
+
+                                                 3
+additional in-game content (such as missions or Cosmetics), or in the premium version of the
+game, obtain piñatas shaped like llamas that are filled with various items (“Llamas”).
+
+        17.     To obtain Cosmetics, Battle Passes, and Llamas, kids use “V-Bucks.” For more
+than a year after Epic began offering in-app purchases, kids could acquire V-Bucks simply by
+pressing buttons with no parental or card holder action or consent. At that point, Epic
+automatically billed the parents’ stored payment information for the V-Bucks. Epic did not
+require parents to enter a PIN or password to authorize V-bucks purchases, or even allow them to
+enable such a control.
+
+       18.     Epic began and persisted engaging in these practices despite prior public law
+enforcement actions against Amazon, Apple, and Google for failing to obtain parents’ consent to
+charges in kids’ gaming apps. See, e.g., Complaint at 7-8, FTC v. Amazon.com, Inc., No. 2:14-
+cv-01038 (W.D. Wash. July 10, 2014); FTC v. Amazon.com, Inc., No. C14-1038-JCC, 2016 WL
+10654030, at *11 (W.D. Wash. July 22, 2016) (finding Amazon liable under Section 5 of the
+FTC Act); Complaint at 4-5, In re Apple, Inc., No. C-4444 (Mar. 25, 2014); Complaint at 6-7, In
+re Google, Inc., No. C-4499 (Dec. 2, 2014).
+
+        19.     Many parents have been surprised to learn that Epic charged them hundreds of
+dollars for kids’ in-app activities that they did not authorize. For example, one parent complained
+to Epic:
+       Hello Epic Games, The charges associated with this account were made without
+       my authorization. This account is associated with my 10 year old son’s account and
+       I am really disappointed that there is no check and balances that alerted me of these
+       charges, and a 10 year old can purchase coins worth almost $500 so easily.
+
+       20.     Another parent complained about authorizing a one-time purchase, but then
+being billed by Epic for additional charges without consent:
+
+       Epic Games is swindling parents with unauthorized game purchases, tricking young
+       consumers & using shady practices for billing. I authorized a 1-time Epic Games
+       purchase for my 11 yr-old son, only to discover EG did NOT erase my credit card
+       info, & thus my son has been making unauthorized purchases, racking up $140 in
+       less than 8 days after the initial authorized purchase.
+
+      21.     In fact, according to company documents, “Unrecognized and Fraudulent
+Charges” – a category that includes unapproved kid charges – was among the top five reasons
+consumers complained to Epic.
+
+        22.    Epic employees also raised concerns about unauthorized kid charges and
+recommended measures to address them. For example, in June 2018, Epic employees discussed
+plans to give account holders the option not to save their credit card information. As an Epic
+Senior Producer acknowledged, “[m]any people … didn’t even realize it [their credit card] was
+saved.”
+                                                4
+        23.    In reply, Epic’s Fraud and Risk Consultant added that the “goal” of the feature
+was to “mak[e] sure the parent doesn’t have to store the card so we can prevent some of the
+unapproved kid purchases / friendly fraud.” However, Epic did not give consumers the option
+not to have their payment information saved by Epic until October 2018.
+
+        24.     Even then, Epic only added a small checkbox to the checkout page with the small
+print, “Make this a one-time payment. Don’t save my credit card.” If consumers failed to notice
+and check the box prior to completing the transaction, Epic saved their payment information and
+automatically billed them for future purchases. Further, Epic still did not inform account holders
+that Epic would automatically bill their saved credit card for future charges. And it was aware
+that “typically the behavior [was] not to check this box[.]”
+
+        25.     Epic’s Fraud and Risk Consultant also recommended in June 2018 that Epic begin
+requiring account holders with saved credit cards to confirm their CVV numbers before charging
+them. According to his email, “This is standard / best practice and it prevents kids from using
+mom’s credit card without her permission[.]” However, Epic did not begin requiring cardholders
+to re-enter their credit card CVV numbers for most transactions before charging them until
+November 2018. By then, Epic had billed account holders for more than 200 million V-Bucks
+charges (totaling more than $4 billion), many of them unauthorized.
+
+         Epic Has Billed Users for Unauthorized Digital Currency Charges
+
+        26.     In addition to charging parents and other account holders without authorization
+for kids’ in-app activities, Epic has designed its in-game purchase flows in a way that makes it
+easy for users of all ages to incur unwanted charges.
+
+        27.      Take the purchase flow for Cosmetics. Users can browse and view Cosmetic
+items in the Fortnite Item Shop. If a user selects a particular item, Epic presents them with
+various options, including the option to purchase the item, play the dance again, preview
+different outfit styles, or go back to the Item Shop.
+
+        28.     On mobile devices, the button to preview different outfit styles appears directly
+below the button to purchase items, as shown in the screen capture below. To preview styles,
+players must tap the button labeled “PREVIEW STYLES” with their finger. But if in the process
+a player instead taps the adjacent button labeled “PURCHASE,” Epic immediately deducts the
+cost of the item from the player’s V-Bucks balance.
+
+
+
+
+                                                5
+        29.     On video game controllers, the button to purchase items is located immediately
+adjacent to the buttons for other common in-game actions. For example, on the standard
+PlayStation controller (pictured below), the button to purchase an item (‘Square’ or ) is
+located next to the buttons to take other common actions, such as to play a dance move again
+(‘Triangle’ or ), go back to the previous screen (‘Circle’ or ), or preview different outfit
+styles (‘Cross’ or ), all of which are pressed using the same thumb. If while browsing an item
+players accidentally bump the ‘Square’ button with their thumb, Epic immediately deducts the
+price of the item from their V-Bucks balance.
+
+
+
+
+       30.     The button to purchase items on video game consoles is also the same as the
+button associated with other actions that do not result in the user incurring a charge. For
+
+                                               6
+example, the square button is used to change the style of an already purchased outfit in the
+Fortnite Locker. If a player wishes to preview different styles in the Item Shop and uses the same
+button the player would use to change styles in the Locker, Epic immediately deducts the cost of
+the item from the player’s V-Bucks balance.
+
+        31.    In none of the scenarios just described does Epic require users to take any further
+action before charging them, such as asking them to confirm their purchase. By contrast, as
+discussed below, Epic requires users to press and hold a button in order to cancel unwanted
+charges and to confirm their request for a refund.
+
+        32.     Players similarly can incur unwanted charges while browsing Battle Passes. For
+example, on PlayStation consoles, the button to purchase Cosmetics is ‘Square’ and the button to
+preview styles is ‘Cross.’ However, these buttons are inverted for Battle Passes. The button to
+purchase a Battle Pass is ‘Cross’ and the button to get more information is ‘Square.’ Prior to June
+2020, if a user wanted to get more information about a Battle Pass before purchasing it but
+clicked ‘Cross’ instead of ‘Square,’ Epic immediately deducted the cost of the pass from the
+player’s V-Bucks balance. It did not require users to take any further action before charging
+them, such as asking them to confirm the purchase.
+
+        33.     Numerous users have incurred unwanted charges from Epic while browsing items
+in Fortnite. Indeed, as an Epic Player Support representative acknowledged in an email to a
+consumer, “It is very common to make an accidental purchase!”
+
+       34.   Epic has received more than one million complaints from consumers related to
+such unwanted charges. The following complaints are representative:
+
+   •   “We are really disappointed that you are unable to help us as we feel my Sons V Buck
+       accidental spend would have been avoided if your systems had more confirmation steps
+       before buying items. Most other games companies have clear steps before you can
+       purchase, e.g. item goes into basket, then questions asking ‘are you sure you want to
+       purchase this?’, ‘Press this button to complete your purchase’. Your purchase process has
+       none of these steps and we believe that it’s designed to take advantage of young users and
+       accidental purchase.”
+
+   •   “I’d like to raise a concern I have with the in-game store - there is no ‘confirm purchase’
+       button when you go to buy a skin/glider/axe….The reason I say this is because about 2
+       months ago I accidentally misclicked ‘purchase’ on a glider I had no intentions of buying.
+       It instantly just took the V-Bucks and that was that….”
+
+   •   “As you know today the vintage Skull Trooper skin got released and was excited to buy
+       it, however when I was flipping through the item shop I noticed the new Skull Sickle. I
+       wanted to look at the different colors that were offered with this harvesting tool and
+       instead of pressing ‘A’ to ‘Preview Styles’, I clicked ‘X’ and it automatically bought the
+       pickax!!! There should be an extra step when buying things from the item shop because
+       everything happened so fast. I would like a refund because I was going to use those extra
+       V-Bucks for a different Halloween skin that hasn’t been released yet.”
+                                                 7
+   •   “This was an accident made by a 9 year old, who immediately said, ‘Oh no Dad, I clicked
+       the wrong button.’ But because of your One-Click purchasing, and no ability to turn on
+       purchase confirmation or parental blocks for the item store, and a little promoted
+       unobtrusive limited time button to cancel, you are going to say that we are stuck with it.”
+
+   •    “I accidentally purchased a skin using my V-Bucks when I just meant to rotate it and
+       check it out. Fat-fingered the ‘Square’ button on the PS4.”
+
+       35.     Epic’s employees also have raised concerns about unwanted charges and
+repeatedly recommended measures to address them.
+
+   •   In Spring 2018, Epic executives and managers discussed adding a confirm purchase
+       button to prevent accidental purchases. Though employees were concerned that “it is a bit
+       of a dark UX [user experience] pattern to not have confirmation on (once you hit [the
+       refund] limit) ‘destructive’ actions,” Epic feared that adding a confirmation button would
+       add “friction,” “result in a decent number of people second guessing their purchase,” and
+       reduce the number of “impulse purchases.”
+
+   •   On May 4, 2018, an Epic UX designer working on the refund feature recommended that
+       Epic “also implement a split-second ‘Hold to Purchase’ mechanic when buying an
+       item[,]” which he believed “would reduce accidental purchases without adding friction.”
+
+   •   On June 23, 2018, Epic’s Director of Player Support circulated a Player Support Status
+       Update that included a list of “Top Ticket Issues.” Number four on the list is: “Accidental
+       Purchase Claims - (around 6-7%) players are able to purchase items and battle pass tiers
+       without confirmation screens on PC and console. If we added confirmation screens for
+       these platforms, it would bring additional clarity and provide more safeguards for all.”
+
+   •   On July 2, 2018, Epic’s Director of Player Support circulated another Player Support
+       Status Update that included a list of “Top Ticket Issues.” Number 5 on the list is:
+       “Accidental Purchase Claims – same as previously mentioned. Additional confirmation
+       screens with the ability to bypass with a 1-click option that you must explicitly setup the
+       first time could be a solution. [Player Support] recommends offering players both
+       options, similar to Amazon before setting up 1-click.”
+
+   •   On July 20, 2018, an Epic Community Coordinator asked if there were any plans to add a
+       confirmation step for in-game purchases, noting: “This is actually a huge complaints on
+       our side and could remove most of the ‘excuses’ about accidental purchase: ‘I wanted to
+       press Replay, my PS4 was in sleep mode’, etc. This is something I wanted to push
+       forward but didn’t have time to build a real case around, has this already been discussed
+       in the past?”
+
+   •   On October 10, 2018, the same Community Coordinator emailed Epic’s Lead of Online
+       Gameplay Systems “to check if anything is happening around this topic.” He further
+       stated: “We still have regular complaints that we are not asking for confirmation before
+
+                                                8
+       purchasing and that players have to use refund tickets or are out of tickets because of a
+       button push. It’s especially the case on controllers when getting the console out of sleep
+       or hitting the ‘replay’ option on emotes.”
+
+   •   On March 8, 2019, Epic’s Lead of Online Gameplay Systems recommended that Epic
+       add a confirmation button for in-game purchases. In support of this recommendation, he
+       noted, “I know I personally play on Switch and I am VERY careful when I am in the
+       shop to the extent I am a little paranoid of bumping the controller and I am spending free
+       v-bucks.”
+
+   •   In April 2019, the Community Coordinator noted that “[o]n social media the
+       confirmation button is highly requested, especially for PS4.” According to the email,
+       “some of [the complaints] refer to various issues, such as buying while in a loading
+       screen (I think pressing buttons during a loading screen and the game still taking the
+       command at the end of the loading screen), mistake made to preview styles (some players
+       reports the button to view style in the locker and in the shop are different), or simple
+       button press mistakes.”
+
+         36.    Despite these repeated complaints and recommendations from customers and
+employees, Epic continues to charge users for in-game items without their authorization. It only
+started requiring an additional step (beyond pressing a single button) for one type of item (Battle
+Passes) in or around June 2020 – three years after Epic began billing consumers for in-game
+charges, and also after learning that it was under investigation by the FTC. For all other items
+(i.e., Cosmetics and Llamas), it continues to charge users based on the press of a single button.
+
+  Epic Uses Dark Patterns to Deter Users from Cancelling or Requesting Refunds for V-
+                                    Bucks Charges
+
+        37.     Epic has never allowed users to cancel or undo charges for Battle Passes or
+Llamas and did not begin allowing users to cancel Cosmetics charges until June 2019. Even then,
+Epic uses design tricks, sometimes referred to as “dark patterns,” to deter consumers from
+cancelling or requesting refunds for unauthorized V-Bucks charges.
+
+        38.    In June 2019, Epic began allowing users to cancel Cosmetics charges, but only for
+a limited time and only if they remained on the purchase screen. Initially, an “Undo” button
+appeared on the user’s screen in the same area as the “Get V-Bucks” button, as shown below.
+
+
+
+
+                                                 9
+        39.    However, after numerous players used the “Undo” button to cancel unwanted
+charges – “‘I accidentally purchased an item I did not want’ was the number one ‘reason’ for
+using the ‘Undo’ button[,]” according to an Epic customer survey – Epic took steps to reduce its
+prominence. Specifically, as shown below, Epic changed the name of the button to “Cancel
+Purchase,” reduced the size of the button, moved it to the bottom of the screen, and required
+consumers to push and hold a button on their controller (even though Epic does not require
+consumers to do so to purchase items in the first place).
+
+
+
+
+                                               10
+       40.     After making these changes, Epic “observed a roughly 35% decline in the net
+undo-rate (% of undo-eligible purchases that result in an undo that is not followed by a re-
+purchase),” according to an email from a Senior Product Manager.
+
+        41.     Consumers have complained that they did not see the option to cancel due to
+Epic’s efforts to obscure it. For example, in September 2019, a parent emailed Epic Player
+Support to complain about an unauthorized charge incurred while his 9-year-old was playing
+Fortnite and to request a refund. After Player Support responded by explaining Epic’s refund
+policy (discussed below), he responded: “I have already used my refund tokens, I used them
+before you implemented the cancel purchase button. You know the button that I never saw any
+big announcement about, the button that is small and unobtrusive, that because of your refund
+tokens I didn’t know was there.”
+
+        42.     Epic also imposes strict limitations on refunds. Epic does not refund charges for
+Battle Passes or Llamas, and refunds Cosmetics charges only in some cases. Moreover, since
+June 2018, Epic has restricted users to a lifetime maximum of three refunds per account. Epic
+tracks users’ refunds by issuing them tokens when they create an account. Many consumers have
+reported using all of their refund tokens and therefore not being able to obtain a refund for
+unauthorized charges billed by Epic. Prior to June 2018, consumers could not request a refund
+through the Fortnite app but had to complete a form on Epic’s website.
+
+        43.     In addition, Epic deliberately requires consumers to find and navigate a difficult
+and lengthy path to request a refund through the Fortnite app. To start, Epic hid the link to
+submit a refund request under the “Settings” tab on the Fortnite app menu, far removed from the
+purchase screen, even though requesting a refund is not a game or device setting. The Epic user
+experience (“UX”) designer who helped design the refund request path reported that he put the
+link there in an “attempt to obfuscate the existence of the feature” and that “not a single player
+found this option in the most recent round of UX testing.” When the designer asked whether he
+should make the feature easier to find, he was told by a superior, “it is perfect where it is at.”
+
+        44.     Even if consumers locate the refund request path, Epic forces them to navigate
+several unnecessary steps to submit the request. For example, Epic requires consumers to supply
+a reason for their refund request (even though Epic permits account holders to use their three
+lifetime refunds for any reason) and to confirm their intent to request a refund (even though Epic
+does not require users to confirm their intent to purchase items in the first instance). The Epic
+UX designer referred to this strategy of discouraging consumers from requesting refunds by
+requiring consumers to take multiple unnecessary steps as “add[ing] friction for friction’s sake.”
+
+      Epic Denies Consumers Access to Their Fortnite Accounts for Disputing Epic’s
+                               Unauthorized Charges
+
+       45.     When consumers incur fraudulent or unauthorized charges to their credit cards,
+they have the right to dispute the charges through their financial institutions and request that the
+money be charged back to the company that initiated the charge. See Fair Credit Billing Act,
+15 U.S.C. § 1666, et seq. This process commonly is referred to as a “chargeback.”
+
+       46.     Since July 2017, Epic has received tens of thousands of chargebacks, totaling
+                                               11
+millions of dollars. In fact, Epic received so many chargebacks from consumers that Visa and
+Mastercard placed Epic in their respective chargeback monitoring programs, threatening Epic’s
+ability to process consumer payments through the networks going forward.
+
+        47.    Since at least February 2018, when consumers have disputed Epic’s unauthorized
+charges with their credit card companies and asked that they be charged back, Epic has
+deactivated their Fortnite accounts regardless of the reason for the dispute or whether it was
+upheld.
+
+        48.    Consumers’ Fortnite accounts store all Fortnite content they have ever purchased.
+Thus, consumers whose accounts Epic has banned have not only lost access to the Fortnite
+content that was the subject of the billing dispute, but also all content they have ever purchased
+on that account. Epic has not refunded consumers for this previously paid-for content, which for
+some consumers has totaled hundreds or even thousands of dollars. Only if consumers have
+contacted Epic, and Epic has determined that there is no risk of fraud, has Epic agreed to
+reactivate consumers’ accounts. Even then, they have only agreed to do so one time. If
+consumers dispute another fraudulent or unauthorized charge, Epic permanently bans them
+without refunding them for their paid-for content.
+
+        49.     Consumers have been unaware of Epic’s practice of denying them access to paid-
+for content for initiating chargebacks. To the extent Epic mentions depriving consumers of
+content, it buries such information in its Terms of Service, End User License Agreement, or on
+its website, and even then, makes no mention of depriving access to paid-for content for
+disputing unauthorized charges with their bank or credit card provider.
+
+       50.    Epic has received at least thousands of complaints from consumers whose
+accounts were banned due to chargebacks.
+
+       51.    Despite these complaints, Epic continues to deactivate the accounts of consumers
+who dispute Epic’s unauthorized charges with their credit card companies.
+
+        52.    Based on the facts and violations of law alleged in this Complaint, the FTC has
+reason to believe that Respondent is violating or is about to violate laws enforced by the
+Commission.
+
+                              VIOLATIONS OF THE FTC ACT
+
+        53.     Section 5(a) of the FTC Act, 15 U.S.C. § 45(a), prohibits “unfair or deceptive acts
+or practices in or affecting commerce.”
+
+        54.     Acts or practices are unfair under Section 5 of the FTC Act if they cause or are
+likely to cause substantial injury to consumers that consumers cannot reasonably avoid
+themselves and that is not outweighed by countervailing benefits to consumers or competition.
+15 U.S.C. § 45(n).
+
+                                             Count I
+
+                                                12
+                                          Unfair Billing
+
+       55.    In numerous instances, Respondent has charged consumers without having
+obtained consumers’ express informed consent.
+
+         56.    Respondent’s actions as described in Paragraph 55 have caused or are likely to
+cause substantial injury to consumers that consumers cannot reasonably avoid themselves and
+that is not outweighed by countervailing benefits to consumers or competition.
+
+        57.     Therefore, Respondent’s acts or practices as set forth in Paragraph 55 constitute
+unfair acts or practices in violation of Section 5 of the FTC Act, 15 U.S.C. § 45(a) and (n).
+
+                                           Count II
+                                Unfair Denial of Account Access
+
+       58.     In numerous instances, Respondent has denied consumers access to their Fortnite
+accounts for disputing unauthorized charges.
+
+         59.    Respondent’s actions as described in Paragraph 58 have caused or are likely to
+cause substantial injury to consumers that consumers cannot reasonably avoid themselves and
+that is not outweighed by countervailing benefits to consumers or competition.
+
+        60.     Therefore, Respondent’s acts or practices as set forth in Paragraph 58 constitute
+unfair acts or practices in violation of Section 5 of the FTC Act, 15 U.S.C. § 45(a) and (n).
+
+        61.    The acts and practices of Respondent as alleged in this Complaint constitute
+unfair or deceptive acts or practices, in or affecting commerce, in violation of Section 5(a) of the
+Federal Trade Commission Act.
+
+
+        THEREFORE, the Federal Trade Commission this _______ day of _______, 20__, has
+issued this Complaint against Respondent.
+
+
+        By the Commission.
+
+
+                                                      April J. Tabor
+                                                      Secretary
+
+SEAL:
+
+
+
+
+                                                 13
+
