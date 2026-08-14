@@ -69,7 +69,16 @@ const LEDGERS = {
   "hearing-2026-05-13-courtroom-to-congress": { sources: ["senate-2026-05-13-testimony-combined.txt"] },
   "hearing-2025-12-02-legislative-solutions": { sources: ["house-2025-12-02-testimony-combined.txt"] },
   "new-mexico-v-meta": {
-    sources: ["new-mexico-2026-08-06-final-judgment.txt"],
+    // Two caches: the judgment, and the FTC release the judgment discusses. The
+    // FTC one was added when a quote from it, correctly attributed in the ledger
+    // to the FTC and not to the court, failed against the judgment cache. That
+    // failure was the checker working: a span must match a source this ledger
+    // actually declares, and "the court considered an FTC policy" is not licence
+    // to quote the policy from memory.
+    sources: [
+      "new-mexico-2026-08-06-final-judgment.txt",
+      "ftc-2026-coppa-age-verification-policy-statement.txt",
+    ],
     sections: ["(g) The final judgment"],
   },
   "eu-dsa-proceedings": {
@@ -122,11 +131,28 @@ function quotedSpans(markdown, sections) {
   const body = markdown.replace(/^---\n[\s\S]*?\n---\n/, "");
   let text = body;
   if (sections && sections.length) {
+    // A matched section OWNS ITS SUBSECTIONS. The first version of this matched
+    // heading text only, so adding a "#### (g.1) Age Assurance" under a scoped
+    // "### (g) The final judgment" silently dropped 30 newly added spans from
+    // coverage while the run still said OK. Partial, silent coverage loss is the
+    // exact failure this script exists to prevent, so scoping now tracks heading
+    // DEPTH: once a heading matches, everything deeper than it is included until
+    // a heading at the same or a shallower level closes it.
     const chunks = [];
-    // split on any heading level so a ### subsection can be scoped on its own
-    for (const part of body.split(/\n(?=#{2,4} )/)) {
-      const h = part.match(/^#{2,4} (.+)/);
-      if (h && sections.some((s) => h[1].startsWith(s))) chunks.push(part);
+    let matchedDepth = null;
+    for (const part of body.split(/\n(?=#{2,6} )/)) {
+      const h = part.match(/^(#{2,6}) (.+)/);
+      if (!h) {
+        if (matchedDepth !== null) chunks.push(part);
+        continue;
+      }
+      const depth = h[1].length;
+      if (matchedDepth !== null && depth > matchedDepth) {
+        chunks.push(part); // a subsection of a matched section
+        continue;
+      }
+      matchedDepth = sections.some((s) => h[2].startsWith(s)) ? depth : null;
+      if (matchedDepth !== null) chunks.push(part);
     }
     text = chunks.join("\n");
     if (!chunks.length) return null; // scoped to nothing: a broken config, not a clean run
@@ -181,6 +207,7 @@ if (selfTestFailures.length) {
 const failures = [];
 const deviations = [];
 const scoped = [];
+const perLedger = [];
 let checked = 0;
 
 for (const [slug, cfg] of Object.entries(LEDGERS)) {
@@ -228,6 +255,7 @@ for (const [slug, cfg] of Object.entries(LEDGERS)) {
     continue;
   }
   if (cfg.sections) scoped.push(`${slug} (only: ${cfg.sections.join(", ")})`);
+  perLedger.push(`${String(spans.length).padStart(4)}  ${slug}`);
 
   for (const span of spans) {
     checked++;
@@ -266,6 +294,9 @@ if (failures.length === 0) {
     `check:quotes OK. ${checked} quoted spans verified verbatim across ${registered.size} ledgers` +
       (deviations.length ? `, ${deviations.length} known deviation(s).` : "."),
   );
+  // Per-ledger counts, printed every run. A silent DROP in one ledger is how
+  // scoping bugs hide: the total still looks healthy and the run still says OK.
+  console.log(`\n  spans checked per ledger:\n    ${perLedger.join("\n    ")}`);
   for (const d of deviations) {
     console.log(`\n  known deviation, ${d.slug}:\n    "${d.span}"\n    ${d.why}`);
   }
