@@ -70,7 +70,7 @@ with links and next actions (JSON) is at ${SITE_URL}/agent-card.json.
   and primary sources. Updated on dated passes, not live.
 - Per-case files, seeded from the project's evidence-tiered claim ledgers
   (corrections land ledger-first, then here):
-  - [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md): the federal multidistrict litigation.
+  - [MDL 3047](${SITE_URL}/lawsuits/mdl-3047.md): the federal multidistrict litigation; the state attorneys general trial against Meta opened 2026-08-18 in Oakland.
   - [K.G.M. v. Meta and Google / the California bellwethers](${SITE_URL}/lawsuits/kgm-v-meta.md): the state-court bellwether trials.
   - [State of New Mexico v. Meta](${SITE_URL}/lawsuits/new-mexico-v-meta.md): decided, final judgment entered 2026-08-06.
   - [State of Tennessee v. Meta](${SITE_URL}/lawsuits/tennessee-v-meta.md): in trial; evidence began 2026-07-27, calendar runs to 2026-09-03.

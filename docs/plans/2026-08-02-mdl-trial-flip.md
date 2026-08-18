@@ -1,7 +1,7 @@
 ---
 title: "Plan: the MDL 3047 trial tense flip (August 12 and August 18, 2026)"
 subtitle: "Every string on the site that becomes false when the Oakland trial starts, located in advance, so the pass is mechanical rather than archaeological."
-status: "Prepared 2026-08-02, before the event. PASS 1 APPLIED 2026-08-13. Pass 2 is still pending and fires on or after August 18, 2026. Apply it only after confirming openings actually happened."
+status: "Prepared 2026-08-02, before the event. PASS 1 APPLIED 2026-08-13. **PASS 2 APPLIED 2026-08-18**, after confirming from the court's own Civil Minutes (Dkt 550) that openings were held, which is the confirmation this file said to wait for. Every row of the Pass 2 file list is done, including the two hand-built surfaces that no content pipeline touches. This file is now the record of a completed flip, not a pending instruction. The re-seed that carried it is documented in docs/plans/2026-08-18-single-source-to-primary.md, which went further than a tense flip: it took the trial claims to the docket and found that the widely reported $200 billion figure is Meta's revenue, not the states' demand."
 date: 2026-08-02
 site: "de-amplify.com"
 document: "Operational checklist. Adds no legal claims; every string below already exists on the site and this file only says where it is and what it becomes."
@@ -44,6 +44,23 @@ Leave the ledger's TLDR variants alone at this pass. "Headed to an August 2026 t
 **On the evidence, stated at the tier it deserves, because this is the one thing the flip could get wrong.** The *dates* remain docket-sourced (Pretrial Order No. 3 and the July 23 case-management order, both already quoted on the pages). That jury selection *actually began* on August 12 is **courthouse reporting, not a docket minute entry**: the RECAP mirror of 4:22-md-03047 carries no minute entry for the proceeding, and an attempt to filter that docket for one could not be given a positive control, so its absence is a fact about the query and not about the record. What the docket does establish is that the schedule was never disturbed: entries through August 13 show live trial-eve practice (Meta's second updated exhibit list on August 12, oppositions on August 11 to a motion to preclude Bejar "at Trial", Pretrial Order No. 7 on disputed discovery designations on August 13) and no continuance or stay. Both pages say so in those terms rather than claiming a docket confirmation that was not obtained. **Upgrade this when the minute entry appears**, and note that Pass 2 should not repeat the shortcut: openings are the bigger claim.
 
 ## Pass 2: on or after August 18 (openings and evidence)
+
+> **APPLIED 2026-08-18.** Confirmation came from the court's own Civil Minutes for that day
+> (Dkt 550), which record the trial as held, a session of 5 hours 17 minutes, and Arturo Bejar as
+> the states' first witness. That is the docket-sourced confirmation this file required, rather
+> than courthouse reporting.
+>
+> **Every row below is done**, including the two the content pipelines cannot reach: the homepage
+> `Stat`, whose label read "at trial in August", and the `llms.txt` MDL line, which carried no
+> trial status while the Tennessee line did. Both were caught by re-reading this checklist after
+> the content pass, which is the argument for writing the checklist before the event.
+>
+> **One thing this file did not anticipate, and it is the important one.** The flip was written as
+> a tense change. Taking the same claims to the docket instead showed that the money section needed
+> a correction, not a tense: the $200 billion figure four outlets reported as the states' demand
+> appears in the states' own filing as **Meta's 2025 revenue**. A tense-only pass would have
+> published a false figure in the past tense. See
+> `docs/plans/2026-08-18-single-source-to-primary.md`, Part V.
 
 This is the real one. It touches all three content pipelines plus the hand-built homepage.
 
