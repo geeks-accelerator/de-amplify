@@ -1,7 +1,7 @@
 
 # State of New Mexico v. Meta: the $942 million child-safety judgment
 
-> **About this page.** Where the record stood as of August 13, 2026, re-seeded from the court's final judgment itself; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for this case; corrections land in the ledger first, then here.
+> **About this page.** Where the record stood as of August 13, 2026, re-seeded from the court's final judgment itself; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for this case; corrections land in the ledger first, then here. Updated August 18, 2026 with the age-assurance section of the judgment, distilled from the cached order.
 
 ## The case in one paragraph
 
@@ -42,6 +42,10 @@ Two things, pulling in opposite directions, and the honest reading needs both.
 First, the court **found the mechanism proved**. It wrote that "the evidence at trial proved that design elements, such as autoplay, infinite scroll, ... and push notifications create a product that, particularly for adolescent users, is highly rewarding psychologically and neurochemically. As a result, for many, it is irresistibly compelling to start scrolling and very difficult to stop or abstain from its use." That is a court, on a trial record, describing the loop this project says is the harm.
 
 Second, it drew the line **exactly where this project argues the defensible line is**, and then refused to cross it. Measures that do not alter how content is presented (notification blackouts, hidden like counts, time caps) were ordered. Measures that do (the algorithm, infinite scroll, autoplay) were refused as likely unconstitutional and as a job for legislatures. That is a real-world test of the [brake integrity](/proposal) strategy, and it comes back split: the content-neutral surface is reachable, the feed itself is not, at least not by one state court applying nuisance law. Read [section 7 of the policy paper](/proposal) with this ruling in hand. The [scorecard](/scorecard) is the same idea written as a test anyone can run.
+
+Third, and this is the part almost no coverage carried: **the court said on the record that what it was granting was not enough.** On age assurance it ordered nine measures, all of them Meta's own proposals, and described that relief as "far from ideal or sufficient", adopting it because better options were "unavailable to this Court for a lack of jurisdiction over any such parties". The most transferable of the nine is a default rule rather than a detection rule: where Meta believes a user is under 13, or under 18 but cannot estimate a precise age, it must treat the user as being in that band unless and until the user verifies. It also has to build a reporting portal with schools covering suspected under-13 accounts "across any social media platform", not only its own.
+
+So the judgment is not simply a court declining to reach the feed. It is a court reaching as far as it could, ordering the defendant's own proposals because nothing better was within its power, and saying plainly that this was insufficient. **A refusal shows a limit. A grant labelled inadequate shows the same limit from the inside**, and it is the stronger argument that the standard has to be written rather than litigated.
 
 **The full evidence ledger** behind this page, every claim tiered and traced against the judgment, is at [the New Mexico v. Meta distillation](/distillations/new-mexico-v-meta).
 

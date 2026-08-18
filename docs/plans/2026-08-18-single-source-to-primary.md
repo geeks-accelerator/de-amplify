@@ -671,10 +671,41 @@ them.
 Verify afterwards with `/api/health`, whose `manifestGenerated` should read 2026-08-18, and by
 checking that `/lawsuits/mdl-3047` names Arturo Bejar.
 
+## Second publication pass, 2026-08-18
+
+A re-read of this plan asked what else was publishable. Four verified primaries were sitting
+unused, which is a gap in the plan: Phase 1 verified them and no phase said where they go.
+
+### Published
+
+- **The New Mexico age-assurance remedies**, follow-up 2 below, now distilled at ledger section (g.2), claims 49 to 54, and carried onto the curated case page as a dated pass. The strongest of them is claim 54: the court ordered nine measures, all Meta's own proposals, and recorded that this relief was "far from ideal or sufficient" because better options were outside its jurisdiction. **A refusal shows a limit; a grant labelled inadequate shows the same limit from the inside.** That is a stronger argument for writing the standard than the refusal at claims 36 to 38, and it is now on the page.
+- **Australia**, added to section 4 of the policy paper beside France. It is the closest existing analogue to this paper's own proposal: a duty on operators to take reasonable steps, with a defined scope and carve-outs, rather than a prohibition on users. It demonstrates that the calibrated, operator-facing form is drafts-able and enactable, which is the objection most often made to it.
+
+### Verified and deliberately NOT published, with reasons
+
+- **The Kids Online Safety Act** advancing out of committee on 2026-08-05. Verified against the congressional record. **The policy paper does not mention KOSA anywhere**, so there is no gap to fill, and a bill ordered to be reported is weak evidence: most die there, the reported text is a substitute nobody here has read, and the fact dates fast. Adding it would be a stray fact wearing a citation.
+- **Meta's $2.40 billion of charges related to legal proceedings** in Q2 2026. Verified against the Form 10-Q. It is a genuinely useful deterrence datapoint and **there is no section it belongs to**: the paper has no deterrence-cost argument, and the lawsuits hub tracks awards rather than defence economics. A quarterly figure with no home would need refreshing every quarter to stay true.
+
+Both are recorded in `docs/research/primary-findings-2026-08-18.md` with their primaries, so a future
+pass that builds the right section can pick them up without redoing the work. **Verified is not the
+same as publishable**, and the difference is whether the site has somewhere for it to live.
+
+### A correction this pass produced
+
+The coverage note added to the New Mexico ledger on 2026-08-18 said that ledger did not carry the
+age-assurance claims, and that the paragraph 142 finding should be added with them. **The reasoning
+was already there**, at claims 41 to 48, and the paragraph 142 finding was already claim 48. Only
+the enumerated remedy list was missing.
+
+That note is a worked example of the failure it was written about. It made a claim about what this
+repository lacked without reading what the repository already held, which is the same error, one
+level up, as reading a `NEEDS-PRIMARY` tag as a work queue. **A claim about a gap needs the same
+reading pass as a claim about a source.**
+
 ## Follow-ups, in priority order
 
 1. **Unblock the deploy.** Everything below is moot until production rebuilds.
-2. **Distil the New Mexico Age Assurance section** from the already-cached judgment into `docs/distillations/new-mexico-v-meta.md`, including the paragraph 142 finding that the court adopted Meta's own proposals while calling them far from ideal or sufficient. No external research required. Highest value per unit effort of anything remaining.
+2. ~~**Distil the New Mexico Age Assurance section.**~~ **DONE 2026-08-18**, see the second publication pass above. Ledger section (g.2), claims 49 to 54, plus a dated pass on the curated page.
 3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension.
 4. **Confirm or drop the bifurcation** when an order addresses trial structure.
 5. **The Ninth Circuit First Amendment disposition**, still single-sourced to one newspaper and never located. It sits on the appellate docket, not the trial one.
