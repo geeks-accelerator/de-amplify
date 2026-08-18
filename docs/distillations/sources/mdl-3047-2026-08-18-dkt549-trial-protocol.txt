@@ -1,0 +1,880 @@
+        Case 4:22-md-03047-YGR             Document 3416        Filed 08/18/26     Page 1 of 15
+
+
+
+ 1   [Parties and counsel listed on signature pages]
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+                                     UNITED STATES DISTRICT COURT
+ 9
+                             FOR THE NORTHERN DISTRICT OF CALIFORNIA
+10
+                                              OAKLAND DIVISION
+11
+
+12   IN RE: SOCIAL MEDIA ADOLESCENT                            MDL No. 3047
+     ADDICTION/PERSONAL INJURY PRODUCTS
+13   LIABILITY LITIGATION                                      Case No.: 4:22-md-03047-YGR
+                                                                         4:23-cv-05448-YGR
+14   This Document Relates To:
+                                                               STIPULATION AND UPDATED
+15                                                             [PROPOSED] ORDER GOVERNING
+     People of the State of California, et al. v. Meta         TRIAL PROTOCOL
+16   Platforms, Inc. et al.
+17                                                             Judge: Hon. Yvonne Gonzalez Rogers
+                                                               Magistrate Judge: Hon. Peter H. Kang
+18
+                                                               Date: August 18, 2026
+19                                                             Time: 8:00 AM
+20                                                             Place: Courtroom 1, 4th Floor
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+
+                         STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                   4:22-md-03047-YGR
+          Case 4:22-md-03047-YGR             Document 3416         Filed 08/18/26       Page 2 of 15
+
+
+
+ 1          WHEREAS the Parties have met and conferred in light of the Court’s guidance about trial
+ 2   procedures at the August 13, 2026, pre-trial hearing and in Pre-Trial Order No. 8, ECF 534 (3392);
+ 3          NOW, THEREFORE, the Parties hereby stipulate and agree, subject to approval of the Court, that
+ 4   the following procedures shall govern during the first Multistate Attorneys General (AGs) trial starting in
+ 5   August 2026:
+ 6
+
+ 7   I.     Trial Exhibits
+ 8          A.      Deadlines. The following deadlines apply to overall Exhibit Lists, the specifications for
+                    which are set out in this Section.
+ 9
+                    1.       Deadlines to Exchange Exhibits. On July 28, 2026, Meta sent its stamped
+10                           exhibits to the AGs. On July 31, 2026, the AGs sent their exhibits to Meta. Both
+                             Parties made these exchanges of exhibits subject to the reservation of rights
+11                           outlined below, Section I.I, including an exception for exhibits to be used solely
+                             for impeachment or rebuttal and demonstratives.
+12
+                    2.       Exhibit Lists. The parties filed exhibit lists on July 23, 2026, subject to the
+13                           reservation of rights outlined below, Section I.I.
+14                           a)     The parties were required to file a list of their 300 priority exhibits on July
+                                    27, 2026 (the “Priority Exhibit List”). The parties may seek to admit into
+15                                  evidence other exhibits from their Exhibit Lists that are not on their
+                                    Priority Exhibit List. In addition to filing the exhibit lists, the parties shall
+16                                  deliver an electronic version of all the exhibits to the Court on July 31,
+                                    2026.
+17
+                             b)     During trial, the parties shall use witness binders on direct examination
+18                                  and cross-examination and provide the Court with its own copy on a
+                                    rolling basis. Exhibits should be contained within a binder with each
+19                                  exhibit separated by a tabbed page denoting the exhibit number. Absent
+                                    agreement otherwise, a party shall also provide copies of the binder and/or
+20                                  all exhibits to be used with a witness on direct examination to the other
+                                    party. A party must provide opposing counsel with a copy of any
+21                                  document to be shown to the witness before the witness is shown the
+                                    document. A party may use exhibits not included in the binder if the party
+22                                  in good faith did not anticipate the use of the document at the time the
+                                    binder was prepared, provided the party makes copies of the exhibit
+23                                  available to the Court, witness, and the other party. For exhibits that
+                                    cannot be printed (e.g., data compilations), the exhibit will be identified in
+24                                  the binder by a slipsheet, and the party seeking to use that exhibit will
+                                    provide to the other party and the Court an electronic or otherwise
+25                                  accessible version. Counsel (and their agents) will not communicate with
+                                    witnesses about the substance of the witness’s testimony or the trial at any
+26                                  time after that witness has started to be examined by an adverse party until
+                                    the witness is excused.
+27
+
+28
+
+                                                           2
+                         STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                   4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR         Document 3416         Filed 08/18/26      Page 3 of 15
+
+
+
+ 1    B.    Numbering Exhibits for Identification. The AGs’ portion of the Exhibit List shall be
+            1-9,999. Defendant’s portion shall be 10,000–19,999.
+ 2
+      C.    Branding Exhibits for Identification. Each exhibit will be branded with a colored (i.e.,
+ 3          non-white) exhibit tag, modeled after the Court’s Trial Exhibit Tabs provided on the
+            Court’s website, at the top right of the first page that identifies the unique exhibit number,
+ 4          or otherwise in a location that does not block the bates-number. Electronically generated
+            exhibit tags shall be acceptable. The Court’s exhibit tags can be found at
+ 5          https://cand.uscourts.gov/sites/default/files/standing-orders/YGR-Trial-Exhibit-
+            Tags.pd_.pdf.
+ 6
+      D.    Exhibit Endorsements. Each party shall brand each page of their exhibits with an
+ 7          endorsement that identifies the unique exhibit number and page number of the exhibit.
+            The page number shall maintain a constant length of four or five numeric digits
+ 8          (including zero-digit padding). The Exhibit Endorsement shall conform to the following
+            format: [Exhibit Number]. (e.g., Ex. 0001.0001).
+ 9
+      E.    Production Format for Exhibits.
+10
+            1.     PDF Format. All exhibits shall be properly branded and stickered with exhibit
+11                 tags (as specified in this order), and individually produced in PDF format, to the
+                   extent an exhibit can reasonably be converted to PDF format and remain usable.
+12                 The file name of each PDF exhibit shall correspond to the unique exhibit number.
+13          2.     OCR. All electronic trial exhibits exchanged and/or submitted to the Court in
+                   PDF format shall be processed using optical character recognition (OCR) and
+14                 shall be fully text-searchable at the time of exchange and/or submission.
+15          3.     Native Format. If a document cannot reasonably be converted to PDF format
+                   and remain usable (e.g., Excel file, audio, video, animation), then the exhibit shall
+16                 be produced in native electronic format. The file name of a native file shall
+                   correspond to the unique exhibit number (e.g., 000001.wav”). A slipsheet (PDF)
+17                 for the native document shall also be provided that includes the Bates number,
+                   confidentiality designation, and the trial exhibit sticker. The slipsheet shall state
+18                 “Native Format Exhibit.”
+19          4.     Document Size. The parties shall not alter or shrink original documents to
+                   smaller than full page size unless such alteration preserves the integrity of the
+20                 document and is only for ease of presentation at trial. The parties should note any
+                   objections to alterations or shrinking of documents which fail to preserve the
+21                 integrity of the document. Any party that intends to use an altered or shrunk
+                   document pursuant to this provision shall provide as a numbered exhibit to the
+22                 opposing party the full-size version of that document, and shall provide in the
+                   exhibit list description a cross-reference to the shrunk/altered version.
+23
+            5.     Conferral. The Parties agree to confer in good faith on any concerns regarding
+24                 the production format of exhibits and resolve any such concerns in advance of an
+                   exhibit’s intended use at trial.
+25
+      F.    Method of Production. The parties shall produce their exhibits via email to an agreed
+26          service list (if the production is sufficiently small) or via a secure File Transfer Protocol
+            (FTP) site, with the exhibits organized in numerical order, in clearly labeled folders
+27          stating the number range of exhibits contained in each, and in file sizes that can be easily
+            downloaded on a personal computer). If a party produces its exhibits via production
+28
+
+                                                  3
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR          Document 3416        Filed 08/18/26      Page 4 of 15
+
+
+
+ 1          media (e.g., thumb drive), that production media must be delivered to the other party by
+            the deadline for doing so.
+ 2
+      G.    Exhibit List Specifications
+ 3
+            1.     Form of Exhibit List. The exhibit lists the Parties shall exchange with each
+ 4                 other will include the following information:
+ 5                 a)      Ex. No.
+ 6                 b)      Description: Short description of the exhibit.
+ 7                 c)      BegBates: First production Bates number of exhibit.
+ 8                 d)      EndBates: Last production Bates number of exhibit.
+ 9                 e)      Identity of Sponsoring Witness(s)
+10                 f)      Stipulated Authentic: “Yes” or “no” whether the parties have stipulated
+                           that the document is authentic pursuant to Section I.A.4.
+11
+                   g)      Stipulated as Admissible:
+12
+                           (1)    The Parties shall provide specific responses about whether they
+13                                stipulate to the exhibit as an opposing party statement, business
+                                  record, and/or public record: “Yes” or “no” whether either party
+14                                has stipulated that the document is an Opposing Party’s Statement
+                                  pursuant to FRE 801(d)(2); and “Yes” or “no” whether the parties
+15                                have stipulated that the document is a business or public record
+                                  under FRE 803(6) or FRE 803(8). For example, “801(d)(2): yes;
+16                                803(6): yes; 803(8): no.” Those responses shall be provided even if
+                                  the parties assert other objections in the “Objections to Admission”
+17                                column.
+18                         (2)    In addition to those specific evidentiary positions, if the party
+                                  stipulates that the document is admissible, they provide that
+19                                response in this column (e.g., “Stipulated admissible”). If they do
+                                  not, the objections to admission must be set forth in I.G.1.i
+20
+                   h)      Objections to Admission: Subject to the provisions of ¶ I.G.2, if not
+21                         stipulated admissible, the parties shall set forth their bases for objection.
+22                 i)      Date Identified at Trial
+23                 j)      Date Admitted at Trial
+24          2.     Stipulations re: Authenticity and Admissibility.
+25                 a)      Because of the large number of exhibits on the parties’ exhibit lists, the
+                           parties have reviewed the opposing side’s Priority Exhibit List and
+26                         provided in tabular form a written response on the issues of stipulations
+27                         and objections as to exhibits as set forth in ¶ I.G.1. The responding party
+                           shall be under no obligation to assert objections that a document is not
+28                         associated with a particular witness as part of this process and reserves the
+
+                                                  4
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR        Document 3416         Filed 08/18/26      Page 5 of 15
+
+
+
+ 1                        right to object to a witness being questioned about a document at trial on
+                          such basis.
+ 2
+                   b)     Although the Parties shall make good faith efforts to use this process in
+ 3
+                          order to resolve authenticity and certain hearsay objections, a document
+ 4                        need not have been pre-disclosed in this process to be used at trial or
+                          admitted into evidence.
+ 5
+            3.     Format of Lists. The parties will exchange exhibit lists in Excel format (see
+ 6                 I.G.2.a). The Parties will periodically submit updated versions of the filed
+                   versions of the exhibit lists with the Court, formatted in accordance with the
+ 7                 Court’s Standing Order Re: Pretrial Instructions in Civil Cases, Appendix. They
+                   will populate stipulations to admission (see I.G.2.g-h) in the “Stipulation to
+ 8                 Admit” column, will populate objections as of the submission in the “Objection”
+                   column (see I.G.2.i), and will populate the date on which an exhibit has been
+ 9                 admitted in the “Date Admitted” column, in consultation with the courtroom
+                   deputy (see I.G.2.k). The parties shall submit to the Court the exhibit list as to the
+10                 Priority Exhibits no later noon, August 17, 2026.
+
+11          4.     Static Exhibit Numbers. For tracking purposes, the parties shall maintain, and
+                   not change, the unique exhibit numbers assigned to the exhibits listed on their
+12                 Exhibit Lists. That will remain true even if a party subsequently withdraws an
+                   exhibit from its list. In that event, the exhibits will not be renumbered nor will a
+13                 different document be substituted in with that exhibit number.
+
+14          5.     Audio / Video Evidence. For any significant amount of audio and/or audio-
+                   visual evidence, including deposition designations played, the court reporter is
+15                 relieved of their obligation to transcribe in real time. At the end of the business
+                   day on which any audio and/or audio-visual evidence was completed, the Party
+16                 calling the witness or admitting the exhibit shall provide the court reporter with a
+                   transcript of what was played so that it can be attached to the transcript. The
+17                 opposing Party shall be provided with an identical copy of anything provided to
+                   the court reporter.
+18
+            6.     Exhibit Lists During Trial
+19
+                   a)     Exhibits admitted at trial shall be provided to the courtroom deputy on a
+20                        rolling basis by close of court on the day admitted. They shall be placed
+                          in binder and separately tabbed by exhibit numbers. This set shall be the
+21                        official set which will be provided to the jurors.
+
+22                        (1)     Each exhibit shall be pre-marked with an exhibit tag placed in the
+                                  top right corner of the first page of a document. Parties are to use
+23                                different colors than white for the exhibit tags.
+
+24                        (2)     If an exhibit is a physical object (rather than a document), a picture
+                                  should be taken and placed in the respective binders.
+25
+                   b)     No later than the start of closing arguments, the parties shall provide the
+26                        Courtroom Deputy with a list of Admitted Exhibits for use by the jury in
+                          its deliberations.
+27
+
+28
+
+                                                 5
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR      Document 3416         Filed 08/18/26     Page 6 of 15
+
+
+
+ 1                c)     The public posting of admitted exhibits shall be governed by the
+                         separately negotiated Stipulation and [Proposed] Order re Sealing and
+ 2                       Redacting Documents at MDL AG Trial.
+ 3                d)     For each witness, the parties shall disclose to opposing counsel all of the
+                         exhibits that the party intends to offer into evidence and pre-made
+ 4                       demonstratives that each party intends to use during its direct or cross-
+                         examination of that witness (or by extended cross examination as provided
+ 5                       in section I.G.6.f., but not including exhibits used solely for impeachment
+                         of an adverse witness) no later than 4:00 PM PT the calendar day prior to
+ 6                       the expected use of the exhibits at trial. The cross-examining party shall
+                         retain the right to offer additional exhibits into evidence based on the
+ 7                       calling party’s examination.
+ 8                       (1)     The receiving party will identify and communicate any objections
+                                 and stipulations to admit to the offering party’s proposed exhibits
+ 9                               by 7:00 PM PT the day prior to expected use at trial.
+10                       (2)     The parties will confer on any objections to the exhibits by 8:30
+                                 PM PT the day prior to their expected use at trial.
+11
+                         (3)     No later than 9:30 PM PT, the parties shall agree on a list of
+12                               disputes and stipulations to raise with the Court at an 8:00 AM
+                                 pretrial hearing. See section III, below.
+13
+                         (4)     Exhibits provided or identified in advance of testimony as
+14                               provided above shall be reviewed for admissibility by lawyers for
+                                 the receiving party who are not involved in preparing the witness
+15                               associated with the pre-disclosed exhibits after the exhibits are
+                                 disclosed. The reviewing lawyers shall not confer in any way,
+16                               directly or indirectly, with the lawyers from the receiving party
+                                 responsible for preparing the witness, about the identification,
+17                               content, or substance of pre-disclosed exhibits until after the
+                                 lawyers preparing the witness have concluded those preparations
+18                               and will have no further substantive discussions with the witness
+                                 about their testimony. Nothing herein shall prevent the receiving
+19                               party from preparing a witness or an examination based upon
+                                 knowledge or information developed unrelated to the exhibit
+20                               disclosure provided for above.
+21                e)     Nothing in the preceding Section I.G.6.d shall require a party to disclose
+                         in advance documents to be used solely as impeachment or rebuttal.
+22
+                  f)     The adverse party’s questioning of their own witness who is identified on
+23                       their own witness list as a will call or may call witness may go beyond the
+                         scope of the direct examination by the calling party (e.g., Meta’s
+24                       questioning of a Meta employee called by the AGs in their case-in-chief
+                         may go beyond the scope of the adverse direct examination of the AGs
+25                       and, similarly, the AGs’ questioning of an AG employed witness may go
+                         beyond the scope of the adverse examination of Meta). A party
+26                       questioning its own such witness, when called by the other side, must
+                         proceed by way of non-leading questions, and examination for that
+27                       witness must be completed in one setting when the witness is called.
+28
+
+                                               6
+                STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                          4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR         Document 3416        Filed 08/18/26       Page 7 of 15
+
+
+
+ 1          7.     Potential Trial Exhibits That Do Not Need to Be Listed on the Exhibit Lists.
+                   The parties agree that the following groups of documents need not be listed on
+ 2                 their Exhibit Lists. The parties reserve their rights to object to the admissibility of
+                   these documents as trial exhibits on all other evidentiary grounds. If used at trial,
+ 3                 the parties will assign exhibit numbers to these materials for the record.
+ 4                 a)      Demonstratives: Demonstratives that parties intend to use at trial (which
+                           are subject to other provisions).
+ 5
+                   b)      Other: Exhibits used solely for impeachment or rebuttal.
+ 6
+                   c)      Pleadings: Complaints and answers filed in this MDL.
+ 7
+            8.     Exhibits To Be Delivered to Jury Room. Upon conclusion of the presentation
+ 8                 of evidence, the parties shall review the exhibits and confirm the accuracy of
+                   those going into the jury room. The parties shall complete, deliver, and file a
+ 9                 certification with the Court confirming their review.
+10    H.    Opening Slides. The parties agree to exchange opening slides in advance of their
+            presentations at 3:30 PM PT the day before opening statements. The parties will confer
+11          on any objections the evening before opening statements and raise any unresolved
+            disputes to the Court the morning before opening statements are to begin. In the event
+12          opening statements are scheduled to begin in the afternoon, the parties shall confer to
+            reach agreement on a reasonable alternative exchange deadline. No party shall
+13          incorporate the opening slides of the other into its own opening slides. Opening slides
+            exchanged shall be numbered sequentially with numbering visible on the face of the
+14          exchanged slides, and shall be in the same order the party intends to use during opening.
+15    I.    Reservation of Rights
+16          1.     The parties reserve their rights to object to the introduction and/or admissibility of
+                   any document listed on any Exhibit List.
+17
+            2.     The parties agree that the inclusion of any exhibit on the Exhibit List does not
+18                 waive or affect any prior confidentiality designation or any obligations concerning
+                   such designations in this litigation.
+19
+            3.     The parties agree that the inclusion of a particular document on a party’s Exhibit
+20                 List is not intended to be a waiver of that party’s right to object to the introduction
+                   and/or admissibility of that document for any purpose.
+21
+            4.     The parties reserve their rights to modify, withdraw, or supplement in good faith
+22                 their trial Exhibit Lists prior to and during trial.
+23          5.     To the extent a party supplements their Exhibit List to add exhibits, that party
+                   shall provide the newly added exhibits, consistent in form with the provisions laid
+24                 out in Sections I, at the same time as the newly served Exhibit List. Any
+                   supplementation, whether via email or FTP, will include (1) the numbers of the
+25                 exhibits being supplemented; (2) the newly added exhibits; and (3) and updated
+                   exhibit list identifying the exhibits being added (through highlighting or some
+26                 other easily identifiable visual cue).
+27
+
+28
+
+                                                  7
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+           Case 4:22-md-03047-YGR          Document 3416        Filed 08/18/26      Page 8 of 15
+
+
+
+ 1   II.    Witness Disclosures
+ 2          A.      Disclosure of Witnesses
+ 3                  1.     Witness List Timing. The parties shall within 5 days of this order update their
+                           witness lists to provide time estimates for direct testimony for each of their will
+ 4                         call witnesses and for each of the opposing parties’ listed will call witnesses
+                           provide an estimate of the time expected to be used on cross examination,
+ 5                         including extended cross examination as provided in ¶ I.G.6.f. The parties shall
+                           update these time estimates with each disclosure of witnesses as provided in the
+ 6                         following subparagraphs and the opposing party shall provide a responsive
+                           estimate of the time expected for cross-examination, including extended cross-
+ 7                         examination within two (2) hours of receiving the opposing party’s disclosure of
+                           witnesses, unless that disclosure is received after 8:00 pm PT, in which case the
+ 8                         responsive estimate of cross-examination time shall be provided no later than 8:00
+                           am the following day.
+ 9
+                           a)      The Parties agree that these estimates are merely estimates provided in
+10                                 good faith to facilitate planning, and shall not seek to enforce these
+                                   estimates or limit the opposing party’s examination based on these
+11
+                                   estimates.
+12
+                    2.     Weekly Disclosures. The parties shall use their best efforts to advise opposing
+13                         counsel of the timing for witnesses, recognizing that unexpected circumstances
+                           may arise. The parties shall work in good faith to provide reasonable advance
+14                         notice and to confer promptly if schedule changes occur on a weekly or daily
+                           basis. The parties shall work within the following guidelines. Each party shall
+15                         disclose all witnesses the party intends to call in the week ahead (including
+                           adverse witnesses previously disclosed pursuant to Section II.A.4) in the order
+16                         they will be expected to testify and whether the witness will be called live or by
+                           designation, each Friday at 6:00 PM PT (i.e., on Friday, August 21 for all witness
+17                         to be called the week of August 24). In the week in which the AGs disclose to
+                           Meta at 6:00 PM PT on Friday their intention to rest the following week pursuant
+18                         to Section II.A.3, Meta shall make a good faith disclosure of their witnesses for
+                           the balance of the week by 6:00 PM PT on Saturday. 1
+19
+                    3.     Daily Disclosures. Each party shall disclose a list of witnesses, in the order in
+20                         which they are expected to be called and including whether the witness is
+                           intended to testify live or by designation, by 4:00 PM PT two days in advance of
+21                         when the witness is expected to be called.
+
+22                         a)      Counsel agree to make a good-faith disclosure of the witnesses who they
+                                   intend to call on a Monday by 8:00 PM PT on the prior Thursday.
+23
+                    4.     To facilitate the disclosure of witnesses to be called on the first day of Meta’s
+24                         case-in-chief, the AGs will provide a good-faith estimate of their intention to rest
+                           their case by 6:00 PM PT the Friday before the week in which the AGs anticipate
+25                         resting (e.g., on Friday, August 21 if the AGs anticipate resting their case the
+
+26
+     1
+27    If exigent circumstances arise that would interfere with the exchange schedule outlined in this
+     paragraph (e.g., an unexpected and unavoidable changes in a witness’s schedule or availability), the
+28   parties will promptly meet and confer to address the issue.
+
+                                                         8
+                         STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                   4:22-md-03047-YGR
+            Case 4:22-md-03047-YGR        Document 3416         Filed 08/18/26      Page 9 of 15
+
+
+
+ 1                        week of August 24). The AGs will further inform Meta of their intention to pass
+                          the case two “in-trial” court days before doing so.
+ 2
+                   5.     Adverse Witnesses
+ 3
+                          a)     If the party intends to call in its case an adverse witness whom the adverse
+ 4                               party has agreed to produce, the calling party must disclose their intent to
+                                 call that witness at least one calendar week before the witness is expected
+ 5
+                                 to testify (i.e., on Thursday, August 20 for an adverse witness to be called
+ 6                               on Thursday, August 27, or later). The calling party shall then provide
+                                 their best estimate of the specific day on which they expect to call the
+ 7                               adverse witness. The calling party shall update that estimate of the
+                                 specific day on which the witness is expected to be called as information
+ 8                               regarding a change in timing arises.
+ 9                               (1)     The disclosure set forth in this paragraph shall provide a good-faith
+10                                       time estimate of the calling party’s direct examination of the
+                                         adverse witness in hour and quarter hour increments (e.g., 1.25
+11                                       hours).
+
+12                        b)     Employees or contractors of an adverse party whose attendance at trial has
+                                 been procured by the adverse party may be asked leading questions
+13                               without the need to establish the foundation for adversity. The parties
+14                               shall inform the Court at the time the witness takes the stand if the witness
+                                 is an adverse witness.
+15
+                          c)     For any adverse former Meta employee, contractor, or consultant called by
+16                               the AGs, 2 the AGs shall disclose the witness’s background, why the AGs
+                                 are proffering the witness, and the expected topics of the witness’s
+17                               testimony and the witness’s foundation to testify thereto. The AGs shall
+                                 provide this information to Meta and the Court no later than the Friday
+18
+                                 before the witness is expected to testify (i.e., on Friday, August 21 for an
+19                               adverse former Meta employee to be called the week of August 24). See
+                                 June 26 Hr’g Tr. at 112:5–15.
+20
+                   6.     Witness Photograph. Before 8:00 AM PT on the day of a witness’s testimony,
+21                        the party controlling a witness shall take a photograph of the witness in order to
+                          assist the trier of fact with recalling the testimony. Sufficient copies for the Court
+22                        and all jurors shall be provided by the end of the day of testimony.
+
+23   III.    8:00 AM Pretrial Hearing
+
+24           A.    The parties shall meet and confer (no later than 9:30 PM PT the night before) to address
+                   issues that may need to be raised with the Court at each 8:00 AM pretrial hearing,
+25
+
+26
+     2
+27     For clarity, this paragraph is intended to cover Arturo Béjar, Brian Boland, Vaishnavi Jayakumar,
+     Alison Lee, Lotte Rubaek, Jason Sattizahn, Natalie Troxel, and George Volichenko. See Meta’s Motion
+28   in Limine No. 3, ECF 369 (3119).
+
+                                                        9
+                        STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                  4:22-md-03047-YGR
+           Case 4:22-md-03047-YGR          Document 3416         Filed 08/18/26       Page 10 of 15
+
+
+
+ 1                 including exhibit admission stipulations and any disputes pursuant to the exhibit review
+                   as provided in section I.G.6.d).
+ 2
+             B.    The parties shall prepare a joint bullet list of (i) exhibits the parties stipulate to admit and
+ 3                 (ii) other issues or disputes (alternating by party) to raise with the Court at the 8:00 AM
+                   PT pretrial hearing. The list shall be in a form to be shared with the Court, should the
+ 4                 Court request.
+ 5   IV.     Trial Motions
+ 6           A.    Briefing in connection with any trial motion shall be limited to 5 pages maximum.
+ 7   V.      Juror Research
+ 8           A.    The parties agree not to access non-public information or non-public systems in
+                   researching specific potential jurors, including information or systems available only to
+ 9                 either any State or only to Meta. Only counsel of record, their associates and paralegals,
+                   and consultants working for counsel shall have access to the names of potential jurors and
+10                 jurors.
+11   VI.     Amendment of Deadlines
+12           A.    In the event that a modest adjustment of the schedule set forth in this trial procedure
+                   protocol is necessary (e.g., if a longer day in court necessitates more time to conduct that
+13                 day’s exchanges and/or filings), the parties will confer in good faith to agree upon a
+                   revised schedule. The parties will make their best efforts not to file matters requiring the
+14                 Court’s attention after 11:00 PM PT the day before the issue must be addressed.
+15
+
+16
+
+17
+
+18
+
+19
+             PURSUANT TO THIS STIPULATION, IT IS SO ORDERED.
+20
+
+21
+
+22           DATED: August 18, 2026                        __________________________________
+                                                           HON. YVONNE GONZALEZ ROGERS
+23
+                                                           CHIEF UNITED STATES DISTRICT JUDGE
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                          10
+                        STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                  4:22-md-03047-YGR
+       Case 4:22-md-03047-YGR        Document 3416        Filed 08/18/26      Page 11 of 15
+
+
+
+ 1   DATED: August 16, 2026                               Respectfully submitted,
+ 2                                                        By: /s/ Ashley M. Simonsen
+ 3
+                                                          Ashley M. Simonsen (Bar No. 275203)
+ 4                                                        COVINGTON & BURLING LLP
+                                                          1999 Avenue of the Stars
+ 5                                                        Los Angeles, California 90067
+                                                          Telephone: (424) 332-4800
+ 6
+                                                          Facsimile: (424) 332-4749
+ 7                                                        Email: asimonsen@cov.com
+
+ 8                                                        Paul W. Schmidt (pro hac vice)
+                                                          David Sneed (pro hac vice)
+ 9                                                        Timothy C. Hester (pro hac vice)
+                                                          COVINGTON & BURLING LLP
+10
+                                                          One City Center
+11                                                        850 Tenth Street, NW
+                                                          Washington, DC 20001-4956
+12                                                        Telephone: (202) 662-6000
+                                                          Facsimile: (202) 662-6291
+13                                                        Email: pschmidt@cov.com
+                                                          Email: dsneed@cov.com
+14
+
+15                                                        Brian L. Stekloff, pro hac vice
+                                                          WILKINSON STEKLOFF LLP
+16                                                        2001 M Street, NW
+                                                          Washington, DC 20036
+17                                                        Telephone: + 1 (202) 847-4030
+                                                          Email: bstekloff@wilkinsonstekloff.com
+18
+
+19                                                        Moira Penza, pro hac vice
+                                                          WILKINSON STEKLOFF LLP
+20                                                        130 W 42nd Street
+                                                          New York, NY 10036
+21                                                        Telephone: + 1 (212) 294-8914
+22                                                        Email: mpenza@wilkinsonstekloff.com
+
+23                                                        Attorneys for Defendants Meta Platforms, Inc.
+                                                          f/k/a Facebook, Inc
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                   11
+                    STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                              4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3416        Filed 08/18/26        Page 12 of 15
+
+
+
+ 1
+                                                       ROB BONTA
+ 2                                                     Attorney General
+ 3                                                     State of California
+
+ 4                                                     /s/ Megan O’Neill
+                                                       Nicklas A. Akers (CA SBN 211222)
+ 5                                                     Senior Assistant Attorney General
+                                                       Bernard Eskandari (SBN 244395)
+ 6                                                     Emily Kalanithi (SBN 256972)
+ 7                                                     Supervising Deputy Attorneys General
+                                                       Nayha Arora (CA SBN 350467)
+ 8                                                     Megan O’Neill (CA SBN 343535)
+                                                       Joshua Olszewski-Jubelirer (CA SBN
+ 9                                                     336428)
+                                                       Brendan Ruddy (CA SBN 297896)
+10
+                                                       Deputy Attorneys General
+11                                                     California Department of Justice
+                                                       Office of the Attorney General
+12                                                     455 Golden Gate Ave., Suite 11000
+                                                       San Francisco, CA 94102-7004
+13                                                     Phone: (415) 510-4400
+                                                       Fax: (415) 703-5480
+14
+                                                       Megan.Oneill@doj.ca.gov
+15
+                                                       Attorneys for Plaintiff the People of the State
+16                                                     of California
+17                                                     PHILIP J. WEISER
+                                                       Attorney General
+18
+                                                       State of Colorado
+19
+                                                       /s/ Krista Batchelder
+20                                                     Krista Batchelder, CO Reg. No. 45066,
+                                                       pro hac vice
+21                                                     Deputy Solicitor General
+22                                                     Shannon Stevenson, CO Reg. No. 35542, pro
+                                                       hac vice
+23                                                     Solicitor General
+                                                       Elizabeth Orem, CO Reg. No. 58309, pro hac
+24                                                     vice
+                                                       Assistant Attorney General
+25                                                     Colorado Department of Law
+26                                                     Ralph L. Carr Judicial Center
+                                                       Consumer Protection Section
+27                                                     1300 Broadway, 7th Floor
+                                                       Denver, CO 80203
+28                                                     Phone: (720) 508-6651
+                                                12
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3416        Filed 08/18/26      Page 13 of 15
+
+
+
+ 1                                                     krista.batchelder@coag.gov
+                                                       Shannon.stevenson@coag.gov
+ 2                                                     Elizabeth.orem@coag.gov
+ 3
+                                                       Attorneys for Plaintiff State of Colorado, ex
+ 4                                                     rel. Philip J. Weiser, Attorney General
+
+ 5                                                     RUSSELL COLEMAN
+                                                       Attorney General
+ 6                                                     Commonwealth of Kentucky
+ 7
+                                                       /s/ Philip Heleringer
+ 8                                                     J. Christian Lewis (KY Bar No. 87109),
+                                                       Pro hac vice
+ 9                                                     Philip Heleringer (KY Bar No. 96748),
+                                                       Pro hac vice
+10
+                                                       Zachary Richards (KY Bar No. 99209),
+11                                                     Pro hac vice
+                                                       Daniel I. Keiser (KY Bar No. 100264),
+12                                                     Pro hac vice
+                                                       Matthew Cocanougher (KY Bar No. 94292),
+13                                                     Pro hac vice
+                                                       Assistant Attorneys General
+14
+                                                       1024 Capital Center Drive, Suite 200
+15                                                     Frankfort, KY 40601
+                                                       CHRISTIAN.LEWIS@KY.GOV
+16                                                     PHILIP.HELERINGER@KY.GOV
+                                                       ZACH.RICHARDS@KY.GOV
+17                                                     DANIEL.KEISER@KY.GOV
+                                                       MATTHEW.COCANOUGHER@KY.GOV
+18
+                                                       Phone: (502) 696-5300
+19                                                     Fax: (502) 564-2698
+
+20                                                     Attorneys for Plaintiff the Commonwealth of
+                                                       Kentucky
+21
+
+22                                                     JENNIFER DAVENPORT
+                                                       Attorney General
+23                                                     State of New Jersey
+
+24                                                     /s/ Kashif T. Chand
+                                                       Kashif T. Chand (NJ Bar No. 016752008),
+25                                                     Pro hac vice
+26                                                     Assistant Attorney General
+                                                       Thomas Huynh (NJ Bar No. 200942017),
+27                                                     Pro hac vice
+                                                       Section Chief, Deputy Attorney General
+28                                                     Verna J. Pradaxay (NJ Bar No. 335822021),
+                                                13
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3416        Filed 08/18/26      Page 14 of 15
+
+
+
+ 1                                                     Pro hac vice
+                                                       Mandy K. Wang (NJ Bar No. 373452021),
+ 2                                                     Pro hac vice
+ 3                                                     Deputy Attorneys General
+                                                       New Jersey Office of the Attorney General,
+ 4                                                     Division of Law
+                                                       124 Halsey Street, 5th Floor
+ 5                                                     Newark, NJ 07101
+                                                       Tel: (973) 648-2052
+ 6                                                     Kashif.Chand@law.njoag.gov
+ 7                                                     Thomas.Huynh@law.njoag.gov
+                                                       Verna.Pradaxay@law.njoag.gov
+ 8                                                     Mandy.Wang@law.njoag.gov
+
+ 9                                                     Attorneys for Plaintiffs New Jersey Attorney
+                                                       General and the New Jersey Division of
+10
+                                                       Consumer Affairs Jennifer Davenport,
+11                                                     Attorney General for the State of New Jersey,
+                                                       and Jeremy E. Hollander, Acting Director of
+12                                                     the New Jersey Division of Consumer Affairs
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                14
+                 STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                           4:22-md-03047-YGR
+         Case 4:22-md-03047-YGR            Document 3416         Filed 08/18/26      Page 15 of 15
+
+
+
+ 1                                      SIGNATURE CERTIFICATION
+ 2          Under Civ. L.R. 5-1(i)(3), I, Ashley M. Simonsen, hereby attest that all signatories listed, and on
+ 3   whose behalf the filing is submitted, concur in this filing’s content and have authorized this filing.
+ 4
+
+ 5
+     DATED: August 16, 2026                                 /s/ Ashley M. Simonsen
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                          15
+                          STIPULATION AND UPDATED [PROPOSED] ORDER GOVERNING TRIAL PROTOCOL
+                                                    4:22-md-03047-YGR
+

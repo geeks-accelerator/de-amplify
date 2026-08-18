@@ -1,0 +1,194 @@
+                                       Case 4:22-md-03047-YGR               Document 3392      Filed 08/16/26      Page 1 of 3
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3                                       UNITED STATES DISTRICT COURT
+
+                                   4                                      NORTHERN DISTRICT OF CALIFORNIA
+
+                                   5
+
+                                   6      PEOPLE OF THE STATE OF CALIFORNIA, ET
+                                          AL.,                                               Case No. 4:23-cv-05448-YGR
+                                   7
+                                                      Plaintiffs,
+                                   8                                                         PRETRIAL ORDER NO. 8 RE: MOTIONS RE
+                                            v.                                               OPENINGS AND TO EXCLUDE, TRIAL
+                                   9                                                         PROTOCOLS, AND FURTHER BRIEFINGS
+                                          META PLATFORMS INC., ET AL.,
+                                  10
+
+                                  11                        Defendants.
+
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13
+                                                 Having considered the filings to date1 and argument heard at the hearing held on August
+                                  14
+                                       13, 2026 and for good cause shown, the Court issues the following orders for notice and to
+                                  15
+                                       facilitate an orderly trial:
+                                  16
+                                                 1.    Pretrial Motions: For reasons discussed on the record at the August 13, 2026
+                                  17
+                                       hearing, the plaintiffs’ motion to use exhibits in their opening statement (Dkt. No. 505) is
+                                  18
+                                       GRANTED.
+                                  19
+                                                 2.    The Court heard argument on defendant’s motion for spoliation sanctions (Dkt. No.
+                                  20
+                                       511). For reasons discussed further on the record, Meta’s request to exclude Bejar from testifying
+                                  21
+                                       at trial is DENIED. With respect to whether the Court will need to hold an evidentiary hearing to
+                                  22
+                                       determine whether a spoliation instruction is warranted, the Court has reviewed and considered the
+                                  23
+                                       four days of witness testimony that Bejar provided in the ongoing Tennessee trial and defendant’s
+                                  24
+                                       proffered legal authorities. The Court declines to conduct a hearing and the witness may testify in
+                                  25
+                                       the normal course.
+                                  26
+                                  27             1
+                                                As a reminder, all briefing related to this trial action shall reference docket numbers in
+                                  28   this docket, with the MDL docket number placed in parentheses.
+                                       Case 4:22-md-03047-YGR              Document 3392          Filed 08/16/26       Page 2 of 3
+
+
+
+
+                                   1            First, over the course of four days of trial, very little concerned any allegations of
+
+                                   2   recruitment. Rather, the issues focused on Bejar’s actual work at Meta; none of which is implicated
+
+                                   3   by the current allegations. Second, Meta does not have, in reality, a legal mechanism to enforce its
+
+                                   4   claim that Bejar was under a continuing obligation to preserve Signal communications. Meta did
+
+                                   5   not itself require an ongoing production; nor did it issue a follow up subpoena. Third, Meta has no
+
+                                   6   standing to enforce a subpoena issued by an attorney general. The scope and timing of subpoenas
+
+                                   7   are routinely negotiated by attorneys. Here, none of the negotiated arrangements are before the
+
+                                   8   Court. Nor is the Court inclined to assume what occurred in those negotiations for the benefit of a
+
+                                   9   non-involved party who has made no showing of standing or reliance, much less reliance actually
+
+                                  10   communicated to Bejar. Ultimately, it is obvious that this motion falls into the category of a “Hail
+
+                                  11   Mary” attempt to eliminate a strong witness for the plaintiffs. The attempt fails, and although Meta
+
+                                  12   can cross-examine Bejar, it cannot imply that a legal obligation to preserve those texts existed.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13            3.    Trial Protocols:
+
+                                  14            For reasons discussed more fully on the record, the parties shall file a revised protocol that
+
+                                  15   includes a bifurcated approach for addressing early exchange of witness binders, a five (5) page
+
+                                  16   maximum limit on briefing for trial motions, and advance notification to the Court of the
+
+                                  17   designation of adverse witnesses.
+
+                                  18            Further, having now reviewed the trial transcripts from the Tennessee trial, the parties are
+
+                                  19   reminded that (i) this Court does not allow sidebars, except in rare circumstances; (ii) a lawyer
+
+                                  20   must lay foundation for impeachment with prior testimony before such prior testimony can be read
+
+                                  21   in open court, and only after permission is provided. This trial is self-contained. Questions should
+
+                                  22   not make cross-reference to other trials unless and until impeachment is proper. The parties must
+
+                                  23   figure out in advance which issues may arise so that they can be addressed prior to the 8:30 a.m.
+
+                                  24   start with the jury. Given that this is not the first trial on similar issues, the parties should be able to
+
+                                  25   anticipate any concerns.
+
+                                  26            4.    Jury Instructions: The parties shall file by 12:00 P.M. on August 16, 2026 their
+
+                                  27   proposed jury instructions on Section 230.
+
+                                  28            5.    Privilege Dispute: For reasons discussed more fully on the record at the pretrial
+                                                                                            2
+                                       Case 4:22-md-03047-YGR             Document 3392         Filed 08/16/26       Page 3 of 3
+
+
+
+
+                                   1   conference, the parties are ORDERED to submit to the Court the deposition transcript and associated
+
+                                   2   exhibits subject to the parties’ privilege disputes with highlighting to identify (a) the material
+
+                                   3   defendant claims is privileged and (b) the material plaintiffs plan to raise at trial. The parties are
+
+                                   4   ORDERED to submit simultaneous briefing on the matter by no later than 12:00 P.M. on August 17,
+
+                                   5   2026. Each brief shall be no longer than ten (10) pages.
+
+                                   6           This Order terminates the following Dkt. Nos. in Case No. 23-cv-5448: 505 & 511; and
+
+                                   7   the following in Case No. 22-md-3047: 3324 & 3347.
+
+                                   8           IT IS SO ORDERED.
+
+                                   9    Dated: August 16, 2026
+
+                                  10                                                    ______________________________________
+                                                                                              YVONNE GONZALEZ ROGERS
+                                  11                                                   CHIEF UNITED STATES DISTRICT COURT JUDGE
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13
+
+                                  14
+
+                                  15
+
+                                  16
+
+                                  17
+
+                                  18
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28
+                                                                                           3
+

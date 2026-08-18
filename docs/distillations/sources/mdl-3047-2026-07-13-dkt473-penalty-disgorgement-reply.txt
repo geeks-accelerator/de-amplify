@@ -1,0 +1,349 @@
+     Case 4:23-cv-05448-YGR          Document 473        Filed 07/13/26      Page 1 of 6
+
+
+
+ 1   [Submitting Counsel on Signature Page]
+
+ 2
+ 3
+
+ 4
+ 5
+ 6
+
+ 7
+ 8                           IN THE UNITED STATES DISTRICT COURT
+ 9                       FOR THE NORTHERN DISTRICT OF CALIFORNIA
+10
+11   IN RE: SOCIAL MEDIA ADOLESCENT                     MDL No. 3047
+     ADDICTION/PERSONAL INJURY
+12   PRODUCTS LIABILITY LITIGATION                      Case No. 4:22-md-03047-YGR
+     ___________________________________                STATE AGS’ REPLY REGARDING
+13   THIS DOCUMENT RELATES TO:                          STATE AGS’ PENALTY AND
+14                                                      DISGORGEMENT CHARTS AND
+     4:23-cv-05448                                      SUPPORTING MATERIALS, ECF 444
+15                                                      (3218)
+
+16                                                      Judge: Hon. Yvonne Gonzalez Rogers
+
+17                                                      Magistrate Judge: Hon. Peter H. Kang
+
+18
+
+19
+20
+
+21
+22
+
+23
+
+24
+25
+
+26
+27
+
+28
+
+       STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                  ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+     Case 4:23-cv-05448-YGR            Document 473         Filed 07/13/26      Page 2 of 6
+
+
+
+ 1            Introduction.1 Meta devotes substantial attention to criticizing the potential size of the AGs’
+
+ 2   requested monetary relief. In doing so, Meta misstates the law and ignores evidence of the vast
+
+ 3   scope and gravity of its unlawful conduct. Pursuant to Court Order, ECF 462 (3244) at 1, the AGs
+
+ 4   focus this Reply on one of Meta’s erroneous arguments: that the AGs request double recovery. 2
+
+ 5            Meta’s concern over the potential size of the requested remedies rings hollow in light of the
+
+ 6   evidence the AGs will present at trial. The AGs will prove that Meta deceived the public about the
+
+ 7   safety of its platforms while deliberately designing them to induce compulsive use and increase
+
+ 8   revenue. For the four AGs bringing consumer protection claims in the August 2026 trial, the
+
+ 9   evidence will show almost 40 million monthly instances of teen users spending more than 2 hours
+
+10   per day, on average, on Instagram between January 2013 and March 2024—amounting to each
+
+11   such teen user spending roughly 60 hours per month on Instagram alone. AGs’ Submission, Ex. B.
+
+12   And despite Meta’s repeated claims that children under 13 (“U13s”) were not permitted on its
+
+13   platforms, the evidence will show that, from 2012 to 2023, more than 4.6 million U13s used
+
+14   Instagram and 3.9 million U13s used Facebook in those same four States. Id., Ex. A. Meta’s
+
+15   unlawful conduct poses serious risks for the development and mental health of youth who
+
+16   compulsively use its platforms, with lasting consequences for their families and communities.
+
+17            The AGs do not seek double recovery. The AGs do, however, insist on substantial remedies,
+
+18   as provided for under the law, in order to effectively punish, deter, and strip Meta—a company that
+
+19   accrued more than $200 billion in revenue in 2025 alone—of its ill-gotten gains from its unlawful
+
+20   activity. Ex. 1, Meta Platforms, Inc., Form 10-K, at 61 (Jan. 28, 2026).
+
+21            Meta’s arguments are premature. The AGs will present their final requests for monetary
+
+22   relief at trial, selecting remedies supported by the proof and consistent with the framework set forth
+
+23   in the AGs’ Submission on remedies. The AGs do not seek, and will not request, excessive recovery
+
+24   beyond what the law permits. The AGs are also mindful that the Court will not grant remedies that
+
+25
+
+26   1
+      Throughout this Reply, the “AGs’ Submission” refers to ECF 445-1 (3218-1) and exhibits, and
+     “Meta’s Submission” refers to ECF 456-1 (3238-1) and exhibits.
+27
+     2
+28    The AGs do not concede the legal or factual accuracy of the other arguments and positions in
+     Meta’s Submission.
+                                                    1
+         STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                    ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+     Case 4:23-cv-05448-YGR            Document 473        Filed 07/13/26      Page 3 of 6
+
+
+
+ 1   are improper under applicable legal standards.
+
+ 2            Meta misstates the law. Meta’s premise—that penalties are duplicative unless violations
+
+ 3   are limited to the number of offending acts or the number of people who viewed or relied upon
+
+ 4   deceptive statements—is incorrect. See AGs’ Submission at 8–9 (citing supportive cases and
+
+ 5   statutes). When counting violations, the factfinder looks to the evidence and “circumstances of the
+
+ 6   case,” and accounts for the reach, duration, repetition, or severity of the misconduct—not individual
+
+ 7   injury, loss, or reliance. People v. JTH Tax, Inc., 212 Cal. App. 4th 1219, 1251 (2013); see, e.g.,
+
+ 8   May Dep’t Stores Co. v. State ex rel. Woodard, 863 P.2d 967, 975 (Colo. 1993) (counting a
+
+ 9   violation for each day that a deceptive advertisement appeared); People v. Johnson & Johnson, 77
+
+10   Cal. App. 5th 295, 354 (2022) (violation counts need only be “reasonably related to the gain or the
+
+11   opportunity for gain achieved by the dissemination of the . . . deceptive advertisement” (internal
+
+12   quotation omitted)). Meta’s cases are inapposite, as they either do not pertain to statutory civil
+
+13   penalties or are limited to their facts. See, e.g., Granelli v. Chicago Title Ins. Co., 2012 WL
+
+14   2072648, at *11-12 (D.N.J. June 8, 2012) (equitable relief was duplicative where “direct
+
+15   damage[s]” wholly compensated the plaintiff for the economic injury); Ptaszynski v. Atl. Health
+
+16   Sys., Inc., 111 A.3d 111, 120 (N.J. Super. Ct. App. Div. 2015) (discussing damages, not statutory
+
+17   civil penalties); Lexton-Ancira Real Estate Fund, 1972 v. Heller, 826 P.2d 819, 823 (Colo. 1992)
+
+18   (same); Johnson & Johnson, 77 Cal. App. at 354 (“[s]ubsequent decisions interpreting Olson have
+
+19   concluded that . . . total circulation can be a reasonable method to determine the number of statutory
+
+20   violations”); People v. Ashford Univ., LLC, 100 Cal. App. 5th 485, 515 (2024) (California “courts
+
+21   have limited Jayhill to its facts”). Meta also ignores that under KRS 367.990, each unlawful act or
+
+22   practice is a separate violation as to each consumer to whom it was directed and each transaction
+
+23   in which it was employed. Finally, Meta’s due process argument is wholly speculative.
+
+24            The AGs do not seek double recovery. The AGs describe which remedies are sought for
+
+25   each cause of action below.
+
+26                  Remedy Chart 1.3 Remedy Chart 1 counts each unique teen and U13 on Meta’s
+27
+     3
+28    The AGs may separate Remedy Chart 1 into two separate charts—one that is specific to teens
+     and one that is specific to U13s—at trial, without changing the numbers or calculations.
+                                                      2
+         STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                    ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+     Case 4:23-cv-05448-YGR            Document 473        Filed 07/13/26      Page 4 of 6
+
+
+
+ 1                   platforms as a single violation, thereby measuring the reach of Meta’s unlawful
+                     conduct. Meta’s deceptive conduct was likely to mislead, or had a tendency or
+ 2                   capacity to mislead, each counted consumer (in addition to parents, regulators, and
+                     others not represented in these counts). Meta’s unfair business practices promoting
+ 3
+                     ineffective safety tools and unsafe features likewise apply to all consumers counted.
+ 4                   The number of unique teens and U13s also reasonably reflects Meta’s opportunity
+                     for gain from its unlawful conduct. See, e.g., ECF 267-1 (2783-1) at 34 (Meta’s
+ 5                   business depends on the number of users, retention, and engagement). The number
+                     of U13s also reflects violations arising from Meta’s collection of personal
+ 6                   information from children who visited its platforms that were directed to children,
+ 7                   and violations related to age verification.
+
+ 8                  Remedy Chart 2. This chart counts violations based on the monthly instances in
+                     which teen users spent more than 0.5, 1, or 2 hours per day on average on the
+ 9                   platforms in a given month. The AGs bring unfairness and deception claims, which
+                     stem from different misconduct. Remedy Chart 2 reflects an alternative way to count
+10
+                     violations for those claims regarding Meta’s unfair and deceptive conduct related to
+11                   the compulsive nature of Instagram or Facebook. The three time-threshold
+                     categories also provide alternative, not cumulative, bases to count violations. 4
+12
+                    Remedy Chart 3. Remedy Chart 3 reflects Meta’s unfair and deceptive practices
+13                   relating to the collection of U13s’ data, where Meta had actual knowledge the U13s
+                     were underage. These penalties are an alternative to the U13 person counts in
+14
+                     Remedy Chart 1 as to each of the four States. 5
+15
+                    Remedy Charts 4-6. While multiple claims entitle the AGs to disgorgement, the AGs
+16                   only seek to disgorge ill-gotten gains once. These charts reflect disgorgement related
+                     to (i) Meta’s unfair and deceptive conduct as to teens (Remedy Chart 4); (ii) its
+17                   unfair and deceptive conduct as to U13s (Remedy Chart 5); and (iii) violations of
+18                   COPPA (Remedy Chart 6). With respect to state law claims, the AGs seek
+                     disgorgement in addition to civil penalties, as is proper under the law. The AGs cite
+19                   authority supporting this position, see AGs’ Submission at 11, and Meta cites no
+                     contrary authority.
+20
+
+21   4
+       The AGs are unlikely to present the instances associated with the 0.5 hour threshold as a means
+22   of counting violations, but these instances provide meaningful context about teen usage patterns
+     relevant to penalty factors. See AG Submission at 9–10 (statutory penalty factors).
+23
+     5
+       Remedy Chart 3 does not double count Meta’s violations, as Meta suggests. Meta’s Submission
+24   at 25–26. As Meta concedes, violations can be counted based on each “separate, affirmative act.”
+     Id. at 10. COPPA prohibits “collect[ing] personal information from a child” without providing the
+25   required protections. 15 U.S.C. § 6502(a)(1). This Court has also recognized that “keep[ing] or
+     us[ing]” children’s data after obtaining actual knowledge violates COPPA. ECF 440 (3214) at 35.
+26   Thus, each time Meta collected, used, or maintained each piece of personal information from a
+     child after obtaining actual knowledge, Meta violated COPPA, and by extension, the state
+27   consumer protection laws. Despite this multitude of violative acts against each child, Remedy
+     Chart 3 counts only one violation for each child (or child’s account) affected by the unlawful act
+28   identified in Remedy Charts 3.A-3.D. Thus the AGs undercount Meta’s actual knowledge
+     violations, even if some of the same children are represented in more than one of Charts 3.A-3.D.
+                                                       3
+         STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                    ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+     Case 4:23-cv-05448-YGR          Document 473         Filed 07/13/26     Page 5 of 6
+
+
+
+ 1   Dated: July 13, 2026
+ 2   Respectfully submitted,
+ 3
+
+ 4   PHILIP J. WEISER                                       ROB BONTA
+     Attorney General                                       Attorney General
+ 5   State of Colorado                                      State of California
+ 6   /s/ Krista Batchelder                                  /s/ Nayha Arora
+ 7   Krista Batchelder, (CO Reg.45066), pro hac vice        Nicklas A. Akers (CA SBN 211222)
+     Deputy Solicitor General                               Senior Assistant Attorney General
+ 8   Shannon Stevenson (CO Reg. 35542), pro hac vice        Bernard Eskandari (CA SBN 244395)
+     Solicitor General                                      Emily Kalanithi (CA SBN 256972)
+ 9   Elizabeth Orem (CO Reg. 58309), pro hac vice           Supervising Deputy Attorneys General
+     Assistant Attorney General                             Megan O’Neill (CA SBN 343535)
+10   Colorado Department of Law                             Nayha Arora (CA SBN 350467)
+11   Ralph L. Carr Judicial Center                          Joshua Olszewski-Jubelirer
+     Consumer Protection Section                            (CA SBN 336428)
+12   1300 Broadway, 7th Floor                               Jordan Hefcart (CA SBN 366087)
+     Denver, CO 80203                                       Brendan Ruddy (CA SBN 297896)
+13   Phone: (720) 508-6384                                  Samantha Beckett (CA SBN 308456)
+     krista.batchelder@coag.gov                             Deputy Attorneys General
+14   Shannon.stevenson@coag.gov                             California Department of Justice
+15   Elizabeth.orem@coag.gov                                Office of the Attorney General
+                                                            455 Golden Gate Ave., Suite 11000
+16   Attorneys for Plaintiff State of Colorado, ex rel.     San Francisco, CA 94102-7004
+     Philip J. Weiser, Attorney General                     Phone: (415) 510-4400
+17                                                          Fax: (415) 703-5480
+                                                            megan.oneill@doj.ca.gov
+18
+
+19                                                          Attorneys for Plaintiff the People of the State
+                                                            of California
+20
+
+21
+22
+
+23
+
+24
+25
+
+26
+27
+
+28
+                                                      4
+      STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                 ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+     Case 4:23-cv-05448-YGR           Document 473         Filed 07/13/26      Page 6 of 6
+
+
+
+ 1
+
+ 2
+     RUSSELL COLEMAN                                        JENNIFER DAVENPORT
+ 3
+     Attorney General                                       Acting Attorney General
+ 4   Commonwealth of Kentucky                               State of New Jersey
+
+ 5   /s/ Matthew Cocanougher                                By: /s/ Kashif T. Chand
+     J. Christian Lewis (KY Bar No. 87109),                 Kashif T. Chand (NJ Bar No. 016752008),
+ 6   pro hac vice                                           Pro hac vice
+ 7   Philip Heleringer (KY Bar No. 96748),                  Assistant Attorney General
+     pro hac vice                                           Thomas Huynh (NJ Bar No. 200942017),
+ 8   Zachary Richards (KY Bar No. 99209),                   Pro hac vice
+     pro hac vice app. forthcoming                          Assistant Section Chief, Deputy Attorney
+ 9   Daniel I. Keiser (KY Bar No. 100264),                  General
+     pro hac vice                                           Verna J. Pradaxay (NJ Bar No. 335822021),
+10   Matthew Cocanougher (KY Bar No. 94292),                Pro hac vice
+11   pro hac vice                                           Mandy K. Wang (NJ Bar No. 373452021),
+     Assistant Attorneys General                            Pro hac vice
+12   1024 Capital Center Drive, Ste. 200                    Deputy Attorneys General
+     Frankfort, KY 40601                                    New Jersey Office of the Attorney General,
+13   Christian.Lewis@ky.gov                                 Division of Law
+     Philip.Heleringer@ky.gov                               124 Halsey Street, 5th Floor
+14   Zach.Richards@ky.gov                                   Newark, NJ 07101
+15   Daniel.Keiser@ky.gov                                   Tel: (973) 648-2052
+     Matthew.Cocanougher@ky.gov                             Kashif.Chand@law.njoag.gov
+16   Phone: (502) 696-5300                                  Thomas.Huynh@law.njoag.gov
+     Fax: (502) 564-2698                                    Verna.Pradaxay@law.njoag.gov
+17                                                          Mandy.Wang@law.njoag.gov
+     Attorneys for Plaintiff the Commonwealth of
+18
+     Kentucky                                               Attorneys for Plaintiffs Jennifer Davenport,
+19                                                          Acting Attorney General for the State of New
+                                                            Jersey, and Jeremy E. Hollander, Acting
+20                                                          Director of the New Jersey Division of
+                                                            Consumer Affairs
+21
+22
+
+23                                            ATTESTATION
+
+24
+              I, Jordan Hefcart, hereby attest, pursuant to N.D. Cal. Civil L.R. 5-1, that the concurrence
+25   to the filing of this document has been obtained from each signatory hereto.
+26
+     DATED: July 13, 2026
+27
+                                                     /s/ Jordan Hefcart
+28
+                                                       5
+       STATE AGS’ REPLY REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS,
+                                  ECF 444 (3218), 4:22-md-03047-YGR; 4:23-CV-05448-YGR
+
