@@ -616,26 +616,60 @@ match the ledger, was followed.
 
 ## The one thing that is not done
 
-**Production has not rebuilt since 2026-08-14, and nothing in this plan is live.**
+**Nothing in this plan is live.** The cause was diagnosed from the Railway deploy queue on
+2026-08-18 and it is **not** what this file first recorded. The first diagnosis is corrected below,
+because how it went wrong is worth keeping.
 
-Evidence, in the order it was gathered:
+### What is actually happening
 
-1. `/lawsuits/mdl-3047` serves the pre-merge text roughly fifteen minutes after merge, with cache-busting query strings.
-2. `cf-cache-status: DYNAMIC`, so Cloudflare is passing through to the origin. **This is not the edge-cache problem seen on `robots.txt`.**
-3. The sitemap still reports `lastmod 2026-08-13` for that route.
-4. Decisive: `/api/health` reports **`manifestGenerated: 2026-08-14`**. The dates manifest regenerated today is not in the running build.
+Deployment records map one to one onto the merge times:
 
-So the last deployed build is from PR #56. **PRs #57, #58 and #59 have all failed to deploy.** The
-first two were documentation only, which is why nothing looked wrong until a content change landed.
+| Commit | Merged | Deployment | Status |
+| --- | --- | --- | --- |
+| `c9b50b0` (PR #57) | 14:40 | `84a05b9e` | **SUCCESS**, healthcheck passed |
+| `483cb82` (PR #58) | 15:01 | `f4ff3f51` | **BUILDING for 40 minutes, zero build log lines** |
+| `cd05039` (PR #59) | 15:23 | `02808871` | QUEUED |
+| `ba9bbf5` (PR #60) | 15:35 | `e6d580ef` | QUEUED |
 
-This is exactly the failure mode the health endpoint was built for. `CLAUDE.md` records that a
-previous three-week outage was invisible without build-log access and is now one `curl`. That
-worked: four days of silent non-deployment were found in a single request.
+**The queue is head-of-line blocked.** One build wedged before its builder emitted a single line,
+and everything behind it waits, including the content change this plan exists to ship. A normal
+build here takes 45 seconds to 2 minutes and produces a full nixpacks log ending in a healthcheck.
 
-**Action required, and it is not something this repository can fix.** Check the Railway dashboard
-for failed builds since 2026-08-14. Note that `railway.toml` deletes the lockfile and resolves fresh
-from `package.json` on every deploy, so a transitive dependency could have moved under a caret range
-without any commit here. `npm ci` locally proves the lockfile tree, which is not what Railway builds.
+**The stuck build carries a single added markdown file.** PR #58 is the plan document and nothing
+else. That is the least demanding change this repository can produce, which is the strongest
+available evidence that the fault is in Railway's builder and not in anything about this repo.
+
+### The first diagnosis was wrong, and the way it was wrong is instructive
+
+This file originally recorded that PRs #57, #58 and #59 had all failed to deploy, inferred from
+`/api/health` reporting `manifestGenerated: 2026-08-14`.
+
+The health endpoint was telling the truth; **the inference drawn from it was not**. That field
+changes only when `content-dates.json` changes, and of those three pull requests only #59 touched
+it. A perfectly successful deploy of #57 leaves the field reading 2026-08-14. The observation was
+consistent with the conclusion and also consistent with the opposite, and it was treated as
+diagnostic anyway.
+
+**This is the same failure this repository documents twice already, in a third costume.** A search
+returning nothing is a claim about the query. A search returning something is not confirmation. And
+now: **a field that would not have changed under either hypothesis cannot distinguish between
+them.** The deploy queue was the evidence, and it took one command to read.
+
+The earlier hypothesis in this file, that a transitive dependency may have moved under a caret range
+because `railway.toml` deletes the lockfile before install, is **much less likely** and should not
+be chased first: #57 built successfully from the same `package.json` twenty minutes earlier, and the
+stuck build adds one markdown file.
+
+### What to do
+
+Cancel or retry the wedged build so the queue drains. `railway deployment redeploy` exists, and
+this repository holds the linked project. **That is an action on production infrastructure and was
+deliberately not taken here without a decision from the maintainer.** Once the queue drains, the
+content lands with no further work: the commits are already on `main` and CI is green on all of
+them.
+
+Verify afterwards with `/api/health`, whose `manifestGenerated` should read 2026-08-18, and by
+checking that `/lawsuits/mdl-3047` names Arturo Bejar.
 
 ## Follow-ups, in priority order
 
