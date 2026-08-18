@@ -9,7 +9,7 @@ export default function OgImage() {
   return ogCard({
     eyebrow: "mdl 3047 · n.d. california",
     title: "The federal social media addiction case",
-    chips: ["2,893 actions · jul 2026", "trial: aug 12 scheduled", "29 states"],
+    chips: ["2,893 actions · jul 2026", "trial opened aug 18", "29 states"],
     accent: "brake",
   });
 }

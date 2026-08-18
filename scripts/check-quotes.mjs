@@ -77,6 +77,23 @@ const LEDGERS = {
   "hearing-2024-01-31-big-tech-child-safety": { sources: ["CHRG-118shrg57444.txt"] },
   "hearing-2026-05-13-courtroom-to-congress": { sources: ["senate-2026-05-13-testimony-combined.txt"] },
   "hearing-2025-12-02-legislative-solutions": { sources: ["house-2025-12-02-testimony-combined.txt"] },
+  // MDL 3047, registered 2026-08-18 when the ledger acquired its first quoted
+  // spans from documents this repository can cache: the states' penalty and
+  // disgorgement reply, the trial-protocol order, the pretrial order, and the
+  // civil minutes for the opening trial day. SCOPED to the sections those four
+  // documents actually cover. The rest of this ledger quotes Meta's Dkt 455, the
+  // JPML reports and secondary coverage, none of which is cached, and scoping to
+  // where the quotes are rather than to what the cache covers is this check's own
+  // documented blind spot.
+  "mdl-3047": {
+    sources: [
+      "mdl-3047-2026-07-13-dkt473-penalty-disgorgement-reply.txt",
+      "mdl-3047-2026-08-16-dkt534-pretrial-order-8.txt",
+      "mdl-3047-2026-08-18-dkt549-trial-protocol.txt",
+      "mdl-3047-2026-08-18-dkt550-civil-minutes.txt",
+    ],
+    sections: ["(i) The trial itself, day one"],
+  },
   "new-mexico-v-meta": {
     // Two caches: the judgment, and the FTC release the judgment discusses. The
     // FTC one was added when a quote from it, correctly attributed in the ledger

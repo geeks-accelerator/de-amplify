@@ -347,3 +347,66 @@ directory must not live inside a namespace whose directory date is a published f
 `docs/research/` collides with no manifest key, so the same files there change no published date.
 The general rule, worth carrying to the next folder like this one: before adding a directory under
 `docs/`, check it against the keys in `content-dates.json`, not just against the file tree.
+
+---
+
+# The dedupe rule, added 2026-08-18
+
+**A `NEEDS-PRIMARY` tag is a statement about the source document. It is never a statement about
+this repository.**
+
+A single-source distillation is built from one document and is structurally blind to the project's
+existing record. When a file tags a claim `NEEDS-PRIMARY`, it means *that article* did not
+establish it. It does not mean the project has not established it, possibly months earlier, from a
+primary already cached here.
+
+So the tag is not a research queue. **Run a dedupe pass against the ledgers and the curated pages
+before any claim in this folder becomes work.** The record of the first such pass is
+`docs/research/dedupe-2026-08-18.md`.
+
+**Evidence that this matters.** `2026-08-17-cnbc.md` originally called its own S1 "the
+highest-value claim in the batch for this project" and tagged it `NEEDS-PRIMARY`. It was already
+established, already primary-verified, and already published, from a judgment already sitting in
+`docs/distillations/sources/`. The entry is kept, with a dated correction, because the error is
+more instructive than a clean file would be.
+
+**And the dedupe itself must be a reading pass, not a grep pass.** A keyword version was built,
+run, and rejected: five of its already-in-repo verdicts flipped when the hits were read in context.
+The hits were real and about different subjects. See the next section.
+
+## Both directions of the search rule
+
+`CLAUDE.md` teaches that **a search returning nothing is a claim about your query, not a fact about
+the record**, and requires a positive control before reporting an absence.
+
+The 2026-08-18 pass establishes the corollary: **a search returning something is not confirmation
+either.** On a corpus dense with dates, dollar figures and party names, the false-positive rate is
+high enough to make keyword triage useless. Five examples, all from one pass:
+
+| Looked resolved | Actually |
+| --- | --- |
+| The states' 200 billion figure | Hits were a hearing ledger quoting Meta's **revenue** |
+| A Ninth Circuit First Amendment ruling | Hits were California SB 976 and Section 230 doctrine |
+| Bejar as the states' first trial witness | Hits were his **2023 Senate testimony** |
+| KOSA advancing out of committee | Hits were a bill package at a 2025 House hearing |
+| Meta's filing of 2026-08-17 | Hits were an unrelated case sharing the date |
+
+## Four false nulls in one session, 2026-08-18
+
+A dated live instance of the rule `CLAUDE.md` already teaches, recorded because it recurred four
+times in a few hours and **every null agreed with a plausible expectation**, which is exactly why
+each was nearly believed:
+
+1. **A docket search returned zero.** CourtListener's `filed_after` filters the **case** filing date, not the docket entry date. On a case filed in 2023 it excludes the entire docket. The correct parameter is `entry_date_filed_after`.
+2. **A date regex returned zero.** It was written for a two-digit year against a page that writes `8/18/2026`.
+3. **A second date regex returned zero.** It was anchored to a standalone line; the dates sit mid-line.
+4. **A search of a filed witness list for the word "witness" returned zero.** The PDF has no text layer: 17 pages yielding about 1,200 characters, all CM/ECF header stamps, the body being images. Same failure class as the GPO TIFF problem documented for hearing transcripts.
+
+Number 4 is the instructive one. The positive control is what caught it: a document titled Witness
+List that contains no instance of "witness" is a broken extraction, not a finding. Without that
+control the file would have been recorded as not mentioning what it was named for.
+
+**A fifth, of a different kind, from the same session.** A browser navigation to a new query URL
+returned the previous query's results from cache, under the new URL. The page title still showed
+the old query. **Confirm the page actually reloaded before treating its content as a response to
+your question.**
