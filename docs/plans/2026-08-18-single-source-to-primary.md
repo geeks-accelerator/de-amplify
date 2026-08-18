@@ -1,7 +1,7 @@
 ---
 title: "Plan: taking the single-source corpus to primary sources, and publishing what survives"
 subtitle: "Sixteen distillations of the MDL 3047 trial coverage produced 112 claims tagged NEEDS-PRIMARY. This is the plan for resolving them in the cheapest defensible order, and for correcting the three flaws the first research pass exposed in the corpus itself."
-status: "DRAFTED 2026-08-18. Reconnaissance complete, nothing published. Phase 0 is partly done and already changed one answer: the corpus's self-declared highest-value lead was found to be established and published a week earlier. The trial docket is reached and confirmed live. One new posture fact surfaced that no source in the corpus carries."
+status: "EXECUTED 2026-08-18. All five phases complete and merged as PR #59 (cd05039), CI green. The plan's central prediction held and its central caution was vindicated: the New Mexico block was already established, and the bifurcation it warned against publishing turned out to be unconfirmable. Phase 2 produced a finding that reverses the press on the $200 billion figure. One item is NOT closed and is not closeable here: the site has not deployed since 2026-08-14, so none of this is live. See Part V."
 date: 2026-08-18
 site: "de-amplify.com"
 document: "Self-contained operational plan with a research brief. Every rule needed to execute is written here rather than linked, because a rule that is referenced but absent during execution gets violated. Every task names the artifact that closes it and the surface it would change."
@@ -15,17 +15,23 @@ sources:
 
 ## Status at a glance (2026-08-18)
 
-| Phase | State |
+| Phase | Outcome |
 | --- | --- |
-| **0. Dedupe against the ledgers** | Started. One high-value lead closed as already established. A keyword-only version of this pass was built and rejected as unreliable, see 0.1. |
-| **1. Cheap externals** | Not started. Four items, each a single fetch against an official source. |
-| **2. Docket work** | Route proven. Docket located, live, last filing 2026-08-18. No document fetched yet. |
-| **3. Corpus corrections** | Not started. Three defects, all in `docs/research/single-source/`. |
-| **4. Ledger-first re-seed and publish** | Blocked on 1 and 2. The only phase that changes a reader-facing surface. |
+| **0. Dedupe against the ledgers** | **DONE.** All 112 classified in `docs/research/dedupe-2026-08-18.md`. A fifth outcome had to be invented, `CACHE`, for claims closable from a primary already in this repository. |
+| **1. Cheap externals** | **DONE.** All four confirmed. **Three of the four needed a posture correction**, and in every case the primary was more useful than the report. |
+| **2. Docket work** | **DONE, and it reversed the reporting.** Six documents fetched, four cached. The $200 billion figure does not mean what four outlets said it means. |
+| **3. Corpus corrections** | **DONE.** All three applied; `check:distillations` caught the arithmetic drift the plan predicted it would. |
+| **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
+| **Deploy** | **BLOCKED, and not by this work.** Production has not rebuilt since 2026-08-14. |
 
-**Nothing here has been published.** No ledger, no `content/` page, no share card has been touched.
-The MDL ledger still carries `as_of: 2026-07-25` and still describes the August 18 openings in the
-future tense.
+**Everything here has been merged, and none of it is live.** The MDL ledger now carries
+`as_of: 2026-08-18` and describes the openings in the past tense, the curated pages are re-seeded,
+and the policy paper carries the French comparative point. The production site still serves the
+2026-08-14 build. That is an infrastructure fault, not a content one, and it is the single open
+item in this plan. See Part V, "The one thing that is not done".
+
+**Read Part V before acting on Parts I to IV.** Those parts are the plan as approved and are left
+unedited so the predictions can be checked against what happened. Part V is what happened.
 
 ---
 
@@ -475,3 +481,169 @@ Merging is what deploys. `main` is protected and takes pull requests, not direct
 - **The three commentary videos and the two Meta AI items** excluded from the broadcast batch. They sit four removes from the record and would file next to the wire-service distillation. If the project ever wants to study how the trial is narrated to large audiences, that is a separate corpus with its own output goal and its own directory.
 - **The attorneys general press conference**, still unobtained. YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. It is the highest-value item on the video list, being party officials on the record on an official channel, and it should be retried. The command is in the corpus README; check the resulting file size rather than the exit status, because a failed run leaves a zero-byte part file.
 - **Any change to the scorecard.** The seven brake-integrity criteria are held in lockstep with section 3 of the policy paper, and there is an open revision proposal. Nothing in this research bears on them, and the standard moves only when the paper does.
+
+---
+
+# Part V: what actually happened
+
+Written 2026-08-18 after execution. Parts I to IV are left exactly as approved so the plan's
+predictions can be graded against the outcome. This part is the record.
+
+Merged as PR #59, commit `cd05039`, all three CI jobs green.
+
+## The scoreboard against the plan's own predictions
+
+| The plan said | What happened |
+| --- | --- |
+| The New Mexico material would be the largest `ESTABLISHED` block | **Correct.** It was, and one of its claims was the corpus's self-declared top lead |
+| Phase 2 would shrink after the dedupe | **Correct.** 41 of 112 stayed genuinely open, collapsing onto roughly six documents |
+| Do not publish the bifurcation until an order confirms it | **Vindicated.** No order confirms it. Had it been published on the strength of the docket captions, the site would have asserted a trial structure the record does not establish |
+| Watch the posture on the French decision | **Vindicated twice over.** The posture was right in the coverage, and the *reasoning* was not, in a way that reverses the inference built on it |
+| Editing a Step 6 synthesis changes its word count and ratio | **Correct, and the guard caught it** within seconds of the edit |
+| Phase 1 was "the cheap externals" | **Half right.** They were cheap to fetch and three of four were wrong enough to need rewriting |
+
+## The findings, ordered by how much they change
+
+### 1. The $200 billion figure does not mean what the coverage says
+
+The states' reply on penalty and disgorgement charts (Dkt 473, 2026-07-13) uses "$200 billion" for
+**Meta's 2025 revenue**, cited to Meta's own Form 10-K, in a passage about the scale at which
+deterrence has to operate. The same filing says the AGs will present their final requests for
+monetary relief at trial and do not seek double recovery.
+
+Four outlets reported that number as the states' demand. Two placed it at a hearing in the week of
+August 10; one attributed it to a court filing.
+
+**The site publishes neither reading**, states what the filings show, and names the transcript
+(Dkt 540, not mirrored in the free archive) as the document that settles it. Recorded as ledger
+claims 22a to 22c and as an open Tension.
+
+**Why this matters beyond one number.** It is the *same defect* as the $1.4 trillion error this
+project already documents, running the other way. There, the defendant's exposure estimate became
+the plaintiffs' demand. Here, a revenue figure became a penalty. Two different numbers, two
+different directions, one mechanism: a large dollar amount in a filing gets attached to whichever
+party the story is about. That is now a documented pattern in this litigation's coverage, not a
+one-off.
+
+### 2. France argues for calibration, not against regulation
+
+Decision 2026-911 DC struck article 1 of the minors-protection law on freedom of expression grounds.
+The reasoning, at paragraph 17, is that the legislature could not institute a prohibition **of
+general scope**, imposed without regard to the individual minor's situation or to the risks
+specific to each service. **The defect was bluntness, not the attempt.**
+
+The corpus had inferred from the BBC summary that the speech objection to design mandates had
+succeeded in two legal systems. **That inference is wrong and was dropped rather than published.**
+
+What the two decisions say together is better for this project than what the inference claimed. New
+Mexico declined feed-design remedies because a court is the wrong instrument and because ordering
+one firm while its competitors are absent is unfair. France struck a legislature's answer because it
+was undifferentiated. The workable instrument is calibrated, service-specific and market-wide, which
+is a description of a standard and of neither a lawsuit nor a ban. It arrives from a jurisdiction
+with no Section 230 and no First Amendment, which is what makes it worth having.
+
+Added to section 4 of the policy paper as a deliberate edit to the review copy, body regenerated.
+
+### 3. Three of four "cheap" externals were mischaracterised in the coverage
+
+- **KOSA** was ordered to be reported favorably on **August 5**, not "last week", and with an amendment in the nature of a substitute, so the reported text is not the introduced text. No vote tally appears in the action record, so "bipartisan" is not publishable from it. The bill's 76 cross-party cosponsors are evidence about the bill, not about the committee vote.
+- **Meta's 10-Q** reports **$2.40 billion of charges related to legal proceedings**, an accrual. Both outlets called it money spent on legal expenses. The accurate version is worse for Meta: an accrual is the company's own estimate of what it expects to lose.
+- **Australia** imposes a platform duty to take reasonable steps, with carve-outs and a civil penalty, not a ban on users. For a project proposing a duty-shaped standard, describing the closest existing analogue as a ban would misrepresent it.
+
+### 4. The court's own minutes settled three things the press disagreed about
+
+Dkt 550 records that trial was held on 2026-08-18 for 5 hours 17 minutes, that the states' first
+witness was Arturo Bejar, and the names of counsel. One outlet in the corpus rendered the deputy
+attorney general's first name with an h. A court record outranks a newsroom.
+
+### 5. A fifth dedupe outcome had to be invented
+
+The plan specified three: `ESTABLISHED`, `OPEN`, `SUPERSEDED`. Execution needed **`CACHE`**, for a
+claim that is open against the ledgers but closable from a primary **already sitting in this
+repository**, with no external research at all.
+
+Four New Mexico age-assurance claims landed there. The ledger's own coverage note says the Age
+Assurance section is "not yet distilled", while the judgment containing it has been cached since
+2026-08-13. Reading it confirmed all four and surfaced something none of the coverage carried:
+at paragraph 142 the court adopted the age-assurance relief **proposed by Meta**, describing it as
+far from ideal or sufficient but most appropriate given its lack of jurisdiction over other parties.
+
+**A court calling the child-safety remedies it is granting inadequate, on the record, is stronger
+evidence for this site's thesis than the refusal at paragraphs 160 to 166.** The refusal says a
+court cannot reach the feed. This says that what a court *can* reach, it knows is not enough.
+
+That is now the highest-value unpublished item this project holds. It is not in this pass because
+distilling it belongs to the New Mexico ledger, not the MDL one. See the follow-up plan below.
+
+## Insights about the method, which are the durable part
+
+### The `NEEDS-PRIMARY` tag was doing two jobs and should do one
+
+Of 112 tagged claims, **22 were never research at all**: reporter framing, drafter inference,
+market commentary, editorial assertion, expectations about the future. They are correctly excluded
+from publication, and they should never have carried a tag that reads like a work queue.
+
+The tag conflates "this document did not establish it" with "someone should go and establish it".
+Those are different, and only the second is a task. The corpus README now carries the rule.
+
+### A hit is not confirmation, and this is now as documented as the null rule
+
+`CLAUDE.md` teaches that a search returning nothing is a claim about the query. This pass
+establishes the corollary in both directions. The keyword dedupe was built, run, and **rejected**:
+five of its already-in-repo verdicts flipped when read in context, because a corpus dense with
+dates, dollar figures and party names produces plausible false hits at a high rate.
+
+### Five false results in one session, every one of them agreeing with expectation
+
+Four nulls and one stale cache, recorded in the corpus README with mechanisms:
+
+1. `filed_after` on CourtListener filters the case date, not the entry date.
+2. A date regex written for a two-digit year against a page writing `8/18/2026`.
+3. A regex anchored to a standalone line where the dates sit mid-line.
+4. A search for "witness" in a filed **Witness List** returning zero, because the PDF has no text layer: 17 pages, about 1,200 characters, all CM/ECF header stamps. Same failure class as the GPO TIFF problem already documented for hearing transcripts.
+5. A browser navigation returning the previous query's results from cache under the new URL, with the old query still in the page title.
+
+Number 4 is the instructive one, and only the positive control caught it. A document titled Witness
+List containing no instance of "witness" is a broken extraction, not a finding.
+
+### Registering a ledger in `check:quotes` immediately earns its keep
+
+`mdl-3047` is now registered with four cached docket documents, taking the unguarded ledger count
+from three to two. Registration caught two spans on its first run: claim 37 was quoting **docket
+entry captions**, which are text on the docket listing and not in any document. The ledger was
+changed to describe them instead. The checker's own instruction, that the record is never edited to
+match the ledger, was followed.
+
+## The one thing that is not done
+
+**Production has not rebuilt since 2026-08-14, and nothing in this plan is live.**
+
+Evidence, in the order it was gathered:
+
+1. `/lawsuits/mdl-3047` serves the pre-merge text roughly fifteen minutes after merge, with cache-busting query strings.
+2. `cf-cache-status: DYNAMIC`, so Cloudflare is passing through to the origin. **This is not the edge-cache problem seen on `robots.txt`.**
+3. The sitemap still reports `lastmod 2026-08-13` for that route.
+4. Decisive: `/api/health` reports **`manifestGenerated: 2026-08-14`**. The dates manifest regenerated today is not in the running build.
+
+So the last deployed build is from PR #56. **PRs #57, #58 and #59 have all failed to deploy.** The
+first two were documentation only, which is why nothing looked wrong until a content change landed.
+
+This is exactly the failure mode the health endpoint was built for. `CLAUDE.md` records that a
+previous three-week outage was invisible without build-log access and is now one `curl`. That
+worked: four days of silent non-deployment were found in a single request.
+
+**Action required, and it is not something this repository can fix.** Check the Railway dashboard
+for failed builds since 2026-08-14. Note that `railway.toml` deletes the lockfile and resolves fresh
+from `package.json` on every deploy, so a transitive dependency could have moved under a caret range
+without any commit here. `npm ci` locally proves the lockfile tree, which is not what Railway builds.
+
+## Follow-ups, in priority order
+
+1. **Unblock the deploy.** Everything below is moot until production rebuilds.
+2. **Distil the New Mexico Age Assurance section** from the already-cached judgment into `docs/distillations/new-mexico-v-meta.md`, including the paragraph 142 finding that the court adopted Meta's own proposals while calling them far from ideal or sufficient. No external research required. Highest value per unit effort of anything remaining.
+3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension.
+4. **Confirm or drop the bifurcation** when an order addresses trial structure.
+5. **The Ninth Circuit First Amendment disposition**, still single-sourced to one newspaper and never located. It sits on the appellate docket, not the trial one.
+6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson.
+7. **The attorneys general press conference**, still unobtained: YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. Party officials on the record on an official channel outranks every secondary source in the corpus.
+8. **Author allowlists for the last two unguarded ledgers**, `california-state-bellwethers` and `tennessee-v-meta`.
