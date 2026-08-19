@@ -24,7 +24,8 @@ sources:
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
 | **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
 | **Implementation audit** | **DONE.** Eight findings, no factual error in the published record. Three reached a reader (a stale `Scheduled:` label on the hub, a ledger asserting both tenses, a reader summary never re-seeded); one was this repo's own documented blind spot reproduced (`check:quotes` scoped past the pass's most consequential claims); one census was wrong in every cell and is now machine-asserted. See Part V. |
-| **Deploy** | **BLOCKED, and not by this work.** One build wedged since 15:01 with zero log output, six queued behind it. **Not** a repo fault: the wedged build adds one markdown file. |
+| **Follow-up sweep** | **DONE.** Four closed, one found, three confirmed still open with the evidence. The Ninth Circuit opinion turned up at docket entry 541 and is not the First Amendment ruling its lead described. |
+| **Deploy** | **BLOCKED BY AN EXTERNAL OUTAGE.** The wedged build was cancelled via the Railway GraphQL API; the queue still will not serve, and Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`. Nothing here is a repo fault and nothing here is fixable from this side. Do not redeploy. |
 
 **Everything here has been merged, and none of it is live.** The MDL ledger now carries
 `as_of: 2026-08-18` and describes the openings in the past tense, the curated pages are re-seeded,
@@ -827,17 +828,90 @@ heading ("Mostly `NOT-RESEARCH`"). A parser has to over-assign or under-assign; 
 135. Its per-outcome counts are now labelled as the reading estimate they are, and the mechanical
 number lives in the corpus README where a checker asserts it.
 
+## The follow-up sweep, 2026-08-18 evening
+
+Every follow-up below was worked rather than left. Four closed, one was found and turned out not to
+be what its lead said, three are confirmed still open with the evidence for saying so, and the
+deploy has a cause at last.
+
+### The deploy was never a repo problem, and now it has a name
+
+`railway api` exposes the public GraphQL API, which the CLI's own subcommands do not reach, and it
+carries a `deploymentCancel` mutation. The build wedged since 15:01 was cancelled that way; it is
+gone from the queue. **The queue still does not drain**, and querying a queued deployment says why:
+
+    "queuedReason": "Deployment queued due to upstream GitHub issues"
+
+**Railway cannot fetch from GitHub.** That explains every symptom at once: a build that ran for
+nearly two hours without emitting one log line, deploys that queue and never start, and a repo whose
+CI is green on every commit. Nothing here is fixable from this side, and **each redeploy only
+lengthens the queue**, so stop triggering them.
+
+One thing was checked and found NOT to be a problem, which is worth recording because it looked
+like one. The service manifest reports `builder: RAILPACK` with `nixpacksConfigPath: null`, which
+would mean `nixpacks.toml` is dead config and the Node 20 pin that CI's build job exists to mirror
+is not applied. **It is applied.** The last successful build's log opens `using build driver
+nixpacks-v1.41.0` and prints a Nixpacks plan whose setup phase reads `nodejs_20, git`. The manifest
+shows dashboard-level service settings; `railway.toml` overrides them at build time, exactly as it
+does for the build command, start command and healthcheck, all three of which the same manifest
+also reports as null while plainly taking effect. **A field that disagrees with a config file is a
+question, not a finding**, and the build log is the positive control that answers it.
+
+### The Ninth Circuit opinion exists, and it is not a First Amendment ruling
+
+Follow-up 5 had sat single-sourced to one newspaper and "never located". It is **docket entry 541**,
+a **published** opinion filed **2026-08-10**, eight days before the trial opened.
+
+It is about **Section 230 and appellate jurisdiction**, not the First Amendment. The panel dismissed
+Meta's and TikTok's appeals, and the states' conditional cross-appeals, for lack of jurisdiction,
+holding that Section 230 is "a defense to liability, not immunity from suit" and so an order denying
+it fails the collateral-order test. Being published, that reading now binds the circuit.
+
+**The opinion records that "Meta does not identify any constitutional interests at stake."** So the
+lead's framing was wrong in the way this project's evidence rules exist to catch, and the ledger
+says so rather than quietly restating it. Whether a separate appellate ruling on Meta's First
+Amendment arguments exists is not established; what is established is that this is not it.
+
+Two things fell out of it that no one was looking for. A footnote denies **Meta's emergency motion
+to stay the trial** as moot, which is a second refusal to stay, in a second court, distinct from
+Pretrial Order No. 6. And the opinion **describes the district court's Section 230 rulings
+directly**, which closes most of a Tension open since 2026-07-24: the hub had been calling the
+narrowing background because nothing in the ledger anchored it. A federal appellate court's account
+is a better anchor than coverage and a weaker one than the orders, and the ledger now says exactly
+that. The order numbers are still missing.
+
+Now claims 38 to 42 of the ledger, section (j), with the opinion cached and all seven of its quoted
+spans verifying on the first run.
+
+### Three that are still open, and the evidence for saying so
+
+- **The trial transcript, Dkt 540, is still not in RECAP.** Probed 2026-08-18 along with entries 541 to 553. Positive control: Dkt 550, known present, returns HTTP 200 and 133 KB, so the query works. 540, 542, 543, 551, 552 and 553 return 404. **The $200 billion Tension stays open**, and it stays open for the reason the ledger already gives.
+- **Nothing establishes the bifurcation.** No order addressing trial structure appeared in that same probe. Claim 37 stands as written.
+- **Michigan's withdrawal is still sourced to one local station.** Michigan is absent from the Ninth Circuit caption, and **that is not evidence**: the caption is from an appeal docketed in 2024 and reflects the parties then. Recorded as checked, not as found. This is exactly the shape of a hit that is not confirmation.
+
+### The press conference failed the same way, which is now confirmed rather than remembered
+
+Retried with `yt-dlp`. YouTube advertises `en vtt` **automatic** captions for the recording and
+then serves no fragments: the run ends `ERROR: Did not get any data blocks` and leaves a
+**zero-byte** `.part` file. Unchanged from the first attempt, and the corpus README's instruction
+to check file size rather than exit status is what makes that legible.
+
+Worth noting what it would have been worth if it had worked. Automatic captions are `CAPTION-ASR`,
+and this corpus's own rule is that a `CAPTION-ASR` claim is **never** publishable. It would have
+been a pointer, useful mainly for asking whether the AGs said "$200 billion" out loud, and then the
+transcript would still have had to settle it.
+
 ## Follow-ups, in priority order
 
-1. **Unblock the deploy, and it is a dashboard action.** Cancel the build started 15:01, deployment `f4ff3f51-444c-4c03-bf72-1ac5e3360bc2`. Six deploys are queued behind it and the newest carries everything. The CLI cannot do this: `railway down` targets the most recent deployment, which is now a queued one carrying current content. **Everything below is moot until production rebuilds**, and nothing below requires a code change to make it possible. Verify with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If cancelling does not clear it, this is a Railway-side builder fault worth a support ticket: the wedged build adds a single markdown file, and PR #57 built from the same `package.json` twenty minutes earlier.
+1. ~~**Unblock the deploy.**~~ **The wedged build is cancelled and the cause is external.** Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`, so it cannot fetch the repository. **Wait, do not redeploy**; each attempt adds to a queue that is not being served. Verify when it clears with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If it is still queued after the GitHub incident resolves, that is the point at which a support ticket is warranted, and the ticket should say that the same project built successfully at 14:40 from the same `package.json`.
 2. ~~**Distil the New Mexico Age Assurance section.**~~ **DONE 2026-08-18**, see the second publication pass above. Ledger section (g.2), claims 49 to 54, plus a dated pass on the curated page.
-3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension.
-4. **Confirm or drop the bifurcation** when an order addresses trial structure.
-5. **The Ninth Circuit First Amendment disposition**, still single-sourced to one newspaper and never located. It sits on the appellate docket, not the trial one.
-6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson.
-7. **The attorneys general press conference**, still unobtained: YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. Party officials on the record on an official channel outranks every secondary source in the corpus.
-8. **Author allowlists for the last two unguarded ledgers**, `california-state-bellwethers` and `tennessee-v-meta`.
-9. **Cache Meta's Dkt 455** so section (e) of the MDL ledger can be scoped into `check:quotes` whole. Four spans there carry the `$1.4 trillion` framing, which is the most-quoted number on the site and currently rests on a 2026-07-16 by-eye verification of a PDF this repository does not keep. Until then `(e.1)` is guarded and `(e)` is not, and the split exists to make that visible rather than to hide it.
+3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension. Re-probed 2026-08-18 with a passing positive control: still 404.
+4. **Confirm or drop the bifurcation** when an order addresses trial structure. Nothing in entries 541 to 553 addresses it.
+5. ~~**The Ninth Circuit First Amendment disposition.**~~ **FOUND 2026-08-18**, at docket entry 541 on the trial docket rather than the appellate one, and it is a Section 230 appealability opinion, not a First Amendment ruling. Ledger claims 38 to 42. What remains open is narrower and worth naming: whether any separate appellate ruling on Meta's First Amendment arguments exists at all.
+6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson. Checked against the Ninth Circuit caption 2026-08-18; Michigan is absent from it, and that proves nothing, because the caption is from a 2024 appeal.
+7. **The attorneys general press conference**, still unobtained, and retried 2026-08-18 with the identical failure: `en vtt` automatic captions advertised, no fragments served, zero-byte `.part` file. Note before spending more on it that automatic captions are `CAPTION-ASR` and this corpus never publishes those, so the ceiling is a pointer.
+8. ~~**Author allowlists for the last two unguarded ledgers.**~~ **DONE 2026-08-18.** All eleven ledgers are registered; 483 spans; there is no unguarded ledger left. Registering them caught six defects and one bad cache.
+9. ~~**Cache Meta's Dkt 455.**~~ **DONE 2026-08-18**, and it caught two defects in the `$1.4 trillion` claims on its first run.
 10. **Consider whether hub prose needs any backstop.** `content/lawsuits.md` carried a stale posture label for as long as it did because nothing reads it: `check:surfaces` is deliberately scoped to share cards, `check:ledgers` checks only the four hand-copied TLDR variants, and prose is allowed to discuss scheduled things. This is a real gap and a blunt vocabulary gate over prose is a known bad answer here, one comment becoming a standing multi-file gate. Recorded as an open question, not a task.
 
 ### Parked, verified, waiting on a home

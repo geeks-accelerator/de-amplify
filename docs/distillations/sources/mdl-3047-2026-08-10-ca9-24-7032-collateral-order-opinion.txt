@@ -1,0 +1,1060 @@
+ase 4:22-md-03047-YGR     Document 3398        Filed 08/10/26    Page 1 of 2
+
+
+
+
+                         FOR PUBLICATION
+
+            UNITED STATES COURT OF APPEALS
+                 FOR THE NINTH CIRCUIT
+
+         PEOPLE OF THE STATE OF                   No. 24-7032
+         CALIFORNIA; STATE OF
+                                                   D.C. Nos.
+         KENTUCKY; STATE OF KANSAS,
+                                                4:23-cv-05448-
+         State of Kansas ex rel. Kris W.
+                                                     YGR
+         Kobach, Attorney General; STATE
+                                                4:22-md-03047-
+         OF ILLINOIS; STATE OF
+                                                     YGR
+         LOUISIANA; STATE OF SOUTH
+         CAROLINA, ex rel. Alan Wilson;
+         STATE OF INDIANA; STATE OF
+         WISCONSIN; STATE OF                       OPINION
+         COLORADO; STATE OF
+         CONNECTICUT; STATE OF NEW
+         JERSEY, Matthew J. Platkin,
+         Attorney General for the State of
+         New Jersey, and Cari Fais, Acting
+         Director of the New Jersey Division
+         of Consumer Affairs; STATE OF
+         NEBRASKA, ex rel. Michael T.
+         Hilgers, Attorney General; STATE
+         OF DELAWARE; STATE OF
+         MINNESOTA, by its Attorney
+         General, Keith Ellison; STATE OF
+         NORTH CAROLINA, ex rel Joshua
+         H. Stein Attorney General; STATE
+         OF PENNSYLVANIA; STATE OF
+         VIRGINIA; STATE OF NEW
+         YORK,
+ase 4:22-md-03047-YGR         Document 3398         Filed 08/10/26     Page 2 of 2
+
+         2        PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+
+
+                       Plaintiffs - Appellees,
+
+         STATE OF NORTH DAKOTA, ex
+         rel. Drew H. Wrigley, STATE OF
+         GEORGIA, ex rel. Christopher M.
+         Carr,
+
+                       Plaintiffs,
+
+             v.
+
+         META PLATFORMS, INC.; META
+         PAYMENTS, INC.; META
+         PLATFORMS TECHNOLOGIES,
+         LLC; INSTAGRAM, INC.,
+
+                       Defendants - Appellants.
+
+
+         PERSONAL INJURY PLAINTIFFS;                    No. 24-7037
+         LOCAL GOVERNMENT AND                            D.C. No.
+         SCHOOL DISTRICT PLAINTIFFS;                  4:22-md-03047-
+         MULTISTATE ATTORNEY                               YGR
+         GENERAL PLAINTIFFS;
+         FLORIDA OFFICE OF THE
+         ATTORNEY GENERAL,
+
+                       Plaintiffs - Appellees,
+
+             v.
+
+         META PLATFORMS, INC., f/k/a
+ase 4:22-md-03047-YGR     Document 3398         Filed 08/10/26      Page 3 of 2
+              PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.      3
+
+
+         Facebook, Inc.; META PAYMENTS,
+         INC.; META PLATFORMS
+         TECHNOLOGIES, LLC, f/k/a
+         Facebook Technologies, LLC;
+         INSTAGRAM, INC.; FACEBOOK
+         HOLDINGS, LLC; FACEBOOK
+         OPERATIONS, LLC; FACEBOOK
+         PAYMENTS, INC., is a Delaware
+         Corporation; SICULUS, INC., is a
+         Delaware Corporation,
+
+                    Defendants - Appellants,
+
+         SNAP INC., TIKTOK, INC., MARK
+         ZUCKERBERG, YOUTUBE, LLC,
+         GOOGLE LLC, ALPHABET INC.,
+         TIKTOK, LLC, TIKTOK, LTD.,
+         XXVI HOLDINGS INC, SKYLER
+         STANFORD, SAUL RODARTE,
+         BYTEDANCE, INC., ROBLOX
+         CORPORATION, DISCORD, INC.,
+         ADAM ANAYA, BYTEDANCE,
+         LTD., WHATSAPP, PUBLIC
+         SCHOOL DISTRICTS,
+
+                    Defendants.
+
+
+         STATE OF COLORADO,                         No. 24-7265
+                                                      D.C. No.
+                    Plaintiff - Appellant,         4:23-cv-05448-
+                                                        YGR
+         PEOPLE OF THE STATE OF
+ase 4:22-md-03047-YGR         Document 3398         Filed 08/10/26     Page 4 of 2
+
+         4        PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+         CALIFORNIA, STATE OF
+         KENTUCKY, STATE OF KANSAS,
+         STATE OF ILLINOIS, STATE OF
+         LOUISIANA, STATE OF SOUTH
+         CAROLINA, STATE OF INDIANA,
+         STATE OF WISCONSIN, STATE
+         OF PENNSYLVANIA, STATE OF
+         VIRGINIA, STATE OF NEW
+         YORK, STATE OF
+         CONNECTICUT, STATE OF NEW
+         JERSEY, STATE OF NEBRASKA,
+         STATE OF DELAWARE, STATE
+         OF MINNESOTA, STATE OF
+         NORTH CAROLINA,
+
+                       Plaintiffs,
+
+             v.
+
+         META PLATFORMS, INC.; META
+         PAYMENTS, INC.; META
+         PLATFORMS TECHNOLOGIES,
+         LLC; INSTAGRAM, INC.,
+
+                       Defendants - Appellees.
+
+
+         MULTISTATE ATTORNEY                            No. 24-7300
+         GENERAL PLAINTIFFS,                             D.C. No.
+                                                      4:22-md-03047-
+                       Plaintiff - Appellant,              YGR
+
+         PERSONAL INJURY PLAINTIFFS,
+ase 4:22-md-03047-YGR      Document 3398         Filed 08/10/26   Page 5 of 2
+
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.   5
+
+
+         LOCAL GOVERNMENT AND
+         SCHOOL DISTRICT PLAINTIFFS,
+         FLORIDA OFFICE OF THE
+         ATTORNEY GENERAL,
+
+                    Plaintiffs,
+
+          v.
+
+         META PLATFORMS, INC.; META
+         PAYMENTS, INC.; META
+         PLATFORMS TECHNOLOGIES,
+         LLC; INSTAGRAM, INC.;
+         FACEBOOK HOLDINGS, LLC;
+         FACEBOOK OPERATIONS, LLC;
+         FACEBOOK PAYMENTS, INC.;
+         SICULUS, INC.; ADAM ANAYA;
+         ALPHABET INC.; BYTEDANCE,
+         LTD.; BYTEDANCE, INC.;
+         DISCORD, INC.; GOOGLE LLC;
+         MARK ZUCKERBERG; PUBLIC
+         SCHOOL DISTRICTS; ROBLOX
+         CORPORATION; SAUL
+         RODARTE; SKYLER STANFORD;
+         SNAP INC.; TIKTOK, INC.;
+         TIKTOK, LLC; TIKTOK, LTD.;
+         WHATSAPP; XXVI HOLDINGS
+         INC; YOUTUBE, LLC,
+
+                    Defendants - Appellees.
+ase 4:22-md-03047-YGR         Document 3398         Filed 08/10/26     Page 6 of 2
+
+         6        PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+
+         PERSONAL INJURY PLAINTIFFS;                    No. 24-7304
+         LOCAL GOVERNMENT AND
+         SCHOOL DISTRICT PLAINTIFFS,                     D.C. No.
+                                                      4:22-md-03047-
+                       Plaintiffs - Appellants,            YGR
+
+         MULTISTATE ATTORNEY
+         GENERAL PLAINTIFFS,
+         FLORIDA OFFICE OF THE
+         ATTORNEY GENERAL,
+
+                       Plaintiffs,
+
+             v.
+
+         FACEBOOK HOLDINGS, LLC;
+         ADAM ANAYA; ALPHABET INC.;
+         BYTEDANCE, LTD.;
+         BYTEDANCE, INC.; DISCORD,
+         INC.; ROBLOX CORPORATION;
+         SAUL RODARTE; SKYLER
+         STANFORD; META PLATFORMS,
+         INC.; META PAYMENTS, INC.;
+         META PLATFORMS
+         TECHNOLOGIES, LLC;
+         INSTAGRAM, INC.; FACEBOOK
+         OPERATIONS, LLC; FACEBOOK
+         PAYMENTS, INC.; SICULUS,
+         INC.; GOOGLE LLC; MARK
+         ZUCKERBERG; PUBLIC SCHOOL
+         DISTRICTS; SNAP INC.; TIKTOK,
+         INC.; TIKTOK, LLC; TIKTOK,
+         LTD.; WHATSAPP; XXVI
+ase 4:22-md-03047-YGR      Document 3398         Filed 08/10/26     Page 7 of 2
+
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.     7
+
+
+         HOLDINGS INC; YOUTUBE, LLC,
+
+                    Defendants - Appellees.
+
+
+         PERSONAL INJURY PLAINTIFFS;
+         LOCAL GOVERNMENT AND                        No. 24-7312
+         SCHOOL DISTRICT PLAINTIFFS;                  D.C. No.
+         MULTISTATE ATTORNEY                       4:22-md-03047-
+         GENERAL PLAINTIFFS;                            YGR
+         FLORIDA OFFICE OF THE
+         ATTORNEY GENERAL,
+
+                    Plaintiffs - Appellees,
+
+          v.
+
+         BYTEDANCE, LTD.;
+         BYTEDANCE, INC.; TIKTOK,
+         INC.; TIKTOK, LLC; TIKTOK,
+         LTD.,
+
+                    Defendants - Appellants,
+
+         META PLATFORMS, INC., META
+         PAYMENTS, INC., META
+         PLATFORMS TECHNOLOGIES,
+         LLC, INSTAGRAM, INC.,
+         FACEBOOK HOLDINGS, LLC,
+         FACEBOOK OPERATIONS, LLC,
+         DISCORD, INC., GOOGLE LLC,
+         MARK ZUCKERBERG, PUBLIC
+         SCHOOL DISTRICTS, ROBLOX
+ase 4:22-md-03047-YGR         Document 3398           Filed 08/10/26       Page 8 of 2
+
+         8       PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+         CORPORATION, SAUL
+         RODARTE, SKYLER STANFORD,
+         SNAP INC., WHATSAPP, XXVI
+         HOLDINGS INC, YOUTUBE, LLC,
+         FACEBOOK PAYMENTS, INC.,
+         SICULUS, INC., ADAM ANAYA,
+         ALPHABET INC.,
+
+                       Defendants.
+
+               Appeal from the United States District Court
+                  for the Northern District of California
+          Yvonne Gonzalez Rogers, Chief District Judge, Presiding
+
+                    Argued and Submitted January 6, 2026
+                          San Francisco, California
+
+                             Filed August 10, 2026
+
+         Before: Jacqueline H. Nguyen and Mark J. Bennett, Circuit
+             Judges, and Kiyo A. Matsumoto, District Judge. *
+
+                           Opinion by Judge Nguyen
+
+
+
+
+         *
+           The Honorable Kiyo A. Matsumoto, United States District Judge for
+         the Eastern District of New York, sitting by designation.
+ase 4:22-md-03047-YGR          Document 3398            Filed 08/10/26        Page 9 of 2
+                 PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.            9
+
+
+                                   SUMMARY **
+
+
+              Appellate Jurisdiction / Collateral Order Doctrine
+
+             The panel dismissed for lack of appellate jurisdiction
+         appeals by Meta Platforms, Inc., and several related entities
+         (collectively, “Meta”) from the district court’s rulings
+         denying in part their motions to dismiss several claims based
+         on their asserted “immunity” under section 230 of the
+         Communications Decency Act.
+             Meta argued that rulings denying section 230 immunity
+         are “collateral” orders it can immediately appeal as of right
+         under 28 U.S.C. § 1291.
+            To satisfy the collateral order doctrine, a district court’s
+         decision must (1) conclusively determine the disputed
+         question; (2) resolve an important issue completely separate
+         from the merits of the action; and (3) be effectively
+         unreviewable on appeal from a final judgment. These three
+         requirements, derived from Cohen v. Beneficial Indus. Loan
+         Corp., 337 U.S. 541 (1949), are stringent.
+            The panel first addressed the third Cohen factor—
+         whether the order could be reviewed effectively after a
+         conventional final judgment. The panel explained that it was
+         important to distinguish between immunity from suit and
+         “immunity” that is a mere defense to liability. Immunity
+         from liability is a type of defense that can be protected by a
+         post-judgment appeal, and, therefore, a ruling denying it
+         does not meet the requirements for immediate appeal under
+
+         **
+           This summary constitutes no part of the opinion of the court. It has
+         been prepared by court staff for the convenience of the reader.
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 10 of
+        10     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        the collateral order doctrine. Because Meta did not identify
+        any constitutional interests at stake, any source of immunity
+        from suit must be section 230 itself. The panel rejected
+        Meta’s argument that although section 230 did not expressly
+        provide for immunity from suit, such immunity should be
+        implied. Accordingly, the panel held that section 230
+        provides a defense to liability, not immunity from suit, and
+        an order denying this defense can be effectively reviewed on
+        appeal from a final judgment. This was a sufficient basis to
+        conclude that the court lacked appellate jurisdiction.
+            The panel briefly explained why the other two Cohen
+        factors were not satisfied either. As for the first Cohen factor,
+        the district court’s decision did not conclusively determine
+        the disputed question because the district court indicated its
+        willingness to revisit the issue of section 230 immunity at a
+        later stage of the proceedings. Nor did the district court’s
+        decision satisfy the second Cohen factor by resolving an
+        important issue completely separate from the merits where a
+        determination of section 230 immunity necessarily involved
+        reviewing the content and context of the factual allegations
+        in the plaintiffs’ complaint.
+
+
+
+                                 COUNSEL
+
+        Shannon W. Stevenson (argued), Solicitor General; Jenna
+        Baker, Assistant Attorney General Fellow; Daniel Rheiner
+        and Michael McMaster, Assistant Solicitors General; Krista
+        Batchelder, Deputy Solicitor General; Philip J. Weiser,
+        Colorado Attorney General; Colorado Office of the Attorney
+        General, Denver, Colorado; Jennifer D. Bennett (argued),
+        Gupta Wessler LLP, San Francisco, California; Matthew
+se 4:22-md-03047-YGR      Document 3398         Filed 08/10/26    Page 11 of
+              PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.   11
+
+
+        W.H. Wessler and Michael Skocpol, Gupta Wessler LLP,
+        Washington, D.C.; Megan O'Neill and Marissa Roy, Deputy
+        Attorneys General; Bernard A. Eskandari, Supervising
+        Deputy Attorney General; Nicklas A. Akers, Senior
+        Assistant Attorney General; Rob Bonta, California Attorney
+        General; Office of the California Attorney General, San
+        Francisco, California; Ryan T. Costa, Deputy Director of
+        Consumer Protection; Marion M. Quirk, Director of
+        Consumer Protection; Kathleen Jennings, Delaware
+        Attorney General; Office of the Delaware Attorney General,
+        Wilmington, Delaware; Krislyn M. Launer, Assistant
+        Attorney General; William Tong, Connecticut Attorney
+        General; Office of the Connecticut Attorney General,
+        Hartford, Connecticut; Alex Hemmer, Deputy Solicitor
+        General; Kwame Raoul, Illinois Attorney General; Office of
+        the Illinois Attorney General, Chicago, Illinois; Corinne
+        Gilchrist, Section Chief, Consumer Litigation; Theodore E.
+        Rokita, Indiana Attorney General, Office of the Indiana
+        Attorney General, Indianapolis, Indiana; Kaley Schrader and
+        Sarah M. Dietz, Assistant Attorneys General; Kris W.
+        Kobach, Kansas Attorney General; Office of the Kansas
+        Attorney General, Topeka, Kansas; John H. Heyburn,
+        Principal Deputy Solicitor General; Russell Coleman,
+        Kentucky Attorney General; Office of Kentucky Attorney
+        General, Frankfort, Kentucky; Asyl Nachabe, Assistant
+        Attorney General, Consumer Protection Section, Public
+        Protection Division; Liz Murrill, Louisiana Attorney
+        General; Office of the Louisiana Attorney General, Baton
+        Rouge, Louisiana; Evan Romanoff, Assistant Attorney
+        General; Keith Ellison, Minnesota Attorney General; Office
+        of the Minnesota Attorney General, St. Paul, Minnesota;
+        Anna M. Anderson, Assistant Attorney General, Consumer
+        Protection Bureau; Michael T. Hilgers, Nebraska Attorney
+se 4:22-md-03047-YGR       Document 3398         Filed 08/10/26   Page 12 of
+        12     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        General; Office of the Nebraska Attorney General, Lincoln,
+        Nebraska; Kashif T. Chand, Assistant Attorney General,
+        Affirmative Civil Enforcement Practice Group; Matthew J.
+        Platkin, New Jersey Attorney General; Office of the New
+        Jersey Attorney General, Newark, New Jersey; Kevin
+        Wallace, Senior Enforcement Counsel; Maria Heifetz,
+        Assistant Attorney General; Letitia James, New York
+        Attorney General; Office of the New York Attorney
+        General, New York, New York; Sarah Boyce, General
+        Counsel; Joshua Abram, Special Deputy Attorney General;
+        Kunal J. Choksi, Senior Deputy Attorney General; Charles
+        G. White II, Assistant Attorney General; Jeff Jackson, North
+        Carolina Attorney General; Office of the North Carolina
+        Attorney General, Raleigh, North Carolina; Jonathan R.
+        Burns, Deputy Attorney General; David W. Sunday Jr.,
+        Pennsylvania Attorney General; Office of the Pennsylvania
+        Attorney General, Harrisburg, Pennsylvania; Jared Q. Libet,
+        Assistant Deputy Attorney General; Anna C. Smith,
+        Assistant Attorney General; Alan Wilson, South Carolina
+        Attorney General; Office of the South Carolina Attorney
+        General, Columbia, South Carolina; Joelle E. Gotwals,
+        Assistant Attorney General; Kevin M. Gallagher, Principal
+        Deputy Solicitor General; Jason S. Miyares, Virginia
+        Attorney General; Office of the Virginia Attorney General,
+        Richmond, Virginia; Colin R. Stroud and Kevin L.
+        Grzebielski, Assistant Attorneys General; Joshua L. Kaul,
+        Wisconsin Attorney General; Office of the Wisconsin
+        Attorney General, Madison, Wisconsin; Laura E. Dilweg,
+        Assistant Attorney General, Arizona Department of
+        Gaming, Phoenix, Arizona; Donna C. Valin, Bureau Chief,
+        Consumer Protection, Office of the Florida Attorney
+        General, Orlando, Florida; Jennie L. Anderson, Andrus
+        Anderson LLP, Oakland, California; Previn Warren and
+se 4:22-md-03047-YGR      Document 3398         Filed 08/10/26    Page 13 of
+              PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.   13
+
+
+        Abigail Burman, Motley Rice LLC, Washington, D.C.;
+        Mathew P. Jasinski, Motley Rice LLC, Hartford,
+        Connecticut; Lexi J. Hazam, Lieff Cabraser Heimann &
+        Bernstein LLP, San Francisco, California; Jason L.
+        Lichtman and Gabriel A. Panek, Lieff Cabraser Heimann &
+        Bernstein LLP, New York, New York; Andre M. Mura,
+        Gibbs Mura LLP, Oakland, California; for Plaintiffs-
+        Appellees.
+        James P. Rouhandeh (argued), Antonio Perez-Marques,
+        Corey M. Meyer, and Caroline Stern, Davis Polk &
+        Wardwell LLP, New York, New York; David Mattern and
+        Nicholas Mecsas-Faxon, King & Spalding LLP,
+        Washington, D.C.; Geoffrey M. Drake, King & Spalding
+        LLP, Atlanta, Georgia; Mark W. Mosier, Timothy C. Hester,
+        Phyllis A. Jones, and Paul W. Schmidt, Covington & Burling
+        LLP, Washington, D.C.; Nathan E. Shafroth, Covington &
+        Burling LLP, San Francisco, California; Joseph A.
+        Lawrence, Morrison & Foerster LLP, New York, New York;
+        Adam Anaya, Pro Se, Rio Rancho, New Mexico;
+        Christopher Chiou and Matthew K. Donohue, Wilson
+        Sonsini Goodrich & Rosati PC, Los Angeles, California;
+        Samantha A. Machock, Wilson Sonsini Goodrich & Rosati
+        PC, San Diego, California; Brian M. Willen, Wilson Sonsini
+        Goodrich & Rosati PC, New York, New York; Lauren G.
+        White, Wilson Sonsini Goodrich & Rosati PC, San
+        Francisco, California; Joseph G. Petrosinelli, Williams &
+        Connolly LLP, Washington, D.C.; Stephanie Schuster,
+        Morgan Lewis & Bockius LLP, Washington, D.C.; Anthony
+        Weibell, Mayer Brown LLP, Palo Alto, California; Cyrus
+        Mehri, Mehri & Skalet PLLC, Washington, D.C.; Ariel T.
+        Teshuva, Victoria A. Degtyareva, and Rose L. Ehler,
+        Munger Tolles & Olson LLP, Los Angeles, California;
+se 4:22-md-03047-YGR       Document 3398         Filed 08/10/26   Page 14 of
+        14     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        Jonathan H. Blavin, Munger Tolles & Olson LLP, San
+        Francisco, California; for Defendants-Appellants.
+        Roger J. Perlstadt and Ryan D. Andrews, Edelson PC,
+        Chicago, Illinois; Jimmy Rock, Edelson PC, Washington,
+        D.C.; Merideth C. Chaudoir, Assistant Attorney General;
+        Jonathan T. Rose, Solicitor General; Office of the Vermont
+        Attorney General, Montpelier, Vermont; Brandon H. Garod
+        and Kevin P.J. Scura, Senior Assistant Attorneys General,
+        Office of the New Hampshire Attorney General, Concord,
+        New Hampshire; Noah P. Watson, Deputy Solicitor General,
+        Office of the Arkansas Attorney General, Little Rock,
+        Arkansas; Aletheia V.P. Allen, Solicitor General, Office of
+        the New Mexico Attorney General, Santa Fe, New Mexico;
+        Gentner F. Drummond, Oklahoma Attorney General, Office
+        of the Oklahoma Attorney General, Oklahoma City,
+        Oklahoma; Andrea J. Campbell, Massachusetts Attorney
+        General, Office of the Massachusetts Attorney General,
+        Boston, Massachusetts; Lynn Fitch, Mississippi Attorney
+        General, Office of the Mississippi Attorney General,
+        Jackson, Mississippi; Stanford E. Purser, Solicitor General,
+        Office of the Utah Attorney General, Salt Lake City, Utah;
+        Madeline Clark and J. Matthew Rice, Solicitors General;
+        Office of the Tennessee Attorney General, Nashville,
+        Tennessee; Heidi P. Stern, Solicitor General; Aaron D. Ford,
+        Nevada Attorney General; Office of the Nevada Attorney
+        General, Las Vegas, Nevada; Brian L. Schwalb, Attorney
+        General for the District of Columbia, Office of the District
+        of Columbia Attorney General, Washington, D.C.; for Amici
+        Curiae Vermont, New Hampshire and Nine Other States.
+        Megan Iorio and Tom McBrien, Electronic Privacy
+        Information Center, Washington, D.C., for Amici Curiae
+        Electronic Privacy Information Center, Common Sense
+se 4:22-md-03047-YGR         Document 3398            Filed 08/10/26        Page 15 of
+                PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.           15
+
+
+        Media, Cybersecurity for Democracy, the Tech Justice Law
+        Project, and Legal Scholars.
+
+
+
+                                    OPINION
+
+        NGUYEN, Circuit Judge:
+
+            Meta Platforms, Inc., and several related entities
+        (collectively, “Meta”), 1 appeal the district court’s rulings
+        denying in part their motions to dismiss several claims based
+        on their asserted “immunity” under section 230 of the
+        Communications Decency Act (“CDA”), 47 U.S.C. § 230.
+        Because section 230 merely provides a defense to liability—
+        not immunity from suit—we lack appellate jurisdiction to
+        review the district court’s rulings on an interlocutory basis.
+        Therefore, we dismiss Meta’s and TikTok’s appeals and
+        plaintiffs’ conditional cross-appeals.
+                                          I.
+            We set forth the factual allegations and procedural
+        history only briefly given that the dispositive jurisdictional
+        issue turns on a question of law. The multidistrict litigation
+        in the district court involves thousands of lawsuits alleging
+        that Meta’s social media platforms Facebook and Instagram
+        “encourage addictive behavior, fail to verify users’ ages,
+        encourage adolescents to bypass parental controls, and
+
+
+        1
+          ByteDance Ltd. and other entities related to the TikTok app
+        (collectively, the “TikTok” entities) also appeal. The TikTok entities
+        have not independently briefed any of the issues and merely join in
+        Meta’s arguments.
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 16 of
+        16     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        inadequately safeguard against harmful content and/or
+        intentionally amplify harmful and exploitive content.”
+            The district court organized the litigation into five tracks:
+        (1) priority claims brought by individual plaintiffs for
+        personal injuries; (2) claims brought by state attorneys
+        general and three related non-priority claims brought by
+        individual plaintiffs; (3) the remaining non-priority claims
+        brought by individual plaintiffs; (4) claims brought by
+        school districts and local governments; and (5) claims
+        asserted against Meta CEO Mark Zuckerberg in his
+        individual capacity.
+            Meta moved to dismiss the first track claims under
+        Federal Rule of Civil Procedure 12(b)(1) and 12(b)(6).
+        Among other grounds for dismissal, Meta asserted immunity
+        under section 230. The district court granted the motion in
+        part and denied it in part, ruling that section 230 bars some
+        of the claims and only to the extent that they concern
+        allegedly defective platform features targeting Meta’s role
+        as a publisher of third-party content.
+            That ruling is not at issue. Meta moved the district court
+        to certify its order for interlocutory appeal under 28 U.S.C.
+        § 1292(b), arguing that there is substantial ground for
+        difference of opinion on the issue of section 230 immunity,
+        but the district court denied the motion.
+            Meanwhile, Meta moved to dismiss the fourth track
+        claims and most of the second track claims, arguing as
+        relevant here that section 230 bars these claims “in
+        substantial part.” The district court “generally denied” these
+        motions and allowed the claims to proceed, but it found that
+        section 230 provides “a fairly significant limitation” on the
+        claims at issue. As in the order regarding the first track
+        claims, the court found that the design and deployment of
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 17 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.       17
+
+
+        many platform features implicated Meta’s status as the
+        publisher of third-party content and that section 230 thus
+        bars some claims regarding those features.
+             This time, Meta did not seek the district court’s
+        permission to appeal on an interlocutory basis under
+        § 1292(b); Meta simply appealed. Meta now asserts that
+        rulings denying section 230 immunity are “collateral” orders
+        it can immediately appeal as of right under 28 U.S.C. § 1291.
+        The various groups of plaintiffs protectively cross-appealed
+        the partial grant of section 230 immunity, though they
+        dispute our jurisdiction and ask us to dismiss all the appeals.
+                                       II.
+            In general, “a party is entitled to a single appeal, to be
+        deferred until final judgment has been entered, in which
+        claims of district court error at any stage of the litigation may
+        be ventilated.” Dupree v. Younger, 598 U.S. 729, 734 (2023)
+        (quoting Quackenbush v. Allstate Ins. Co., 517 U.S. 706, 712
+        (1996)). This rule is enshrined in our primary jurisdictional
+        statute, which permits us to hear appeals from “final
+        decisions of the district courts.” 28 U.S.C. § 1291; see
+        Gopher Media LLC v. Melone, 154 F.4th 696, 701 (9th Cir.
+        2025) (en banc), cert. denied, No. 25-1067, 2026 WL
+        1717993 (U.S. June 15, 2026).
+            “A final decision ‘ends the litigation on the merits and
+        leaves nothing for the court to do but execute the
+        judgment.’” Hall v. Hall, 584 U.S. 59, 64 (2018) (quoting
+        Ray Haluch Gravel Co. v. Cent. Pension Fund of Operating
+        Eng’rs & Participating Emps., 571 U.S. 177, 183 (2014)).
+        An order denying a motion to dismiss—in whole or in part—
+        does not meet this criterion. See Boshears v. PeopleConnect,
+        Inc., 76 F.4th 858, 860 (9th Cir. 2023) (“Absent a final
+        judgment, we generally lack jurisdiction to review the denial
+se 4:22-md-03047-YGR       Document 3398          Filed 08/10/26      Page 18 of
+        18     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        of a Rule 12(b)(6) motion.” (citation omitted)). Rather, it is
+        a so-called “interlocutory order.” Such orders “do not
+        dispose of the whole case” and “are typically not
+        immediately appealable under § 1291.” Dupree, 598 U.S. at
+        734.
+            However, Congress enacted the final judgment rule with
+        an eye toward the “efficient administration of justice in the
+        federal courts,” Digit. Equip. Corp. v. Desktop Direct, Inc.,
+        511 U.S. 863, 868 (1994), so we afford § 1291 a “practical
+        construction,” id. at 867 (quoting Cohen v. Beneficial Indus.
+        Loan Corp., 337 U.S. 541, 546 (1949)). Under the collateral
+        order doctrine, we recognize “a narrow class of decisions
+        that do not terminate the litigation, but must, in the interest
+        of ‘achieving a healthy legal system,’ nonetheless be treated
+        as ‘final.’” Id. (citation omitted) (quoting Cobbledick v.
+        United States, 309 U.S. 323, 326 (1940)).
+            To satisfy the collateral order doctrine, a district court’s
+        decision must (1) “conclusively determine the disputed
+        question”; (2) “resolve an important issue completely
+        separate from the merits of the action”; and (3) “be
+        effectively unreviewable on appeal from a final judgment.”
+        Gopher Media, 154 F.4th at 701 (quoting Will v. Hallock,
+        546 U.S. 345, 349 (2006)). These three requirements,
+        derived from Cohen, “are stringent,” id. (quoting SolarCity
+        Corp. v. Salt River Project Agric. Improvement & Power
+        Dist., 859 F.3d 720, 724 (9th Cir. 2017)), lest “the ‘narrow’
+        exception . . . swallow the general rule,” Digit. Equip., 511
+        U.S. at 868 (quoting Richardson-Merrell, Inc. v. Koller, 472
+        U.S. 424, 430 (1985)). “If the order at issue fails to satisfy
+        any one of these requirements, it is not appealable under the
+        collateral-order exception to § 1291.”              Gulfstream
+        Aerospace Corp. v. Mayacamas Corp., 485 U.S. 271, 276
+        (1988).
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 19 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.       19
+
+
+             Meta contends that the district court’s denial of section
+        230 immunity is immediately appealable as a collateral
+        order. Because Meta’s argument turns on the third Cohen
+        factor—whether the district court’s decision is “effectively
+        unreviewable on appeal from a final judgment”—we address
+        it first.
+                                       A.
+             In determining whether an order can be reviewed
+        “effectively” after a conventional final judgment, “we do not
+        engage in an ‘individualized jurisdictional inquiry,’”
+        Mohawk Indus., Inc. v. Carpenter, 558 U.S. 100, 107 (2009)
+        (quoting Coopers & Lybrand v. Livesay, 437 U.S. 463, 473
+        (1978)), but instead focus on “the entire category to which a
+        claim belongs,” id. (quoting Digit. Equip., 511 U.S. at 868).
+        It is not enough that the issue involves a “right not to stand
+        trial” in the sense that the right “could be enforced
+        appropriately by pretrial dismissal.” Will v. Hallock, 546
+        U.S. 345, 351 (2006) (quoting Digit. Equip., 511 U.S. at
+        873). Because immediate appeals can damage “the efficient
+        and congressionally mandated allocation of judicial
+        responsibility” and open the door to “any improper purpose
+        the appellant might have . . . in saddling its opponent with
+        cost and delay,” we “view claims of a ‘right not to be tried’
+        with skepticism, if not a jaundiced eye.” Digit. Equip., 511
+        U.S. at 873.
+            “[W]hen asking whether an order is ‘effectively’
+        unreviewable if review is to be left until later,” Will, 546 U.S.
+        at 353, we evaluate “the interests that would be lost through
+        rigorous application of a final judgment requirement,” id. at
+        351–52 (quoting Digit. Equip., 511 U.S. at 879). An
+        immediate appeal will lie only if holding a trial would
+        “imperil a substantial public interest,” id. at 353, or “some
+se 4:22-md-03047-YGR       Document 3398          Filed 08/10/26      Page 20 of
+        20     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        particular value of a high order,” id. at 352. Interests of this
+        magnitude include “honoring the separation of powers,
+        preserving the efficiency of government and the initiative of
+        its officials, respecting a State’s dignitary interests, and
+        mitigating the government’s advantage over the individual.”
+        Id. at 352–53. “A right not to be tried in the sense relevant
+        to the Cohen exception” normally “rests upon an explicit
+        statutory or constitutional guarantee that trial will not
+        occur . . . .” Midland Asphalt Corp. v. United States, 489
+        U.S. 794, 801 (1989).
+            In this context, it is important to distinguish between
+        immunity from suit and “immunity” that is a mere defense
+        to liability. See Geo Grp., Inc. v. Menocal, 607 U.S. 438,
+        447 (2026) (describing this distinction as “a ready way of
+        determining whether the denial of a request to dismiss a case
+        can satisfy Cohen’s third condition for interlocutory
+        review”). A party asserting immunity from suit “‘makes no
+        challenge’ to ‘the merits of the charge against him’” and
+        “need never say he followed the law, because his claim of
+        immunity does not turn on his conduct’s legality.” Id. at 445
+        (quoting Abney v. United States, 431 U.S. 651, 659 (1977)).
+        Immunity from suit “would be ‘effectively lost if a case is
+        erroneously permitted to go to trial.’” Nunag-Tanedo v. E.
+        Baton Rouge Par. Sch. Bd., 711 F.3d 1136, 1140 (9th Cir.
+        2013) (quoting Mitchell v. Forsyth, 472 U.S. 511, 526
+        (1985)).
+            Immunity from liability is “fundamentally different.”
+        Menocal, 607 U.S. at 445. Broadly speaking, “a party
+        asserting a merits defense in a lawsuit” “advances some
+        reason why his conduct was not unlawful—or said
+        otherwise, why under the law he did nothing wrong.” Id.
+        This type of defense “can be protected by a post-judgment
+        appeal,” and a ruling denying it therefore “do[es] not meet
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 21 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.       21
+
+
+        the requirements for immediate appeal under the collateral-
+        order doctrine.” SolarCity, 859 F.3d at 725.
+                                       1.
+            Meta does not identify any constitutional interests at
+        stake. It acknowledges that, but for any “immunity from
+        liability for publishing . . . material . . . provided by another
+        party” that section 230 accords, it would not be “treated
+        differently from corresponding publishers in print, television
+        and radio.” Carafano v. Metrosplash.com, Inc., 339 F.3d
+        1119, 1122 (9th Cir. 2003). Consequently, the source of any
+        immunity from suit must be section 230 itself. Although
+        section 230 does not expressly provide for immunity from
+        suit, Meta argues that such immunity should be implied. We
+        disagree.
+                                       a.
+            Meta first points to the second sentence of section
+        230(e)(3), which provides: “Nothing in this section shall be
+        construed to prevent any State from enforcing any State law
+        that is consistent with this section. No cause of action may
+        be brought and no liability may be imposed under any State
+        or local law that is inconsistent with this section.” 47 U.S.C.
+        § 230(e)(3) (emphasis added).
+             Section 230(e) addresses the statute’s “[e]ffect on other
+        laws.” Id. § 230(e). The statute has “[n]o effect” on federal
+        criminal law, id. § 230(e)(1), federal and state laws
+        regarding intellectual property and communications privacy,
+        id. § 230(e)(2), (4), or federal civil actions and state criminal
+        prosecutions for sex trafficking, id. § 230(e)(5). Section
+        230(e)(3) similarly provides that the statute has no effect on
+        the enforcement of “any State law that is consistent with . . .
+        section [230].” Id. § 230(e)(3). Its restriction on “any State
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 22 of
+        22     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        or local law that is inconsistent with . . . section [230],” id.,
+        is simply a preemption provision. See HomeAway.com, Inc.
+        v. City of Santa Monica, 918 F.3d 676, 681 (9th Cir. 2019)
+        (explaining that section 230(e)(3) “explicitly preempts
+        inconsistent state laws”).
+            Meta argues that the phrase “[n]o cause of action may be
+        brought” implies immunity from suit because reading it to
+        provide immunity from liability would render the phrase “no
+        liability may be imposed” superfluous. Id. § 230(e)(3). Not
+        necessarily. Congress may have included “cause of action”
+        to encompass suits for injunctive and declaratory relief,
+        since “liability” could be read to encompass only damages.
+        At the same time, Congress may have prohibited the
+        imposition of “liability” to encompass orders by state
+        administrative agencies, which may not involve causes of
+        action. Whatever Congress’s reason for including both
+        phrases, “sometimes the better overall reading of the statute
+        contains some redundancy,” Atl. Richfield Co. v. Christian,
+        590 U.S. 1, 14 n.5 (2020) (simplified) (quoting Rimini St.,
+        Inc. v. Oracle USA, Inc., 586 U.S. 334, 346 (2019)), such as
+        when “Congress employed a belt and suspenders approach
+        to make sure that all . . . lawsuits” are covered, id.
+            Section 230(e)(3) plainly contains some intentional
+        redundancy—the first sentence permits “consistent” state
+        laws while the second sentence prohibits “inconsistent”
+        ones. The drafting history adds weight to the view that
+        Congress employed a belt and suspenders approach. In the
+        House bill, where section 230 originated, subsection (e)(3)
+        contained only the first sentence. See H.R. 1555, amend.
+        744, 104th Cong. (1995), 141 Cong. Rec. H8469 (daily ed.
+        Aug. 4, 1995). In reconciling a competing bill, the Senate
+        adopted the House proposal “with minor modifications,”
+        including what is now the second sentence. S. Rep. No. 104-
+se 4:22-md-03047-YGR       Document 3398         Filed 08/10/26      Page 23 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.     23
+
+
+        230, at 194 (1996) (Conf. Rep.). It would be surprising if
+        these “minor modifications” included the addition of
+        immunity from suit.
+                                      b.
+            Meta also points to the policy statements in subsection
+        (b) and the substantive protection in subsection (c)(1),
+        arguing that they help clarify “that Congress intended that
+        the statute afford interactive computer service providers with
+        immunity from suit.” But Meta does not explain how these
+        provisions reveal an intent to provide immunity from suit as
+        opposed to a defense to liability.
+            In enacting section 230, Congress sought, among other
+        things, to “promote the continued development of . . .
+        interactive computer services,” 47 U.S.C. § 230(b)(1),
+        “preserve the vibrant and competitive free market” for such
+        services “unfettered by Federal or State regulation,” id.
+        § 230(b)(2), “encourage . . . technologies which maximize
+        user control over . . . information,” id. § 230(b)(3), and
+        “remove disincentives for . . . technologies that empower
+        parents to restrict their children’s access to objectionable or
+        inappropriate online material,” id. § 230(b)(4). In particular,
+        Congress was concerned with judicial decisions against
+        service providers that, having voluntarily removed some
+        offensive third-party content from their networks, became
+        liable for the third-party content that they failed to remove.
+        See Fair Hous. Council of San Fernando Valley v.
+        Roommates.com, LLC, 521 F.3d 1157, 1163 (9th Cir. 2008)
+        (en banc). These decisions “created a perverse incentive not
+        to moderate any offensive content,” Calise v. Meta
+        Platforms, Inc., 103 F.4th 732, 739 (9th Cir. 2024), and
+        Congress wanted to create Good Samaritan protections for
+        service providers who moderated third party content in good
+se 4:22-md-03047-YGR        Document 3398          Filed 08/10/26      Page 24 of
+        24     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        faith, see Roommates.com, 521 F.3d at 1163; see also S. Rep.
+        No. 104-230, at 194.
+            To that end, Congress provided that “[n]o provider or
+        user of an interactive computer service shall be treated as the
+        publisher or speaker of any information provided by another
+        information content provider.” Id. § 230(c)(1). This
+        substantive protection “describes a defense, not an
+        immunity.” Menocal, 607 U.S. at 449.
+            Section 230(c)(1) pointedly does not provide immunity
+        to internet service providers per se. See Calise, 103 F.4th at
+        740 (observing that the statute “does not ‘declare a general
+        immunity from liability deriving from third-party content.’”
+        (simplified) (quoting Barnes v. Yahoo!, Inc., 570 F.3d 1096,
+        1100 (9th Cir. 2009))). It merely renders certain conduct
+        lawful. See Roommates.com, 521 F.3d at 1163 (“Section
+        230 provides . . . protections from civil liability for providers
+        of an interactive computer service for actions to restrict
+        access to objectionable online material.” (simplified)
+        (quoting H.R. Rep. No. 104-458 (1996) (Conf. Rep.)));
+        Barnes, 570 F.3d at 1105 (“[Section 230(c)(1)] shields from
+        liability all publication decisions, whether to edit, to remove,
+        or to post, with respect to content generated entirely by third
+        parties.”). Service providers continue to face liability for
+        “the creation of content.” Roommates.com, 521 F.3d at
+        1163; see 47 U.S.C. § 230(e). Courts must “examine each
+        claim to determine whether a plaintiff’s ‘theory of liability
+        would treat a defendant as a publisher or speaker of third-
+        party content.’” Calise, 103 F.4th at 740 (quoting Barnes,
+        570 F.3d at 1101).
+            When Congress wants to create immunity from suit, it
+        knows how to say so unequivocally. See, e.g., 15 U.S.C.
+        § 37(b) (providing that “any person subjected to any legal
+se 4:22-md-03047-YGR        Document 3398           Filed 08/10/26       Page 25 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.         25
+
+
+        proceeding for . . . relief of any kind” for certain activities
+        “shall have immunity from suit under the antitrust laws,
+        including the right not to bear the cost, burden, and risk of
+        discovery and trial”); Ozee v. Am. Council on Gift Annuities,
+        Inc., 143 F.3d 937, 940 (5th Cir. 1998) (explaining that
+        Congress enacted § 37(b) to allow interlocutory appeals);
+        see also, e.g., 42 U.S.C. § 247d-6d(a)(1) (“PREP Act”) (“[A]
+        covered person shall be immune from suit and liability under
+        Federal and State law . . . .”); Hampton v. California, 83
+        F.4th 754, 762 (9th Cir. 2023) (holding that “[a] denial of
+        PREP Act immunity . . . satisfies the collateral order
+        doctrine’s requirements” in part “because the PREP Act
+        confers complete immunity from suit”), cert. denied sub
+        nom., Diaz v. Polanco, 144 S. Ct. 2520 (2024).
+            Meta asserts that if Congress had merely intended to
+        enact immunity from liability, “it could have explicitly done
+        so.” Perhaps. But that turns the presumption against an
+        immediate appeal on its head. Statutory immunity from suit
+        is “a rare form of protection,” Digit. Equip., 511 U.S. at 879,
+        and any “statutory . . . guarantee that trial will not occur”
+        must be “explicit,” id. at 874 (quoting Midland Asphalt, 489
+        U.S. at 801), or at least invoke a right that “rise[s] to the level
+        of importance needed for recognition under § 1291,” id. at
+        878. Section 230 satisfies neither criterion. Cf. Wyatt v.
+        Cole, 504 U.S. 158, 168 (1992) (declining to extend to
+        private parties the qualified immunity from suit that
+        government officials may invoke for actions taken in good
+        faith because “the public interest will not be unduly impaired
+        if private individuals are required to proceed to trial to
+        resolve their legal disputes”).
+se 4:22-md-03047-YGR           Document 3398              Filed 08/10/26          Page 26 of
+        26      PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+                                            2.
+            Meta argues that this court “has repeatedly held that
+        Section 230 confers immunity from suit.” It is true that we
+        have used the phrase “immunity” somewhat loosely in our
+        section 230 jurisprudence; although we generally describe it
+        as “immunity from liability,” 2 we sometimes describe it as
+        “immunity from suit.”3 But none of this usage is binding,
+        because we have never addressed whether the denial of a
+        section 230 defense is a collateral order. See Rinnai Am.
+        Corp. v. S. Coast Air Quality Mgmt. Dist., No. 25-5129,
+        2026 WL 1912093, at *10 (9th Cir. July 2, 2026) (“Cases are
+        not precedential for propositions not considered, or for
+        matters that are simply assumed.” (quoting United States v.
+        Kirilyuk, 29 F.4th 1128, 1134 (9th Cir. 2022))).
+
+
+
+        2
+         See, e.g., Doe 1 v. Meta Platforms, Inc., 174 F.4th 1159, 1166–67 (9th
+        Cir. 2026); Doe v. Grindr Inc., 128 F.4th 1148, 1151 (9th Cir. 2025),
+        cert. denied, 146 S. Ct. 319 (2025); Children’s Health Def. v. Meta
+        Platforms, Inc., 112 F.4th 742, 761 (9th Cir. 2024), cert. denied, 145 S.
+        Ct. 2846 (2025); Est. of Bride ex rel. Bride v. Yolo Techs., Inc., 112 F.4th
+        1168, 1179 (9th Cir. 2024), cert. denied, 145 S. Ct. 1435 (2025); Calise,
+        103 F.4th at 736; Enigma Software Grp. USA, LLC v. Malwarebytes,
+        Inc., 946 F.3d 1040, 1044 (9th Cir. 2019); Roommates.com, 521 F.3d at
+        1162; Batzel v. Smith, 333 F.3d 1018, 1034 (9th Cir. 2003), overruled on
+        other grounds by Gopher Media, 154 F.4th at 701.
+        3
+          See, e.g., Lemmon v. Snap, Inc., 995 F.3d 1085, 1087, 1090 (9th Cir.
+        2021) (describing section 230(c)(1) as immunity “from . . . suit” and
+        “from liability”); Barnes, 570 F.3d at 1099–1100 (stating that section
+        230 “protects certain internet-based actors from certain kinds of
+        lawsuits” and that it “protects from liability”); Zango, Inc. v. Kaspersky
+        Lab, Inc., 568 F.3d 1169, 1173, 1175 (9th Cir. 2009) (describing the
+        statute as “plainly immuniz[ing] from suit” and providing
+        “protection . . . for civil liability”); Carafano, 339 F.3d at 1122, 1125
+        (referring to “immunity from liability” and “immunity from suit”).
+se 4:22-md-03047-YGR       Document 3398         Filed 08/10/26      Page 27 of
+               PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.     27
+
+
+            The closest we have come was in Boshears, where we
+        dismissed for lack of appellate jurisdiction an interlocutory
+        appeal from the denial of section 230 immunity. See 76
+        F.4th at 862. But the appellant did not invoke the collateral
+        order doctrine, see id. at 860, and we did not independently
+        consider it, so Boshears also does not resolve the
+        jurisdictional question here. See Magana-Magana v. Bondi,
+        129 F.4th 557, 566 n.5 (9th Cir. 2025); see also Steel Co. v.
+        Citizens for a Better Env’t, 523 U.S. 83, 91 (1998)
+        (explaining that unexamined jurisdictional assumptions
+        “have no precedential effect”).
+            Only the Tenth Circuit has squarely addressed the issue
+        before us, and it concluded that section 230 “provides
+        immunity from liability, not suit, and [a] district court’s
+        order [denying immunity] does not qualify under the
+        collateral order doctrine.” Gen. Steel Domestic Sales, LLC
+        v. Chumley, 840 F.3d 1178, 1179–80 (10th Cir. 2016).
+        Chumley rested on the lack of “an explicit statutory or
+        constitutional guarantee that trial will not occur,” id. at
+        1181–82 (quoting Midland Asphalt, 489 U.S. at 801), and
+        the fact that “[i]mmunity from suit is a benefit typically only
+        reserved for governmental officials,” id. at 1182. We agree
+        with our sister court’s analysis.
+            Therefore, we hold that section 230 provides a defense
+        to liability, not immunity from suit, and an order denying
+        this defense can be effectively reviewed on appeal from a
+        final judgment. While that is a sufficient basis to conclude
+        that we lack appellate jurisdiction, we briefly explain why
+        the other two Cohen requirements are not satisfied either.
+                                      B.
+           As for the first Cohen requirement, the district court’s
+        decision did not “conclusively determine the disputed
+se 4:22-md-03047-YGR       Document 3398         Filed 08/10/26      Page 28 of
+        28     PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.
+
+
+        question,” Gopher Media, 154 F.4th at 701 (quoting Will,
+        546 U.S. at 349), because the district court indicated its
+        willingness to revisit the issue of section 230 immunity at a
+        later stage of the proceedings. The court expressed its
+        “skepticism” about plaintiffs’ ability to proceed on their
+        “novel” failure-to-warn theories in light of section 230 but
+        allowed the claims to proceed “for now” given that the
+        litigation was at an “early juncture” and the law regarding
+        section 230 immunity was “in some flux.” Therefore, the
+        district court’s ruling was not conclusive. See Gulfstream
+        Aerospace, 485 U.S. at 278 (holding that a ruling fails to
+        satisfy the first requirement of the collateral order doctrine
+        when it “does not ‘necessarily contemplate’ that the decision
+        will close the matter for all time” and may signal the district
+        court’s determination to “await further developments
+        before” making a conclusive ruling).
+            Nor did the district court’s decision satisfy the second
+        Cohen requirement by “resolv[ing] an important issue
+        completely separate from the merits of the action.” Gopher
+        Media, 154 F.4th at 701 (quoting Will, 546 U.S. at 349). “An
+        issue is completely separate from the merits if it is
+        ‘significantly different’ and ‘conceptually distinct’ from the
+        ‘fact-related legal issues that likely underlie the plaintiff’s
+        claim on the merits.’” Id. (quoting Johnson v. Jones, 515
+        U.S. 304, 314 (1995)).            As we have explained, a
+        determination of section 230 immunity requires that we
+        “examine each claim to determine whether a plaintiff’s
+        ‘theory of liability would treat a defendant as a publisher or
+        speaker of third-party content.’” Calise, 103 F.4th at 740
+        (quoting Barnes, 570 F.3d at 1101). If the legal duty that the
+        defendant allegedly violated “obliges the defendant to
+        ‘monitor third-party content’—or else face liability—then
+        that . . . is barred” by section 230(c)(1). Id. at 742 (quoting
+se 4:22-md-03047-YGR          Document 3398             Filed 08/10/26        Page 29 of
+                PEOPLE OF THE SATE OF CA V. META PLATFORMS, INC.             29
+
+
+        HomeAway.com, 918 F.3d at 682). This inquiry “necessarily
+        involves reviewing the ‘content’ and ‘context’ of the factual
+        allegations in a plaintiff’s complaint.” Gopher Media, 154
+        F.4th at 702 (quoting FilmOn.com Inc. v. DoubleVerify Inc.,
+        439 P.3d 1156, 1164 (Cal. 2019)).
+                                  *        *        *
+            Because the district court’s order does not meet any of
+        the three Cohen factors, it is not immediately appealable
+        under the collateral order doctrine. Therefore, we lack
+        appellate jurisdiction over Meta’s and TikTok’s appeals and
+        plaintiffs’ conditional cross-appeals. 4
+            DISMISSED.
+
+
+
+
+        4
+         Meta’s emergency motion to stay trial pending resolution of this appeal
+        (docket entry no. 190 in case no. 24-7032) is denied as moot.
+
