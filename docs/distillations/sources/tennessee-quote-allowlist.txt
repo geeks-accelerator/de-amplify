@@ -1,0 +1,34 @@
+# Quoted spans in tennessee-v-meta.md sections (b) and (c) that are deliberately
+# NOT quotes from the two cached Tennessee documents. Whitespace-normalized exact
+# match. Everything else quoted in those two sections must verify against the
+# unredacted complaint or the motion-to-dismiss order.
+#
+# Authored 2026-08-18, when this ledger was registered. Registration found no
+# fidelity defect in the ledger, and one fault in a CACHE, which is recorded as a
+# known deviation in check-quotes.mjs rather than hidden here. This file stays
+# short on purpose: an allowlist is where a real defect goes to hide.
+#
+# Each entry below is a quotation of something real that is simply not in these
+# two caches, and each was checked by eye on 2026-08-18.
+
+# --- The MDL summary-judgment order's phrase, quoted twice in this ledger to
+# --- contrast Tennessee's control-integrity count against it. Its source is
+# --- Dkt 3214 at page 23 in MDL 3047, verified there on 2026-07-16 and carried
+# --- as claim 13 of docs/distillations/mdl-3047.md. A different case, so it will
+# --- never appear in a Tennessee cache.
+public relations stunt
+
+# --- This site's own words, quoted to name the error the project made once and
+# --- documents deliberately: a $6M jury verdict was briefly described as upheld
+# --- on appeal when no appellate court had reviewed it. Quoting the wrong phrase
+# --- is the point of the sentence.
+upheld on appeal
+
+# --- The clerk-entered title of Meta's follow-on motion, read off the Chancery
+# --- Court's public register. It is load-bearing: the title is the evidence that
+# --- summary judgment was DENIED on Count 1, since a motion to reconsider an
+# --- order denying summary judgment presupposes the denial. The register is a
+# --- real record and is not cached here, so this is a genuine allowlist case
+# --- rather than the docket-caption problem in MDL claim 37, where the captions
+# --- were the parties' own words being read as if they were a court's.
+Defendants' Motion for Partial Reconsideration of the Court's Order Denying Summary Judgment on Count 1

@@ -69,12 +69,28 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **432 spans across eight of eleven ledgers**: the four hearings and the EU proceedings in
-full, plus three scoped with `sections` to the parts a cache actually reaches (`new-mexico-v-meta`
-to its judgment-anchored section, `bits-of-freedom-v-meta` and `ftc-control-integrity` to their
-Claims and Quotes sections). The remaining three (`mdl-3047`, `california-state-bellwethers`,
-`tennessee-v-meta`) need an allowlist authored the way the Nov 2023 one was before they can be
-registered. Do not re-derive this check by hand.
+today is **476 spans across all eleven ledgers**, closed on 2026-08-18. The four hearings and the
+EU proceedings are checked in full; the other six are scoped with `sections` to the parts a cache
+actually reaches. **There are no unregistered ledgers left**, and the line the script used to print
+naming them is gone because there is nothing to name. Do not re-derive this check by hand.
+
+**Registering the last four caught six defects, one per cache and then some, which is the argument
+for doing it rather than a bonus.** In order: the MDL ledger quoted an exhibit by a title taken
+from the docket listing rather than from Meta's filing, and lowercased that filing's
+sentence-initial capital; the California ledger put its own comma inside a quotation of the court's
+case caption, and dropped the word `Judge` out of the notice's `Hon. Judge Carolyn B. Kuhl`. Every
+one of them is invisible at reading size and every one is a claim about what a court document says.
+The Tennessee ledger was clean, and registering it instead found a fault in a **cache**, which is a
+first (see the `Lbl` note below).
+
+**One ledger is guarded at four spans, deliberately, and the reason is the finding.**
+`california-state-bellwethers` covers JCCP 5255 in the Los Angeles Superior Court, and
+**California state court records are not in any free archive**: there is no RECAP for LASC and the
+Court of Appeal portal blocks automated lookups. The only primary this project can hold for that
+case is the court's own public notice, so the scope is section (a) and nothing else. That is not
+undone work, it is the shape of the evidence, and it is worth stating plainly because this is the
+case where the project once published "upheld on appeal" about a verdict no appellate court had
+reviewed.
 
 **Scoping is a blind spot, and on 2026-08-14 that blind spot was holding four real defects.** The
 FTC and Bits of Freedom ledgers were first registered scoped to `Quotes` only, on the reasoning
@@ -85,6 +101,33 @@ error,`, the Chitika order's `their choice(s), and shall remain` written as `the
 two more). Widening both to `["Claims (the ledger)", "Quotes"]` took coverage from 404 spans to 432
 and surfaced all four at once. **When scoping a ledger, scope to what the cache covers, not to
 where you expect the quotes to be**, and re-read the exclusion whenever the ledger grows.
+
+**It happened again on 2026-08-18, in the pass that was writing the rule down.** `mdl-3047` was
+registered with four cached docket documents and scoped to section (i), where the new trial-day
+quotes were. Section (e) had meanwhile acquired three claims quoting Dkt 473, whose cache was in
+that very list, and those claims carry the pass's most consequential correction: that the $200
+billion four outlets reported as the states' demand is Meta's own 2025 revenue. They were verified
+by nothing. Found by an audit, not by the check, because the check cannot see what it is scoped
+away from. Caching Meta's Dkt 455 the same day let section (e) be scoped in whole, and doing that
+caught two more defects immediately. **The rule has now failed twice in five days for the same
+reason: the scope gets written when the cache is added and never re-read when the ledger grows.**
+
+### The `Lbl` artifact, and why one Tennessee span cannot verify
+
+The Tennessee complaint cache carries the literal string `Lbl` **364 times**. It is a tagged-PDF
+list-label artifact: it prefixes most numbered paragraphs (`Lbl1.`, `Lbl2.`) and, at page breaks,
+appears as runs of standalone lines interleaved with the page footer. At paragraph 411 that lands
+mid-word, between `Instagram's "well-` and `being" related platform features`, with the statutory
+footer sitting in the gap.
+
+**This is a sixth failure mode, structurally identical to the GPO hyphenated line wrap and the
+court-filing line number, and no normalization reaches it**, because the interposed text is real
+page furniture rather than a predictable token. The affected span is recorded in the script's
+`KNOWN_DEVIATIONS` rather than in an allowlist, and the distinction matters: an allowlist entry
+asserts a span is deliberately not from the cached source, and this one is from it. Close it by
+re-extracting the complaint from the original PDF with labels suppressed. Grep `^Lbl` on any new
+tagged-PDF cache before trusting a clean run, the way `[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]`
+should be grepped on any new GPO transcript.
 
 Every quoted span in each `hearing-*` distillation (ledger, reader summary, coverage note,
 and quote-bank) was verified as a verbatim, whitespace-normalized substring of that
@@ -123,6 +166,48 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
 
 ## Court-filing caches (added 2026-07-25)
 
+### MDL 3047 docket documents (added 2026-08-18)
+
+Five filings from *People of the State of California v. Meta Platforms, Inc.*, No. 4:23-cv-05448-YGR
+(N.D. Cal.), fetched from CourtListener/RECAP. All five extract cleanly with `pdftotext -layout`,
+and all carry the left-margin line numbers US court filings use, which the check strips anchored to
+line starts. Together they take `mdl-3047` from unregistered to guarded across sections (e) and (i).
+
+- `mdl-3047-2026-07-06-dkt455-penalty-opposition.txt`: Meta's opposition to the state attorneys
+  general's submission on penalties, filed 2026-07-06, 35 pages, filed by Covington & Burling.
+  **This is the source of the $1.4 trillion figure**, the most-quoted number on this site, and it
+  was cited by the ledger for a month before it was cached. Caching it on 2026-08-18 immediately
+  caught two defects that had been invisible: the ledger quoted the states' penalty exhibit by a
+  title read off the **docket listing** rather than by the title Meta's filing gives it ("Time Spent
+  Penalty Calculation for Teen Users"), and it had lowercased the filing's sentence-initial capital
+  in "A sanction of that size has no analog in the history of consumer protection enforcement."
+  **A citation is not a cache**, and the gap between them is where both of those lived.
+- `mdl-3047-2026-07-13-dkt473-penalty-disgorgement-reply.txt`: the AGs' reply on the penalty and
+  disgorgement charts, filed 2026-07-13. The document behind the correction that the widely reported
+  $200 billion is **Meta's 2025 revenue**, cited to its own Form 10-K at 61, and not a demand.
+- `mdl-3047-2026-08-16-dkt534-pretrial-order-8.txt`: Pretrial Order No. 8, filed 2026-08-16. Uses
+  "bifurcated" only of the exchange of witness binders, which is why the ledger does not publish a
+  bifurcated trial structure.
+- `mdl-3047-2026-08-18-dkt549-trial-protocol.txt`: the Stipulation and Updated Order Governing
+  Trial Protocol, entered 2026-08-18.
+- `mdl-3047-2026-08-18-dkt550-civil-minutes.txt`: the court's Civil Minutes for the opening trial
+  day. Small and load-bearing: it is the record that trial was held, that the session ran 5 hours
+  17 minutes, and that the states' first witness was Arturo Bejar.
+
+### `ca-jccp5255-2026-02-13-public-notice.txt` (added 2026-08-18)
+
+The Los Angeles Superior Court's own public notice for Social Media Cases (JCCP 5255), Feb 13 2026,
+covering the courtroom seating lottery for the trial. Three and a half kilobytes of text, and it is
+**the only primary document this project can hold for the entire California proceeding**: there is
+no free archive of LASC records and the Court of Appeal portal blocks automated lookups. It
+establishes the court, the department, the judge and the caption, and nothing else, which is why
+`california-state-bellwethers` is scoped to section (a) and guarded at four spans. Caching it caught
+two defects in those four: a comma inside a quotation of the case caption, and `Hon. Carolyn B.
+Kuhl` quoted where the notice reads "Hon. Judge Carolyn B. Kuhl".
+
+Note the notice's own headline typos the number as JCCP5225 while its body says JCCP5255. Left as
+found; it is the record.
+
 - `tennessee-2023-10-24-unredacted-complaint.txt`: the Tennessee Attorney General's civil
   enforcement complaint against Meta and Instagram, as unredacted and published by the AG on
   2024-01-10. Extracted from the AG's PDF on 2026-07-25.
@@ -133,6 +218,11 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
   text that looks plausible. **This cache is the `-raw` extraction, which has zero doubling** but
   interleaves footnote markers into the body. Every quoted span in the Tennessee ledger was
   verified individually against this file.
+  **A second trap, found 2026-08-18 when the ledger was registered with `check:quotes`.** The `-raw`
+  extraction also carries the literal string `Lbl` **364 times**, a tagged-PDF list-label artifact
+  that prefixes most numbered paragraphs and, at page breaks, appears as runs of standalone lines
+  around the page footer. At paragraph 411 that lands mid-word and makes one faithful span
+  unverifiable. See the `Lbl` section under Verifying. Grep `^Lbl` on any new tagged-PDF cache.
 - `new-mexico-2026-08-06-final-judgment.txt`: the **final judgment** in *State of New Mexico ex rel.
   Torrez v. Meta Platforms, Inc.*, No. D-101-CV-2023-02838 (1st Jud. Dist. Ct.), captioned "Findings
   of Fact, Conclusions of Law, and Judgment, Order, and Decree of the Court", 68 pages, file-stamped

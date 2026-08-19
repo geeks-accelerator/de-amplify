@@ -85,24 +85,67 @@ const LEDGERS = {
   // JPML reports and secondary coverage, none of which is cached.
   //
   // (e.1) WAS MISSING FROM THIS LIST FOR ONE DAY, and the omission is the reason
-  // the subsection exists. The registration pass scoped this ledger to section
-  // (i), where the new trial-day quotes were, and section (e) had meanwhile
-  // acquired three claims quoting Dkt 473 -- the single most consequential
-  // correction in that pass, that the widely reported $200 billion is Meta's own
-  // revenue and not the states' demand. Its cache was registered here and its
-  // spans were checked by nothing. That is this script's documented blind spot,
-  // reproduced in the very pass that documents it, exactly as it happened to the
-  // FTC and Bits of Freedom ledgers on 2026-08-14. SCOPE TO WHAT THE CACHE
-  // COVERS, NOT TO WHERE YOU EXPECT THE QUOTES TO BE, and re-read this list every
-  // time a registered ledger grows a section.
+  // that subsection exists at all. The registration pass scoped this ledger to
+  // section (i), where the new trial-day quotes were, and section (e) had
+  // meanwhile acquired three claims quoting Dkt 473 -- the single most
+  // consequential correction in that pass, that the widely reported $200 billion
+  // is Meta's own revenue and not the states' demand. Its cache was registered
+  // here and its spans were checked by nothing. That is this script's documented
+  // blind spot, reproduced in the very pass that documents it, exactly as it
+  // happened to the FTC and Bits of Freedom ledgers on 2026-08-14. SCOPE TO WHAT
+  // THE CACHE COVERS, NOT TO WHERE YOU EXPECT THE QUOTES TO BE, and re-read this
+  // list every time a registered ledger grows a section.
+  //
+  // Now scoped to (e) WHOLE, because Meta's Dkt 455 is cached as of 2026-08-18
+  // and (e.1) was only ever a workaround for its absence. Those four spans carry
+  // the $1.4 trillion framing, the most-quoted number on this site, and until
+  // this cache landed they rested on a by-eye read of a PDF the repository did
+  // not keep. The subsection stays: it is where the states' own filing is
+  // distinguished from Meta's, which is the distinction the whole correction
+  // turns on, and (e) owns its subsections anyway.
   "mdl-3047": {
     sources: [
+      "mdl-3047-2026-07-06-dkt455-penalty-opposition.txt",
       "mdl-3047-2026-07-13-dkt473-penalty-disgorgement-reply.txt",
       "mdl-3047-2026-08-16-dkt534-pretrial-order-8.txt",
       "mdl-3047-2026-08-18-dkt549-trial-protocol.txt",
       "mdl-3047-2026-08-18-dkt550-civil-minutes.txt",
     ],
-    sections: ["(e.1)", "(i) The trial itself, day one"],
+    allowlist: "mdl-3047-quote-allowlist.txt",
+    sections: ["(e) Money / exposure", "(i) The trial itself, day one"],
+  },
+  // California, registered 2026-08-18, taking the unguarded ledger count to ZERO.
+  // The scope is deliberately tiny and the reason is the finding: CALIFORNIA
+  // STATE COURT RECORDS ARE NOT IN A FREE ARCHIVE. There is no RECAP for the Los
+  // Angeles Superior Court, and the Court of Appeal portal blocks automated
+  // lookups, so the only primary this project can hold for JCCP 5255 is the
+  // court's own public notice. Every other quoted span in this ledger is wire
+  // coverage, a party release, or the drafter framing a coverage phrase, and no
+  // amount of work makes those verifiable against a court document.
+  //
+  // Registering it anyway is the point. "NOT checked, no allowlist authored"
+  // reads like undone work; "PARTIALLY checked, only section (a)" states the
+  // actual shape of the evidence, which is that this case is the site's most
+  // coverage-dependent record. That is also the case where the project published
+  // "upheld on appeal" about a verdict no appellate court had reviewed.
+  "california-state-bellwethers": {
+    sources: ["ca-jccp5255-2026-02-13-public-notice.txt"],
+    sections: ["(a) The JCCP 5255 proceeding and the court"],
+  },
+  // Tennessee, registered 2026-08-18, taking the unguarded ledger count from two
+  // to one. Two caches, and the scope follows what they cover: the complaint
+  // anchors the control-integrity count in (b), the motion-to-dismiss order
+  // anchors what the court has decided in (c). Everything else in this ledger is
+  // courtroom reporting from the live trial, cross-references to the MDL, or the
+  // drafter's own framing, none of which is cached and none of which ever will be.
+  //
+  // Registration caught nothing wrong in the ledger and one thing wrong in a
+  // CACHE, which is a first for this script. See the Lbl note in the deviations
+  // list below and in sources/README.md.
+  "tennessee-v-meta": {
+    sources: ["tennessee-2023-10-24-unredacted-complaint.txt", "tennessee-2024-03-13-mtd-order.txt"],
+    allowlist: "tennessee-quote-allowlist.txt",
+    sections: ["(b) The control-integrity count", "(c) What the court has actually decided"],
   },
   "new-mexico-v-meta": {
     // Two caches: the judgment, and the FTC release the judgment discusses. The
@@ -159,6 +202,22 @@ const KNOWN_DEVIATIONS = [
       "The written testimony reads 13-17 with an EN DASH; the ledger wrote a hyphen. Restoring the " +
       "en dash would make the ledger fail the house-style sweep, which exempts sources/ and reviews/ " +
       "but not the ledgers. Left as a hyphen inside a numeric range where the dash carries no meaning.",
+  },
+  {
+    ledger: "tennessee-v-meta",
+    span:
+      "the efficacy of Instagram's 'well-being' related platform features (such as the 'Time Spent' feature).",
+    why:
+      "A FAULT IN THE CACHE, not in the ledger, and the first one this script has found. The span " +
+      "is faithful: the complaint really does say it, at paragraph 411, and 'Time Spent' occurs 20 " +
+      "times in the cache, so the query works. It straddles a page break, and the extraction of " +
+      "this PDF injects a page footer plus eight lines of the literal string Lbl between " +
+      "Instagram's \"well- and being\" related platform features. Lbl is a tagged-PDF list-label " +
+      "artifact and it appears 364 times in this cache. Stripping it would not fix this span, " +
+      "because the statutory footer sits in the gap too, so no normalization reaches it. Recorded " +
+      "rather than allowlisted, because an allowlist entry would assert this span is deliberately " +
+      "not from the cached source, and it is. Close it by re-extracting the complaint from the " +
+      "original PDF with the labels suppressed. See sources/README.md.",
   },
 ];
 
