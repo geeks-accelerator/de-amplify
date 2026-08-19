@@ -453,6 +453,37 @@ const registered = new Set(Object.keys(LEDGERS));
       }
     }
   }
+
+  // ONE DECLARED HOME, AND THE OTHERS MAY NOT RESTATE IT.
+  //
+  // The count above is asserted. These files are asserted to stay SILENT about
+  // it, which is the other half of the same rule and the half that was missing.
+  // By 2026-08-18 the number had been written into four prose homes and had gone
+  // stale in every one of them: the repo README still said 432 across eight
+  // ledgers a day after it was 483 across eleven, on the project's own front
+  // page. Asserting a number in five places does not make five guards, it makes
+  // five things to forget. Point at the checker's output instead.
+  //
+  // Scoped to the front-door docs on purpose. `docs/plans/` is EXEMPT and must
+  // stay exempt: those are dated records, and "took coverage 404 -> 432" is a
+  // true sentence about July that would be vandalised by an update. A guard that
+  // rewrites history to satisfy itself is worse than no guard.
+  for (const doc of ["README.md", "CONTRIBUTING.md", "CLAUDE.md"]) {
+    const p = path.join(ROOT, doc);
+    if (!fs.existsSync(p)) continue;
+    const hits = [...read(p).matchAll(/(\d+)\s+spans?\b/g)].map((h) => h[0]);
+    if (hits.length) {
+      failures.push({
+        slug: "(coverage)",
+        span: "(none)",
+        detail:
+          `${doc} states a span count (${hits.join(", ")}), and it is not allowed to. ` +
+          `The count lives in exactly one place, the coverage line of sources/README.md, which this ` +
+          `script asserts. Replace the number with a pointer to \`npm run check:quotes\`; a count ` +
+          `restated in prose has gone stale every single time it has been written here.`,
+      });
+    }
+  }
 }
 const allLedgers = fs
   .readdirSync(DOCS)

@@ -23,10 +23,11 @@ sources:
 | **3. Corpus corrections** | **DONE.** All three applied; `check:distillations` caught the arithmetic drift the plan predicted it would. |
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
 | **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
-| **Quote coverage** | **CLOSED.** All eleven ledgers registered in `check:quotes`, 483 spans, no unguarded ledger left. Caching the last four primaries caught six defects and one bad cache; none was visible by reading. |
-| **Second audit** | **DONE.** Twelve stale statements, most written earlier the same day: corrections whose moment had ended. The span count now has one asserted home and `check:quotes` fails if it drifts. See "The second audit" in Part V. |
 | **Implementation audit** | **DONE.** Eight findings, no factual error in the published record. Three reached a reader (a stale `Scheduled:` label on the hub, a ledger asserting both tenses, a reader summary never re-seeded); one was this repo's own documented blind spot reproduced (`check:quotes` scoped past the pass's most consequential claims); one census was wrong in every cell and is now machine-asserted. See Part V. |
 | **Follow-up sweep** | **DONE.** Four closed, one found, three confirmed still open with the evidence. The Ninth Circuit opinion turned up at docket entry 541 and is not the First Amendment ruling its lead described. |
+| **Quote coverage** | **CLOSED.** All eleven ledgers registered in `check:quotes`, no unguarded ledger left. Caching the last four primaries caught six defects and one bad cache; none was visible by reading. |
+| **Second audit** | **DONE.** Twelve stale statements, most written earlier the same day: corrections whose moment had ended. |
+| **Third pass** | **DONE.** The same defect once more, in the two most-read docs in the repo: the front-page README still described eight-of-eleven coverage, and CONTRIBUTING listed three of the five guards. **The span count now has one declared home and the other three docs are asserted to stay silent about it.** |
 | **Deploy** | **BLOCKED BY AN EXTERNAL OUTAGE.** The wedged build was cancelled via the Railway GraphQL API; the queue still will not serve, and Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`. Nothing here is a repo fault and nothing here is fixable from this side. Do not redeploy. |
 
 **Everything here has been merged, and none of it is live.** The MDL ledger now carries
@@ -513,6 +514,9 @@ Merged as PR #59, commit `cd05039`, all three CI jobs green.
 | Watch the posture on the French decision | **Vindicated twice over.** The posture was right in the coverage, and the *reasoning* was not, in a way that reverses the inference built on it |
 | Editing a Step 6 synthesis changes its word count and ratio | **Correct, and the guard caught it** within seconds of the edit |
 | Phase 1 was "the cheap externals" | **Half right.** They were cheap to fetch and three of four were wrong enough to need rewriting |
+| 4.5 called `mdl-3047` "the largest unguarded ledger" and said registering it converts it "at the moment it acquires the most new quotations" | **Right, and it undersold itself.** Registration was worth more than the plan claimed: closing all three remaining ledgers caught six defects and one bad cache, and every single one of them was invisible by reading |
+| Part IV listed the guards and what each does not prove | **The list was correct and incomplete.** No entry said that the guards' own coverage numbers were unguarded prose, which is what drifted three times. That is now closed |
+| The plan named the Ninth Circuit item its highest-value single open lead | **Right about the value, wrong about the subject**, because its source was. It was one fetch away on a docket this project already reads |
 
 ## The findings, ordered by how much they change
 
@@ -647,6 +651,41 @@ This is the `NEEDS-PRIMARY` error one level up. There, a tag about what a *docum
 establish was read as a claim about what the *repository* had not established. Here, a claim about
 what the repository lacked was written without reading what it already held. Same shape, same cost:
 work proposed against a gap that was smaller than stated.
+
+### A correction is written against a moment, and it does not know when its moment ends
+
+**Three audits, three passes, and the same defect class each time**, which is what makes it worth a
+rule rather than a fix. Not one instance was a factual error about the record. Every one was a
+**true sentence that a later pass falsified and nobody re-read**:
+
+- `(e.1)` said Dkt 455 "is not cached", true for the hour between the subsection's creation and the cache landing, published either way.
+- The New Mexico Tensions section said Age Assurance was "not yet distilled" three lines under a bullet saying it had been.
+- The `check:quotes` registry comment explained why the lawsuit ledgers were absent, hours after they stopped being absent.
+- This plan's frontmatter demanded a dashboard action the sweep had already performed, which is the frontmatter contradicting Part V **for the second time**, after PR #63 existed to fix the first.
+- The repo's front-page README described eight-of-eleven coverage a day after it was eleven of eleven.
+
+**Append-only correction is the right discipline and it is only half a discipline.** Landing a
+correction as a new dated block preserves the record, which is why this project does it. But the
+pass that lands it has to **re-read what it contradicts**, or the document carries both readings and
+the reader picks. The mechanical version, which found most of these: **after any pass that changes a
+fact's status, grep for the fact's old status words in every file that names it.**
+
+### One number, one home, and everything else points at it
+
+The span count drifted **three times in one day** across four prose homes. Twice it was written in
+the same session as the sentence "a number no tool recomputes will drift, and prose is where it
+drifts", which is about as clean a demonstration as a project gets that knowing a rule is not
+keeping it.
+
+It is now guarded in **both directions**, and the second direction is the one that was missing.
+`sources/README.md` declares the count and `check:quotes` asserts it. `README.md`,
+`CONTRIBUTING.md` and `CLAUDE.md` are asserted to contain **no span count at all**, because
+asserting a number in five places does not make five guards, it makes five things to forget. The
+first run of that rule failed on two files, one of which had been "fixed" by hand an hour earlier.
+
+**`docs/plans/` is exempt and must stay exempt.** Those are dated records, and "took coverage 404 to
+432" is a true sentence about July that a guard updating itself would vandalise. A checker that
+rewrites history to stay green is worse than no checker.
 
 ### A citation is not a cache, and the gap between them is where defects live
 
@@ -1022,9 +1061,28 @@ the block contradicts, or the page carries both. The cheap mechanical version, u
 pass that changes a fact's status, grep for the fact's old status words in every file that names
 it. That is how eleven of the twelve were found.
 
+## The third pass, 2026-08-18 latest
+
+The second audit's own lesson, applied once more and immediately productive. Having written that
+"a number no tool recomputes will drift", the obvious next question was which documents still
+restate one. Two, and they are **the two most-read files in the repository**.
+
+- **`README.md`**, the project's front page, still described `check:quotes` as covering "432 spans across eight of the eleven ledgers" and said the script "names the three it covers not at all on every run". Eleven of eleven had been registered the previous evening. Anyone assessing this project's evidence discipline reads that paragraph first.
+- **`CONTRIBUTING.md`** listed **three of the five guards**. `check:surfaces` had been missing for four days and `check:distillations` for one, so a contributor doing exactly what the file says runs 60% of the checks and finds out the rest at review. CI catches it, which is the safety net working and the documentation failing.
+
+Both are fixed, and the rule they broke is now mechanical. `sources/README.md` declares the count
+and `check:quotes` asserts it; **`README.md`, `CONTRIBUTING.md` and `CLAUDE.md` are asserted to
+contain no span count at all.** Fault-injected in both directions. Its first real run failed on two
+files, one of them `CLAUDE.md`, which had been hand-corrected an hour earlier and still carried a
+"404 -> 432 spans" historical aside that the rule cannot distinguish from a live claim.
+
+**`docs/plans/` is exempt on purpose.** Those are dated records; "took coverage 404 to 432" is a true
+sentence about July, and a guard that edited it to stay green would be destroying evidence to
+protect a number.
+
 ## Follow-ups, in priority order
 
-1. ~~**Unblock the deploy.**~~ **The wedged build is cancelled and the cause is external.** Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`, so it cannot fetch the repository. **Wait, do not redeploy**; each attempt adds to a queue that is not being served. Verify when it clears with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If it is still queued after the GitHub incident resolves, that is the point at which a support ticket is warranted, and the ticket should say that the same project built successfully at 14:40 from the same `package.json`.
+1. ~~**Unblock the deploy.**~~ **The wedged build is cancelled and the cause is external.** Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`, so it cannot fetch the repository. **Wait, do not redeploy**; each attempt adds to a queue that is not being served. Verify when it clears with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If it is still queued after the GitHub incident resolves, that is the point at which a support ticket is warranted, and the ticket should say that the same project built successfully at 14:40 from the same `package.json`. **Note that the Railway CLI session has since expired** (`Unauthorized. Please run \`railway login\` again`), so the first step of any further diagnosis is re-authenticating; the queue state readings in this file were taken before that and are as of 2026-08-18 evening.
 2. ~~**Distil the New Mexico Age Assurance section.**~~ **DONE 2026-08-18**, see the second publication pass above. Ledger section (g.2), claims 49 to 54, plus a dated pass on the curated page.
 3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension. Re-probed 2026-08-18 with a passing positive control: still 404.
 4. **Confirm or drop the bifurcation** when an order addresses trial structure. Nothing in entries 541 to 553 addresses it.

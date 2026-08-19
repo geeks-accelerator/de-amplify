@@ -79,11 +79,19 @@ npm install
 npm run dev      # http://localhost:3333
 npm run build    # typecheck + compile; run before opening a PR
 npm run lint     # eslint . (flat config); run before opening a PR
-npm run check:ledgers   # verbatim-TLDR drift; run if you touched a ledger or a curated page
-npm run check:quotes    # quoted spans verbatim against the committed source caches
-npm run dates           # regenerate content-dates.json if you changed any content file
-npm run check:dates     # fails if that manifest drifted from git history
+npm run check:ledgers        # verbatim-TLDR drift; run if you touched a ledger or a curated page
+npm run check:quotes         # quoted spans verbatim against the committed source caches
+npm run check:surfaces       # share cards and structured data vs the record; run after any case-status change
+npm run check:distillations  # internal consistency of the single-source research corpus
+npm run dates                # regenerate content-dates.json if you changed any content file
+npm run check:dates          # fails if that manifest drifted from git history
 ```
+
+`check:surfaces` and `check:distillations` were missing from this list for four
+days and one day respectively after they started running in CI, which is a small
+example of the thing this project keeps finding: **a guard nobody is told about
+is a guard that only fails at review time.** If you add one, add it here in the
+same commit.
 
 You do not have to remember all of these: CI runs every one of them, plus the
 house-style sweep, on your pull request. Running them locally just gets you the

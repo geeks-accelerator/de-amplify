@@ -611,3 +611,25 @@ diverge from it.
 5. Tier 1.4 last of the Tier 1 items, because it adds routes and therefore touches every
    discovery surface.
 6. Tier 3 only after the maintainer has chosen from it.
+
+---
+
+## Addendum, 2026-08-18: the coverage numbers in this file are historical now
+
+This plan records guard coverage as it stood on 2026-08-14, including that
+`check:quotes` covered eight of eleven ledgers and that Tennessee was unregistered so a run over it
+"proves nothing". **Both were true on the day and neither is true now**: every ledger was registered
+on 2026-08-18, including Tennessee and the California bellwethers, and the count has moved twice
+since.
+
+**Nothing above is edited.** This file is a dated record of a remediation, and a plan that quietly
+updates its own numbers stops being evidence of what was done when. The live figure has exactly one
+home, the coverage line in `docs/distillations/sources/README.md`, which `npm run check:quotes`
+asserts on every run; `README.md`, `CONTRIBUTING.md` and `CLAUDE.md` are now asserted to contain no
+span count at all, and `docs/plans/` is deliberately exempt from that rule so entries like this one
+stay readable.
+
+Worth recording alongside it: this file's section on what `check:quotes` **cannot** notice was
+right, and the 2026-08-18 audits found the next layer down. The guards could not notice that their
+own coverage figures, restated in prose across four documents, had gone stale. See the third pass in
+`docs/plans/2026-08-18-single-source-to-primary.md`.

@@ -332,6 +332,20 @@ State AG cases were cross-noticed with MDL 3047, so deposition excerpts are on t
 - Gavel-to-gavel video is paywalled at Courtroom View Network. nm.news restricts reuse.
 - `nmdoj.gov` returns 403 to automated fetches.
 
+### 5.1a Note added 2026-08-18: the Bejar deposition just became more interesting
+
+Section 5.1 lists a publicly filed Arturo Bejar deposition at `3252.20.pdf`. On 2026-08-18 the
+court's Civil Minutes recorded Bejar as **the states' first witness at the MDL trial** (claim 34 of
+`docs/distillations/mdl-3047.md`), and this project already distils his November 2023 Senate
+testimony as a hearing ledger.
+
+So one person now has **three separate records** in reach: sworn testimony to Congress, a sworn
+deposition sitting unsealed on the docket, and live trial testimony whose transcript is not in the
+free archive. A strengthening pass on the MDL ledger has a rare opportunity there and an obvious
+trap: the ledger already warns against conflating the 2023 hearing appearance with the 2026 trial
+appearance, and a deposition is a third thing again. Any pass that uses more than one of them must
+label which is which on every claim.
+
 ## 6. Verified negatives (do not spend time here)
 
 These were checked and came back empty. Recording them is worth more than re-checking them later.
