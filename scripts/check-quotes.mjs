@@ -82,9 +82,19 @@ const LEDGERS = {
   // disgorgement reply, the trial-protocol order, the pretrial order, and the
   // civil minutes for the opening trial day. SCOPED to the sections those four
   // documents actually cover. The rest of this ledger quotes Meta's Dkt 455, the
-  // JPML reports and secondary coverage, none of which is cached, and scoping to
-  // where the quotes are rather than to what the cache covers is this check's own
-  // documented blind spot.
+  // JPML reports and secondary coverage, none of which is cached.
+  //
+  // (e.1) WAS MISSING FROM THIS LIST FOR ONE DAY, and the omission is the reason
+  // the subsection exists. The registration pass scoped this ledger to section
+  // (i), where the new trial-day quotes were, and section (e) had meanwhile
+  // acquired three claims quoting Dkt 473 -- the single most consequential
+  // correction in that pass, that the widely reported $200 billion is Meta's own
+  // revenue and not the states' demand. Its cache was registered here and its
+  // spans were checked by nothing. That is this script's documented blind spot,
+  // reproduced in the very pass that documents it, exactly as it happened to the
+  // FTC and Bits of Freedom ledgers on 2026-08-14. SCOPE TO WHAT THE CACHE
+  // COVERS, NOT TO WHERE YOU EXPECT THE QUOTES TO BE, and re-read this list every
+  // time a registered ledger grows a section.
   "mdl-3047": {
     sources: [
       "mdl-3047-2026-07-13-dkt473-penalty-disgorgement-reply.txt",
@@ -92,7 +102,7 @@ const LEDGERS = {
       "mdl-3047-2026-08-18-dkt549-trial-protocol.txt",
       "mdl-3047-2026-08-18-dkt550-civil-minutes.txt",
     ],
-    sections: ["(i) The trial itself, day one"],
+    sections: ["(e.1)", "(i) The trial itself, day one"],
   },
   "new-mexico-v-meta": {
     // Two caches: the judgment, and the FTC release the judgment discusses. The

@@ -3,7 +3,7 @@ title: "State of New Mexico v. Meta: the standalone child-safety action"
 type: distillation
 mode: multi-source (record of one lawsuit)
 subject: State of New Mexico v. Meta Platforms, First Judicial District Court, Santa Fe; New Mexico Unfair Practices Act; child-safety / exploitation theory
-as_of: 2026-08-13
+as_of: 2026-08-18
 audience: general public reader
 sources:
   - "PRIMARY, and now the anchor for this record: Findings of Fact, Conclusions of Law, and Judgment, Order, and Decree of the Court, State of New Mexico ex rel. Torrez v. Meta Platforms, Inc., No. D-101-CV-2023-02838 (1st Jud. Dist. Ct.), file-stamped 8/6/2026 4:41 PM, 68 pages, signed Bryan Biedscheid, Chief District Court Judge, Division VI. Cached verbatim at docs/distillations/sources/new-mexico-2026-08-06-final-judgment.txt: https://nmdoj.gov/wp-content/uploads/D-101-CV-2023-02838-Meta-Judgement.pdf"

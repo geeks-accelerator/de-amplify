@@ -59,14 +59,24 @@ the record**.
 
 **Actionability** (the decision the other two dimensions exist to serve):
 
-| Tag | Meaning |
-|-----|---------|
-| `PUBLISHABLE` | May be stated on the site with its tier label |
-| `NEEDS-PRIMARY` | Real and material, but verify against the docket before publishing |
-| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact |
-| `DO-NOT-PUBLISH` | Fails the site's evidence rule |
+| Tag | Meaning | Count |
+|-----|---------|-------|
+| `PUBLISHABLE` | May be stated on the site with its tier label | 99 |
+| `NEEDS-PRIMARY` | Real and material, but verify against the docket before publishing | 135 |
+| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact | 121 |
+| `DO-NOT-PUBLISH` | Fails the site's evidence rule | 20 |
+| (none) | Rows in the pass-2 implicit-assumption and pass-3 negative-claim tables, whose Action column is `engage` rather than an actionability value | 9 |
 
 `unclear` is a valid tag in every dimension.
+
+**The counts are asserted by `npm run check:distillations`, and that is not decoration.** The plan
+that commissioned this corpus published a census of these tags, 89 / 112 / 70 / 13, in which every
+number was wrong: they summed to 284 against a corpus of 384 claims. Nothing could have caught it,
+because the numbers lived in prose in a different directory from the claims they counted. They now
+live here, in a table the checker recomputes, in the same two-directional shape as the orphan
+declaration: declaring a count that is not the count fails exactly as loudly as declaring none.
+Keep the `engage` row too, or the census silently stops reconciling to the claim total, which is
+the same defect one level down.
 
 ## Two deviations from this repo's usual practice, both deliberate
 

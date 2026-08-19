@@ -20,6 +20,13 @@
 //   4. ARITHMETIC  the declared synthesis word count matches the measured Step 6 section, and the
 //                  declared compression ratio matches source divided by synthesis
 //   5. PROVENANCE  every file states its source, URL, fetch date and basis tier
+//   6. CENSUS      the actionability counts declared in the README match the corpus, and sum to
+//                  the claim total
+//
+// Check 6 was added 2026-08-18 after an audit found the plan that commissioned this corpus
+// publishing a tag census of 89 / 112 / 70 / 13, in which every number was wrong and the total was
+// 284 against a corpus of 384. Prose counts drift silently because nothing recomputes them. Same
+// two-directional shape as check 3: the README declares, this recomputes, either direction fails.
 //
 // Check 3 is the load-bearing one and it is deliberately two-directional. Declaring an orphan that
 // is not one fails just as loudly as failing to declare a real one, because an allowlist that can
@@ -38,6 +45,13 @@ import path from "path";
 const ROOT = process.cwd();
 const DIR = "docs/research/single-source";
 const red = (s) => `\x1b[31m${s}\x1b[0m`;
+
+// The four actionability values, plus the bucket for rows that legitimately carry
+// none: the pass-2 implicit-assumption and pass-3 negative-claim tables use an
+// Action column of `engage`. The bucket is not a loophole, it is what makes the
+// census reconcile to the claim total; without it a miscount hides in the gap.
+const ACTION_TAGS = ["PUBLISHABLE", "NEEDS-PRIMARY", "ATTRIBUTE-ONLY", "DO-NOT-PUBLISH"];
+const UNTAGGED = "(none)";
 
 const STEPS = [
   "Step 1", "Steps 2 and 3", "Step 4", "Step 5",
@@ -67,10 +81,26 @@ function referencedIds(text, prefixes) {
 
 function definedIds(text) {
   const out = new Map();
-  for (const m of text.matchAll(/^\|\s*([A-Z]{1,2}\d{1,3})\s*\|\s*([^|]{0,140})/gm)) {
-    out.set(m[1], m[2].trim());
+  // The VALUE is the whole row, because the actionability census below reads the
+  // Action column out of it. Only the KEY is used for the dangling and orphan
+  // checks, so widening this changed nothing about them.
+  for (const m of text.matchAll(/^(\|\s*([A-Z]{1,2}\d{1,3})\s*\|.*)$/gm)) {
+    out.set(m[2], m[1]);
   }
   return out;
+}
+
+/**
+ * The actionability value a claim row carries, or UNTAGGED.
+ *
+ * Deliberately reads the row rather than a fixed column index: the tables in this
+ * corpus are not all the same width. The pass-1 tables are ID/claim/basis/stance/
+ * action/locator; the pass-2 and pass-3 tables are three or four columns wide. A
+ * positional read would have silently classified half the corpus as untagged.
+ */
+function actionOf(row) {
+  const hit = ACTION_TAGS.filter((tag) => row.includes(tag));
+  return hit.length === 1 ? hit[0] : UNTAGGED;
 }
 
 const numOf = (s) => Number(s.replace(/\D/g, ""));
@@ -87,12 +117,17 @@ const sortIds = (a, b) => (a[0] === b[0] ? numOf(a) - numOf(b) : a[0].localeComp
   const posPlain = got.has("X9");
   const negOver = !got.has("D19");                       // range must not run past its end
   const negPrefix = !referencedIds("Q7", new Set(["D"])).has("Q7"); // foreign prefix ignored
-  const def = definedIds("| R1 | a claim |\n| notR | x |\ntext R2 here\n");
+  const def = definedIds("| R1 | a claim | RECORD | assert | PUBLISHABLE | S1 |\n| notR | x |\ntext R2 here\n");
   const negDef = def.size === 1 && def.has("R1");        // only leading table cells define
-  if (!posRange || !posThrough || !posPlain || !negOver || !negPrefix || !negDef) {
+  // the census reads the Action column out of the row definedIds stored
+  const posCensus = actionOf(def.get("R1")) === "PUBLISHABLE";
+  // a row whose Action column is `engage` must land in the bucket, NOT in a tag
+  const negCensus = actionOf("| R9 | an implicit assumption | engage |") === UNTAGGED;
+  if (!posRange || !posThrough || !posPlain || !negOver || !negPrefix || !negDef || !posCensus || !negCensus) {
     console.error(red("check:distillations ABORTED: its own matcher failed the self-test."));
     console.error(`  range 'to' ${posRange}, range 'through' ${posThrough}, plain id ${posPlain} (all want true)`);
     console.error(`  over-expansion guard ${negOver}, foreign-prefix guard ${negPrefix}, define-only-in-table guard ${negDef} (all want true)`);
+    console.error(`  census reads a tag ${posCensus}, census buckets an untagged row ${negCensus} (both want true)`);
     process.exit(1);
   }
 })();
@@ -113,6 +148,7 @@ if (files.length === 0) {
 const failures = [];
 let totalClaims = 0;
 let totalOrphans = 0;
+const census = Object.fromEntries([...ACTION_TAGS, UNTAGGED].map((k) => [k, 0]));
 
 for (const f of files) {
   const rel = `${DIR}/${f}`;
@@ -130,6 +166,7 @@ for (const f of files) {
     continue;
   }
   totalClaims += def.size;
+  for (const row of def.values()) census[actionOf(row)]++;
   const prefixes = new Set([...def.keys()].map((k) => k.match(/^([A-Z]{1,2})/)[1]));
   // Strip BOTH the defining table cell and the declaration line itself before scanning for
   // references. The declaration necessarily names every orphan, so leaving it in makes every
@@ -186,6 +223,49 @@ for (const f of files) {
   if (!/(Basis tier|Basis|basis tier)/.test(t)) fail("provenance", "no basis tier stated");
 }
 
+// ---- 6. CENSUS against the README's declared table.
+const readmePath = path.join(dir, "README.md");
+if (!fs.existsSync(readmePath)) {
+  failures.push({ file: `${DIR}/README.md`, kind: "census", detail: "README is missing, so the declared census cannot be checked" });
+} else {
+  const readme = fs.readFileSync(readmePath, "utf-8");
+  const declared = {};
+  for (const m of readme.matchAll(/^\|\s*(?:`([A-Z-]+)`|\(none\))\s*\|[^|]*\|\s*(\d+)\s*\|/gm)) {
+    declared[m[1] || UNTAGGED] = Number(m[2]);
+  }
+  const want = [...ACTION_TAGS, UNTAGGED];
+  const undeclared = want.filter((k) => declared[k] === undefined);
+  if (undeclared.length) {
+    // A declared-but-missing row is a LOUD failure, never a silent skip: an absent
+    // count reads as "not asserted" and that is how the 284-vs-384 gap survived.
+    failures.push({
+      file: `${DIR}/README.md`,
+      kind: "census",
+      detail: `no Count column declared for: ${undeclared.join(", ")}. Computed: ${want.map((k) => `${k} ${census[k]}`).join(", ")}`,
+    });
+  } else {
+    for (const k of want) {
+      if (declared[k] !== census[k]) {
+        failures.push({
+          file: `${DIR}/README.md`,
+          kind: "census",
+          detail: `${k} declared ${declared[k]}, computed ${census[k]}`,
+        });
+      }
+    }
+  }
+  const sum = want.reduce((a, k) => a + census[k], 0);
+  if (sum !== totalClaims) {
+    // Structural, and it holds even if the README is wrong: every claim row lands
+    // in exactly one bucket, so a mismatch means actionOf saw two tags in one row.
+    failures.push({
+      file: DIR,
+      kind: "census",
+      detail: `census sums to ${sum} but the corpus holds ${totalClaims} claims. A row carrying two actionability tags is the usual cause.`,
+    });
+  }
+}
+
 if (failures.length) {
   console.error(red(`check:distillations FAILED. ${failures.length} problem(s) across ${files.length} file(s).`));
   for (const f of failures) {
@@ -195,7 +275,10 @@ if (failures.length) {
   console.error(
     "\nFor an orphan mismatch the fix direction is the FILE first: either cluster the claim, or\n" +
       "declare it. Editing the declaration to match a stale computation is the tempting wrong move,\n" +
-      "and it is the move that makes the number meaningless.\n",
+      "and it is the move that makes the number meaningless.\n" +
+      "\nFor a CENSUS mismatch the direction is the opposite, and the difference matters: the corpus\n" +
+      "is the record and the README is the assertion about it, so recount the README. Retag a claim\n" +
+      "only if the tag itself is wrong, never to make an arithmetic line come out.\n",
   );
   process.exit(1);
 }
@@ -204,6 +287,10 @@ const rate = ((totalOrphans / totalClaims) * 100).toFixed(1);
 console.log(
   `check:distillations OK. ${files.length} files, ${totalClaims} atomic claims, ` +
     `${totalOrphans} declared unsynthesised (${rate}%), 0 dangling references.`,
+);
+console.log(
+  "  actionability census (matches the README): " +
+    [...ACTION_TAGS, UNTAGGED].map((k) => `${k} ${census[k]}`).join(", "),
 );
 console.log(
   "  NOT covered: whether a claim is TRUE, whether a quoted span matches its source (these files\n" +
