@@ -1020,12 +1020,30 @@ spans verifying on the first run.
 - **Nothing establishes the bifurcation.** No order addressing trial structure appeared in that same probe. Claim 37 stands as written.
 - **Michigan's withdrawal is still sourced to one local station.** Michigan is absent from the Ninth Circuit caption, and **that is not evidence**: the caption is from an appeal docketed in 2024 and reflects the parties then. Recorded as checked, not as found. This is exactly the shape of a hit that is not confirmation.
 
-### The press conference failed the same way, which is now confirmed rather than remembered
+### The press conference has not failed at all, and calling it a failure twice was the error
 
 Retried with `yt-dlp`. YouTube advertises `en vtt` **automatic** captions for the recording and
 then serves no fragments: the run ends `ERROR: Did not get any data blocks` and leaves a
 **zero-byte** `.part` file. Unchanged from the first attempt, and the corpus README's instruction
 to check file size rather than exit status is what makes that legible.
+
+> **Corrected 2026-08-18, latest, and prompted by a question rather than by a check.** Both this
+> heading and follow-up 7 originally recorded a repeated **failure**. The symptom was right and the
+> framing was wrong: YouTube reports `live_status: post_live` for this video, so the stream has
+> ended and the archive is still being processed, and caption fragments are not served during that
+> window. **It is a fetch that is too early, not a fetch that failed.**
+>
+> The sharp part is where the correct answer already was. The corpus README reasoned its way to it
+> on the very first pass, writing "caption generation still in progress on a long recording, not a
+> permanent absence". **Two later summaries, both mine, kept the symptom and dropped the
+> mechanism**, which flattened a diagnosed wait into an unexplained failure and left the item
+> looking like dead research. There is now a one-command, positive-controlled trigger in the README
+> so the reasoning cannot be lost again.
+>
+> **A summary that drops the mechanism turns a solved problem back into an open one.** That is the
+> same shape as the stale-correction defect the audits kept finding, running in the other
+> direction: not a true sentence that went false, but a true sentence compressed until it stopped
+> carrying the thing that made it useful.
 
 Worth noting what it would have been worth if it had worked. Automatic captions are `CAPTION-ASR`,
 and this corpus's own rule is that a `CAPTION-ASR` claim is **never** publishable. It would have
@@ -1088,7 +1106,7 @@ protect a number.
 4. **Confirm or drop the bifurcation** when an order addresses trial structure. Nothing in entries 541 to 553 addresses it.
 5. ~~**The Ninth Circuit First Amendment disposition.**~~ **FOUND 2026-08-18**, at docket entry 541 on the trial docket rather than the appellate one, and it is a Section 230 appealability opinion, not a First Amendment ruling. Ledger claims 38 to 42. What remains open is narrower and worth naming: whether any separate appellate ruling on Meta's First Amendment arguments exists at all.
 6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson. Checked against the Ninth Circuit caption 2026-08-18; Michigan is absent from it, and that proves nothing, because the caption is from a 2024 appeal.
-7. **The attorneys general press conference**, still unobtained, and retried 2026-08-18 with the identical failure: `en vtt` automatic captions advertised, no fragments served, zero-byte `.part` file. Note before spending more on it that automatic captions are `CAPTION-ASR` and this corpus never publishes those, so the ceiling is a pointer.
+7. **The attorneys general press conference**, still unobtained, **and it is not a failed fetch, it is a fetch that is too early.** Retried 2026-08-18 with the identical symptom (captions advertised, no fragments, zero-byte `.part`), and then diagnosed: YouTube reports `live_status: post_live`, meaning the stream has ended and the archive is still processing into a final VOD. Caption fragments are not served in that window. **There is a one-command trigger**, `yt-dlp --skip-download --print "%(live_status)s" <url>`: `post_live` means wait, `was_live` means go. Positive-controlled the same day, because a status string that never varies proves nothing: an ordinary finished upload returns `not_live`. Procedure and retry command are in the corpus README. The ceiling is unchanged: automatic captions are `CAPTION-ASR`, never `PUBLISHABLE`, so this is the batch's best **pointer** and not a quotable source. The most valuable thing it could point at is whether the AGs said "$200 billion" out loud, which only Dkt 540 can settle.
 8. ~~**Author allowlists for the last two unguarded ledgers.**~~ **DONE 2026-08-18.** All eleven ledgers are registered; 483 spans; there is no unguarded ledger left. Registering them caught six defects and one bad cache.
 9. ~~**Cache Meta's Dkt 455.**~~ **DONE 2026-08-18**, and it caught two defects in the `$1.4 trillion` claims on its first run.
 10. **Consider whether hub prose needs any backstop.** `content/lawsuits.md` carried a stale posture label for as long as it did because nothing reads it: `check:surfaces` is deliberately scoped to share cards, `check:ledgers` checks only the four hand-copied TLDR variants, and prose is allowed to discuss scheduled things. This is a real gap and a blunt vocabulary gate over prose is a known bad answer here, one comment becoming a standing multi-file gate. Recorded as an open question, not a task.
