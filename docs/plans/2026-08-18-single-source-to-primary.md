@@ -1100,6 +1100,13 @@ protect a number.
 
 ## Follow-ups, in priority order
 
+> **Migrated 2026-08-18 to `docs/issues/`.** Seven of the threads below now have standing files,
+> because a plan is a dated record and its follow-up list stops being read once the plan is
+> historical, which is exactly when a long-lived thread still needs a home. The list stays here
+> unedited as the record of what this exercise found; the files are where the work is tracked.
+> Nothing that belongs to a ledger moved: the transcript at Dkt 540 and the bifurcation question are
+> Tensions in `docs/distillations/mdl-3047.md` and stay there.
+
 1. ~~**Unblock the deploy.**~~ **The wedged build is cancelled and the cause is external.** Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`, so it cannot fetch the repository. **Wait, do not redeploy**; each attempt adds to a queue that is not being served. Verify when it clears with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If it is still queued after the GitHub incident resolves, that is the point at which a support ticket is warranted, and the ticket should say that the same project built successfully at 14:40 from the same `package.json`. **Note that the Railway CLI session has since expired** (`Unauthorized. Please run \`railway login\` again`), so the first step of any further diagnosis is re-authenticating; the queue state readings in this file were taken before that and are as of 2026-08-18 evening.
 2. ~~**Distil the New Mexico Age Assurance section.**~~ **DONE 2026-08-18**, see the second publication pass above. Ledger section (g.2), claims 49 to 54, plus a dated pass on the curated page.
 3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension. Re-probed 2026-08-18 with a passing positive control: still 404.

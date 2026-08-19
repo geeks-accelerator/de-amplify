@@ -99,6 +99,7 @@ npm run start   # serve the production build
 npm run check:ledgers   # verbatim-TLDR drift; run after ANY ledger or curated-page edit
 npm run check:quotes    # quoted spans verbatim vs the source caches; run after ANY ledger edit
 npm run check:surfaces  # share cards + structured data vs the record; run after ANY case-status change
+npm run check:issues    # docs/issues schema + index; run after adding or closing a standing thread
 npm run dates           # regenerate content-dates.json; run after ANY content edit
 npm run check:dates     # fails if that manifest drifted from git history
 ```
@@ -118,6 +119,30 @@ npm run check:dates     # fails if that manifest drifted from git history
 - **Deploy**: Railway auto-deploys `main` (roughly 45s to 2min), fronted by Cloudflare. Verify user-facing changes live on de-amplify.com after the deploy, not just in the local build.
 - **CSP**: security headers, including a scoped Content-Security-Policy, live in `next.config.mjs`. If you add an external embed or resource, update the CSP or the browser will block it at runtime. The one current external dependency is the Suno iframe (allowed via `frame-src`). Check the browser console for CSP violations after deploying.
 - **Railway port gotcha**: the custom-domain target port must match the injected `$PORT` (8080). Do not hardcode `-p`. See the "Port note" in the README.
+
+## Where an open thread goes (four homes, and the boundary is the point)
+
+Added 2026-08-18, when `docs/issues/` was created as a general convention. **A fourth tracking
+location is a real risk in a repository whose most persistent failure is a fact living somewhere
+nobody re-reads**, so the boundary is narrow and it is checked before adding anything:
+
+- **A question about the evidentiary record of one proceeding** goes in that ledger's **Tensions** section. There are more than sixty and they work: they are published with the ledger and read on every re-seed of that case. "Is the trial bifurcated" is a big question and it lives there.
+- **Work being done now, with a shape and an order**, goes in a dated plan in `docs/plans/`. Plans close, and their follow-up lists are the outcome of an exercise rather than a standing queue.
+- **A quoted span that cannot verify against its cache** goes in `KNOWN_DEVIATIONS` in `scripts/check-quotes.mjs`, which prints it on every run.
+- **Everything else genuinely open** goes in `docs/issues/`, one dated file per thread, indexed, guarded by `npm run check:issues`.
+
+The test is **ownership, not importance**. Michigan's withdrawal is smaller than the bifurcation
+question and belongs in issues, because no ledger claims it and the plan that found it has closed.
+
+Three frontmatter fields are mandatory and each encodes a lesson this project paid for.
+`closes_when` stops an issue being a mood. `trigger` is the press-conference finding: that item read
+as dead research through two retries when the real state was one command away, so **a trigger beats
+a reminder** and `none` is a real answer. `surface` is the plan's own insight that **verified is not
+the same as publishable**, asked at open time rather than after the research.
+
+**The checker cannot tell whether an issue duplicates a ledger Tension**, which is the failure this
+directory most needs to avoid, and it says so on every run rather than letting green imply an answer
+it does not have.
 
 ## Known open threads
 

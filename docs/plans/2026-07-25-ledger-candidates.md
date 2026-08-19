@@ -400,6 +400,11 @@ The only rigorous work on feed controls is academic. A **NYU and Northeastern** 
 
 ## 9. Open questions
 
+> **Two of these moved to `docs/issues/` on 2026-08-18**, both because they had real expiry dates
+> attached and this document is a dated snapshot rather than a queue: the Character.AI
+> status-report deadline that passed unchecked, and whether India's IT Amendment Rules were
+> notified. They are recorded below as found; the standing files are where they are now tracked.
+
 - **The May 13, 2026 GPO transcript.** Re-check periodically; publishing that retires the second tier-down.
 - ~~**Character.AI July 31, 2026 status-report deadline.** Four days from this document. Posture will change.~~ **THAT DATE HAS PASSED (checked 2026-08-02) and nobody looked.** The four stayed cases either reported or were dismissed on or about 2026-07-31; which of those happened is **not established**, because no pass has gone back to the docket. If candidate 4.9 is ever built, its posture section starts from scratch rather than from this document.
 - **The DSA-fines premise in 4.2 is still unverified, and the EU ledger deliberately refuses to state it.** That section asserts no DSA fine to date rests on a recommender-transparency or user-control count, with X (120m EUR), Temu (200m EUR) and AliExpress (550m EUR) resting on other grounds. It is load-bearing, because it would mean the control counts have never been monetised. Verifying it means fetching those three decisions, not their coverage. Until then it lives in the ledger's Tensions as an open question.

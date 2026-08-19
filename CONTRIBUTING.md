@@ -83,6 +83,7 @@ npm run check:ledgers        # verbatim-TLDR drift; run if you touched a ledger 
 npm run check:quotes         # quoted spans verbatim against the committed source caches
 npm run check:surfaces       # share cards and structured data vs the record; run after any case-status change
 npm run check:distillations  # internal consistency of the single-source research corpus
+npm run check:issues         # schema and index of docs/issues, the standing-threads directory
 npm run dates                # regenerate content-dates.json if you changed any content file
 npm run check:dates          # fails if that manifest drifted from git history
 ```
