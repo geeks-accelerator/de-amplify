@@ -106,13 +106,14 @@ const LEDGERS = {
   "mdl-3047": {
     sources: [
       "mdl-3047-2026-07-06-dkt455-penalty-opposition.txt",
+      "mdl-3047-2026-08-10-ca9-24-7032-collateral-order-opinion.txt",
       "mdl-3047-2026-07-13-dkt473-penalty-disgorgement-reply.txt",
       "mdl-3047-2026-08-16-dkt534-pretrial-order-8.txt",
       "mdl-3047-2026-08-18-dkt549-trial-protocol.txt",
       "mdl-3047-2026-08-18-dkt550-civil-minutes.txt",
     ],
     allowlist: "mdl-3047-quote-allowlist.txt",
-    sections: ["(e) Money / exposure", "(i) The trial itself, day one"],
+    sections: ["(e) Money / exposure", "(i) The trial itself, day one", "(j) The appellate track"],
   },
   // California, registered 2026-08-18, taking the unguarded ledger count to ZERO.
   // The scope is deliberately tiny and the reason is the finding: CALIFORNIA
