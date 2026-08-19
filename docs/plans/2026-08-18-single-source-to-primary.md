@@ -1,7 +1,7 @@
 ---
 title: "Plan: taking the single-source corpus to primary sources, and publishing what survives"
 subtitle: "Sixteen distillations of the MDL 3047 trial coverage produced 112 claims tagged NEEDS-PRIMARY. This is the plan for resolving them in the cheapest defensible order, and for correcting the three flaws the first research pass exposed in the corpus itself."
-status: "EXECUTED 2026-08-18. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
+status: "EXECUTED 2026-08-18, then AUDITED the same day; the audit's six findings and their fixes are in Part V. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
 date: 2026-08-18
 site: "de-amplify.com"
 document: "Self-contained operational plan with a research brief. Every rule needed to execute is written here rather than linked, because a rule that is referenced but absent during execution gets violated. Every task names the artifact that closes it and the surface it would change."
@@ -23,6 +23,7 @@ sources:
 | **3. Corpus corrections** | **DONE.** All three applied; `check:distillations` caught the arithmetic drift the plan predicted it would. |
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
 | **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
+| **Implementation audit** | **DONE.** Eight findings, no factual error in the published record. Three reached a reader (a stale `Scheduled:` label on the hub, a ledger asserting both tenses, a reader summary never re-seeded); one was this repo's own documented blind spot reproduced (`check:quotes` scoped past the pass's most consequential claims); one census was wrong in every cell and is now machine-asserted. See Part V. |
 | **Deploy** | **BLOCKED, and not by this work.** One build wedged since 15:01 with zero log output, six queued behind it. **Not** a repo fault: the wedged build adds one markdown file. |
 
 **Everything here has been merged, and none of it is live.** The MDL ledger now carries
@@ -105,14 +106,22 @@ tag. The basis dimension answers how many removes the claim sits from the record
 
 Actionability is the decision the basis serves:
 
-| Tag | Meaning | Count in corpus |
-| --- | --- | --- |
-| `PUBLISHABLE` | May be stated on the site with its tier label | 89 |
-| `NEEDS-PRIMARY` | Real and material, verify against the record before publishing | **112** |
-| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact | 70 |
-| `DO-NOT-PUBLISH` | Fails the site's evidence rule | 13 |
+| Tag | Meaning | Count as approved | Measured 2026-08-18 |
+| --- | --- | --- | --- |
+| `PUBLISHABLE` | May be stated on the site with its tier label | 89 | 99 |
+| `NEEDS-PRIMARY` | Real and material, verify against the record before publishing | **112** | **135** |
+| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact | 70 | 121 |
+| `DO-NOT-PUBLISH` | Fails the site's evidence rule | 13 | 20 |
+| (none) | The pass-2 and pass-3 tables use an Action column of `engage` | not counted | 9 |
 
-The 112 are the subject of this plan.
+**Every number in the "as approved" column was wrong, and the audit that found it is in Part V.**
+They summed to 284 against a corpus of 384 claims, so a hundred claims were unaccounted for and
+nothing noticed, because the counts lived in prose here while the claims lived in another
+directory. The measured column is now recomputed by `npm run check:distillations` against a
+declared table in the corpus README, so it cannot drift again. The plan's body below is left at the
+approved numbers, since Parts I to IV exist to be graded rather than corrected.
+
+The `NEEDS-PRIMARY` set is the subject of this plan.
 
 ### Ledger-first
 
@@ -744,6 +753,80 @@ repository lacked without reading what the repository already held, which is the
 level up, as reading a `NEEDS-PRIMARY` tag as a work queue. **A claim about a gap needs the same
 reading pass as a claim about a source.**
 
+## The implementation audit, 2026-08-18
+
+A code review of this plan's own implementation, run after everything above had merged. It found
+eight things. **None of them is a factual error in the published record**, which is the part that
+matters: every quoted span verifies, every posture is right, and the $200 billion finding survives
+re-reading against the cache. What it found was the shape this project keeps hitting, drift that
+looks exactly like correctness.
+
+### The two that reached a reader
+
+- **The hub kept a `Scheduled:` label on an event that had happened**, in the same sentence that
+  said the proceeding opened on August 18. `/lawsuits` is the page that ranks; the re-seed had
+  updated the case file and left the hub half-done. The page's own label vocabulary defines
+  `scheduled` as "a current court date, subject to change", so the contradiction was in its own
+  terms. **No guard could see it**: `check:surfaces` is scoped hard to share cards and structured
+  data, and its posture vocabulary does not include "scheduled". That scoping is still right, and
+  the residue is that hub prose has no automated backstop at all.
+- **The ledger asserted both tenses at once.** The trial-flip pass corrected claim 14 and left
+  claim 25, so `/distillations/mdl-3047` said openings "were delivered on August 18" and, eight
+  claims later, that the case was "headed to trial" and "begins with jury selection August 12". The
+  section heading above it read "Current status (as of 2026-07-16)". Fixed, and the second heading
+  lettered `(g)` is now `(h)`: the ledger had two `(g)` sections and no `(h)`, which a reader saw.
+- **The MDL ledger's Reader summary was never re-seeded at all**, and it is the first paragraph a
+  reader meets on `/distillations/mdl-3047`. It said the claims "are headed to trial", that "a first
+  trial starts in August 2026", and closed "(Everything below is current as of July 16, 2026)" under
+  a frontmatter `as_of` of 2026-08-18. The trial-flip pass rewrote the TLDR block and claim 14 and
+  stopped there. A sweep of the other ten ledgers' reader summaries found no second instance.
+
+### The one that mattered most, and it is this script's own documented blind spot
+
+**`check:quotes` was scoped past the most consequential new claims in the pass.** The MDL ledger was
+registered with four cached documents and scoped to section (i), where the new trial-day quotes
+were. Claims 22a to 22c, in section (e), quote Dkt 473, whose cache is in that very list, and were
+verified by nothing. That is the exact defect `CLAUDE.md` records from 2026-08-14, when the FTC and
+Bits of Freedom ledgers were scoped to `Quotes` while their Claims sections quietly absorbed four
+punctuation errors. **Scope to what the cache covers, not to where you expect the quotes to be.**
+
+The claims are now under their own `(e.1)` subsection, which is scoped in. Section (e) proper still
+cannot be: claims 19 to 21 quote Meta's Dkt 455, which is not cached, and widening to the whole
+section produces eight red lines that are not fidelity defects. **All spans verified on the first
+run after widening**, so this was an unguarded surface rather than a defect. It would not have
+stayed that way.
+
+### The census nobody could check
+
+The corpus tag counts published in Part I were wrong in all four cells and summed to a hundred
+short. `check:distillations` now recomputes them against a declared table in the corpus README, in
+the same two-directional shape as the orphan check, and it is fault-injected on three faults
+including the exact 112-for-135 miscount. The dedupe record's own denominator is corrected, and the
+nine claims it never mentioned are classified.
+
+Two vocabulary leaks came out of the same thread and are closed: three claims carried the literal
+tag `ESTABLISHED`, a dedupe outcome, in an actionability column, while a fourth that depends on
+them was left at `NEEDS-PRIMARY`; and the dedupe record classifies one group with
+`ATTRIBUTE-ONLY`, which is a corpus tag rather than one of its own five outcomes. **Mixing two
+vocabularies is how a count stops being countable**, which is why the census check needed the
+retag before it could reconcile.
+
+### One more dating miss, in the other ledger
+
+The New Mexico ledger gained six primary-verified claims on 2026-08-18 and kept `as_of: 2026-08-13`,
+while the curated page it feeds said "Updated August 18, 2026". `as_of` records the date a ledger's
+record was last verified, and six claims had just been verified against the cached judgment. Bumped.
+Nothing downstream moved: the agent card derives its own `as_of` from the newest ledger, which was
+already the MDL one.
+
+### The gap the audit did not close
+
+The dedupe record cannot be mechanically recounted, and that is a property of the document rather
+than a defect to fix: it classifies some claims per-row in tables and others by a hedged prose
+heading ("Mostly `NOT-RESEARCH`"). A parser has to over-assign or under-assign; one reaches 115 of
+135. Its per-outcome counts are now labelled as the reading estimate they are, and the mechanical
+number lives in the corpus README where a checker asserts it.
+
 ## Follow-ups, in priority order
 
 1. **Unblock the deploy, and it is a dashboard action.** Cancel the build started 15:01, deployment `f4ff3f51-444c-4c03-bf72-1ac5e3360bc2`. Six deploys are queued behind it and the newest carries everything. The CLI cannot do this: `railway down` targets the most recent deployment, which is now a queued one carrying current content. **Everything below is moot until production rebuilds**, and nothing below requires a code change to make it possible. Verify with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If cancelling does not clear it, this is a Railway-side builder fault worth a support ticket: the wedged build adds a single markdown file, and PR #57 built from the same `package.json` twenty minutes earlier.
@@ -754,6 +837,8 @@ reading pass as a claim about a source.**
 6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson.
 7. **The attorneys general press conference**, still unobtained: YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. Party officials on the record on an official channel outranks every secondary source in the corpus.
 8. **Author allowlists for the last two unguarded ledgers**, `california-state-bellwethers` and `tennessee-v-meta`.
+9. **Cache Meta's Dkt 455** so section (e) of the MDL ledger can be scoped into `check:quotes` whole. Four spans there carry the `$1.4 trillion` framing, which is the most-quoted number on the site and currently rests on a 2026-07-16 by-eye verification of a PDF this repository does not keep. Until then `(e.1)` is guarded and `(e)` is not, and the split exists to make that visible rather than to hide it.
+10. **Consider whether hub prose needs any backstop.** `content/lawsuits.md` carried a stale posture label for as long as it did because nothing reads it: `check:surfaces` is deliberately scoped to share cards, `check:ledgers` checks only the four hand-copied TLDR variants, and prose is allowed to discuss scheduled things. This is a real gap and a blunt vocabulary gate over prose is a known bad answer here, one comment becoming a standing multi-file gate. Recorded as an open question, not a task.
 
 ### Parked, verified, waiting on a home
 
@@ -761,5 +846,5 @@ Neither is a research task. Both are primary-sourced in
 `docs/research/primary-findings-2026-08-18.md` and both are waiting for a section of the site that
 would carry them. Pick them up when that section exists, not before.
 
-9. **The Kids Online Safety Act**, ordered to be reported favorably by Senate Commerce on 2026-08-05, with an amendment in the nature of a substitute. Needs a place in the paper that tracks federal legislative posture, which does not exist today. Note when writing it that no vote tally appears in the action record, so "bipartisan" is not available from it, and that the reported text is a substitute nobody here has read.
-10. **Meta's $2.40 billion of charges related to legal proceedings** in the quarter ended 2026-06-30, per its Form 10-Q. Needs a deterrence-economics argument to attach to. It is an accrual, the company's own estimate of expected loss, not defence spending, and it is quarterly, so whatever carries it has to be willing to refresh it.
+11. **The Kids Online Safety Act**, ordered to be reported favorably by Senate Commerce on 2026-08-05, with an amendment in the nature of a substitute. Needs a place in the paper that tracks federal legislative posture, which does not exist today. Note when writing it that no vote tally appears in the action record, so "bipartisan" is not available from it, and that the reported text is a substitute nobody here has read.
+12. **Meta's $2.40 billion of charges related to legal proceedings** in the quarter ended 2026-06-30, per its Form 10-Q. Needs a deterrence-economics argument to attach to. It is an accrual, the company's own estimate of expected loss, not defence spending, and it is quarterly, so whatever carries it has to be willing to refresh it.
