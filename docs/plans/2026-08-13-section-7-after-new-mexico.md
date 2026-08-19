@@ -1,7 +1,7 @@
 ---
 title: "Plan: section 7 and section 4 after the New Mexico judgment"
 subtitle: "A court tested this paper's central legal bet and split it. What that changes, what it confirms, and what must be verified before a word of the paper moves."
-status: "Prepared and APPLIED 2026-08-13. Sections 1, 4 and 7 of the policy paper were revised against the review copy and the body regenerated. This file is now the record of why, not a pending instruction."
+status: "Prepared and APPLIED 2026-08-13. Sections 1, 4 and 7 of the policy paper were revised against the review copy and the body regenerated. This file is now the record of why, not a pending instruction. ADDENDUM 2026-08-18: the New Mexico ledger gained an age-assurance section that bears directly on 7.2, and section 4 gained two comparative decisions. Neither changes this file's conclusions; both strengthen them. See the addendum at the end."
 date: 2026-08-13
 site: "de-amplify.com"
 document: "Operational and analytic checklist. It locates every affected string and states what it becomes; it does not pre-write the copy."
@@ -133,3 +133,24 @@ This plan does not touch the scorecard. The seven-part test is the standard, and
 ---
 
 *Provenance: written 2026-08-13, prerequisite work completed the same day. The New Mexico judgment was read directly from the cached copy in `docs/distillations/sources/`; every quotation from it in this file was checked as a verbatim substring of that cache. Three Ninth Circuit opinions were fetched and read in full to verify the paper's existing characterizations, all of which hold: the CAADCA appeal (No. 25-2366, 2026-03-12), the SB 976 appeal (No. 25-146, 2025-09-09), and Doe 1 v. Meta (No. 24-1672, 2026-04-28). The Doe en banc posture comes from the Ninth Circuit docket, which is current to 2026-08-10. Two items remain secondary-sourced and are marked as such in the text: FSC v. Paxton and the FTC's February 2026 COPPA policy statement. Fetch and cache both before either appears on the site; the FTC statement in particular is quoted by the New Mexico court and deserves the same treatment as the Commission releases already cached in `sources/`.*
+
+---
+
+## Addendum, 2026-08-18: what the age-assurance distillation adds to 7.2
+
+This file concluded that age assurance is still a showstopper, but for a nameable reason with a
+nameable fix-holder, and that the binding constraint is statutory rather than constitutional.
+**Material distilled on 2026-08-18 supports that and sharpens it.** Nothing here reverses a
+conclusion above; this is a pointer so the next revision does not have to rediscover it.
+
+The New Mexico ledger now carries the order's age-assurance remedies at section (g.2), claims 49 to
+54, distilled from the judgment already cached in this repository. Three things matter to 7.2:
+
+1. **The court ordered nine measures and called the set "far from ideal or sufficient"** (claim 54, with claim 48). It adopted them because better options were outside its jurisdiction. Section 7.2 argues the constraint is real and locatable; here is a court locating it, on the record, while granting what it could. **A refusal shows a limit. A grant labelled inadequate shows the same limit from the inside.**
+2. **The most transferable measure is a default rule, not a detection rule** (claim 51): where the platform believes a user is under 13, or under 18 but cannot estimate precisely, it must treat them as being in that band unless and until they verify. That is a way of writing an age-assurance obligation that **does not require the platform to determine an age**, which is the exact thing 7.2 identifies as blocked. It deserves consideration as a drafting answer, not just as a case fact.
+3. **The COPPA constraint runs through the remedy as well as the reasoning** (claim 49): the two-year under-13 prediction model is ordered on reasonable best efforts "in light of COPPA limitations". The statutory blocker 7.2 names is visible in the operative text of the order, not only in the discussion.
+
+Separately, section 4 gained two comparative decisions on 2026-08-18, the French Conseil
+constitutionnel decision of 14 August 2026 and Australia's minimum-age duty. **Read together they
+say the workable instrument is calibrated, service-specific and operator-facing**, which is the same
+direction 7.2 points. If 7.2 is rewritten, those belong in the same breath.

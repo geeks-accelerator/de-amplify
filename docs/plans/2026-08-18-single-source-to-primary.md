@@ -1,7 +1,7 @@
 ---
 title: "Plan: taking the single-source corpus to primary sources, and publishing what survives"
 subtitle: "Sixteen distillations of the MDL 3047 trial coverage produced 112 claims tagged NEEDS-PRIMARY. This is the plan for resolving them in the cheapest defensible order, and for correcting the three flaws the first research pass exposed in the corpus itself."
-status: "EXECUTED 2026-08-18. All five phases complete and merged as PR #59 (cd05039), CI green. The plan's central prediction held and its central caution was vindicated: the New Mexico block was already established, and the bifurcation it warned against publishing turned out to be unconfirmable. Phase 2 produced a finding that reverses the press on the $200 billion figure. One item is NOT closed and is not closeable here: the site has not deployed since 2026-08-14, so none of this is live. See Part V."
+status: "EXECUTED 2026-08-18. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
 date: 2026-08-18
 site: "de-amplify.com"
 document: "Self-contained operational plan with a research brief. Every rule needed to execute is written here rather than linked, because a rule that is referenced but absent during execution gets violated. Every task names the artifact that closes it and the surface it would change."
@@ -22,12 +22,12 @@ sources:
 | **2. Docket work** | **DONE, and it reversed the reporting.** Six documents fetched, four cached. The $200 billion figure does not mean what four outlets said it means. |
 | **3. Corpus corrections** | **DONE.** All three applied; `check:distillations` caught the arithmetic drift the plan predicted it would. |
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
-| **Deploy** | **BLOCKED, and not by this work.** Production has not rebuilt since 2026-08-14. |
+| **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
+| **Deploy** | **BLOCKED, and not by this work.** One build wedged since 15:01 with zero log output, six queued behind it. **Not** a repo fault: the wedged build adds one markdown file. |
 
 **Everything here has been merged, and none of it is live.** The MDL ledger now carries
 `as_of: 2026-08-18` and describes the openings in the past tense, the curated pages are re-seeded,
-and the policy paper carries the French comparative point. The production site still serves the
-2026-08-14 build. That is an infrastructure fault, not a content one, and it is the single open
+and the policy paper carries the French comparative point. The production site still serves the build from PR #57. That is an infrastructure fault, not a content one, and it is the single open
 item in this plan. See Part V, "The one thing that is not done".
 
 **Read Part V before acting on Parts I to IV.** Those parts are the plan as approved and are left
@@ -606,6 +606,36 @@ Four nulls and one stale cache, recorded in the corpus README with mechanisms:
 Number 4 is the instructive one, and only the positive control caught it. A document titled Witness
 List containing no instance of "witness" is a broken extraction, not a finding.
 
+### Verifying a fact and publishing it are different steps, and this plan only had the first
+
+Phase 1 verified four externals against official sources. **No phase said where any of them goes.**
+The result was that three sat verified and unused until a later re-read went looking, and one of
+them, the New Mexico age-assurance material, was the highest-value item in the entire exercise.
+
+The plan had a research pipeline and a publication pipeline and did not connect them. A future plan
+of this shape should carry, for every claim it sets out to verify, **the surface that will carry it
+if it checks out, or an explicit statement that there is not one yet.**
+
+That second half matters as much as the first. Two of the four are deliberately unpublished: KOSA
+because the policy paper has no section about federal bills, and Meta's quarterly legal charge
+because the paper has no deterrence-cost argument. Both are true, both are primary-sourced, and
+**neither has anywhere to live.** Publishing a fact into a page that was not arguing anything it
+bears on is how a site accumulates trivia with citations.
+
+**Verified is not the same as publishable.** The difference is whether the site has somewhere for
+it to live, and that question is answerable before the research, not after.
+
+### A claim about a gap needs the same reading pass as a claim about a source
+
+The coverage note added to the New Mexico ledger during Phase 4 asserted that the ledger did not
+carry the age-assurance claims. The reasoning was already there, at claims 41 to 48, and the finding
+the note said to add was already claim 48. Only the enumerated remedy list was genuinely missing.
+
+This is the `NEEDS-PRIMARY` error one level up. There, a tag about what a *document* did not
+establish was read as a claim about what the *repository* had not established. Here, a claim about
+what the repository lacked was written without reading what it already held. Same shape, same cost:
+work proposed against a gap that was smaller than stated.
+
 ### Registering a ledger in `check:quotes` immediately earns its keep
 
 `mdl-3047` is now registered with four cached docket documents, taking the unguarded ledger count
@@ -627,9 +657,21 @@ Deployment records map one to one onto the merge times:
 | Commit | Merged | Deployment | Status |
 | --- | --- | --- | --- |
 | `c9b50b0` (PR #57) | 14:40 | `84a05b9e` | **SUCCESS**, healthcheck passed |
-| `483cb82` (PR #58) | 15:01 | `f4ff3f51` | **BUILDING for 40 minutes, zero build log lines** |
+| `483cb82` (PR #58) | 15:01 | `f4ff3f51` | **BUILDING since 15:01, zero build log lines** |
 | `cd05039` (PR #59) | 15:23 | `02808871` | QUEUED |
 | `ba9bbf5` (PR #60) | 15:35 | `e6d580ef` | QUEUED |
+| `1c8d4cf` (PR #61) | 15:43 | `4f3315f2` | QUEUED |
+| (redeploy from source) | 15:44 | `8f5ed7ba` | QUEUED |
+| `f758ee7` (PR #62) | 15:56 | `3a44fc4d` | QUEUED |
+
+**A redeploy was authorised and run** (`railway redeploy --from-source -y`, chosen over plain
+`redeploy` because the latter re-runs the last successful build and would ship PR #57's content).
+**It did not help.** It queued behind the wedge as a sixth deployment and changed nothing else.
+
+**The CLI cannot clear this.** `railway down` removes "the most recent deployment", which is now a
+queued deploy carrying current content, not the wedged one. There is no cancel or abort subcommand;
+`railway deployment` offers only `list`, `up` and `redeploy`. **Cancelling build `f4ff3f51`
+specifically requires the Railway dashboard.**
 
 **The queue is head-of-line blocked.** One build wedged before its builder emitted a single line,
 and everything behind it waits, including the content change this plan exists to ship. A normal
@@ -704,7 +746,7 @@ reading pass as a claim about a source.**
 
 ## Follow-ups, in priority order
 
-1. **Unblock the deploy.** Everything below is moot until production rebuilds.
+1. **Unblock the deploy, and it is a dashboard action.** Cancel the build started 15:01, deployment `f4ff3f51-444c-4c03-bf72-1ac5e3360bc2`. Six deploys are queued behind it and the newest carries everything. The CLI cannot do this: `railway down` targets the most recent deployment, which is now a queued one carrying current content. **Everything below is moot until production rebuilds**, and nothing below requires a code change to make it possible. Verify with `/api/health` reading `manifestGenerated: 2026-08-18` and `/lawsuits/mdl-3047` naming Arturo Bejar. If cancelling does not clear it, this is a Railway-side builder fault worth a support ticket: the wedged build adds a single markdown file, and PR #57 built from the same `package.json` twenty minutes earlier.
 2. ~~**Distil the New Mexico Age Assurance section.**~~ **DONE 2026-08-18**, see the second publication pass above. Ledger section (g.2), claims 49 to 54, plus a dated pass on the curated page.
 3. **Obtain the trial transcript** (Dkt 540) when it reaches the free archive, and close the $200 billion Tension.
 4. **Confirm or drop the bifurcation** when an order addresses trial structure.
@@ -712,3 +754,12 @@ reading pass as a claim about a source.**
 6. **Michigan's withdrawal**, still sourced to one station quoting a spokesperson.
 7. **The attorneys general press conference**, still unobtained: YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. Party officials on the record on an official channel outranks every secondary source in the corpus.
 8. **Author allowlists for the last two unguarded ledgers**, `california-state-bellwethers` and `tennessee-v-meta`.
+
+### Parked, verified, waiting on a home
+
+Neither is a research task. Both are primary-sourced in
+`docs/research/primary-findings-2026-08-18.md` and both are waiting for a section of the site that
+would carry them. Pick them up when that section exists, not before.
+
+9. **The Kids Online Safety Act**, ordered to be reported favorably by Senate Commerce on 2026-08-05, with an amendment in the nature of a substitute. Needs a place in the paper that tracks federal legislative posture, which does not exist today. Note when writing it that no vote tally appears in the action record, so "bipartisan" is not available from it, and that the reported text is a substitute nobody here has read.
+10. **Meta's $2.40 billion of charges related to legal proceedings** in the quarter ended 2026-06-30, per its Form 10-Q. Needs a deterrence-economics argument to attach to. It is an accrual, the company's own estimate of expected loss, not defence spending, and it is quarterly, so whatever carries it has to be willing to refresh it.
