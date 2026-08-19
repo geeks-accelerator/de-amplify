@@ -1,0 +1,33 @@
+# Quoted spans in mdl-3047.md that are deliberately NOT quotes from the five
+# cached docket documents. Whitespace-normalized exact match. Everything else
+# quoted in that ledger's sections (e) and (i) must verify against one of those
+# caches.
+#
+# Authored 2026-08-18, when Meta's Dkt 455 was cached and section (e) came under
+# the check whole. Registering the cache immediately caught two real defects, and
+# NEITHER is in this file, because that is the point of keeping an allowlist
+# short. An allowlist is where a real defect goes to hide.
+#
+#   1. Claim 20 quoted the states' penalty exhibit by a title taken from the
+#      DOCKET LISTING ("Monthly Instances of Teen Users Exceeding ... Over 0.5
+#      Hours"). Meta's filing calls the same exhibit "Time Spent Penalty
+#      Calculation for Teen Users". Corrected in the ledger to quote the filing.
+#      Same class as claim 37: a docket caption is not text in a document.
+#   2. Claim 21 lowercased the filing's sentence-initial capital, writing "a
+#      sanction of that size has no analog..." where the record reads "A sanction
+#      of that size...". Corrected in the ledger. This is the same defect as the
+#      EU ledger's "Can be easily dismissed" and is invisible at reading size.
+#
+# The single entry below is a different thing entirely. It is a quotation of an
+# OUTLET, quoted precisely in order to record that the phrase is NOT in the
+# filing, and it is correctly absent from every cache. The Discrepancies section
+# of the ledger explains it at length: on 2026-07-16 the project briefly replaced
+# Meta's real words with this paraphrase, then reversed that on reaching the
+# primary. Removing the quotation marks would destroy the record of the error.
+
+# --- Law Commentary's unquoted lede paraphrase of Meta's position, which the
+# --- ledger quotes twice (claim 21's trailing note and the Discrepancies entry)
+# --- to state that it appears nowhere in Dkt 455. Positive control run
+# --- 2026-08-18: "extraordinary" and "unjustified" each occur zero times in the
+# --- cached filing, and "entirely unmoored" occurs once, so the query works.
+extraordinary and unjustified,

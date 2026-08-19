@@ -1,0 +1,1623 @@
+          Case 4:23-cv-05448-YGR           Document 455       Filed 07/06/26      Page 1 of 35
+
+
+
+ 1   Ashley M. Simonsen (Bar No. 275203)
+     COVINGTON & BURLING LLP
+ 2   1999 Avenue of the Stars
+ 3   Los Angeles, California 90067
+     Telephone: (424) 332-4800
+ 4   Facsimile: (424) 332-4749
+     Email: asimonsen@cov.com
+ 5
+     Attorneys for Defendant Meta Platforms, Inc.
+ 6   f/k/a Facebook, Inc.
+ 7
+     [Additional counsel listed on signature pages]
+ 8
+                                    UNITED STATES DISTRICT COURT
+ 9
+                           FOR THE NORTHERN DISTRICT OF CALIFORNIA
+10
+
+11                                           OAKLAND DIVISION
+
+12
+     IN RE: SOCIAL MEDIA ADOLESCENT                            MDL No. 3047
+13   ADDICTION/PERSONAL INJURY PRODUCTS
+14   LIABILITY LITIGATION                                      Case Nos.: 4:22-md-03047-YGR
+                                                                          4:23-cv-05448-YGR
+15   This Document Relates To:
+                                                               META’S SUBMISSION REGARDING
+16   People of the State of California, et al. v. Meta         STATE AGS’ PENALTY AND
+     Platforms, Inc. et al.                                    DISGORGEMENT CHARTS AND
+17
+                                                               SUPPORTING MATERIALS, ECF 444
+18                                                             (3218)
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+     META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                         (3218)
+                                          4:22-md-03047-YGR; 4:23-cv-05448-YGR
+              Case 4:23-cv-05448-YGR                           Document 455                   Filed 07/06/26                 Page 2 of 35
+
+
+
+ 1                                                              TABLE OF CONTENTS
+ 2
+     INTRODUCTION......................................................................................................................... 1
+ 3
+
+ 4   ARGUMENT ................................................................................................................................. 1
+
+ 5   I.        The AGs’ Monetary Claims Are Not Linked to Wrongful Conduct or Supported by
+               the Record. ......................................................................................................................... 1
+ 6
+               A.         Monetary Relief Must be Linked to Wrongful Conduct. .................................. 1
+ 7
+               B.         The AGs’ Monetary Relief Calculations Are Not Linked to Alleged
+ 8                        Violations or Supported by Evidence.................................................................. 5
+ 9   II.       The AGs Impermissibly Seek Duplicative Recoveries. ................................................ 15
+10
+               A.         The Law Does Not Permit Double Recovery. ................................................... 15
+11
+               B.         The AGs Seek Multiple Recoveries for the Same Alleged Violations. ........... 17
+12
+     III.      The AGs Seek Unsubstantiated Damages Wholly Disproportionate to Any Offense.
+13             ........................................................................................................................................... 19
+14   IV.       The Court Should Determine the Appropriate Monetary Relief Based Solely On
+               Opinions Contained in the Experts’ Reports. .............................................................. 23
+15
+
+16   V.        Meta Should Receive Updated Depositions of the Three Experts Most Relevant To
+               These Calculations. ......................................................................................................... 26
+17
+     CONCLUSION ........................................................................................................................... 27
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                                                     ii
+          META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                              (3218)
+                                               4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR                        Document 455                Filed 07/06/26             Page 3 of 35
+
+
+
+ 1                                                       TABLE OF AUTHORITIES
+ 2                                                                                                                                            Page(s)
+ 3   Cases
+ 4
+     Akins v. Texas,
+ 5      325 U.S. 398 (1945) .................................................................................................................17
+
+ 6   Alphonso v. Pitney Bowes, Inc.,
+        356 F. Supp. 2d 442 (D.N.J. 2005) ..........................................................................................22
+ 7
+     Am. Nat’l Univ. of Ky., Inc. v. Commonwealth ex rel. Beshear,
+ 8      2019 WL 2479608 (Ky. Ct. App. June 14, 2019) (unpublished).............................2, 3, 5, 7, 16
+ 9   BMW of N. Am., Inc. v. Gore,
+10     517 U.S. 559 (1996) ...................................................................................................................4
+
+11   DeSimone v. Springpoint Senior Living, Inc.,
+        256 N.J. 172, 306 A. 3d 1276 (2024).......................................................................................21
+12
+     DiPirro v. Bondo Corp.,
+13      153 Cal. App. 4th 150 (2007) ..................................................................................................25
+14   Doe v. D.M. Camp & Sons,
+15      624 F. Supp. 2d 1153 (E.D. Cal. 2008)....................................................................................16
+
+16   Edgerly v. City & Cnty. of San Francisco,
+        713 F.3d 976 (9th Cir. 2013) .....................................................................................................3
+17
+     EEOC v. Waffle House, Inc.,
+18     534 U.S. 279 (2002) .................................................................................................................17
+19   Flo & Eddie, Inc. v. Sirius XM Radio, Inc.,
+        2016 WL 11784406 (C.D. Cal. Nov. 7, 2016).........................................................................24
+20
+
+21   FTC v. Bronson Partners, LLC,
+       654 F.3d 359 (2d Cir. 2011).....................................................................................................14
+22
+     FTC v. Green Equitable Sols.,
+23     2024 U.S. Dist. LEXIS 64339 (C.D. Cal. Feb. 2, 2024)..........................................................14
+24   In re Gen. Motors LLC Ignition Switch Litig.,
+         407 F. Supp. 3d 212 (S.D.N.Y. 2019)......................................................................................16
+25
+     Granelli v. Chicago Title Ins. Co.,
+26
+        2012 WL 2072648 (D.N.J. June 8, 2012) ....................................................................16, 17, 20
+27
+     Hale v. Morgan,
+28      22 Cal. 3d 388 (1978) ..............................................................................................................21
+                                                                      iii
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR                        Document 455                 Filed 07/06/26             Page 4 of 35
+
+
+
+ 1   People ex rel. Harris v. Sarpas,
+        225 Cal. App. 4th 1539 (2014) ..............................................................................................3, 4
+ 2
+     Holmes v. Sec. Inv’r Prot. Corp.,
+ 3
+        503 U.S. 258 (1992) .................................................................................................................17
+ 4
+     Hyde Properties v. McCoy,
+ 5      507 F.2d 301 (6th Cir. 1974) ...................................................................................................24
+
+ 6   Illinois Brick Co. v. Illinois,
+          431 U.S. 720 (1977) .................................................................................................................17
+ 7
+     Ivie v. Kraft Foods Glob., Inc.,
+ 8
+         2015 WL 183910 (N.D. Cal. Jan. 14, 2015) ......................................................................14, 15
+ 9
+     Kansas v. Nebraska,
+10      574 U.S. 445 (2015) .................................................................................................................14
+
+11   People ex rel. Kennedy v. Beaumont Inv., Ltd.,
+        111 Cal. App. 4th 102 (2003) ................................................................................................3, 5
+12
+     Kimmelman v. Henkels & McCoy, Inc.,
+13      527 A.2d 1368 (N.J. 1987).........................................................................................................4
+14
+     Kugler v. Banner Pontiac-Buick, Opel, Inc.,
+15      120 N.J. Super. 572, 295 A.2d 385 (Ch. Div. 1972)................................................................24
+
+16   Kugler v. Romain,
+        58 N.J. 522, 279 A.2d 640 (1971)..................................................................................2, 3, 5, 7
+17
+     Lexton-Ancira Real Estate Fund, 1972 v. Heller,
+18      826 P.2d 819 (Colo. 1992) .......................................................................................................16
+19   May Dep’t. Stores Co. v. State ex rel. Woodard,
+20     863 P.2d 967 (Colo. 1993) .......................................................................................2, 3, 5, 7, 16
+
+21   Meshinsky v. Nichols Yacht Sales, Inc.,
+        541 A.2d 1063 (N.J. 1988).........................................................................................................4
+22
+     Nationwide Biweekly Admin., Inc. v. Super. Ct.,
+23      9 Cal. 5th 279, 462 P.3d 461 (2020) ........................................................................................24
+24   People v. Bestline Products, Inc.,
+        61 Cal. App. 3d 879 (1976) .............................................................................................2, 4, 18
+25
+
+26   People v. Custom Craft Carpets, Inc.,
+        159 Cal. App. 3d 676 (1984) .....................................................................................................5
+27
+     People v. Dollar Rent–A–Car Systems, Inc.,
+28      211 Cal. App. 3d 119 (1989) .....................................................................................................4
+                                                                 iv
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR                        Document 455                 Filed 07/06/26             Page 5 of 35
+
+
+
+ 1   People v. First Fed. Credit Corp.,
+        104 Cal. App. 4th 721 (2002) ..................................................................................................24
+ 2
+     People v. Johnson & Johnson,
+ 3
+        77 Cal. App. 5th 295 (2022) ............................................................................................2, 3, 12
+ 4
+     People v. Nat’l Ass’n of Realtors,
+ 5      155 Cal. App. 3d 578 (1984) ...............................................................................................4, 20
+
+ 6   People v. Overstock.com Inc.,
+        12 Cal. App. 5th 1064 (2017) ..................................................................................................21
+ 7
+     People v. Shifrin,
+ 8
+        342 P.3d 506 (Colo. App. 2014) ................................................................................................4
+ 9
+     People v. Superior Court (Jayhill Corp.),
+10      9 Cal. 3d 283 (1973) ........................................................................................................2, 7, 16
+
+11   People v. Superior Court (Olson),
+        96 Cal. App. 3d 181 (1979) .....................................................................................2, 13, 16, 21
+12
+     People v. Toomey,
+13      157 Cal. App. 3d 1 (1984) .........................................................................................................2
+14
+     People v. Wunder,
+15      371 P.3d 785 (Colo. App. 2016) ..............................................................................................20
+
+16   Pioneer Hi-Bred Int’l, Inc. v. Ottawa Plant Food, Inc.,
+        219 F.R.D. 135 (N.D. Iowa 2003) ...........................................................................................25
+17
+     Platkin v. Kizito,
+18      337 A.3d 354 (N.J. Super. Ct. App. Div. 2025).........................................................................4
+19   Prata v. Super. Ct.,
+20      91 Cal. App. 4th 1128 (2001) ....................................................................................................4
+
+21   Pronman v. Styles,
+        2014 WL 2586340 (S.D. Fla. June 10, 2014) ..........................................................................22
+22
+     Ptaszynski v. Atl. Health Sys., Inc., 440 N.J. Super. 24, 111 A.3d 111 (N.J. Super. Ct.
+23      App. Div. 2015) .......................................................................................................................16
+24   Rosen v. Dick,
+        83 F.R.D. 540 (S.D.N.Y. 1979) ...............................................................................................25
+25
+
+26   S.E.C. v. Choice Advisors, LLC,
+         2024 WL 4469095 (S.D. Cal. Oct. 7, 2024) ............................................................................14
+27
+     S.E.C. v. First City Fin. Corp.,
+28       890 F.2d 1215 (D.C. Cir. 1989) ...............................................................................................14
+                                                                  v
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR                          Document 455                 Filed 07/06/26              Page 6 of 35
+
+
+
+ 1   S.E.C. v. Hughes Cap. Corp.,
+         917 F. Supp. 1080 (D.N.J. 1996) .............................................................................................14
+ 2
+     S.E.C. v. Platforms Wireless Int’l Corp.,
+ 3
+         617 F.3d 1072 (9th Cir. 2010) ...........................................................................................13, 14
+ 4
+     S.E.C. v. Teo,
+ 5       746 F.3d 90 (3d Cir. 2014).......................................................................................................14
+
+ 6   Skoldberg v. Villani,
+        601 F. Supp. 981 (S.D.N.Y. 1985) ..........................................................................................25
+ 7
+     Solem v. Helm,
+ 8
+         463 U.S. 277 (1983) ...................................................................................................................4
+ 9
+     St. Louis, I.M. & S Ry. Co. v. Williams,
+10       251 U.S. 63 (1919) ...................................................................................................................21
+
+11   State Farm Mut. Auto. Ins. Co. v. Campbell,
+         538 U.S. 408 (2003) .................................................................................................................17
+12
+     State v. The Castle Law Group, LLC,
+13       2017 WL 3449241 (Colo. Dist. Ct. Apr. 4, 2017) ...................................................................20
+14
+     Stevens v. Motorists Mut. Ins. Co.,
+15       759 S.W.2d 819 (Ky. 1988) .......................................................................................................4
+
+16   Stop Youth Addiction, Inc. v. Lucky Stores, Inc.,
+        17 Cal. 4th 553 (1998) .......................................................................................................16, 17
+17
+     Tritent Int’l Corp. v. Commonwealth of KY,
+18       467 F.3d 547 (6th Cir. 2006) ...................................................................................................19
+19   Union Planters Bank v. L & J Dev. Co.,
+20      115 F.3d 378 (6th Cir. 1997) ...................................................................................................21
+
+21   United States v. Bajakajian,
+        524 U.S. 321 (1998) .................................................................................................................21
+22
+     W. Union Tel. Co. v. Pennsylvania,
+23      368 U.S. 71 (1961) ...................................................................................................................17
+24   State ex rel. Weiser v. Ctr. for Excellence in Higher Educ., Inc.,
+         2023 CO 23, 529 P.3d 599 (Colo. 2023) ...........................................................................10, 25
+25
+
+26   Statutes
+
+27   15 U.S.C. § 6501 ............................................................................................................................19
+
+28   Cal. Bus. & Prof. Code § 17206(b)............................................................................................1, 16
+                                                                vi
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR                          Document 455                 Filed 07/06/26               Page 7 of 35
+
+
+
+ 1   Cal. Bus. & Prof. Code § 17536(b)..................................................................................................1
+ 2   Colo. Rev. Stat. § 6-1-112(1)(a) ......................................................................................................1
+ 3   Ky. Rev. Stat. § 367.990 ..................................................................................................................1
+ 4
+     N.J. Stat. Ann. § 56:8-13..................................................................................................................1
+ 5
+     Other Authorities
+ 6
+     Black’s Law Dictionary (12th ed. 2024)..........................................................................................3
+ 7
+     Fed. R. Civ. P. 11 ...........................................................................................................................21
+ 8
+     Fed. R. Civ. P. 26 ...........................................................................................................................23
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                                                vii
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+              Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 8 of 35
+
+
+
+ 1                                                 INTRODUCTION
+ 2             Trial in this case is confined to the AGs’ claims (1) that specific, identified statements by Meta
+ 3   were false or misleading, (2) that three specific design features were unfair practices, and (3) that Meta
+ 4   violated COPPA because it had “actual knowledge” of under-13 users or its services were “directed to
+ 5   children.” This case is not an amorphous challenge over addiction or teen mental health untethered to
+ 6   those specific claims. For this reason, the AGs’ claimed remedies are limited to UPA violations—if
+ 7   proven—arising out of the claimed deceptive statements, unfair features, and alleged COPPA violations.
+ 8             Despite this, the AGs have not linked their claimed remedies to their alleged violations. They
+ 9   instead seek over one trillion dollars in penalties and disgorgement based on calculations that sweep in,
+10   and double count, every single teen who uses Meta’s platforms, and every single month in which a teen
+11   uses Meta’s platforms for more than a half-hour. See State AGs’ Penalty and Disgorgement Charts and
+12   Supporting Materials (“Mot.”), ECF 444 (3218). These remedies have no basis in the record in this case,
+13   are entirely unmoored from the claimed deceptive statements or unfair practices, are based on features
+14   this Court has held are immune from liability under Section 230, and violate the legal and due process
+15   limits on the scope of UPA penalties. For these reasons, and the reasons set forth below, Meta respectfully
+16   requests that the Court grant the relief specified at the end of this brief.
+17                                                    ARGUMENT
+18   I.        The AGs’ Monetary Claims Are Not Linked to Wrongful Conduct or Supported by the
+               Record.
+19
+               A.      Monetary Relief Must be Linked to Wrongful Conduct.
+20
+               Civil penalties are imposed “for each violation” of the consumer protection laws of California,
+21
+     Colorado, New Jersey, and Kentucky. See Cal. Bus. & Prof. Code § 17206(b) (“The court shall impose a
+22
+     civil penalty for each violation of this chapter.”); id. § 17536(b) (identical language for FAL); Colo. Rev.
+23
+     Stat. § 6-1-112(1)(a) (“any person who violates or causes another to violate any provision of this article 1
+24
+     shall forfeit and pay … a civil penalty … for each such violation.”); N.J. Stat. Ann. § 56:8-13 (“Any
+25
+     person who violates any of the provisions of the act … shall … be liable to a penalty … for … each
+26
+     subsequent offense.”); Ky. Rev. Stat. § 367.990 (“the Attorney General … may recover on behalf of the
+27
+
+28
+                                                             1
+          META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                              (3218)
+                                               4:22-md-03047-YGR; 4:23-cv-05448-YGR
+           Case 4:23-cv-05448-YGR            Document 455       Filed 07/06/26      Page 9 of 35
+
+
+
+ 1   Commonwealth a civil penalty of not more than … [t]wo thousand dollars ($2,000) per violation”)
+ 2   (emphases added).
+ 3          While courts decide “what amounts to a violation on a case-by-case basis,” People v. Johnson &
+ 4   Johnson, 77 Cal. App. 5th 295, 352 (2022); Mot. at 3, that determination is governed by case law
+ 5   establishing that the counting of UPA violations must be tied or linked to the conduct giving rise to the
+ 6   violation. In particular, the case law recognizes two general approaches to counting UPA violations:
+ 7   based either on (a) the number of consumers “exposed to” or affected by the defendant’s violations, or (b)
+ 8   the defendant’s affirmative unlawful acts. See, e.g., People v. Super. Ct. (Jayhill Corp.), 9 Cal. 3d 283,
+ 9   289 (1973) (“the number of violations is to be determined by the number of persons to whom the
+10   misrepresentations were made”); May Dep’t. Stores Co. v. State ex rel. Woodard, 863 P.2d 967, 974 (Colo.
+11   1993) (in CCPA case, “defin[ing] separate violations in terms of the dissemination of false and misleading
+12   information”) (emphasis in original); Am. Nat’l Univ. of Ky., Inc. v. Commonwealth ex rel. Beshear, 2019
+13   WL 2479608, at *7 (Ky. Ct. App. June 14, 2019) (unpublished) (employing second approach); Kugler v.
+14   Romain, 58 N.J. 522, 533, 279 A.2d 640, 646 (1971) (same). Both approaches link the counting of
+15   violations to the conduct that violated the statute.
+16          Under the first approach, courts count violations by the number of consumers exposed to or
+17   affected by the defendant’s violative acts. In People v. Superior Court (Olson), 96 Cal. App. 3d 181, 198
+18   (1979), the California Court of Appeal held that “[a] single publication constitutes a minimum of one
+19   violation with as many additional violations as there are persons who read the advertisement or who
+20   responded to the advertisement.” (emphases added). The court declined to measure violations by the
+21   “circulation of the newspaper” because it would be “‘unreasonable’ to assume that the Legislature
+22   contemplated penalties of that magnitude for a false advertisement in a single edition of a newspaper.” Id.
+23   at 196–97. So too in People v. Bestline Products, Inc., 61 Cal. App. 3d 879, 903 (1976), where the court
+24   counted the “number of victims to which misrepresentations were made by each defendant,” and found
+25   3,000 violations, because “false and misleading representations [were] made to upward of 10,000
+26   prospective distributors, 3,000 of whom in fact acted thereon to become direct or general distributors.”
+27   Id. at 923. Other courts have counted violations by the sales of misleading coupons, People v. Toomey,
+28   157 Cal. App. 3d 1, 23 (1984), or the number of consumers who “spoke with” defendants’ sales
+                                                  2
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR             Document 455       Filed 07/06/26      Page 10 of 35
+
+
+
+ 1   representatives reading a deceptive sales script, People ex rel. Harris v. Sarpas, 225 Cal. App. 4th 1539,
+ 2   1567 (2014).
+ 3          Under the second approach, courts count violations based on the “separate, affirmative act or
+ 4   decisions by the defendant” that constitutes an “act of misfeasance” under applicable law. Am. Nat’l
+ 5   Univ., 2019 WL 2479608, at *6–7. In Am. Nat’l Univ., the Kentucky Court of Appeal “provide[d] …
+ 6   guidance on how trial courts may impose sanctions ‘per violation’ under the KCPA for material published
+ 7   online,” holding that “every KCPA violation must be based on separate, affirmative act[s] or decisions by
+ 8   the defendant” and “that in addition to the original publication, additional KCPA violations may be found
+ 9   whenever a defendant edits or adds substantive material … related to the information originally found to
+10   run afoul of the KCPA.” Id. at *7–8. The California Court of Appeal applied the same logic in People v.
+11   Ashford University LLC, affirming the trial court’s decision “to count each deceptive telephone call made
+12   by defendants as a separate violation.” 100 Cal. App. 5th 485, 500 (2024); see also Johnson, 77 Cal. App.
+13   5th at 352 (“count[ing] each deceptive … marketing communication as a separate violation”). And in
+14   People ex rel. Kennedy v. Beaumont Inv., Ltd., 111 Cal. App. 4th 102, 128, 130 (2003), the trial court
+15   “count[ed] each of defendants’ discrete unlawful acts as a separate statutory violation,” awarding penalties
+16   for “each time defendants forced a tenant to accept the conditions of a long-term dealer lease.” The New
+17   Jersey Supreme Court applied the same reasoning in Romain, 58 N.J. at 533, where the trial court held
+18   “that since the 24 contracts involved in the action were obtained through practices violative of [NJ CFA],
+19   a penalty of $100 in each instance or $2400 would be imposed upon defendant.” See also Woodard, 863
+20   P.2d at 974 (“defin[ing] separate violations in terms of the dissemination of false and misleading
+21   information”) (emphasis in original).
+22          Under either approach, courts tie the number of violations to the defendant’s violative conduct.
+23   This is inherent in the word “violation” itself. See Black’s Law Dictionary (12th ed. 2024) (defining
+24   “violation” as the “act of breaking or dishonoring the law”). Awarding for a “violation” without reference
+25   to the conduct giving rise to it would ignore the clear meaning of the term. See Edgerly v. City & Cnty.
+26   of San Francisco, 713 F.3d 976, 984 (9th Cir. 2013) (“[I]t is a settled principle of statutory construction,
+27   that courts should strive to give meaning to every word in a statute.”) (citation omitted).
+28
+                                                          3
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR            Document 455         Filed 07/06/26      Page 11 of 35
+
+
+
+ 1          Imposing penalties that are untethered to the alleged violation would also run afoul of due process
+ 2   rights. The principle that the punishment imposed must derive from the legal wrong “is deeply rooted and
+ 3   frequently repeated in common-law jurisprudence.” Solem v. Helm, 463 U.S. 277, 284 (1983); see also
+ 4   BMW of N. Am., Inc. v. Gore, 517 U.S. 559, 575 & n.24 (1996). The form of the “violation” may vary
+ 5   with the nature of the case, but the penalty must always be tied to the defendant’s violative acts. See, e.g.,
+ 6   Ashford, 100 Cal. App. 5th at 500 (“count[ing] each deceptive telephone call made by defendants as a
+ 7   separate violation”) (emphasis added).
+ 8          None of the cases the AGs cite counts violations in a manner untethered to the defendant’s
+ 9   proscribed conduct. Each of those cases discussing violation-counting links the penalty to the underlying
+10   legal wrong: counting the “number of victims to which misrepresentations were made by each defendant,”
+11   Bestline, 61 Cal. App. 3d at 903; counting “each consumer” who “spoke with” defendants’ sales
+12   representatives or “received [defendants’] marketing materials,” when the sales script and materials were
+13   deceptive, Sarpas, 225 Cal. App. 4th at 1567; calculating penalties based on the “number of persons
+14   directly affected by each act of unfair competition,” People v. Nat’l Ass’n of Realtors, 155 Cal. App. 3d
+15   578, 585–86 (1984) (emphasis added); counting penalties based on “each unlawful offer and sale” by
+16   defendants that violated securities laws, Platkin v. Kizito, 337 A.3d 354, 357 (N.J. Super. Ct. App. Div.
+17   2025); counting violations based on the number of “misleading and deceptive contracts” entered into and
+18   “false repair invoices” sent by defendant, People v. Dollar Rent–A–Car Systems, Inc., 211 Cal. App. 3d
+19   119, 132 (1989); and affirming award of penalties based on “549 ads” taken out by defendants and
+20   “thirteen representative consumers,” “twelve of whom testified to having seen such ads,” People v. Shifrin,
+21   342 P.3d 506, 523 (Colo. App. 2014).
+22          Many of the cases cited by the AGs do not address civil penalties or disgorgement at all. See, e.g.,
+23   Prata v. Super. Ct., 91 Cal. App. 4th 1128, 1146 (2001) (ability of private UCL plaintiff to bring
+24   representative action); Meshinsky v. Nichols Yacht Sales, Inc., 541 A.2d 1063, 1067 (N.J. 1988) (award
+25   of “cover” damages and prejudgment interest to NJ CFA private plaintiff); Stevens v. Motorists Mut. Ins.
+26   Co., 759 S.W.2d 819, 821 (Ky. 1988) (meaning of “service” under KCPA); Kimmelman v. Henkels &
+27   McCoy, Inc., 527 A.2d 1368, 1375 (N.J. 1987) (relief available under New Jersey Antitrust Act). And the
+28   cases cited by the AGs that discuss factors courts may consider in setting the amount of the civil penalty
+                                                         4
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 12 of 35
+
+
+
+ 1   per violation simply do not bear on how courts count the number of violations. See Mot. at 4–6. 1 Under
+ 2   the four States’ laws, “the court must exact a penalty for each violation committed.” People v. Custom
+ 3   Craft Carpets, Inc., 159 Cal. App. 3d 676, 686 (1984) (emphasis in original). Subject to statutory limits,
+ 4   “[t]he amount of each penalty, however, lies within the court’s discretion.” Id.
+ 5            B.      The AGs’ Monetary Relief Calculations Are Not Linked to Alleged Violations or
+                      Supported by Evidence.
+ 6
+              This case involves three categories of violative conduct. The AGs’ deception claims challenge
+ 7
+     certain statements by Meta that it “prioritizes health and safety,” that its “platforms were not designed to
+ 8
+     be addictive,” that those platforms are safe, and that it “prevents U13s from using its platforms.” ECF
+ 9
+     385 (3144) at 8–11. The unfairness claims concern three discrete features: “appearance-altering features,
+10
+     features related to restricting time spent on the platform, and Instagram’s ‘multiple accounts’ function.”
+11
+     Or. Denying Def.’s Mot. for Summ. J., ECF 440 (3214) at 2–3. 2 And the COPPA claims challenge the
+12
+     “collect[ion] [of] personal information of under-13 users without appropriate notice or parental consent,”
+13
+     where Meta had “actual knowledge” as to those users, or if its “platforms [we]re ‘directed to children.’”
+14
+     ECF 123 (1214) (“MTD Order”) at 12. Violations must therefore be counted with reference to those
+15
+     specific categories of conduct. See Beaumont, 111 Cal. App. 4th at 130 (affirming proposed counting
+16
+     where “each unlawful act was a separate, discrete event”); Am. Nat’l, 2019 WL 2479608, at *7 (counting
+17
+     based on the “separate, affirmative act or decisions by the defendant” that violate the statute); Woodard,
+18
+     863 P.2d at 974 (similar for CCPA); Romain, 58 N.J. at 533 (similar for NJ CFA). They cannot be counted
+19
+     based on harms tied to features barred by Section 230, which, as this Court held, does not permit imposing
+20
+     liability for algorithms, ephemeral content, notifications, likes, or infinite scroll. See MTD Order at 25–
+21
+     28. Any violation counting mechanism linked to those barred features would violate that ruling.
+22
+              Nor may the AGs recover penalties based on alleged “addictiveness” writ large. At the most recent
+23
+     pretrial conference, the AGs attempted to justify their grossly inflated penalties calculations by stating
+24
+     that “one of our theories is that Meta built the platforms to be addictive to teens.” 6/26/26 Hrg. Tr. at
+25
+     1
+26    The AGs’ discussion of these cases is especially notable given that each of their charts sets the maximum
+     penalty permitted under their States’ laws and offers no option for a lower amount.
+27   2
+       The AGs have also sought to add age verification features to their list of unfair practices, but briefing on
+28   that point remains pending in terms of Meta’s Motion in Limine Number 5, see ECF 373 (3123).
+                                                            5
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 13 of 35
+
+
+
+ 1   39:8–9. But that amorphous theory cannot be reconciled with the actual claims they bring. Take the
+ 2   deception claims. Meta made statements that its platforms were not designed to be addictive, and the AGs
+ 3   say those statements were untrue or misleading. See, e.g., ECF 385 (3144), Statement No. 2 (“At no stage
+ 4   does wanting something to be addictive factor into [our design] process.”). Any violation comes from the
+ 5   false or misleading nature of the statement, not from whether Meta’s platform causes harm from
+ 6   compulsive or addictive use. See ECF 266 (2783) (“MSJ Opp.”) at 11–12 (“the crux of the AGs’ consumer
+ 7   protection laws is how a reasonable consumer would understand Meta’s messages,” and “whether ‘social
+ 8   media addiction’ exists as a clinically diagnosable condition is even more attenuated from the question
+ 9   whether Meta designed its platforms to be addictive in a way that makes its statements to the contrary
+10   false or misleading”). Put differently, if Meta’s platforms were addictive, but it had not made “statements
+11   to the contrary,” id., the AGs would have no deception claim on this basis. And any amorphous
+12   “addictiveness” theory of unfairness is plainly barred by this Court’s motion-to-dismiss ruling on the
+13   features subject to Section 230 immunity—features such as algorithms, notifications, and infinite scroll
+14   that the AGs’ own experts claim are the causes of any such “addictive” behavior, even if that could be
+15   proven. Imposing liability on the theory that Meta’s platforms in their entirety are addictive would
+16   necessarily seek to impose liability on features that the Court has already held are subject to Section 230
+17   immunity. See MTD Order at 2 (“Section 230 insulates the design and deployment of most features
+18   alleged to be unfair or unconscionable.”).
+19                  a. Remedy Chart 2 – Time Spent
+20          The AGs seek maximum penalties for every day each month that any teen spent more than a half-
+21   hour, one hour, or two hours on Meta’s platforms. See Mot. Ex. B (Remedy Chart 2). They do not explain
+22   how Meta violated any State’s consumer protection law each time a teen spent a given amount of time on
+23   its platforms. By their admission, the AGs instead offer these cut-off points as proxies for harm caused
+24   by Meta’s platforms. See, e.g., ECF 2913 (Opp. to Mot. to Exclude Saba) at 4 (“The AGs will proffer
+25   other experts’ testimony and record evidence that use these and similar thresholds in examining
+26   problematic use and mental health impacts linked to time spent on the platforms.”). But the issue in this
+27   trial is not some amorphous theory of “harm” from Meta’s services, and indeed the AGs continue to assert
+28   that they have no obligation even to establish such harm to support their claims. See Mot. at 2. The
+                                                        6
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 14 of 35
+
+
+
+ 1   number of violations for the purpose of civil penalties must be based on the consumers exposed to or
+ 2   affected by those violations, see Jayhill, 9 Cal. 3d at 289, or the “separate, affirmative act or decisions by
+ 3   the defendant,” Am. Nat’l, 2019 WL 2479608, at *7 (emphasis added); see also Woodard, 863 P.2d at 974
+ 4   (similar for CCPA); Romain, 58 N.J. at 533 (similar for NJ CFA). That is because, unlike compensatory
+ 5   damages, civil penalties are “intended to proscribe deceptive acts and not the consequences of those acts.”
+ 6   Woodard, 863 P.2d at 972; see id. at 975 (“The focus of the [CCPA] proscription is on the act of
+ 7   publishing, disseminating, or soliciting and not on how the consumer acts upon the misleading
+ 8   information.”).
+ 9            No Linkage Between Time Spent and Violations: Time spent generally—and certainly not these
+10   arbitrary time spent limits, which appear to have been selected to generate the most outsized penalty
+11   calculations possible 3—are not the appropriate measures of Meta’s alleged misstatements or alleged unfair
+12   features. Under the AGs’ calculation, Meta would owe the same amount whether the Court found one
+13   actionable misstatement or sixty, or whether it found one feature to be an unfair practice or all three. That
+14   is because “time spent” is not linked to any violation tied to alleged misstatements or unfair features. As
+15   the AGs’ damages expert explained, the “
+16
+
+17
+
+18
+                                              .” Ex. 1, 3/2/26 Saba Dep. at 54:14–24 (Mr. Saba did not “
+
+                                                                    ”); see also id. at 105:16–106:1 (“
+                                                                                                       - -
+                                                                                           ”). As to the deception
+19   claims, Mr. Saba testified that his calculations did not account for “
+20                                          ,” id. at 113:23–114:2, and that he does not “
+21                                                               ,” id. at 115:19–116:5.
+22            No expert links any misstatement or any challenged feature to these usage levels, whether on an
+23   individual or population basis. One alleged misstatement, for example, involves a Meta employee
+24
+     3
+       As one glaring example, the AGs’ Remedy Chart 2, “Time Spent Penalty Calculation for Teen Users,”
+25   shows the number of teen users with monthly instances over 0.5 hours: 169 million in California, 14
+     million in Colorado, 14 million in Kentucky, and 33 million in New Jersey. See Mot. Ex. B (Chart 2A).
+26   If the AGs had instead used Mr. Saba’s calculation of the number of monthly instances of teen users
+27   exceeding a daily average of 5 hours (arguably a more relevant figure if one were measuring “compulsive”
+     as compared to incidental use), the number of instances in all four states would be zero. See Mot. Ex. B-
+28   2.
+                                                            7
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR           Document 455         Filed 07/06/26      Page 15 of 35
+
+
+
+ 1   commenting about content that a British teen saw and whether it was “safe.” See ECF 385 (3144),
+ 2   Statement No. 66. The AGs cannot explain how that statement relates to every teen who uses the platforms
+ 3   for a half-hour a day, much less any teen in the United States, or how it could justify these penalties if it
+ 4   were the only deceptive statement the Court found. As Mr. Saba acknowledged, “
+ 5                                                                     ,” then his estimates “
+ 6                                                          .” Ex. 1, 3/2/26 Saba Dep. at 75:14–76:3; see id. at
+ 7   61:1–6, 116:6–12 (Mr. Saba testifying that he does not “                                    ” stemming from
+ 8   his calculations).
+ 9          This point is particularly true given that, as the AGs’ experts have repeatedly acknowledged, time
+10   spent is related to a whole host of factors, including features this Court has held are not at issue in this
+11   case. The AGs’ experts have attributed time spent to multiple features subject to Section 230 immunity:
+12              •   Notifications: Ex. 2, 9/17/25 Twenge Dep. at 189:22–190:20 (
+13                                                                                      ”); Ex. 3, Prinstein Reb.
+                    Rep. ¶ 4 (“
+14                                                                    .”); Ex. 4, Zicherman Rep. ¶ 58 (
+15
+                            ”).
+16
+
+17              •   Algorithms: Ex. 2, 9/17/25 Twenge Dep. at 185:22–186:11 (
+                                                                                       ”); Ex. 5, Prinstein Rep. ¶
+18                  42 (“                                                                                     .”);
+19                  Ex. 4, Zicherman Rep. ¶ 36 (
+                                                                                                            ).
+20
+
+21              •   Infinite scroll: Ex. 6, 6/26/25 Twenge Dep. at 415:23–416:9 (“
+                                                            ”); Ex. 7, 12/4/25 Prinstein Dep. at 48:17–49:8
+22                                                                                           Ex. 5, Prinstein
+23                  Rep. ¶ 42 (“
+                                                                                 ”); Ex. 8, Gray Rep. ¶ 101
+24                  (“
+25
+                                                                                                                 .”).
+26
+
+27          In contrast, those experts have made no effort to link time spent to the limited features on which
+28   the AGs have been allowed to proceed.
+                                                          8
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR            Document 455         Filed 07/06/26      Page 16 of 35
+
+
+
+ 1          No Support for Specific Time Spent Intervals: Even if “violations” could be defined with
+ 2   reference to generalized consumer harm, there is no evidence that these specific cut-off points are an
+ 3   appropriate measure of such harm. None of the AGs’ experts identifies these specific thresholds as
+ 4   reflective of problematic use and none suggests that any threshold is an appropriate measure of such use.
+ 5   The AGs’ experts instead establish that the proposed thresholds are associated with beneficial use.
+ 6          The AGs themselves confirmed this point with the specific expert testimony they invoked at the
+ 7   most recent hearing. They cited to the Court four figures from Dr. Twenge’s report to dispute Meta’s
+ 8   claim that “none of the state AGs’ witnesses would say that there’s harm in a certain amount of time.”
+ 9   6/26/26 Hrg. Tr. at 34:12–15; see also ECF 2913 at 4 (“Dr. Jean Twenge … opines on the link between
+10   increased time spent on social media and mental health”). Counsel was referring to a correlational analysis
+11   Dr. Twenge conducted showing that wellbeing measures are different across different time intervals. But
+12   this analysis completely fails to justify any suggestion that there is harm to all or even a majority of users
+13   at any of the arbitrary time cut-points the AGs selected for penalties, let alone that that harm is linked to
+14   any of the challenged features or alleged misstatements at issue in this trial. See ECF 2913 at 4 (describing
+15   Twenge Rep. Fig. 12).
+16          Figure 12 from Dr. Twenge’s report is illustrative.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                           9
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR             Document 455            Filed 07/06/26       Page 17 of 35
+
+
+
+ 1
+
+ 2                      26
+
+
+ 3                      24
+
+ 4                                                                                                    -    Girls
+
+                        22
+ 5
+
+ 6                      20
+                 >
+                 0.
+                 0.
+ 7               ra
+                ..r::
+                 C
+                 :,     18
+ 8              *                                                                                     -    Boys
+
+                        16
+ 9
+
+10                      14
+
+11
+                        12
+12
+
+13                      10
+                              <II
+                                        .s
+                              c-
+                             ;g        0
+                                     -c:
+14                                  ...,~
+                                                Hours per day social media use
+15
+              Figure 12: Hours per day of social media use and unhappiness, U.S. teens (8 th and 10th graders)
+16            Source: Monitoring the Future. Analyses by Twenge & Martin (2020).
+              Note: Controlled for grade, race/ethnicity, mother' s education, and in-person social interaction
+17            frequency.
+
+18
+
+19          As is evident, this Figure shows that spending no time on social media is linked to a higher
+20   percentage of unhappy teenage boys than spending a half hour, one, two, three, four, or five hours, and a
+21   higher percentage of unhappy teenage girls than spending a half hour. See Ex. 9, Twenge Rep. Fig. 12.
+22   It thus contradicts the AGs’ penalty claims premised on all boys and girls spending a half hour. As to
+23   girls spending one or two hours on social media, unhappiness rates are only slightly higher than for non-
+24   users, and even then the substantial majority (e.g., over 80% at the 2-hour mark) do not report greater
+25   unhappiness with their use.
+26          Put differently, the AGs’ own data they cite to support trillion-dollar penalties indicates that most
+27   of the time intervals they allege are not harmful and actually reflect less unhappiness than no social media
+28   use at all. And in the few instances where higher time intervals show slightly higher levels of unhappiness
+                                                          10
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR             Document 455        Filed 07/06/26      Page 18 of 35
+
+
+
+ 1   for some users, the substantial majority of users in these time intervals still do not report unhappiness.
+ 2   And in any event, the broader point is that the AGs’ claims are not premised on teen “unhappiness” or
+ 3   generalized theories of teen mental health or “compulsive use”—they involve specific alleged
+ 4   misrepresentations and a limited set of design features.
+ 5           Another of Dr. Twenge’s charts shows that life satisfaction increased for girls aged 15 to 17 and
+ 6   for boys aged 12 to 17 who spent up to an hour a day on social media, versus teens who used no social
+ 7   media. See Ex. 9, Twenge Rep. Fig. 13. Dr. Twenge likewise testified that “
+ 8                                                      ,” Ex. 6, 6/26/25 Twenge Dep. at 469:1–8, and that she
+ 9   could not even say whether
+10                                    , id. at 405:1–13. Put simply, the data that the AGs invoked to justify any
+11   rational basis for their penalty calculations entirely fails to support them. It largely shows the opposite of
+12   what they are claiming.
+13           The AGs’ other causation expert, Dr. Mitch Prinstein, has testified before Congress that “the
+14   amount of screen time alone is not likely associated with negative psychological outcomes among youth,”
+15   Ex. 10, 9/26/25 Prinstein Dep. at 131:18–132:1. Although Dr. Prinstein has tried to retreat from that
+16   statement in this litigation, he has never identified these particular cut-off points as relevant measures of
+17   harm. Indeed, he has since co-authored a study providing that “time spent on social media is too broad a
+18   construct to reveal meaningful associations with mental health.” Ex. 11, Maheux et al., “Annual Research
+19   Review: Adolescent Social Media Use Is Not a Monolith: Toward the Study of Specific Social Media
+20   Components and Individual Differences,” Journal of Child Psychology and Psychiatry 66, no. 4 (2025):
+21   440–459. According to the paper, “studies measuring time spent on social media often neglect the specific
+22   content, features, and functions within social media experiences, some of which may offer benefits,
+23   whereas others pose risks.” Id. Again, the AGs’ own expert directly rejects any rational basis for a penalty
+24   calculation that seeks over a trillion dollars.
+25           In short, the AGs’ experts concede time spent alone does not show harm, or correlate with
+26   violations based on specific misstatements or unfair features. The data they cite from Dr. Twenge
+27   demonstrates that core parts of the usage intervals for which they seek recovery are linked to the highest
+28   levels of wellbeing, including higher wellbeing than no-usage. See Ex. 9, Twenge Rep. Fig. 13. And even
+                                                         11
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 19 of 35
+
+
+
+ 1   at the highest levels of usage, Dr. Twenge’s data indicates that the vast majority of users do not report
+ 2   negative wellbeing. See id. Figs. 12, 13. Despite this evidence, the AGs seek penalties corresponding to
+ 3   every month of use by every user at those levels.
+ 4             Even if the AGs’ claims were about addiction, none of the AGs’ experts identifies these cut-off
+ 5   points as measures of addiction, and none has tried to estimate the share of Meta’s teen users who are
+ 6   “addicted”—let alone “addicted” because of the features at issue here, as compared to the features the
+ 7
+
+ 8
+
+ 9
+     Court has held are subject to Section 230 immunity. In her report, Dr. Twenge opines that “
+                                                                                                      -
+                                                  ” but does not calculate a percentage or a rate when that occurs.
+
+     Ex. 9, Twenge Rep. ¶ 107. And Dr. Zicherman has testified that he could not determine whether “
+10
+
+11          . Ex. 12, Zicherman Dep. at 178:5–179:1. The AGs’ experts instead define problematic use as
+12   “[
+13                                                       .” Ex. 4, Zicherman Rep. ¶ 32. But the amount a user
+14   intends to use social media depends on the person. One user may regard two hours a day as “longer than
+15   intended,” while another may not reach that point until well past six hours. This measure also ignores
+16   how users spend that time on Instagram. One user might spend half an hour messaging their friends and
+17   family, while another might spend that time looking at content, and another might do some of both.
+18   Applying fixed time thresholds bluntly across Meta’s entire teen user base is therefore disconnected from
+19   any measure of addiction or problematic use, including from the AGs’ own experts, let alone from the
+20   claimed violations in this case.
+21                     b. Remedy Chart 1 – All Teens and All U13 Users
+22             The AGs also seek maximum penalties for every estimated preteen and teen using Meta’s
+23   platforms. See Mot. Ex. A (Remedy Chart 1). But they do not explain how Meta could engage in a
+24   violative act as to every teen user of its platforms. Counting violations for every individual teen that used
+25   Meta’s platforms could not serve the purpose of “secur[ing] obedience to statutes and regulations.”
+26   Johnson, 77 Cal. App. 5th at 352 (citation omitted). The AGs similarly do not explain a theory supporting
+27   penalties for every purported U13 user, beyond their unsupported claim that the entirety of Instagram and
+28   Facebook are directed to children.
+                                                            12
+          META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                              (3218)
+                                               4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR         Document 455        Filed 07/06/26      Page 20 of 35
+
+
+
+ 1            The AGs’ unfairness claims challenge features that are “opt-in”—that is, features that users can
+ 2   choose whether to use. The AGs have recognized that these features are only used by a subset of users.
+ 3   See MSJ Opp. at 3 n.2 (noting that “                                                    ”); id. at 35 (noting
+ 4   that “                                                            ”); cf. Ex. 13, 6/9/25 Otaru Dep. at 87:7–
+ 5   11 (“                                                                                               ”). And
+ 6   Mr. Saba testified that he does not know how many teens used “
+ 7                   .” Ex. 1, 3/2/26 Saba Dep. at 53:24–54:4, 54:21–24. The evidence in fact suggests those
+ 8
+
+ 9   Ex. 14, 10/21/24 Stewart Dep. at 218:14–22. Feature usage rates also vary across age groups. See Ex.
+10   15, 12/18/24 Kilstein Dep. at 637:6–13 (
+11                                                        ”). Nor do the AGs contend that every teen user was
+12   exposed to Meta’s statements, much less that every user found those statements misleading.
+13            Courts have declined to count violations on such a sweeping basis. For instance, in Olson, 96 Cal.
+14   App. 3d at 195, the California Court of Appeal rejected the People’s proposal that “circulation of the
+15   newspaper should be the measure of the number of violations.” It would be “unreasonable to assume that
+16   the Legislature contemplated penalties of that magnitude for a false advertisement in a single edition of a
+17   newspaper.” Id. at 198. “To so interpret the statute would render it violative of the due process prohibition
+18   against ‘oppressive’ or ‘unreasonable’ statutory penalties.” Id. At the same time, the court observed that
+19   there may be “additional violations” based on “persons who read” or “responded to the advertisement.”
+20   Id. Olson clearly rejects the premise of the AGs’ remedies charts—because they do not and cannot claim
+21   that every teen user was exposed to or affected by Meta’s allegedly deceptive statements, or that every
+22   teen user used the features the AGs claim are unfair.
+23                   c. Remedy Charts 4, 5 – Disgorgement
+24            The AGs’ proposed disgorgement calculations are similarly untethered from Meta’s alleged
+25   wrongful conduct. See Mot. Exs. D, E (Remedy Charts 4, 5). Disgorgement must approximate “the gains
+26   ‘causally connected to’ Meta’s unlawful conduct.” Mot. at 6 (emphasis added) (citing S.E.C. v. Platforms
+27   Wireless Int’l Corp., 617 F.3d 1072, 1096 (9th Cir. 2010)). The purported “profits” associated with teen
+28   users do not even attempt to approximate Meta’s gains from its alleged “unlawful” conduct. Mot. at 2.
+                                                      13
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR            Document 455        Filed 07/06/26      Page 21 of 35
+
+
+
+ 1   Even accepting that each statement and each feature was actionable, the AGs cannot establish that Meta
+ 2   engaged in wrongful conduct as to every teen user that spent a certain amount of time on its platforms, or
+ 3   every teen user. Cf. Ivie v. Kraft Foods Glob., Inc., 2015 WL 183910, at *2 (N.D. Cal. Jan. 14, 2015)
+ 4   (“There is no support” for awarding “any amount greater than the profit attributable to the mislabeling.”).
+ 5          Although it may sometimes be appropriate to “relax the disgorgement nexus requirement,” Mot.
+ 6   at 7, the AGs cite no authority for the proposition that no nexus need exist at all. Indeed, every case they
+ 7   cite shows the opposite. See, e.g., S.E.C. v. Choice Advisors, LLC, 2024 WL 4469095, at *5 (S.D. Cal.
+ 8   Oct. 7, 2024) (ordering disgorgement of “net profits” from transactions with clients to whom the
+ 9   defendants falsely claimed to be registered municipal advisors); FTC v. Green Equitable Sols., 2024 U.S.
+10   Dist. LEXIS 64339, at *19 (C.D. Cal. Feb. 2, 2024) (ordering disgorgement limited to the “ill-gotten
+11   funds” defendant received from the fraudulent enterprise and to which it had no “legitimate claim”);
+12   Platforms Wireless, 617 F.3d at 1096 (calculating disgorgement based on “proceeds obtained from the
+13   illegal sale of 17.45 million unregistered securities”); S.E.C. v. First City Fin. Corp., 890 F.2d 1215, 1232
+14   (D.C. Cir. 1989) (disgorgement based on “actual profits on the tainted transactions”); Kansas v. Nebraska,
+15   574 U.S. 445, 466 (2015) (disgorgement ordered for the “small portion of the amount by which Nebraska’s
+16   gain exceeds Kansas’s loss” to remedy Nebraska’s violation of interstate compact terms); S.E.C. v. Hughes
+17   Cap. Corp., 917 F. Supp. 1080, 1085 (D.N.J. 1996) (disgorgement for profits from illegal sale of securities
+18   less the “cost of the initial public offering”); S.E.C. v. Teo, 746 F.3d 90, 107–108 (3d Cir. 2014)
+19   (disgorgement of “profit from transactions tainted by [defendants’] violation of the Securities Exchange
+20   Act”). The AGs also seek disgorgement based on gross “revenue figures” without any “costs …
+21   deducted,” an argument that conflates all costs with those “associated with committing … illegal acts.”
+22   Mot. at 21 (citing FTC v. Bronson Partners, LLC, 654 F.3d 359, 375 (2d Cir. 2011)).
+23          The evidence shows that Meta does not make money from teens. In fact, the AGs’ own expert has
+24   calculated that                             . Ex. 16, Saba Rep. ¶¶ 167–68, 174 (showing
+25                                                    ). That is because Meta’s revenues come from advertising,
+26   and revenue on ads targeting U18 users                                                         . See Ex. 17,
+27   Venkataraman Reb. Rep. ¶ 82. Meta also puts specific advertising safeguards in place that make teen
+28   users less profitable, such as restricting how advertisers can target teens, the types of ads they can be
+                                                        14
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+           Case 4:23-cv-05448-YGR          Document 455        Filed 07/06/26      Page 22 of 35
+
+
+
+ 1   shown, and the types of data advertisers can use. See Ex. 18, 7/24/25 Hegeman Dep. at 243:22–244:13.
+ 2   Unable to identify any actual profits from teen users, the AGs instead rely on a convoluted “aged-up”
+ 3   theory, which purports to estimate Meta’s “wrongful” gains based on the revenue generated from teen
+ 4   users as adults. See Mot. at 18. But the AGs do not explain how Meta was unjustly enriched by building
+ 5   platforms that teens wanted to continue to use. Like any business, Meta wants to appeal to the next
+ 6   generation. In order to do so, Meta strives to build platforms that teens want to use. That is because teens
+ 7   who report engaging in problematic use are                                                                   .
+ 8   See Ex. 19, META3047MDL-087-00030017 at -0024 (“
+ 9                                                                                           .”). Because these
+10   “profits” are not traceable to any actionable statement or feature, the AGs’ disgorgement theory sweeps
+11   in revenue far beyond “the profit attributable to” any wrongdoing. Ivie, 2015 WL 183910, at *2.
+12          The calculations associated with U13 users are even more attenuated from Meta’s alleged wrongful
+13   conduct. See Mot. Ex. E (Remedy Chart 5); Mot. at 20 (figures obtained by “multiplying (i) the number
+14   of 9-12 year olds on Instagram or Facebook … by (ii) the average revenue per user, by platform”)
+15   (emphasis added). Because Meta’s policy does not allow under-13 individuals to use Facebook or
+16   Instagram, it follows that advertisers cannot target ads to individuals under 13. See, e.g., Ex. 20, Alter
+17   Rep. ¶¶ 502, 565 (Dr. Alter noting that
+18                                                                   ); Ex. 17, Venkataraman Rep. ¶ 76 (Dr.
+19   Venkataraman concluding that
+20                              ). Meta cannot have been unjustly enriched by individuals it did not allow on
+21   its platforms and that advertisers could not target, so any disgorgement tied to purported U13 users rests
+22   on revenue that does not exist. And the AGs’ reliance on average revenue for “all users”—including
+23   adults who would be the natural target audience for advertisers—is an inherently unreasonable and flawed
+24   basis for calculating revenues purportedly associated with U13 users. See 6/26/26 Hrg. Tr. at 56:2–6.
+25   II.    The AGs Impermissibly Seek Duplicative Recoveries.
+26          A.      The Law Does Not Permit Double Recovery.
+27          The AGs cannot obtain multiple recoveries for the same violation. By their plain terms, the four
+28   States’ laws impose penalties for each violation, and each violation must arise out of “a separate act of
+                                                        15
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 23 of 35
+
+
+
+ 1   misfeasance.” Am. Nat’l, 2019 WL 2479608, at *6; see also, e.g., Cal. Bus. & Prof. Code § 17206(b)
+ 2   (“The court shall impose a civil penalty for each violation of this chapter.”) (emphasis added). It follows
+ 3   that “a plaintiff may not receive a double recovery for the same wrong.” Lexton-Ancira Real Estate Fund,
+ 4   1972 v. Heller, 826 P.2d 819, 823 (Colo. 1992) (affirming trial court’s reduction of damages in CCPA
+ 5   case); see also Granelli v. Chicago Title Ins. Co., 2012 WL 2072648, at *11 (D.N.J. June 8, 2012) (“the
+ 6   New Jersey Consumer Fraud Act does not permit duplicative damage awards”). While a “single
+ 7   publication” may give rise to more than one violation, there are only “as many additional violations as
+ 8   there are persons who read the advertisement or who responded to the advertisement.” Olson, 96 Cal.
+ 9   App. 3d at 198. Those “additional violations” thus arise out of discrete instances of violative conduct, i.e.
+10   each “person[] to whom the misrepresentations were made.” Jayhill, 9 Cal. 3d at 289; see id. (“it is
+11   unreasonable to assume that the Legislature intended to impose a penalty of this magnitude for the
+12   solicitation of one potential customer.”). 4
+13            This limit reflects the “fundamental” principle that “no matter under what theories liability may
+14   be established, there cannot be any duplication of damages.” Ptaszynski v. Atl. Health Sys., Inc., 440 N.J.
+15   Super. 24, 40, 111 A.3d 111, 120 (N.J. Super. Ct. App. Div. 2015) (New Jersey “common law prohibits a
+16   double recovery for the same injury”). Even “[w]here state law provides for statutory damages, the trial
+17   court’s discretion may be called upon to prevent double recovery.” Doe v. D.M. Camp & Sons, 624 F.
+18   Supp. 2d 1153, 1174 (E.D. Cal. 2008); see also In re Gen. Motors LLC Ignition Switch Litig., 407 F. Supp.
+19   3d 212, 231 (S.D.N.Y. 2019) (cautioning in UCL case against “duplicative recoveries and wasteful levels
+20   of precaution”).
+21            The AGs’ invocation of the “cumulative” nature of UCL civil penalties is misleading. See Mot. at
+22   5 (citing Stop Youth Addiction, Inc. v. Lucky Stores, Inc., 17 Cal. 4th 553, 573 (1998)). That the UCL is
+23   “cumulative to other remedies and penalties” reflects that the UCL “borrows violations” from other
+24
+
+25   4
+       The AGs’ reliance on Woodard is unavailing. See Mot. at 4 (citing Woodard, 863 P.2d at 976). There,
+     the court affirmed an instruction directing the trial court to “calculate civil penalties based on the number
+26   of false advertisements published by” the defendant and “on each consumer who undertook some activity
+27   in response to the false advertisements.” Woodard, 863 P.2d at 971 (emphases added). The court did not
+     hold that multiple penalties may be imposed for a single published advertisement or for a single
+28   consumer’s response to it.
+                                                           16
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 24 of 35
+
+
+
+ 1   statutes, such that other statutory regimes governing specific conduct do not displace the UCL as a remedy.
+ 2   Stop Youth, 17 Cal. 4th at 566, 572 (holding that “the mere fact the Legislature has enacted penal laws
+ 3   concerning minors and tobacco does not impliedly repeal any UCL remedy”). It says nothing about
+ 4   whether penalties may be stacked for a single violation.
+ 5            Forcing a party “to pay a single debt more than once” also raises grave due process concerns, W.
+ 6   Union Tel. Co. v. Pennsylvania, 368 U.S. 71, 77 (1961), because there is a “fundamental unfairness which
+ 7   is at war with due process” in compelling payment twice over for the same wrong, Akins v. Texas, 325
+ 8   U.S. 398, 402 (1945). To that end, the Supreme Court has instructed that “courts can and should preclude
+ 9   double recovery.” EEOC v. Waffle House, Inc., 534 U.S. 279, 297 (2002); see also, e.g., Illinois Brick
+10   Co. v. Illinois, 431 U.S. 720, 730–31 (1977) (fashioning rule to avoid “unwarranted multiple liability for
+11   the defendant” and “duplicative recoveries” against it); Holmes v. Sec. Inv’r Prot. Corp., 503 U.S. 258,
+12   269 (1992) (construing RICO to guard against the “risk of multiple recoveries”); State Farm Mut. Auto.
+13   Ins. Co. v. Campbell, 538 U.S. 408, 423 (2003) (warning against “the possibility of multiple punitive
+14   damages awards for the same conduct”).
+15            B.      The AGs Seek Multiple Recoveries for the Same Alleged Violations.
+16            The AGs’ remedy charts repackage the same individuals across stacked layers of penalties and
+17   disgorgement, then add the totals together. The law does not permit that. See Granelli, 2012 WL 2072648,
+18   at *11 (“The language of the statute, ‘any other appropriate legal and equitable relief,’ was not intended
+19   to permit duplicative awards.”).
+20            The AGs seek double recovery across their penalty calculations. See Mot. at 7 (Remedy Charts 1
+21   and 2 form basis of penalties for both unfairness and deception claims); id. at 7 n.5 (“it is appropriate to
+22   provide the Advisory Jury with Remedy Chart 1 and Remedy Chart 2”) (emphasis in original). Remedy
+23   Chart 1 treats each unique person as a single violation across the entire population of teen and alleged
+24   under-13 users. See Mot. Ex. A. 5 Remedy Chart 2 counts, for many of those same teens, every monthly
+25   instance in which they exceeded a time spent threshold. See Mot. Ex. B. The AGs concede this overlap,
+26   5
+       The AGs emphasize that, for the underlying data in Remedy Chart 1, Mr. Saba sought to count “the
+27   number of Teen and U13 persons … without counting any individuals more than once.” Mot. at 8. But
+     whatever the reliability of that analysis, the figures in Remedy Chart 2 concededly re-count the same
+28   individuals already captured in Remedy Chart 1.
+                                                           17
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR          Document 455        Filed 07/06/26      Page 25 of 35
+
+
+
+ 1   acknowledging that although each person is shown as a single violation, each person can represent
+ 2   “multiple violations.” 6/26/26 Hrg. Tr. at 66:17–20. Cf. Bestline, 61 Cal. App. 3d at 922 (affirming
+ 3   penalty award where trial court took “into account” that “some of the persons in attendance may have
+ 4   attended several meetings”).
+ 5          The AGs’ disgorgement charts are based on the same source data as their penalty charts, so they
+ 6   also recover for the same individuals twice. See Mot. at 8 (“In addition” to penalty charts, “AGs intend
+ 7   to seek disgorgement” for UDAP claims). For instance, Remedy Chart 2 counts monthly instances in
+ 8   which teen accounts averaged more than 0.5, 1, or 2 hours per day. See Mot. Ex. B. The corresponding
+ 9   disgorgement chart seeks the “gross profits associated with Aged-Up Teen users who averaged more than
+10   0.5, 1, and 2 hours of time per day,” drawing from the same calculations in Mr. Saba’s report. See Mot.
+11   Ex. D (Remedy Chart 4). Remedy Chart 1 (UDAP Penalty Calculation for Pre-Teens and Teens on Meta’s
+12   Platforms) and Remedy Chart 5 (“UDAP Disgorgement Associated with U13 Users”) are calculated based
+13   on the same under-13 figures from Mr. Saba. See Mot. Exs. A, E. The AGs thus seek to recover
+14   disgorgement layered on top of a penalty calculated from the identical population base, effectively
+15   awarding multiple recovery for the same consumer.
+16          The AGs’ proposed violation counts related to Meta’s “actual knowledge” of under-13 individuals
+17   present the same problem. See Mot. at 7 (AGs intend to seek “penalties laid out in Remedy Chart 3” for
+18   purported COPPA “actual knowledge” violations) & Ex. C. The counts in Remedy Chart 3 include four
+19   categories of alleged COPPA violations: retaining children’s data for unreasonably long periods, failing
+20   to remove hard-linked accounts of children, failing to remove soft-matched accounts of children, and
+21   failing to remove children who changed their date of birth to be under 13. See Mot. Ex. C. Each category
+22   is drawn from the underlying data from Dr. Sheatsley and Mr. Saba, most of which measures accounts
+23   rather than unique children. See Mot. Ex. C (“number of children’s accounts”). By design, the hard-link
+24   and soft-match categories capture additional accounts that belong to the same potential under-13
+25   individual whose account Meta already disabled for being potentially underage, so a single individual
+26   might be counted once for the disabled account, again for a hard-linked account, and again for a soft-
+27   matched account. See Mot. at 15 (“Sheatsley estimated the number of users with one account that Meta
+28   disabled for being underage who had additional accounts that Meta’s soft-matching models predicted as
+                                                      18
+      META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                          (3218)
+                                           4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 26 of 35
+
+
+
+ 1   belonging to the same user.”) (emphasis added). COPPA, however, speaks in terms of individuals, not
+ 2   accounts. See 15 U.S.C. § 6501(1) (“The term ‘child’ means an individual under the age of 13.”); id. §
+ 3   6501(8) (“The term ‘personal information’ means individually identifiable information about an
+ 4   individual collected online.”); 6 contra Mot. at 13 (“Each of the underage accounts disabled in this time
+ 5   and retained for unreasonably long periods constitutes at least one separate violation of COPPA”)
+ 6   (emphases added). Measuring violations by account rather than by individual thus finds no footing in the
+ 7   statute. And because a single user may also appear among the retained-data accounts and the date-of-
+ 8   birth-change accounts, these categories likely count the same individuals several times over, even
+ 9   assuming the AGs can prove that those accounts belonged to actual under-13 individuals, which they have
+10   not. See, e.g., Ex. 21, Feamster Reb. Rep. ¶ 79
+11                                                                                                    ”).
+12   III.     The AGs Seek Unsubstantiated Damages Wholly Disproportionate to Any Offense.
+13            The law prevents the AGs from presenting unsubstantiated remedies claims, particularly ones as
+14   outlandish as those here. The AGs ask this Court to make Meta pay over one trillion dollars. That figure
+15   is the construct of lawyers, assembled by mixing and matching data from disparate sources to manufacture
+16   the largest possible sum, and by counting the same individuals many times over. The AGs cannot identify
+17   any UPA or COPPA case imposing penalties approaching that amount. Meta has not found any case,
+18   under any cause of action, where one defendant was ordered to pay over one trillion dollars—or any
+19   number remotely close to that staggering figure. 7 The AGs contend that the law affords this Court the
+20   discretion to be the first to do so. But the law requires some reasoned basis for damages sought, and some
+21   nexus between legal right and remedy. The AGs have not met that burden.
+22
+
+23
+     6
+24     See also, e.g., id. § 6502(a)(1) (“It is unlawful for an operator of a website or online service directed to
+     children, or any operator that has actual knowledge that it is collecting personal information from a child,
+25   to collect personal information from a child in a manner that violates the regulations prescribed under
+     subsection (b).”); id. § 6502(b)(1)(A) (“actual knowledge that it is collecting personal information from a
+26   child”) (emphases added).
+     7
+27     As an illustration, the tobacco master settlement agreement—which involved four different tobacco
+     companies—involved a total payment of $206 billion. See Tritent Int’l Corp. v. Commonwealth of KY,
+28   467 F.3d 547, 549 (6th Cir. 2006).
+                                                           19
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR        Document 455        Filed 07/06/26      Page 27 of 35
+
+
+
+ 1            The award of monetary relief must rest on reliable evidence and sound methodology. See, e.g.,
+ 2   People v. Wunder, 371 P.3d 785, 790 (Colo. App. 2016) (trial court “improperly calculated the civil
+ 3   penalty and restitution amounts” by failing to hold an evidentiary hearing); Realtors, 155 Cal. App. 3d at
+ 4   585–86 (reversing when trial court “did not attempt to determine the number of violations” despite
+ 5   “statistical evidence concerning numbers of victims and numbers of independent acts”). In Ashford
+ 6   University, for instance, the court “found it appropriate to count each deceptive telephone call made by
+ 7   defendants as a separate violation.” 100 Cal. App. 5th at 500. To “quantify the number of deceptive
+ 8   calls,” the trial court relied on expert statisticians who analyzed “a random sample of 2,234 calls”
+ 9   “between defendants and California students,” identified calls involving “relevant topics,” coded “each
+10   misrepresentation” by “category,” and then determined that “22 percent[] of the relevant calls contained
+11   at least one misrepresentation.” Id. at 500–01. Only from that analysis did the court conclude that
+12   “defendants made 46,386 misleading calls to California students” during the relevant time period. Id. The
+13   trial court in State v. The Castle Law Group, LLC, 2017 WL 3449241, at *38 (Colo. Dist. Ct. Apr. 4,
+14   2017), proceeded similarly, awarding CCPA plaintiffs “modest civil penalties on a violation-by-violation
+15   basis.” The court started with evidence that the defendant made “a total of 95,598 postings,” and then
+16   narrowed that figure based on “testimony at trial . . . that roughly 25% of all the Castle Law Group’s
+17   foreclosures during this relevant period were on GSE loans.” Id. From that testimony, the court estimated
+18   that “the Castle Law Group charged the GSEs for a total [of] 23,900 Absolute postings from August 2009
+19   through 2014.” Id. Such a careful analysis is necessary to avoid “speculative damages that give rise to
+20   potentially duplicative damage awards” and could “lead to a windfall judgment.” Granelli, 2012 WL
+21   2072648, at *11.
+22            The AGs’ demands are not based on any such considered evaluation. Mr. Saba has explained that
+23   his “                                                                                              ,” Ex. 1,
+24   3/2/26 Saba Dep. at 54:14–24, that he did not account for “
+25                                   ” id. at 113:23–114:2, and that he does not “
+26                                                             ,” id. at 115:19–116:5. That approach contrasts
+27   with how experts have calculated penalties for similar claims. See, e.g., Ashford, 100 Cal. App. 5th at 501
+28   (expert analyzed random sample of defendant’s calls to determine “percent[age] of the relevant calls [that]
+                                                       20
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 28 of 35
+
+
+
+ 1   contained at least one misrepresentation”). Indeed, the AGs’ expert on the deception claims never
+ 2   attempted to determine “
+ 3                                          .” See Ex. 22, 12/12/25 Alter Dep. at 117:4–17.
+ 4          Due process also requires a meaningful nexus between the legal wrong and the penalty imposed.
+ 5   The Supreme Court has long recognized that government sanctions that are “wholly disproportioned to
+ 6   the offense and obviously unreasonable” are substantively improper under the Due Process Clause. See
+ 7   St. Louis, I.M. & S Ry. Co. v. Williams, 251 U.S. 63, 66–67 (1919); see also DeSimone v. Springpoint
+ 8   Senior Living, Inc., 256 N.J. 172, 187, 306 A. 3d 1276, 1285 (2024) (narrowly construing New Jersey
+ 9   Consumer Fraud Act to “avoid[] awarding damages in an amount disproportionate to the harm suffered”).
+10   And the “touchstone” of the Eighth Amendment Excessive Fines Clause is the “principle of
+11   proportionality,” which involves consideration of the relationship between the harm and the penalty.
+12   United States v. Bajakajian, 524 U.S. 321, 334, 337–38 (1998).
+13          To determine the proper award of civil penalties, courts thus avoid counting mechanisms that
+14   would result in liability wholly disproportionate to the wrong. In People v. Overstock.com Inc., 12 Cal.
+15   App. 5th 1064, 1087 (2017), for instance, the court considered setting the number of violations “by the
+16   number of Californians who saw the offending advertisements, by the number of sales made through the
+17   offending pages, and by the number of days Overstock violated the statutes.” Id. “The court rejected the
+18   first two, in part because they would result in excessive penalties of at least hundreds of millions of
+19   dollars.” Id. at 1087–88. So too in Hale v. Morgan, 22 Cal. 3d 388, 405 (1978), where the court
+20   recognized that the maximum statutory penalty would be “wholly disproportionate to any discernible and
+21   legitimate legislative goal, and … so clearly unfair that it cannot be sustained.” Id. And in Olson, the
+22   California Court of Appeal recognized it “is ‘unreasonable’ to assume that the Legislature contemplated
+23   penalties of that magnitude [$2.5 billion] for a false advertisement in a single edition of a newspaper. To
+24   so interpret the statute would render it violative of the due process prohibition against ‘oppressive’ or
+25   ‘unreasonable’ statutory penalties.” 96 Cal. App. 3d at 198.
+26          Rule 11 similarly would forbid a damages theory lacking “evidentiary support” or advanced for
+27   an “improper purpose,” such as to “needlessly increase the cost of litigation.” Fed. R. Civ. P. 11(b)(1),
+28   (3); cf., e.g., Union Planters Bank v. L & J Dev. Co., 115 F.3d 378, 384 (6th Cir. 1997) (affirming Rule
+                                                        21
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 29 of 35
+
+
+
+ 1   11 sanctions for pursuit of “damages claims” lacking “evidentiary support”); Pronman v. Styles, 2014 WL
+ 2   2586340, at *3 (S.D. Fla. June 10, 2014) (allowing abuse of process claim based on “assertion of inflated
+ 3   and unsubstantiated damages” designed to “extort” party into “dropping his state court case”); Alphonso
+ 4   v. Pitney Bowes, Inc., 356 F. Supp. 2d 442, 454–55 (D.N.J. 2005) (imposing sanctions when “action
+ 5   unreasonably forced” defendants “to respond to the inflated damages claim”).
+ 6            The AGs’ charts cannot be squared with these principles. Take the time-spent calculations. Mr.
+ 7   Saba’s original report calculated “the number of instances in which Teen accounts spent more than 0.5, 1,
+ 8   2, 3, 4, or 5 hours per day on average on Instagram or Facebook.” ECF 2913 at 4. And Dr. Twenge
+ 9   “examin[ed] unhappiness at 0, 0.5, 1, 2, 3, 4, 5, and 6 hours of time spent.” Id. But Remedy Chart 2 and
+10   Remedy Chart 4 are based solely on data for 0.5, 1, and 2 hours spent. See Mot. Exs. B, D. The AGs do
+11   not explain why they abandoned the calculations for the higher levels of time spent. They do not provide
+12   any expert testimony indicating that these lower numbers are a more accurate measure of problematic use.
+13   The only discernible reason for removing this data is because the numbers they generated were too small.
+14   See supra note 3. For instance, Mr. Saba originally calculated gross profits for an average daily time spent
+15   over 5 hours. See Mot. Ex. D-1 (“Instagram Aged-Up Teen Gross Profits, 2018 to Q1 2024”). For
+16   California, those gross profits were zero dollars. See id. For Colorado, those gross profits were zero
+17   dollars. See id. For Kentucky, those gross profits were zero dollars. See id. And for New Jersey, the
+18   gross profits were also zero dollars. See id. 8 The AGs thus seek to present to the advisory jury a cherry-
+19   picked subset of the data chosen to support the largest penalties, with no principled basis for doing so.
+20            Even presenting these claims to the jury would carry meaningful prejudice to Meta, when the
+21   claims have no support in the record or linkage to the alleged violation. For example, being allowed to
+22   present the AGs’ unsupported $1.4 trillion-dollar claim—which alone is larger than the gross domestic
+23   product of most countries, even without considering the other penalty and disgorgement claims the AGs
+24   seek to add to the $1.4 trillion—would improperly suggest to the jury that the AGs have a credible claim
+25   to wrongdoing that outstrips any previously recognized by our legal system. And it would reinforce the
+26
+     8
+27     The gross profits associated with three and four hours of time spent are a small fraction of the profits
+     associated with two hours of time spent. As one example, the gross profits in Colorado for four hours
+28   time spent are zero dollars, while the gross profits for two hours time spent are 1,003,404 dollars. See id.
+                                                           22
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+            Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 30 of 35
+
+
+
+ 1   view that, because Meta is a large company, it should be made to pay more. In this regard, the unsupported
+ 2   remedies claims are analogous to general financial information that courts routinely exclude and that this
+ 3   Court has already excluded: “there shall be no reference to or evidence presented of wealth or lack thereof
+ 4   of any party except in the punitive damage phase of a case, to the extent it exists.” Pretrial Order 2, ECF
+ 5   3139 at 2. In the same way that this type of financial information is excluded unless relevant to a punitive
+ 6   damage phase, penalty and disgorgement claims that have no link to the record or the alleged violations
+ 7   should be excluded.
+ 8            In short, the sheer magnitude of the AGs’ demands, in conjunction with the lack of reliable
+ 9   evidence linking those demands to alleged wrongful conduct, offends constitutional and ethical limits. In
+10   just a single one of their “Remedy Chart” calculations, the AGs seek over one trillion dollars in penalties
+11   and disgorgement, and they then layer on various other double-counting charts. Each of these charts
+12   applies the maximum statutory penalty to every teen and purported under-13 user and every monthly
+13   instance of time spent at certain arbitrarily-selected thresholds. See Mot. Exs. A–F. A sanction of that
+14   size has no analog in the history of consumer protection enforcement. Indeed, the Federal Trade
+15   Commission recently described a “$1 billion penalty” as “the largest ever in a case involving an FTC rule
+16   violation.” 9 The AGs’ demand exceeds even those record figures by several orders of magnitude, and is
+17   in gross disproportion to the specific violations alleged here.
+18   IV.      The Court Should Determine the Appropriate Monetary Relief Based Solely On Opinions
+              Contained in the Experts’ Reports.
+19
+              The AGs seek to present to the advisory jury a range of alternate numbers that are allegedly linked
+20
+     to the same consumer protection violations, with no guidance as to which numbers are most accurate. See
+21
+     Mot. at 1 (for Remedy Charts 1 and 2, advisory jury should decide “number of violations” and “penalty
+22
+     amount”). In the first instance, the AGs should not be able to present penalty calculations that were never
+23
+     included in their expert materials, such as Charts 1.B, 1.C, 2.C, 2.D, 2.E, 3.A, 3.B, 3.C, 3.D, 3.E, and 3.F.
+24
+     See Fed. R. Civ. P. 26(a)(2)(B).
+25
+
+26
+     9
+27    Press Release, Fed. Trade Comm’n, FTC Secures Historic $2.5 Billion Settlement Against Amazon
+     (Sept. 25, 2025), https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-
+28   billion-settlement-against-amazon.
+                                                           23
+         META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                             (3218)
+                                              4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR           Document 455         Filed 07/06/26      Page 31 of 35
+
+
+
+ 1          But even if they could overcome that non-disclosure issue more broadly, they should not be able
+ 2   to present their range of tables to the advisory jury without specific guidance on how to calculate remedies
+ 3   if the jury chooses not to find the maximum penalty, award double-recoveries, or otherwise endorse the
+ 4   AGs’ maximalist theories of wrongdoing and liability. The advisory jury should not be given a calculator
+ 5   and left to decide what is appropriate, particularly where the complexity of the underlying data and
+ 6   discretionary considerations in awarding monetary relief suggest that the advisory jury would not aid the
+ 7   Court in its calculation. Cf. Hyde Properties v. McCoy, 507 F.2d 301, 306 (6th Cir. 1974) (observing “that
+ 8   a non-jury trial of the [complex] issues is both more efficient and more likely to produce a just result.”).
+ 9   Leaving the advisory jury to devise its own penalty calculations in a case of this complexity would also
+10   risk figures based on speculation rather than applicable legal limits.
+11          This Court has previously explained that an advisory jury “allow[s] the judge to get some
+12   appreciation for the common sense or standard of the community, or notions of efficiency or
+13   convenience.” ECF 3139 at 7 (citing Charles Alan Wright & Arthur R. Miller, Federal Practice &
+14   Procedure § 2335 (4th ed. 2020)). Such notions of “common sense” or the “standard of the community”
+15   are not implicated by the complex decisions required to determine civil penalties in this case. See Mot. at
+16   1 (conceding that relief involving “more calculation [is] … best assessed exclusively by the Court”). The
+17   California Supreme Court has “ma[d]e clear the propriety and importance of a court’s exercise of its
+18   equitable authority … in determining [] the number of violations for which a defendant may properly be
+19   held responsible.” Nationwide Biweekly Admin., Inc. v. Super. Ct., 9 Cal. 5th 279, 314, 462 P.3d 461, 479
+20   (2020) (collecting cases); see also Flo & Eddie, Inc. v. Sirius XM Radio, Inc., 2016 WL 11784406, at *1
+21   (C.D. Cal. Nov. 7, 2016) (“having the jury sit in an advisory capacity for Plaintiffs’ § 17200 claim would
+22   cause confusion and unnecessarily burden the jury”); cf. People v. First Fed. Credit Corp., 104 Cal. App.
+23   4th 721, 732–33 (2002) (noting that “the concern that juror passion or prejudice may affect a punitive
+24   damage award is absent in UCL cases because there is no right to a jury trial in such cases”).
+25          In finding that consumer protection statutes do not create a right to trial by jury, courts have noted
+26   “the Legislature’s recognition of the complexities of commercial bargaining in contemporary society.”
+27   Kugler v. Banner Pontiac-Buick, Opel, Inc., 120 N.J. Super. 572, 582, 295 A.2d 385, 390 (Ch. Div. 1972)
+28   (NJ CFA “Defendants are not entitled to a jury trial”). Furthermore, “[t]he noncompensatory nature of
+                                                       24
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+          Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 32 of 35
+
+
+
+ 1   the CCPA’s civil penalty remedy distinguishes that remedy from the primarily compensatory forms of
+ 2   relief offered in courts of law.” State ex rel. Weiser v. Ctr. for Excellence in Higher Educ., Inc., 2023 CO
+ 3   23, ¶ 45, 529 P.3d 599, 609 (Colo. 2023) (finding that defendant “was not entitled to a jury trial on the
+ 4   State’s CCPA civil penalty claims”). Where the “statute has delegated the assessment of civil penalties
+ 5   in accordance with a highly discretionary calculation that takes into account multiple factors,” courts have
+ 6   found that “calculation traditionally performed by judges rather than a jury, and does not require a jury
+ 7   trial for that purpose in a civil action.” DiPirro v. Bondo Corp., 153 Cal. App. 4th 150, 182 (2007).
+ 8   Beyond that, the calculation of monetary remedies in this case would “involve complex issues of
+ 9   accounting practice beyond the normal comprehension of the jury that will try the case.” Rosen v. Dick,
+10   83 F.R.D. 540, 544 (S.D.N.Y. 1979), modified on other grounds by, 639 F.2d 82 (2d Cir. 1980) (declining
+11   to empanel advisory jury).
+12          “The function of an advisory jury is solely to enlighten the conscience of the Court.” Skoldberg
+13   v. Villani, 601 F. Supp. 981, 982 (S.D.N.Y. 1985). Because the AGs’ proposed calculations are performed
+14   by lawyers, their experts could not assist the advisory jury in understanding or applying them. See Pioneer
+15   Hi-Bred Int’l, Inc. v. Ottawa Plant Food, Inc., 219 F.R.D. 135, 149 (N.D. Iowa 2003) (declining to submit
+16   equitable issues “to the same jury, even in an advisory capacity” based on argument that doing so would
+17   be “a misdirection of the jury’s attention to matters not properly within their purview”). This would
+18   effectively be asking the jury to engage in guesswork and speculation disconnected from a rational
+19   methodology or supporting expert analysis. See Skoldberg, 601 F. Supp. at 982 (“The role the subjective
+20   judgment of the fact-finder would play in determining a possible damage award simply does not justify
+21   the additional time and expense involved in presenting this case to a jury, whose verdict in any event
+22   would only be advisory.”).
+23          Nor would the jury provide helpful input to the Court based on “the standards of the community.”
+24   ECF 3139 at 7. As this Court explained, the advisory jury can evaluate “alleged deceptive practices and
+25   communications” and how “the issues at play in this trial impact the daily lives of the public across the
+26
+
+27
+
+28
+                                                         25
+       META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                           (3218)
+                                            4:22-md-03047-YGR; 4:23-cv-05448-YGR
+             Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 33 of 35
+
+
+
+ 1   states involved.” Id. But counting violations is a complex question of both law and fact that does not
+ 2   involve consideration of the “standard of the community,” and should be determined by the Court. 10
+ 3   V.        Meta Should Receive Updated Depositions of the Three Experts Most Relevant To These
+               Calculations.
+ 4
+               The AGs served these damages calculations a little more than two weeks ago. See Mot. at
+ 5
+     1. Reflecting their prior absence from the evidentiary record in this case, the AGs then updated their
+ 6
+     written discovery responses to capture these calculations. See id. As the charts themselves indicate, they
+ 7
+     are based on work performed by AG experts Mr. Saba and Dr. Sheatsley. And as the AGs’ arguments in
+ 8
+     defense of the charts indicate, they are also based on AG expert Dr. Twenge’s opinions. See 6/26/26 Hrg.
+ 9
+     Tr. at 34:12–23.
+10
+               When Meta had the chance to depose these three experts, it did not have specificity about which
+11
+     remedy claims the AGs were pursuing or their recent rationales for obtaining those remedies. It also did
+12
+     not have the actual calculations based on Mr. Saba’s and Dr. Sheatsley’s work, which the AGs apparently
+13
+     seek to introduce through those experts. If Meta had had this information, it would have questioned the
+14
+     witnesses on these specific charts, and it would have questioned them differently and longer on topics
+15
+     relevant to these calculations. For that reason, Meta seeks updated depositions for these three witnesses.
+16
+               At the last hearing in this matter, the parties indicated that they would meet and confer regarding
+17
+     these possible depositions. 6/26/26 Hrg. Tr. at 68:14–69:9. In those conferrals, the AGs demanded that,
+18
+     if they produced Mr. Saba and Dr. Sheatsley for updated depositions, Meta would have to withdraw any
+19
+     objection to their experts testifying regarding the charts insofar as they contain calculations and numbers
+20
+     that are not in their expert reports. Meta could not agree to that demand. Accordingly, Meta requests that
+21
+     the Court allow a 3.5-hour deposition for each of Mr. Saba, Dr. Sheatsley, and Dr. Twenge. Meta
+22
+     respectfully submits that this relief would be analogous to the relief the AGs recently obtained as to Meta’s
+23
+     three 30(b)(6) witnesses.
+24
+
+25
+
+26
+     10
+27     The AGs concede that “[o]ther monetary relief, including UDAP and COPPA disgorgement, involves
+     more calculation and is therefore best assessed exclusively by the Court.” Mot. at 1. Meta agrees with
+28   the States’ position that disgorgement is “best assessed exclusively by the Court.”
+                                                            26
+          META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                              (3218)
+                                               4:22-md-03047-YGR; 4:23-cv-05448-YGR
+        Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26       Page 34 of 35
+
+
+
+ 1                                              CONCLUSION
+ 2        For the foregoing reasons, Meta respectfully requests that the Court:
+ 3                a. Strike the all-teens penalty calculations and the time-spent calculations, which both
+                     seek penalties untethered to any claimed violation or to the record: the “teen”
+ 4
+                     calculations in Remedy Chart 1 (“UDAP Penalty Calculation for Pre-Teen and Teens
+ 5                   on Meta’s Platforms”), all of Remedy Chart 2 (“UDAP Time Spent Penalty Calculation
+                     for Teen Users”), and all of Remedy Chart 4 (“Disgorgement of Gross Profits
+ 6                   Associated with Aged-Up Users Exceeding Specified Thresholds of Average Daily
+                     Time”);
+ 7
+                  b. Strike the U13 calculations as unsupported by the record: the “U13” calculations in
+ 8
+                     Remedy Chart 1 (“UDAP Penalty Calculation for Pre-Teen and Teens on Meta’s
+ 9                   Platforms”), which seeks penalties untethered from any claimed violation, and Remedy
+                     Chart 5 (“UDAP Disgorgement Associated with U13 Users”) and Remedy Chart 6
+10                   (“COPPA Disgorgement Associated with U13 Users”);
+
+11                c. Order the AGs to remove duplicative counts from their remaining Remedy Charts, so
+                     that Meta is not penalized multiple times for the same alleged violative conduct;
+12
+                  d. Provide that the Court will exclusively hear and decide issues relating to the award of
+13
+                     monetary relief in this case;
+14
+                  e. Preclude any party from referencing before the advisory jury, during the liability phase
+15                   of trial, any civil penalty, disgorgement, or other monetary-relief amounts, calculations,
+                     or numerical figures that any party contends should or should not be awarded as a
+16                   remedy; and
+17                f. Grant Meta leave to take updated 3.5-hour depositions of Dr. Jean Twenge, Mr. Carl
+                     Saba, and Dr. Ryan Sheatsley by July 17, 2026.
+18
+
+19
+     DATED: July 6, 2026
+20
+                                                               Respectfully submitted,
+21
+
+22
+                                                               By:    /s/ Ashley M. Simonsen
+23
+                                                               Ashley M. Simonsen (Bar No. 275203)
+24                                                             COVINGTON & BURLING LLP
+                                                               1999 Avenue of the Stars
+25                                                             Los Angeles, California 90067
+                                                               Telephone: (424) 332-4800
+26
+                                                               Facsimile: (424) 332-4749
+27                                                             Email: asimonsen@cov.com
+
+28                                                             Paul W. Schmidt, pro hac vice
+                                                       27
+     META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                         (3218)
+                                          4:22-md-03047-YGR; 4:23-cv-05448-YGR
+        Case 4:23-cv-05448-YGR           Document 455        Filed 07/06/26      Page 35 of 35
+
+
+
+ 1                                                             Timothy C. Hester, pro hac vice
+                                                               COVINGTON & BURLING LLP
+ 2                                                             One City Center
+ 3                                                             850 Tenth Street, NW
+                                                               Washington, DC 20001-4956
+ 4                                                             Telephone: (202) 662-6000
+                                                               Facsimile: (202) 662-6291
+ 5                                                             Email: pschmidt@cov.com
+                                                               Email: thester@cov.com
+ 6
+
+ 7
+                                                               Attorneys for Defendant Meta Platforms, Inc.
+ 8                                                             f/k/a Facebook, Inc.
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                       28
+     META’S SUBMISSION REGARDING STATE AGS’ PENALTY AND DISGORGEMENT CHARTS AND SUPPORTING MATERIALS, ECF 444
+                                                         (3218)
+                                          4:22-md-03047-YGR; 4:23-cv-05448-YGR
+

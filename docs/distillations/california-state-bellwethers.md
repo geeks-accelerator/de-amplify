@@ -44,13 +44,13 @@ As of July 25, 2026, there is a large group of lawsuits in California state cour
 
 ### (a) The JCCP 5255 proceeding and the court
 
-1. **[ESTABLISHED]** The California cases are consolidated in a state-court coordinated proceeding known as JCCP 5255 (a Judicial Council Coordination Proceeding), captioned "Social Media Cases," heard in Department 12 of the Los Angeles Superior Court (Spring Street Courthouse). *(LA Superior Court public notice, 2026-02-13, primary; verified baseline.)*
+1. **[ESTABLISHED]** The California cases are consolidated in a state-court coordinated proceeding known as JCCP 5255 (a Judicial Council Coordination Proceeding), captioned "Social Media Cases", heard in "Department 12" of the Los Angeles Superior Court (Spring Street Courthouse). *(LA Superior Court public notice, 2026-02-13, primary, cached 2026-08-18; verified baseline.)* (Corrected 2026-08-18, on the first run after the notice was cached: the comma had been inside the closing quote, which claims the notice's own phrase ended there.)
 
 2. **[ESTABLISHED]** This proceeding is separate from the federal multidistrict litigation (MDL 3047). JCCP 5255 is a California *state*-court matter; the federal MDL is a different proceeding in Oakland federal court before a different judge. *(LASC notice; verified baseline; AP coverage.)*
 
 3. **[ESTABLISHED]** The proceeding contains roughly 1,600 coordinated cases. That count includes more than 350 families and more than 250 school districts alongside individual young plaintiffs, so it is not composed solely of individual youth suits; and later July 2026 coverage reports higher running totals as filings continue. *(Verified baseline; Scientific American for the composition; plaintiff-firm trackers for the rising count, treated as directional only.)*
 
-4. **[ESTABLISHED]** The bellwether trials are presided over by Judge Carolyn B. Kuhl of the Los Angeles Superior Court. *(LASC public notice, primary: "Hon. Carolyn B. Kuhl" presiding over the Social Media Cases; corroborated by the Social Media Victims Law Center release and AP coverage.)*
+4. **[ESTABLISHED]** The bellwether trials are presided over by Judge Carolyn B. Kuhl of the Los Angeles Superior Court. *(LASC public notice, primary: the notice names the "Hon. Judge Carolyn B. Kuhl" as presiding; corroborated by the Social Media Victims Law Center release and AP coverage.)* (Corrected 2026-08-18: the quoted span had been rendered `Hon. Carolyn B. Kuhl`, dropping the notice's own "Judge". It is set as a literal, not a quotation, because it is not a quotation of the notice: that is the correction. The court's usage is redundant and the record is the record.)
 
 ### (b) K.G.M.: the first bellwether verdict and the 70/30 split
 
