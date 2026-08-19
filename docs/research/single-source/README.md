@@ -258,12 +258,35 @@ day, and is unlisted. YouTube advertises an English automatic caption track but 
 for it, failing with `Did not get any data blocks`. That is caption generation still in progress on a
 long recording, not a permanent absence.
 
-**Retry procedure**, and check the file size rather than the exit status, since a failed run leaves a
+**That inference was correct, and as of 2026-08-18 it is machine-checkable rather than reasoned.**
+YouTube reports `live_status: post_live` for this video, which means the stream has ended and the
+archive is still being processed into a final VOD. Caption fragments are not served during that
+window. **So this is not a failed fetch, it is a fetch that is too early**, and there is a one-command
+signal for when it stops being too early.
+
+**Check the trigger before spending anything on a retry:**
+
+```bash
+yt-dlp --skip-download --print "%(live_status)s" "https://www.youtube.com/watch?v=N3FvvwxW64w"
+```
+
+`post_live` means wait. **`was_live` means go**: processing has finished and the caption track should
+serve. Positive control for the field itself, run 2026-08-18, because a status string that never
+varies proves nothing: an ordinary finished upload returns `not_live`, so the field discriminates.
+
+**Then the retry**, checking the file size rather than the exit status, since a failed run leaves a
 zero-byte `.part`:
 
 ```bash
 yt-dlp --skip-download --write-auto-subs --sub-langs en --sub-format vtt -o "cadoj.%(ext)s" "https://www.youtube.com/watch?v=N3FvvwxW64w"
 ```
+
+**One thing this does not change.** Whatever arrives is an **automatic** caption track, so it is
+`CAPTION-ASR`, and the rule above holds without exception: a `CAPTION-ASR` claim is never
+`PUBLISHABLE`. This recording is worth having as the batch's best **pointer**, not as a quotable
+source. If the California Department of Justice ever posts a human transcript or an uploaded caption
+track, that is a different document and a different tier; check for `--list-subs` reporting
+subtitles rather than only automatic captions.
 
 Two things to carry into that distillation when it happens. It is a **party** source throughout, so
 almost every claim is `PARTY` and the dimension will carry little signal, which should be stated in
