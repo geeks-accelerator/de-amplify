@@ -98,6 +98,9 @@ jobs:
       - name: check:distillations (single-source files, internal consistency)
         run: npm run check:distillations
 
+      - name: check:issues (standing threads, schema and index)
+        run: npm run check:issues
+
       # The house-style sweep from CLAUDE.md. One exact codepoint per pattern
       # under the C locale: the naive bracket-class grep over-reports badly on
       # BSD/macOS and sends you chasing ghosts. sources/ and reviews/ are exempt

@@ -13,7 +13,8 @@
     "check:ledgers": "node --disable-warning=ExperimentalWarning --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types scripts/check-ledgers.mjs",
     "check:quotes": "node scripts/check-quotes.mjs",
     "check:surfaces": "node scripts/check-surfaces.mjs",
-    "check:distillations": "node scripts/check-distillations.mjs"
+    "check:distillations": "node scripts/check-distillations.mjs",
+    "check:issues": "node scripts/check-issues.mjs"
   },
   "engines": {
     "node": ">=20.0.0"
