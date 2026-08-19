@@ -55,11 +55,14 @@ const DOCS = path.join(ROOT, "docs", "distillations");
 // reads as an all-clear over the whole of it.
 //
 // The four hearing ledgers map one-to-one onto a cache and are checked whole.
-// The remaining lawsuit ledgers are absent for a reason: they quote product
-// names and drafter framing ("Time Spent", "Take a Break") alongside record
-// quotes, so they need an allowlist authored the way the Nov 2023 ledger has one
-// before they can be checked. Registering them without it would produce 40 red
-// lines that are not fidelity defects, which trains everyone to ignore the check.
+// AS OF 2026-08-18 EVERY LEDGER IS REGISTERED; this registry has no absentees
+// left to explain. What varies is scope: ledgers that quote product names and
+// drafter framing ("Time Spent", "Take a Break") alongside record quotes carry
+// an allowlist authored the way the Nov 2023 one was, and ledgers whose caches
+// reach only part of the record are scoped with `sections`. (An earlier version
+// of this comment explained why the lawsuit ledgers were absent. It survived
+// their registration by a few hours, which is why the coverage line in
+// sources/README.md is now asserted below rather than trusted.)
 // `sections` (optional) scopes a ledger to the headings whose spans are anchored
 // to the cache. Without it the whole ledger is checked. It exists for records
 // where only PART of the ledger has a cached source: the New Mexico ledger's
@@ -422,6 +425,35 @@ for (const [slug, cfg] of Object.entries(LEDGERS)) {
 // Coverage, stated every run. Silence about what is NOT checked reads as an
 // all-clear over the whole corpus.
 const registered = new Set(Object.keys(LEDGERS));
+
+// The coverage line in sources/README.md is DECLARED there and RECOMPUTED here,
+// the same two-directional shape as the corpus census in check:distillations.
+// It earned this on 2026-08-18: the count was written into three prose homes as
+// 476 and was stale in all three within hours (483 by evening). A missing line
+// is a loud failure, not a skip; that is how the 476 survived.
+{
+  const readmePath = path.join(SRC, "README.md");
+  if (!fs.existsSync(readmePath)) {
+    failures.push({ slug: "(coverage)", span: "(none)", detail: "sources/README.md is missing, so the declared coverage line cannot be checked" });
+  } else {
+    const m = read(readmePath).match(/\*\*(\d+) spans across all (\d+) registered ledgers\*\*/);
+    if (!m) {
+      failures.push({
+        slug: "(coverage)",
+        span: "(none)",
+        detail: `sources/README.md declares no coverage line matching "**N spans across all M registered ledgers**". Computed: ${checked} spans, ${registered.size} ledgers. Declare it; a count that lives only in prose drifts.`,
+      });
+    } else {
+      if (Number(m[1]) !== checked || Number(m[2]) !== registered.size) {
+        failures.push({
+          slug: "(coverage)",
+          span: "(none)",
+          detail: `sources/README.md declares ${m[1]} spans across ${m[2]} ledgers; computed ${checked} across ${registered.size}. Update the README's coverage line to match the corpus (the corpus is the record; the README is the assertion about it).`,
+        });
+      }
+    }
+  }
+}
 const allLedgers = fs
   .readdirSync(DOCS)
   .filter((f) => f.endsWith(".md"))

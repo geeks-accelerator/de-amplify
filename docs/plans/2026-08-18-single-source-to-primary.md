@@ -1,7 +1,7 @@
 ---
 title: "Plan: taking the single-source corpus to primary sources, and publishing what survives"
 subtitle: "Sixteen distillations of the MDL 3047 trial coverage produced 112 claims tagged NEEDS-PRIMARY. This is the plan for resolving them in the cheapest defensible order, and for correcting the three flaws the first research pass exposed in the corpus itself."
-status: "EXECUTED 2026-08-18, then AUDITED and SWEPT the same day. The audit's eight findings are in Part V, and so is the follow-up sweep that worked every remaining item: four closed, one found (the Ninth Circuit opinion, which is not the First Amendment ruling its lead described), three confirmed still open with the evidence for saying so. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
+status: "EXECUTED 2026-08-18, then AUDITED and SWEPT the same day. The audit's eight findings are in Part V, and so is the follow-up sweep that worked every remaining item: four closed, one found (the Ninth Circuit opinion, which is not the First Amendment ruling its lead described), three confirmed still open with the evidence for saying so. All five phases complete, plus a second publication pass and the Ninth Circuit publication. Merged across PRs #59 through #68. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: the wedged build was cancelled via the Railway GraphQL API, and the queue is now blocked by an upstream GitHub outage on Railway's side (queuedReason says so in terms); wait, do not redeploy. This line has now been corrected twice, and both stale versions are preserved in Part V: it first said production had not deployed since 2026-08-14 (wrong, #57 shipped), then said clearing the wedge needed a dashboard action (wrong, the API's deploymentCancel mutation did it). A status line summarising a live incident goes stale faster than any other sentence in the file."
 date: 2026-08-18
 site: "de-amplify.com"
 document: "Self-contained operational plan with a research brief. Every rule needed to execute is written here rather than linked, because a rule that is referenced but absent during execution gets violated. Every task names the artifact that closes it and the surface it would change."
@@ -24,6 +24,7 @@ sources:
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
 | **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
 | **Quote coverage** | **CLOSED.** All eleven ledgers registered in `check:quotes`, 483 spans, no unguarded ledger left. Caching the last four primaries caught six defects and one bad cache; none was visible by reading. |
+| **Second audit** | **DONE.** Twelve stale statements, most written earlier the same day: corrections whose moment had ended. The span count now has one asserted home and `check:quotes` fails if it drifts. See "The second audit" in Part V. |
 | **Implementation audit** | **DONE.** Eight findings, no factual error in the published record. Three reached a reader (a stale `Scheduled:` label on the hub, a ledger asserting both tenses, a reader summary never re-seeded); one was this repo's own documented blind spot reproduced (`check:quotes` scoped past the pass's most consequential claims); one census was wrong in every cell and is now machine-asserted. See Part V. |
 | **Follow-up sweep** | **DONE.** Four closed, one found, three confirmed still open with the evidence. The Ninth Circuit opinion turned up at docket entry 541 and is not the First Amendment ruling its lead described. |
 | **Deploy** | **BLOCKED BY AN EXTERNAL OUTAGE.** The wedged build was cancelled via the Railway GraphQL API; the queue still will not serve, and Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`. Nothing here is a repo fault and nothing here is fixable from this side. Do not redeploy. |
@@ -767,6 +768,13 @@ queued deploy carrying current content, not the wedged one. There is no cancel o
 `railway deployment` offers only `list`, `up` and `redeploy`. **Cancelling build `f4ff3f51`
 specifically requires the Railway dashboard.**
 
+> **Corrected later the same day, and the correction is in the follow-up sweep below.** The
+> paragraph above surveyed the CLI's *subcommands* and stopped there. `railway api` reaches the
+> public GraphQL API, the API carries a `deploymentCancel` mutation, and the wedged build was
+> cancelled with it, no dashboard involved. The claim was a null result over the wrong search
+> space: "the CLI has no cancel subcommand" was true, "the CLI cannot clear this" did not follow.
+> Left in place because the reasoning error is the useful part.
+
 **The queue is head-of-line blocked.** One build wedged before its builder emitted a single line,
 and everything behind it waits, including the content change this plan exists to ship. A normal
 build here takes 45 seconds to 2 minutes and produces a full nixpacks log ending in a healthcheck.
@@ -984,6 +992,35 @@ Worth noting what it would have been worth if it had worked. Automatic captions 
 and this corpus's own rule is that a `CAPTION-ASR` claim is **never** publishable. It would have
 been a pointer, useful mainly for asking whether the AGs said "$200 billion" out loud, and then the
 transcript would still have had to settle it.
+
+## The second audit, 2026-08-18 late
+
+A re-run of the implementation review after the sweep merged, asked the same way: gaps, issues,
+missing enhancements. Every guard was green at the start of it, and it still found **twelve stale
+statements, most of them written earlier the same day.** None is a factual error about the record;
+every one is a true sentence that a later pass falsified and nobody re-read. That is a different
+defect class from the first audit's, and it has a name now:
+
+**A correction is written against a moment, and it does not know when its moment ends.** The MDL
+ledger's (e.1) intro said Dkt 455 "is not cached", true at 17:00 and false by 18:00, published
+either way. The NM Tensions bullet said Age Assurance was "not yet distilled" three lines below a
+new bullet saying it had been, because the correction landed as an append and never revisited what
+it corrected. The check:quotes registry comment explained why the lawsuit ledgers were absent,
+hours after they stopped being absent. This plan's own frontmatter demanded a dashboard action the
+sweep had already performed via the API, which is the frontmatter contradicting Part V **a second
+time**, after PR #63 existed specifically to fix the first.
+
+The instances, fixed in this pass:
+
+- **Published pages**: the (e.1) intro; the NM Tensions self-contradiction; the MDL coverage note counting "four documents cached" against six; the case file and hub quoting Dkt 473, Dkt 550 and the opinion while their Sources sections listed none of them; the paper's Sources list missing the opinion its section 4 now relies on.
+- **Prose counts**: the span count written as 476 in CLAUDE.md, sources/README.md and this plan's own text, stale within hours at 483. **The count now has one declared home, the coverage line in sources/README.md, and `check:quotes` asserts it on every run**, fault-injected on the exact stale-count defect, on the line being absent, and on a wrong ledger count. CLAUDE.md no longer states the number at all, and says why.
+- **Records**: the dedupe's Group H still read as the highest-value open item (pointer added, classification kept); primary-findings closed before the biggest find (index addendum, ledger stays the home); the NYT corpus's S4 still presented the First Amendment framing the primary disproved (contested in place, N11/N28 barred from promotion, and `check:distillations` caught the synthesis word-count change within seconds, exactly as Part III predicted for the cnbc file).
+
+**What this changes about method**: an append-only correction discipline needs one more verb.
+Landing a correction as a new dated block is right, but the pass that lands it has to re-read what
+the block contradicts, or the page carries both. The cheap mechanical version, used here: after any
+pass that changes a fact's status, grep for the fact's old status words in every file that names
+it. That is how eleven of the twelve were found.
 
 ## Follow-ups, in priority order
 

@@ -237,3 +237,17 @@ Platforms, Inc.* They record:
 2. **The monetary ask has two components**, civil penalties and disgorgement, which is more precise than anything in the coverage.
 3. **Bifurcation stays unpublished.** Party captions are not a holding.
 4. **Three facts are now confirmed from the court's own minutes**: Bejar as the first plaintiff witness, and the correct spellings of both lead advocates.
+
+---
+
+# Addendum, 2026-08-18 evening: one more primary, found after this file closed
+
+**The Ninth Circuit's published opinion of 2026-08-10** (trial-docket entry 541, No. 24-7032) was
+located by the follow-up sweep, cached, and distilled straight into the MDL ledger as claims 38 to
+42, so its full treatment lives there rather than here. The delta, in this file's own format: the
+coverage said a First Amendment motion to dismiss was rejected; the primary is a Section 230
+appealability dismissal that records Meta identifying **no** constitutional interests at stake. It
+also carries a second stay refusal (the emergency motion, denied as moot) and the appellate court's
+own description of the district court's Section 230 narrowing, which anchored a Tension open since
+2026-07-24. Recorded here so this file remains a complete index of what the 2026-08-18 exercise
+established against primaries, and only an index: the ledger is the home.

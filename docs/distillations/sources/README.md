@@ -69,7 +69,11 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **476 spans across all eleven ledgers**, closed on 2026-08-18. The four hearings and the
+today is **483 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
+fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
+its first day, written as 476 here and in two other prose homes hours before the count reached 483.
+Update it when registration changes; the checker will insist. The four hearings and the
 EU proceedings are checked in full; the other six are scoped with `sections` to the parts a cache
 actually reaches. **There are no unregistered ledgers left**, and the line the script used to print
 naming them is gone because there is nothing to name. Do not re-derive this check by hand.
@@ -168,8 +172,9 @@ Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and t
 
 ### MDL 3047 docket documents (added 2026-08-18)
 
-Five filings from *People of the State of California v. Meta Platforms, Inc.*, No. 4:23-cv-05448-YGR
-(N.D. Cal.), fetched from CourtListener/RECAP. All five extract cleanly with `pdftotext -layout`,
+Six documents from the docket of *People of the State of California v. Meta Platforms, Inc.*,
+No. 4:23-cv-05448-YGR (N.D. Cal.), fetched from CourtListener/RECAP: five trial-court filings and
+one Ninth Circuit opinion mirrored there as entry 541. All five extract cleanly with `pdftotext -layout`,
 and all carry the left-margin line numbers US court filings use, which the check strips anchored to
 line starts. Together they take `mdl-3047` from unregistered to guarded across sections (e) and (i).
 
@@ -193,6 +198,14 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
 - `mdl-3047-2026-08-18-dkt550-civil-minutes.txt`: the court's Civil Minutes for the opening trial
   day. Small and load-bearing: it is the record that trial was held, that the session ran 5 hours
   17 minutes, and that the states' first witness was Arturo Bejar.
+- `mdl-3047-2026-08-10-ca9-24-7032-collateral-order-opinion.txt`: the Ninth Circuit's **published**
+  opinion in *People of the State of California v. Meta Platforms, Inc.*, No. 24-7032, filed
+  2026-08-10 and docketed in the trial court as entry 541 (MDL ECF 3398). Dismisses Meta's and
+  TikTok's appeals for lack of appellate jurisdiction, holding Section 230 is "a defense to
+  liability, not immunity from suit", and denies Meta's emergency stay motion as moot. This cache
+  was added by the pass that found the opinion (2026-08-18 evening) and this inventory entry was
+  added a pass later, which is its own small lesson: the file, the registration and the inventory
+  are three separate writes, and only the first two were guarded.
 
 ### `ca-jccp5255-2026-02-13-public-notice.txt` (added 2026-08-18)
 
