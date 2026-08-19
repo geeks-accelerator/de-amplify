@@ -112,3 +112,36 @@ It also does not cover what happens **at** the trial. That is a re-seed, not a f
 ---
 
 *Provenance: written 2026-08-02 during a full-repo audit, from the strings actually present in the working tree on that date, and from the docket facts already recorded in `docs/distillations/mdl-3047.md`. The two trial dates were re-confirmed against reporting on 2026-08-02 and remain as the court set them. No claim on the site changes on the basis of this file.*
+
+---
+
+## Addendum, 2026-08-18 evening: the transcript prediction held, and an appeal turned up
+
+This plan closed with two forecasts about what comes after the flip. One is now tested and one is
+resolved from an unexpected direction. Neither reverses anything above.
+
+**"Federal court transcripts are purchasable through PACER rather than free, so a verified
+quote-bank of trial testimony may not be attainable at this project's standard." Correct so far.**
+The opening day's transcript is docket entry 540 and it is **not mirrored in the free archive**,
+re-probed 2026-08-18 with a passing positive control (entry 550, known present, returns HTTP 200).
+That is not an inconvenience, it is load-bearing: the transcript is the document that would settle
+whether the states ever asked for the widely reported $200 billion, and until it is read the MDL
+ledger publishes neither reading. **The plan predicted the constraint before there was testimony to
+apply it to, and the constraint arrived exactly where it said it would.**
+
+**What was attainable, and was not anticipated here, is the record around the testimony.** The
+court's own Civil Minutes (entry 550) are free, short, and settle three things the coverage
+disagreed about: that trial was held, its length, and that the states' first witness was Arturo
+Bejar. A minute entry is not a transcript and it is a court record. Worth remembering as a class:
+when the transcript is paywalled, ask what the clerk filed.
+
+**And an appeal surfaced that this plan had no reason to expect.** The Ninth Circuit filed a
+published opinion in this case on **2026-08-10**, eight days before openings, dismissing Meta's
+appeal from the Section 230 rulings for lack of jurisdiction and holding that Section 230 is "a
+defense to liability, not immunity from suit". It sits on the **trial** docket, at entry 541, not on
+an appellate one. A footnote also denies Meta's emergency motion to stay the trial as moot, which is
+a second refusal to stay this trial in a second court, and this plan's whole subject was whether the
+trial would happen as scheduled. **The flip's confirmation work would have found it for free had it
+walked the docket rather than only the dates.**
+
+*Recorded 2026-08-18 as a dated addendum. This plan's conclusions stand; this is what happened next.*

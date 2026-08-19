@@ -154,3 +154,27 @@ Separately, section 4 gained two comparative decisions on 2026-08-18, the French
 constitutionnel decision of 14 August 2026 and Australia's minimum-age duty. **Read together they
 say the workable instrument is calibrated, service-specific and operator-facing**, which is the same
 direction 7.2 points. If 7.2 is rewritten, those belong in the same breath.
+
+---
+
+## Second addendum, 2026-08-18 evening: a Ninth Circuit holding that touches section 4, not 7
+
+Recorded here because this file is the current home for "what the 2026 record does to the paper's
+legal sections", and because the temptation on reading it is to file it under 7.
+
+**It is a section 4 fact, not a section 7 one.** On 2026-08-10 the Ninth Circuit issued a published
+opinion in *People of the State of California v. Meta Platforms, Inc.*, No. 24-7032, dismissing
+Meta's appeal from the MDL 3047 Section 230 rulings for lack of appellate jurisdiction and holding
+that **Section 230 provides "a defense to liability, not immunity from suit"**. Section 4 already
+argued that Section 230 is "a liability shield the platform holds, not a source of legislative
+power"; this is direct, published, same-circuit support for that exact characterisation, and it has
+been added there.
+
+**Two things in it are worth flagging for whoever revises 7.**
+
+1. The opinion records that **"Meta does not identify any constitutional interests at stake"** in that appeal. Section 7 weighs how much constitutional risk a design-side obligation carries. It is worth knowing that the largest platform in this litigation, appealing on exactly the question of whether these claims can proceed, did not raise one. That is not a holding about the First Amendment and must not be written as one. It is a fact about what was argued, and it belongs in the same honest-limits register as everything else in 7.
+2. It arrived from a lead that was **wrong about its own subject**: the item was chased as "the Ninth Circuit disposition of Meta's First Amendment motion to dismiss", single-sourced to one newspaper. Anyone revising 7 from press coverage of appellate activity should assume the same failure mode is available, and read the opinion.
+
+**Nothing in 7.2 changes.** Age assurance remains the showstopper the first addendum describes, and
+the statutory constraint remains statutory. This is a note about where the new material goes, so the
+next revision does not spend its budget rediscovering that it goes somewhere else.
