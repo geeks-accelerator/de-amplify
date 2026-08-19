@@ -1,7 +1,7 @@
 ---
 title: "Plan: taking the single-source corpus to primary sources, and publishing what survives"
 subtitle: "Sixteen distillations of the MDL 3047 trial coverage produced 112 claims tagged NEEDS-PRIMARY. This is the plan for resolving them in the cheapest defensible order, and for correcting the three flaws the first research pass exposed in the corpus itself."
-status: "EXECUTED 2026-08-18, then AUDITED the same day; the audit's six findings and their fixes are in Part V. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
+status: "EXECUTED 2026-08-18, then AUDITED and SWEPT the same day. The audit's eight findings are in Part V, and so is the follow-up sweep that worked every remaining item: four closed, one found (the Ninth Circuit opinion, which is not the First Amendment ruling its lead described), three confirmed still open with the evidence for saying so. All five phases complete, plus a second publication pass. Merged across PRs #59, #60, #61 and #62. The plan's central prediction held (the New Mexico block was already established) and its central caution was vindicated (the bifurcation it warned against publishing is unconfirmable). Phase 2 reversed the press on the $200 billion figure, and the second pass published the strongest single finding of the whole exercise, a court recording that the child-safety relief it was granting was inadequate. NOT LIVE: one Railway build has been wedged since 15:01 and is head-of-line blocking six queued deploys. That needs a dashboard action. See Part V, and note that an earlier version of this line said production had not deployed since 2026-08-14, which was wrong and is corrected there."
 date: 2026-08-18
 site: "de-amplify.com"
 document: "Self-contained operational plan with a research brief. Every rule needed to execute is written here rather than linked, because a rule that is referenced but absent during execution gets violated. Every task names the artifact that closes it and the surface it would change."
@@ -23,6 +23,7 @@ sources:
 | **3. Corpus corrections** | **DONE.** All three applied; `check:distillations` caught the arithmetic drift the plan predicted it would. |
 | **4. Ledger-first re-seed and publish** | **DONE.** Ledger, both curated pages, the policy paper, the share card, and the `mdl-3047` quote allowlist. |
 | **Second publication pass** | **DONE.** Four verified primaries were found sitting unpublished. Two shipped, two deliberately did not, both decisions recorded. |
+| **Quote coverage** | **CLOSED.** All eleven ledgers registered in `check:quotes`, 483 spans, no unguarded ledger left. Caching the last four primaries caught six defects and one bad cache; none was visible by reading. |
 | **Implementation audit** | **DONE.** Eight findings, no factual error in the published record. Three reached a reader (a stale `Scheduled:` label on the hub, a ledger asserting both tenses, a reader summary never re-seeded); one was this repo's own documented blind spot reproduced (`check:quotes` scoped past the pass's most consequential claims); one census was wrong in every cell and is now machine-asserted. See Part V. |
 | **Follow-up sweep** | **DONE.** Four closed, one found, three confirmed still open with the evidence. The Ninth Circuit opinion turned up at docket entry 541 and is not the First Amendment ruling its lead described. |
 | **Deploy** | **BLOCKED BY AN EXTERNAL OUTAGE.** The wedged build was cancelled via the Railway GraphQL API; the queue still will not serve, and Railway reports `queuedReason: "Deployment queued due to upstream GitHub issues"`. Nothing here is a repo fault and nothing here is fixable from this side. Do not redeploy. |
@@ -645,6 +646,89 @@ This is the `NEEDS-PRIMARY` error one level up. There, a tag about what a *docum
 establish was read as a claim about what the *repository* had not established. Here, a claim about
 what the repository lacked was written without reading what it already held. Same shape, same cost:
 work proposed against a gap that was smaller than stated.
+
+### A citation is not a cache, and the gap between them is where defects live
+
+This is the sweep's most transferable finding. Meta's Dkt 455 is the source of the **$1.4 trillion
+figure, the most-quoted number on this site**. The ledger had cited it, with a docket number, a
+filing date, a RECAP URL and a note that it was "verified in the RECAP PDF on 2026-07-16". Everything
+about that citation was true. **The PDF was not in the repository**, so nothing could re-check it,
+and it held two defects: an exhibit quoted by a title read off the **docket listing** rather than
+from the filing, and the filing's sentence-initial capital silently lowercased to fit the ledger's
+own sentence.
+
+Both had been on the site for a month. Both are invisible at reading size. Both were found within
+seconds of the file landing in `sources/`.
+
+The same thing happened three more times in the same afternoon: caching the LA Superior Court notice
+caught two more, in a ledger of four spans. **Four caches, six defects, and not one of them was
+found by reading.** The rule that follows is not "cache more"; it is that **a citation records where
+you looked, and a cache records what you saw**, and only the second can be checked by anyone,
+including your future self.
+
+### Guarding thinly is more honest than not guarding
+
+`california-state-bellwethers` is now registered at **four spans**, because the Los Angeles Superior
+Court has no free archive and the Court of Appeal portal blocks automated lookups. The court's own
+public notice is the only primary this project can hold for that entire proceeding.
+
+Four spans looks like a rounding error and the number is the point. Before, the checker printed
+"NOT checked, no allowlist authored", which reads as **undone work**. Now it prints "PARTIALLY
+checked, only section (a)", which states **the shape of the evidence**: this case is the site's most
+coverage-dependent record. It is also the case where the project once published "upheld on appeal"
+about a verdict no appellate court had reviewed. A guard that measures four spans and says so is
+worth more than a to-do that implies eighty are coming.
+
+### An allowlist and a known deviation say opposite things, and the difference is not cosmetic
+
+Registering Tennessee produced this repository's first case of a **cache** being at fault rather than
+a ledger. The complaint's extraction carries the tagged-PDF artifact `Lbl` 364 times, and at
+paragraph 411 it lands mid-word with the page footer beside it, so a perfectly faithful quotation
+cannot verify.
+
+The tempting fix was an allowlist entry. **That would have asserted something false.** An allowlist
+entry means "this span is deliberately not from the cached source"; this span is from it. It went to
+`KNOWN_DEVIATIONS`, which means "from the source and unverifiable, here is why, here is how to
+close it". Keeping those two apart is what stops an allowlist becoming the place defects go to hide,
+which the FTC allowlist's own header already warns about.
+
+It is also a **sixth failure mode** beside the five documented normalizations, and unlike the other
+five no normalization reaches it, because the interposed text is real page furniture. Grep `^Lbl` on
+any new tagged-PDF cache, the way the TIFF marker gets grepped on a new GPO transcript.
+
+### A single-sourced lead can be wrong about what KIND of thing it is
+
+The plan chased "the Ninth Circuit disposition of Meta's **First Amendment** motion to dismiss",
+listed as the highest-value single open item, single-sourced to one newspaper. The opinion exists,
+it is published, and it is about **Section 230 and appellate jurisdiction**. It records in terms
+that "Meta does not identify any constitutional interests at stake."
+
+The posture-precision rule this project already keeps is about *stage*: announced is not filed is
+not affirmed. This is a level above that. The lead was not wrong about how far along the ruling was;
+it was wrong about **what the ruling was about**, and a re-seed that trusted it would have published
+a First Amendment holding that does not exist. Both errors are cheap to make and only one of them is
+covered by the existing rule.
+
+The fix is the same as always and worth restating because it kept paying: the document was **one
+fetch away**, at a predictable URL, on a docket this project already reads.
+
+### A field that disagrees with a config file is a question, not a finding
+
+While diagnosing the deploy, the Railway service manifest reported `builder: RAILPACK` with
+`nixpacksConfigPath: null`. Taken at face value that is a serious finding: `nixpacks.toml` would be
+dead config, and the Node 20 pin that CI's build job exists to mirror would not be applied, meaning
+CI verifies an environment production does not have.
+
+It is false. The last successful build's log opens `using build driver nixpacks-v1.41.0` and prints
+a plan whose setup phase reads `nodejs_20, git`. The manifest reports **dashboard-level service
+settings**, which `railway.toml` overrides at build time, exactly as it does for the build command,
+start command and healthcheck, all three of which the same manifest also reports as null while
+plainly working.
+
+This belongs beside the two rules this repository already keeps. A search returning nothing is a
+claim about the query. A search returning something is not confirmation. And now: **a configuration
+field is a claim about a layer, not about the system**, and the only thing that settles which layer
+won is the artifact the system actually produced.
 
 ### Registering a ledger in `check:quotes` immediately earns its keep
 
