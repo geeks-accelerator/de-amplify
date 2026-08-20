@@ -62,8 +62,8 @@ the record**.
 | Tag | Meaning | Count |
 |-----|---------|-------|
 | `PUBLISHABLE` | May be stated on the site with its tier label | 99 |
-| `NEEDS-PRIMARY` | Real and material, but verify against the docket before publishing | 135 |
-| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact | 121 |
+| `NEEDS-PRIMARY` | Real and material, but verify against the docket before publishing | 160 |
+| `ATTRIBUTE-ONLY` | May appear only as "X said", never as fact | 142 |
 | `DO-NOT-PUBLISH` | Fails the site's evidence rule | 20 |
 | (none) | Rows in the pass-2 implicit-assumption and pass-3 negative-claim tables, whose Action column is `engage` rather than an actionability value | 9 |
 
@@ -112,8 +112,10 @@ as a quotation, no matter how quotable it looks.
 
 ## Coverage of this batch
 
-Eleven sources distilled. Five more were reachable but not distillable, recorded here so the gap
-is visible rather than silent:
+Twelve sources distilled, the twelfth added 2026-08-20 when the attorneys general press conference
+was finally obtained (see the section on it above: not from the recording this folder had been
+retrying, because the official upload omits the entire Q&A). Five more were reachable but not
+distillable, recorded here so the gap is visible rather than silent:
 
 | Source | Why not distilled |
 |--------|-------------------|
@@ -261,7 +263,10 @@ source in this folder.
 > same event runs 52:20 and carries it. The transcript is cached at
 > `docs/distillations/sources/ag-press-conference-2026-08-18-asr.txt`, quarantined from
 > `npm run check:quotes` by a filename rule, and it answered the MDL ledger's open Tension on what
-> the states will seek (claims 22d to 22h). The closed thread, with both methodological findings, is
+> the states will seek (claims 22d to 22h). **Distilled 2026-08-20** into
+> `2026-08-18-ag-press-conference.md`: 46 claims, none of them `PUBLISHABLE`, whose most useful
+> output is that the plaintiffs' injunctive ask is a feature-level de-amplification list. The closed
+> thread, with both methodological findings, is
 > `docs/issues/2026-08-18-ag-press-conference-captions.md`.
 >
 > **The "1 hour 47 minutes" below was the live stream, not the archive**, and the gap between the two
