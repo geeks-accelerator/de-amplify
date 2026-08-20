@@ -231,6 +231,28 @@ Platforms, Inc.* They record:
 | 2.3.7 The pleaded remedy list | Partially. Entry 473 references the AGs' Remedy Charts 4 to 6 and the disgorgement framework; the charts themselves were not fetched |
 | 2.3.8 Michigan's withdrawal | Not located this pass |
 
+## Addendum 2026-08-20: three of these were obtained later
+
+This table is a dated record of what one pass reached and it is left as written. Three rows have
+since been answered, two of them by later passes and one by a route this pass did not consider.
+
+- **2.3.6 The Ninth Circuit disposition.** Located and cached 2026-08-18. It is a published opinion
+  dismissing Meta's appeal for lack of appellate jurisdiction, holding that Section 230 is a defence
+  to liability rather than immunity from suit. Claims 38 to 42 of the MDL ledger.
+- **2.3.8 Michigan's withdrawal.** Answered 2026-08-20, and it was **four** states rather than one
+  (Michigan, Georgia, Missouri, North Dakota), leaving in January 2025 over discovery burden. That
+  accounts for the whole drop from 33 filers to the 29 at trial. Claim 17a.
+- **Entry 540, the row that says it is the document that would settle the $200 billion question.**
+  Still not mirrored in RECAP, and **the question no longer waits on it.** At a press conference on
+  the afternoon of this same trial day, a Reuters reporter asked the attorneys general about both
+  circulating figures directly. The answer, at claims 22d to 22h, is that $200 billion is Meta's
+  annual revenue and the states are not asking for $1.4 trillion. The transcript would still be
+  better evidence and is still worth having; it is no longer the only thing that can answer this.
+
+**The general point is the one worth keeping.** Every row above is phrased as a property of a
+document, and two of them turned out to be properties of where this pass looked. A public official
+answering a reporter's question is a source, and it was available on the day this table was written.
+
 ## What Phase 2 changes
 
 1. **The $200 billion figure must not be published as the states' demand.** The states' own filing uses that number for Meta's revenue and says the final ask comes at trial.
