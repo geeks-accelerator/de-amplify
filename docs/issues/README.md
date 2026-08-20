@@ -10,7 +10,7 @@ boundary is narrow and it is the first thing to check before adding a file here.
 
 | If the thread is about | It lives in | Why |
 | --- | --- | --- |
-| The evidentiary record of one proceeding | that ledger's **Tensions** section in `docs/distillations/` | **64 of them** across 11 ledgers today, read on every re-seed of that case, published with the ledger. `npm run check:issues` recomputes this number, because it was hand-written as 62 and was already wrong that day |
+| The evidentiary record of one proceeding | that ledger's **Tensions** section in `docs/distillations/` | **65 of them** across 11 ledgers today, read on every re-seed of that case, published with the ledger. `npm run check:issues` recomputes this number, because it was hand-written as 62 and was already wrong that day |
 | Work being done now, with a shape and an order | a dated plan in `docs/plans/` | Plans close. Their follow-up lists are outcomes of an exercise, not a standing queue |
 | A quoted span that cannot verify against its cache | `KNOWN_DEVIATIONS` in `scripts/check-quotes.mjs` | The checker prints it on every run |
 | Anything else that is genuinely open | **here** | |
