@@ -20,6 +20,7 @@
 //                  status cell, which this check did not read until 2026-08-20
 //   6. REVISITED   a closed issue accounts for every file it declared as `related`, with a
 //                  disposition and a reason
+//   7. TENSIONS    the ledger-Tension count this directory's README declares is recomputed here
 //
 // NOT COVERED, and it is the important one: this script cannot tell whether an issue DUPLICATES a
 // ledger Tension. That is the failure this directory most needs to avoid and it is a human read,
@@ -292,6 +293,61 @@ if (!fs.existsSync(indexPath)) {
   }
 }
 
+// 7. THE TENSION COUNT, declared in this directory's README and recomputed here.
+//
+// The README's boundary table tells the reader how many ledger Tensions exist, because the whole
+// argument for the boundary is that the Tensions are numerous and they work. That number was
+// hand-written as 62 and was WRONG THE DAY IT WAS WRITTEN: the corpus held 63 at that commit, and
+// 64 by 2026-08-20. It is the third time this repo has found a count living only in prose, after
+// the quote-span total and the guard list, and the fix is the one that worked twice: one declared
+// home, recomputed by a tool. A number nobody can recompute is a number nobody can trust, and this
+// one is load-bearing for an argument rather than decorative.
+{
+  const ledgerDir = path.join(ROOT, LEDGERS);
+  let tensions = 0;
+  let sections = 0;
+  if (fs.existsSync(ledgerDir)) {
+    for (const f of fs.readdirSync(ledgerDir).filter((x) => x.endsWith(".md"))) {
+      const lines = fs.readFileSync(path.join(ledgerDir, f), "utf-8").split("\n");
+      let inside = false;
+      for (const line of lines) {
+        if (/^## Tensions/.test(line)) { inside = true; sections++; continue; }
+        if (inside && /^## /.test(line)) { inside = false; continue; }
+        if (inside && /^- /.test(line)) tensions++;
+      }
+    }
+  }
+  // A counter that silently reads nothing would report a clean corpus it never opened, which is
+  // this repo's recurring failure. Abort rather than compare against zero.
+  if (!sections || !tensions) {
+    console.error(red("check:issues ABORTED: the Tension counter found no sections or no bullets."));
+    console.error(`  ${sections} Tensions section(s), ${tensions} bullet(s). Expected both non-zero.`);
+    process.exit(1);
+  }
+  const readme = path.join(ROOT, DIR, "README.md");
+  const text = fs.existsSync(readme) ? fs.readFileSync(readme, "utf-8") : "";
+  const m = text.match(/\*\*(\d+) of them\*\* across (\d+) ledgers/);
+  if (!m) {
+    failures.push({
+      file: `${DIR}/README.md`,
+      kind: "tensions",
+      detail:
+        `declares no Tension count matching "**N of them** across M ledgers". Computed ${tensions} ` +
+        `across ${sections} ledgers. Declare it there; a count that lives only in prose has gone ` +
+        `stale every time this repo has written one.`,
+    });
+  } else if (Number(m[1]) !== tensions || Number(m[2]) !== sections) {
+    failures.push({
+      file: `${DIR}/README.md`,
+      kind: "tensions",
+      detail:
+        `declares ${m[1]} Tensions across ${m[2]} ledgers; computed ${tensions} across ${sections}. ` +
+        `The ledgers are the record and the README is the assertion about them, so update the README.`,
+    });
+  }
+  globalThis.__tensionCount = tensions;
+}
+
 if (failures.length) {
   console.error(red(`check:issues FAILED. ${failures.length} problem(s) across ${files.length} file(s).`));
   for (const f of failures) {
@@ -317,7 +373,7 @@ console.log(
     "  that every declared dependency has one, never that the file was really re-read or that it\n" +
     "  really needed no change. Same boundary check:quotes draws at attribution.\n" +
     "  NOT covered: whether an issue DUPLICATES a ledger Tension, which is the failure this\n" +
-    "  directory most needs to avoid. There are 60+ open Tensions across the ledgers and they own\n" +
+    `  directory most needs to avoid. There are ${globalThis.__tensionCount} open Tensions across the ledgers and they own\n` +
     "  every question about the record of one proceeding. Read the relevant one before adding a\n" +
     "  file here. This guard proves the shape of an issue, never that it belongs.",
 );

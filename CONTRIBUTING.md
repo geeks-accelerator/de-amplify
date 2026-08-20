@@ -56,6 +56,11 @@ render. So:
    evidence tier ([ESTABLISHED] / [OBSERVED] / [ASSUMED]).
 2. Then re-seed the curated page (`content/lawsuits.md`, `content/hearings.md`,
    `content/lawsuits/*.md`) on a dated pass.
+3. If the correction closes a standing thread in [`docs/issues/`](docs/issues/),
+   that file's `revisited:` must account for every document it listed as
+   related. The schema lives in that directory's
+   [README](docs/issues/README.md) and is not repeated here on purpose; a field
+   spec with two homes is the drift this repo builds checkers to prevent.
 
 The `/distillations` pages publish the ledger directly, so step 1 alone already
 corrects a public surface. Never fix a fact only on the page: that leaves the
