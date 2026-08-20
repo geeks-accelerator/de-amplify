@@ -114,7 +114,7 @@ Section 7 and section 4 live in the **policy paper**, which is the review-copy p
 
    The hazard flagged in the earlier draft of this plan was real. Searches attribute a like-count holding to the **March 2026 CAADCA** ruling; that is wrong. The CAADCA opinion (No. 25-2366) was read and **contains no mention of like counts at all**, against 30 hits for "age estimation" as a positive control. SB 976 and CAADCA are different statutes in different cases before different district judges.
 
-3. **Check whether *Doe 1 v. Meta* went en banc. DONE: fully briefed and PENDING, neither granted nor denied.** The Ninth Circuit docket for No. 24-1672 reads: #50 (2026-04-28) opinion affirmed, concurrences by Berzon and R. Nelson; #51 (2026-05-12) petition for rehearing en banc; **#52 (2026-05-12) an order directing Meta to respond** within 21 days; #54 (2026-06-02) Meta's response. Last known filing 2026-06-02; docket current to 2026-08-10.
+3. **Check whether *Doe 1 v. Meta* went en banc. DONE: fully briefed and PENDING, neither granted nor denied.** **[SUPERSEDED 2026-08-20: DENIED on 2026-08-17, docket entry 55. Judge R. Nelson voted to deny; Judges W. Fletcher and Berzon recommended granting; no judge of the full court requested a vote, so it failed for want of a call for a vote rather than on a contested one. Section 4 of the paper is updated and the order is cached. See the third addendum below.]** The Ninth Circuit docket for No. 24-1672 reads: #50 (2026-04-28) opinion affirmed, concurrences by Berzon and R. Nelson; #51 (2026-05-12) petition for rehearing en banc; **#52 (2026-05-12) an order directing Meta to respond** within 21 days; #54 (2026-06-02) Meta's response. Last known filing 2026-06-02; docket current to 2026-08-10.
 
    The order calling for a response is the part worth noting: the Ninth Circuit does not order a response to a petition it means to deny. Section 4 now says the holding is current law and that the circuit is actively trying to undo it, quoting Berzon (joined by W. Fletcher) urging reconsideration en banc and Nelson, who wrote the opinion, saying it "will fall to the en banc court" to settle. That is more useful to a reader than any adjective about uncertainty.
 
@@ -178,3 +178,27 @@ been added there.
 **Nothing in 7.2 changes.** Age assurance remains the showstopper the first addendum describes, and
 the statutory constraint remains statutory. This is a note about where the new material goes, so the
 next revision does not spend its budget rediscovering that it goes somewhere else.
+
+---
+
+## Third addendum, 2026-08-20: the Doe 1 petition was denied
+
+Item 3 above recorded the en banc petition as fully briefed and pending. **It was denied on
+2026-08-17**, the day before the state attorneys general's trial opened, and the body of this file
+is left as written so the check that found it can be graded.
+
+The order is three sentences and the vote is the substance. Judge R. Nelson, who wrote the panel
+opinion, voted to deny. **Judges W. Fletcher and Berzon recommended granting.** The full court was
+advised and **no judge requested a vote**, so the petition failed for want of a call for one rather
+than on a contested vote.
+
+**What it does to section 4**, which is where this belongs and not section 7: the paper had hedged
+"build on it as current law, not as settled law", and that hedge is now discharged. Recommendation
+as publishing is settled Ninth Circuit law absent certiorari. The paper says so, and also says that
+a denial of rehearing is not an endorsement of the panel's reasoning and that two of the three
+judges who heard the case wanted it reheard.
+
+**Nothing in section 7 changes.** Age assurance remains the showstopper the first addendum
+describes, and the statutory constraint remains statutory. Recorded here because this file is the
+project's running record of what the 2026 legal record does to the paper's legal sections, and
+because item 3 above would otherwise stay wrong.
