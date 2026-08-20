@@ -270,9 +270,21 @@ signal for when it stops being too early.
 yt-dlp --skip-download --print "%(live_status)s" "https://www.youtube.com/watch?v=N3FvvwxW64w"
 ```
 
-`post_live` means wait. **`was_live` means go**: processing has finished and the caption track should
-serve. Positive control for the field itself, run 2026-08-18, because a status string that never
-varies proves nothing: an ordinary finished upload returns `not_live`, so the field discriminates.
+`post_live` means wait. `was_live` means processing has finished. Positive control for the field
+itself, run 2026-08-18, because a status string that never varies proves nothing: an ordinary
+finished upload returns `not_live`, so the field discriminates.
+
+> **The trigger fired on 2026-08-20 and the answer was no.** `live_status` reached `was_live` and the
+> caption fetch returned "There are no subtitles for the requested languages". `--list-subs` now
+> reports **no automatic captions and no subtitles** for this video, positive-controlled against a
+> public video that returns a full list on the same command.
+>
+> **The track advertised while the archive was processing was provisional and did not survive it.**
+> So the `post_live` diagnosis was right about the mechanism and wrong about the outcome, and this
+> section previously ended "`was_live` means go", which would have sent the next reader to run a
+> command that cannot work. **Waiting is no longer a route.** The live thread, with the three
+> remaining routes and their tiers, is
+> `docs/issues/2026-08-18-ag-press-conference-captions.md`.
 
 **Then the retry**, checking the file size rather than the exit status, since a failed run leaves a
 zero-byte `.part`:
@@ -297,7 +309,7 @@ the target is 3:1 to 5:1 against the synthesis, not against the claim inventory.
 
 1. **A second and third source now attribute the two figures correctly.** The BBC states that Meta claims up to $1.4 trillion while the states put it far lower at $200 billion. With the wire service, that is two of the eleven items in this folder that discuss the figure at all getting it right. This project's published framing rests on the primary filing and remains the best supported reading.
 2. **The $1.4 trillion figure now has four distinct referents across the corpus**: Meta's own penalty ceiling, the states' present demand, the states' superseded initial ask, and Meta's market capitalisation. The last is the dangerous one, because the magnitudes nearly coincide, which is precisely what let one editorial argue the demand had been sized to the company.
-3. **The speech objection to design mandates is reported to have succeeded twice, in two legal systems**: a French constitutional ruling against an under-15 ban, and a New Mexico court declining feed-design remedies partly on First Amendment and Section 230 grounds. Both need primary verification. If both hold, the constraint on court-ordered brakes is constitutional rather than political, which is the most consequential thing either batch produced.
+3. ~~**The speech objection to design mandates is reported to have succeeded twice, in two legal systems**~~ **REVERSED 2026-08-18 on the primary, and this is the batch's most instructive error.** The corpus inferred from a BBC summary that a French constitutional ruling and the New Mexico judgment both showed a speech objection defeating design mandates. Decision 2026-911 DC struck article 1 at paragraph 17 because the legislature could not institute a prohibition **of general scope**, imposed without regard to the individual minor's situation or to the risks specific to each service. **The defect was bluntness, not the attempt.** Read with New Mexico, which declined feed remedies because a court is the wrong instrument and because ordering one firm while its competitors are absent is unfair, the two say the workable instrument is calibrated, service-specific and market-wide, which describes a standard and neither a lawsuit nor a ban. That is **better** for this project than the inference it replaced, and it arrives from a jurisdiction with no Section 230 and no First Amendment. The inference above was dropped rather than published; it is kept struck through because a corpus that quietly deletes its wrong readings cannot be graded.
 4. **The coalition is now reported at more than 30 at filing, 29 at trial, with one departure explained.** Three independent items point the same way.
 5. **A granted, specific brake exists**: no overnight push notifications for under-18s. Testable, time-bounded, already ordered.
 
