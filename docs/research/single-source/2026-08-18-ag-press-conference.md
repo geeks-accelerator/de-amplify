@@ -111,7 +111,7 @@ Pass 3, negative.
 
 1. **Q33 against itself.** New Jersey describes co-leading for more than five years while Colorado describes filing nearly three years ago. Both can be true if one dates the investigation and the other the complaint, but the file records the pair because a five-year figure and a three-year figure about the same effort will be conflated by anyone quoting one of them.
 2. **Q2 against the rest of the corpus.** Five to seven weeks here; six in four sources, six to eight in two, seven in the ABC7 segment. This is now a five-way spread on one schedule. Unlike the broadcast captions, this figure comes from counsel trying the case, which makes it better sourced without making it a court document.
-3. **Q21 splits in two once it is checked against the corpus, and only half of it is open.** California's own attorney general says Meta lost a trial in Los Angeles at which Zuckerberg testified, hedging the second half with "I think". Checked 2026-08-20 against the `california-state-bellwethers` ledger: **the loss is already established there.** It is *K.G.M. v. Meta Platforms and Google*, a $6 million jury verdict on 2026-03-25 in Los Angeles Superior Court, with the new-trial and JNOV motions denied in early June. So the AG is corroborating a record this project already holds rather than revealing one. **What is genuinely open is whether Zuckerberg testified in that trial**, which the ledger does not establish; its only related source is a Law.com piece about his possibly testifying in the **second** bellwether, prospectively. That question is now a Tension on the California ledger, where it belongs. **The first draft of this entry claimed the project could not see the Los Angeles outcome at all. That was wrong, and it was wrong in the direction that makes a source look more valuable than it is**, which is the failure this file's Step 8 warns about.
+3. **Q21 splits in two once it is checked against the corpus, and only half of it is open.** California's own attorney general says Meta lost a trial in Los Angeles at which Zuckerberg testified, hedging the second half with "I think". Checked 2026-08-20 against the `california-state-bellwethers` ledger: **the loss is already established there.** It is *K.G.M. v. Meta Platforms and Google*, a $6 million jury verdict on 2026-03-25 in Los Angeles Superior Court, with the new-trial and JNOV motions denied in early June. So the AG is corroborating a record this project already holds rather than revealing one. The second half, whether Zuckerberg testified in that trial, **was open for about an hour and is now closed: he did**, in person on 2026-02-18, 35 days before the verdict, carried by NPR, PBS, NBC, Fortune, KTLA, Rolling Stone and the New York Times. It is claim 26 of the California ledger. **The AG was right, hedge and all**, and the only reason to doubt him was that this project had no source for it, which was a fact about the project's coverage rather than about the trial. **The first draft of this entry claimed the project could not see the Los Angeles outcome at all. That was wrong, and it was wrong in the direction that makes a source look more valuable than it is**, which is the failure this file's Step 8 warns about.
 4. **Q8 against the site's framing of these cases.** The curated pages describe the MDL as a youth-harm case. It is being tried as a consumer-deception and COPPA case in which no child testifies. Those are compatible but not identical, and the second is more precise.
 5. **Q25's percentages arrive partly garbled.** One is transcribed `70%- 17%`. The underlying figures resemble widely reported internal research, which is exactly why they should be traced to the exhibit rather than taken from here.
 6. **Q12 and Q13 are advocacy, and they are also the site's thesis.** A characterisation offered by a plaintiff on the courthouse steps is not evidence that the brakes fail. It is notable convergence and nothing more, and this file resists treating a useful quote as a finding.
@@ -138,10 +138,13 @@ to itself, which is why it is tagged as it is.
 Whether the measures reduced engagement at all, and what a measure actually measures. *Basis: PARTY.
 Action: ATTRIBUTE-ONLY.* Convergence with the scorecard's premise, recorded as convergence.
 
-**S4. The Los Angeles claim corroborates an established verdict and opens one narrow question.**
-*Basis: PARTY. Action: NEEDS-PRIMARY.* The loss is *K.G.M.*, already in the California ledger from
-secondary coverage; whether Zuckerberg testified in it is not, and is now a Tension there. See
-Tension 3, which records that the first draft of this file overstated the finding.
+**S4. The Los Angeles claim was right in both halves, and checking it filled a real hole.**
+*Basis: PARTY. Action: NEEDS-PRIMARY, and it stays that tag: the fact is now sourced properly
+elsewhere, but nothing may be published on the strength of this transcript.* The loss is *K.G.M.*,
+already established in the California ledger. That Zuckerberg testified in it was **not** in that
+ledger and now is, at claim 26, from seven outlets. **A party source's throwaway aside located a gap
+in this project's own record of a case it has been tracking for months.** See Tension 3, which also
+records that the first draft of this file overstated the finding in the flattering direction.
 
 **S5. The official channel published a truncated record of an official event.**
 23:26 against 52:20, with the entire Q&A absent, so everything in sections C-A, C-B and C-C above
@@ -176,8 +179,8 @@ the work in this file, and it is set conservatively for that reason.
 
 ## Step 9: Validation
 
-- **Source length:** 7,726 words (measured, from the ASR word count). **Synthesis (Step 6):** 366 words (measured).
-- **Claim compression:** 46 atomic claims to 5 outputs. Word compression is roughly 24:1 against the source, well beyond the 3:1 to 5:1 target the README set for the third length band, because the bulk of the source is opening-statement advocacy that yields few atomic claims per thousand words.
+- **Source length:** 7,726 words (measured, from the ASR word count). **Synthesis (Step 6):** 423 words (measured).
+- **Claim compression:** 46 atomic claims to 5 outputs. Word compression is roughly 18:1 against the source, well beyond the 3:1 to 5:1 target the README set for the third length band, because the bulk of the source is opening-statement advocacy that yields few atomic claims per thousand words.
 - **Traceability:** complete, three orphan groups named and seven claims declared unsynthesised.
 - **Regeneration test:** passes. S1 through S5 regenerate the remedy list, the industry-wide concession, the effectiveness framing, the Los Angeles pointer and the truncation finding. What does not regenerate is the advocacy, dropped deliberately.
 - **Not machine verified**, and unusually this one has a cache: `check:quotes` refuses it by filename because it is ASR, so the cache exists for re-reading and not for verification.
