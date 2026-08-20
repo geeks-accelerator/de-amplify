@@ -8,6 +8,8 @@ closes_when: "a deploy reaches SUCCESS and /api/health reports manifestGenerated
 trigger: "curl -s https://de-amplify.com/api/health"
 surface: "every page: nothing merged since 2026-08-14 is live, including the whole MDL trial record"
 related: ["docs/plans/2026-08-18-single-source-to-primary.md"]
+revisited:
+  - "docs/plans/2026-08-18-single-source-to-primary.md :: updated :: the frontmatter status line and the deploy row both record that the upstream outage cleared and production serves the work; that line had by then been corrected three times, which is why live-incident status moved out of plan frontmatter and into this directory"
 ---
 
 # Production has not rebuilt since 2026-08-14 and the queue is held by an upstream outage

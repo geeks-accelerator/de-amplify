@@ -114,6 +114,12 @@ const LEDGERS = {
       "mdl-3047-2026-08-16-dkt534-pretrial-order-8.txt",
       "mdl-3047-2026-08-18-dkt549-trial-protocol.txt",
       "mdl-3047-2026-08-18-dkt550-civil-minutes.txt",
+      // Added 2026-08-20 with claim 43. This order is from a DIFFERENT appeal
+      // (Doe 1, No. 24-1672) than the collateral-order opinion above, and it was
+      // cached days earlier for the policy paper with a note in sources/README.md
+      // saying no checker read it. Registering it here ends that: the ledger now
+      // quotes it, so the quotation is verified like every other.
+      "ca9-2026-08-17-doe-1-v-meta-24-1672-rehearing-denied.txt",
     ],
     allowlist: "mdl-3047-quote-allowlist.txt",
     sections: ["(e) Money / exposure", "(i) The trial itself, day one", "(j) The appellate track"],

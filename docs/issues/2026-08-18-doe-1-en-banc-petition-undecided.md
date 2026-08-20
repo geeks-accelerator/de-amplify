@@ -8,6 +8,9 @@ closes_when: "the Ninth Circuit grants or denies rehearing en banc in Doe 1 v. M
 trigger: "none"
 surface: "section 4 of the policy paper, which currently says to build on Doe 1 as current law rather than settled law"
 related: ["docs/proposals/2026-07-15-brake-integrity-standard.md", "mdl-3047"]
+revisited:
+  - "docs/proposals/2026-07-15-brake-integrity-standard.md :: updated :: section 4 carries the denial, the vote, and the point that two of the three judges who heard the case wanted it reheard"
+  - "mdl-3047 :: updated :: this was a real gap that only this rule surfaced. The ledger cited the appeal arising from the MDL and said nothing about the circuit's other Section 230 case, decided a week apart before the same district judge. Now claim 43, with the order registered in check:quotes"
 ---
 
 # The Doe 1 en banc petition is undecided, and section 4 of the paper depends on which way it goes

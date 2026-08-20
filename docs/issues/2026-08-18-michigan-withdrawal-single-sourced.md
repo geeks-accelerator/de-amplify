@@ -8,6 +8,9 @@ closes_when: "a docket entry, a Michigan Attorney General statement, or another 
 trigger: "none"
 surface: "the coalition count on /lawsuits and in the MDL ledger, which currently says more than 30 at filing and 29 at trial with one departure explained"
 related: ["mdl-3047", "docs/research/single-source/2026-08-18-wdiv-clickondetroit.md"]
+revisited:
+  - "mdl-3047 :: updated :: claim 17a carries the coalition arithmetic, that four states left in January 2025 over discovery burden, which accounts for the whole drop from 33 to 29"
+  - "docs/research/single-source/2026-08-18-wdiv-clickondetroit.md :: no-change-needed :: it is a dated record of what one television broadcast asserted, and editing it would misrepresent the source rather than correct it. Its W3 tag of NEEDS-PRIMARY also remains accurate: the withdrawal was established from a second secondary source and the withdrawal filings themselves are still unread"
 ---
 
 # Michigan's departure from the state coalition rests on one local station quoting a spokesperson

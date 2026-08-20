@@ -8,6 +8,8 @@ closes_when: "the docket shows whether those four cases reported or were dismiss
 trigger: "CourtListener search API, court+docket_number, e.g. court=cod docket_number=1:25-cv-02906"
 surface: "none today: candidate 4.9 in the ledger-candidates inventory is not built"
 related: ["docs/plans/2026-07-25-ledger-candidates.md"]
+revisited:
+  - "docs/plans/2026-07-25-ledger-candidates.md :: updated :: the hard-deadline bullet now names all four cases with their numbers and records that they reported rather than dismissed, with the stay running to 2026-10-29"
 ---
 
 # Four stayed Character.AI cases passed a status-report deadline and nobody looked
