@@ -1,6 +1,8 @@
 ---
+resolution: "Rehearing en banc was DENIED on 2026-08-17 (No. 24-1672, DktEntry 55), with two of the three panel judges recommending it be granted and no judge of the full court requesting a vote. Section 4 of the paper is updated and the order is cached."
+closed: 2026-08-20
 title: "The Doe 1 en banc petition is undecided, and section 4 of the paper depends on which way it goes"
-status: blocked
+status: closed
 opened: 2026-08-18
 closes_when: "the Ninth Circuit grants or denies rehearing en banc in Doe 1 v. Meta Platforms, No. 24-1672"
 trigger: "none"
@@ -29,3 +31,28 @@ Note the neighbouring holding, which is not the same thing and should not be con
 Ninth Circuit's published opinion of 2026-08-10 in No. 24-7032 holds Section 230 is a defense to
 liability rather than immunity from suit. That is about **appealability**, is already in the paper,
 and does not turn on this petition.
+
+## Closed 2026-08-20, and the answer is richer than the outcome
+
+The order is docket entry 55 on the Ninth Circuit docket, filed **2026-08-17**, the day before the
+state attorneys general's trial opened. It is three sentences and each one matters:
+
+- **Judge R. Nelson voted to deny.** He wrote the panel opinion.
+- **Judges W. Fletcher and Berzon recommended granting** rehearing en banc. They are the two who had already urged reconsideration in the opinion itself, which the paper quotes.
+- "The full court has been advised of the petition and **no judge has requested a vote** on whether to rehear this matter en banc." **The petition failed for want of a call for a vote, not on a contested one.**
+
+So two of the three judges who heard the case wanted it reheard, and the wider court declined to
+take it up.
+
+## What it changed on the site
+
+Section 4 of the policy paper had been hedging correctly: "build on it as current law, not as
+settled law", with the petition recorded as fully briefed and undecided **as of 2026-08-10**. That
+was accurate on its date and the world moved seven days later. The paper now records the denial, the
+split, and the reason it failed, and treats recommendation-as-publishing as settled Ninth Circuit
+law while stating plainly that a denial of rehearing is not an endorsement of the panel's reasoning.
+
+Order cached at `docs/distillations/sources/ca9-2026-08-17-doe-1-v-meta-24-1672-rehearing-denied.txt`,
+because a citation is not a cache. No checker reads it: `check:quotes` covers ledgers, and this
+document's consumer is the paper, which is prose. That is a real gap in coverage and it is stated
+here rather than left implied.

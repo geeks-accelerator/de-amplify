@@ -1,6 +1,8 @@
 ---
+resolution: "The upstream GitHub incident cleared, the queue drained on its own, and production is serving today's content. Verified on all three pages plus /api/health."
+closed: 2026-08-20
 title: "Production has not rebuilt since 2026-08-14 and the queue is held by an upstream outage"
-status: blocked
+status: closed
 opened: 2026-08-18
 closes_when: "a deploy reaches SUCCESS and /api/health reports manifestGenerated 2026-08-18 or later, and /lawsuits/mdl-3047 names Arturo Bejar"
 trigger: "curl -s https://de-amplify.com/api/health"
@@ -38,3 +40,16 @@ and healthcheck, all three of which that manifest reports as null while plainly 
 If the queue is still stalled after the GitHub incident resolves, that is when a support ticket is
 warranted, and it should say the same project built successfully at 14:40 from the same
 `package.json`.
+
+## Closed 2026-08-20
+
+The upstream incident resolved and the queue drained without further intervention. Verified against
+the closing condition rather than assumed:
+
+- `/api/health` reports `manifestGenerated: 2026-08-18`.
+- `/lawsuits/mdl-3047`, `/lawsuits` and `/distillations/mdl-3047` all serve Arturo Bejar, the Ninth Circuit dismissal and the $200 billion correction, and none of them still carries the stale `Scheduled:` label.
+
+**Nothing was done to fix it and that is the finding.** The one intervention that mattered was
+cancelling the wedged build through the GraphQL API; everything after that was waiting, correctly,
+because the cause was outside this repository. The temptation throughout was to redeploy, and each
+attempt would only have lengthened a queue nothing was serving.
