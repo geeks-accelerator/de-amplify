@@ -468,6 +468,41 @@ const registered = new Set(Object.keys(LEDGERS));
   // stay exempt: those are dated records, and "took coverage 404 -> 432" is a
   // true sentence about July that would be vandalised by an update. A guard that
   // rewrites history to satisfy itself is worse than no guard.
+  // EVERY CACHE IN THIS FOLDER MUST BE INVENTORIED IN ITS README, both directions.
+  //
+  // Same shape as the issue index and the orphan declaration, and it exists because the inventory
+  // had quietly fallen seven files behind by 2026-08-20: the four European Commission releases had
+  // been uninventoried since 2026-08-02, and a Ninth Circuit opinion plus two allowlists were added
+  // the same week without entries. A cache nobody documented is a cache nobody can judge: the
+  // README is where the extraction traps live (the doubled-word overlay on the Tennessee complaint,
+  // the Lbl artifact, the GPO TIFF marker), so an undocumented file is one whose gotchas are
+  // undiscovered rather than absent.
+  {
+    const inv = fs.existsSync(path.join(SRC, "README.md")) ? read(path.join(SRC, "README.md")) : "";
+    const caches = fs.readdirSync(SRC).filter((f) => f.endsWith(".txt")).sort();
+    const undocumented = caches.filter((f) => !inv.includes(f));
+    if (undocumented.length) {
+      failures.push({
+        slug: "(inventory)",
+        span: "(none)",
+        detail:
+          `${undocumented.length} cache file(s) are not mentioned in sources/README.md: ${undocumented.join(", ")}. ` +
+          `Add an entry saying what the document is, where it came from, when it was fetched, and any extraction trap. ` +
+          `The README is where this folder records how each file was made; a file with no entry is unjudgeable.`,
+      });
+    }
+    // and the other direction: an inventoried file that does not exist
+    for (const m of inv.matchAll(/`([a-z0-9][a-z0-9.-]*\.txt)`/g)) {
+      if (!caches.includes(m[1])) {
+        failures.push({
+          slug: "(inventory)",
+          span: "(none)",
+          detail: `sources/README.md documents "${m[1]}", which does not exist in the folder.`,
+        });
+      }
+    }
+  }
+
   for (const doc of ["README.md", "CONTRIBUTING.md", "CLAUDE.md"]) {
     const p = path.join(ROOT, doc);
     if (!fs.existsSync(p)) continue;

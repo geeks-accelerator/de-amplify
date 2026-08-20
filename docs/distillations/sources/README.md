@@ -168,6 +168,45 @@ scoping on every run, precisely so this list cannot become the authority and the
 Re-run 2026-07-24 after new quoted spans were added to the Nov 2023 ledger and to
 `content/hearings.md`; all resolve against `CHRG-118shrg60432.txt`.
 
+### European Commission press releases (added 2026-08-02, inventoried 2026-08-20)
+
+`ec-ip-26-312.txt`, `ec-ip-26-920.txt`, `ec-ip-26-1579.txt` and `ec-ip-26-1679.txt`: the four
+Commission releases behind `eu-dsa-proceedings.md`, named by their IP reference numbers.
+
+**They were absent from this inventory for eighteen days**, which is what prompted the
+two-directional check now in `check:quotes`. Their extraction trap is worth the entry on its own.
+**A plain fetch of a `presscorner` URL returns HTTP 200 and no article text.** The page is a
+JavaScript shell whose headline survives in meta tags, so a naive extraction yields a document with
+the right title and an empty body, which is a false success rather than a visible failure. The body
+is served as JSON by the Commission's own API at
+`.../presscorner/api/documents?reference=IP/26/1579&language=en` (field
+`docuLanguageResource.htmlContent`), and releases are located through
+`.../presscorner/api/search?language=en&text=...`.
+
+**Reference numbers are not chronological.** IP/26/312 is February 6 and IP/26/310 is February 9, so
+enumerating around a date does not work. Search instead.
+
+### The two allowlists added 2026-08-18
+
+`mdl-3047-quote-allowlist.txt` and `tennessee-quote-allowlist.txt`: drafter-prose allowlists for the
+two ledgers registered that day, each carrying its reasoning in its own header. Both are
+deliberately short. The MDL one holds a single entry, an outlet's paraphrase quoted precisely in
+order to record that it is **not** in Meta's filing; the Tennessee one holds three, none of which is
+a fidelity defect. **An allowlist is where a real defect goes to hide**, so a growing one is a
+warning rather than a convenience.
+
+### `ca9-2026-08-17-doe-1-v-meta-24-1672-rehearing-denied.txt` (added 2026-08-20)
+
+The Ninth Circuit's order denying rehearing en banc in *Doe 1 v. Meta Platforms*, No. 24-1672, filed
+2026-08-17, fetched from CourtListener/RECAP as docket entry 55. Three sentences, and the vote is
+the substance: Judge R. Nelson, who wrote the panel opinion, voted to deny, while Judges W. Fletcher
+and Berzon recommended granting, and no judge of the full court requested a vote.
+
+**No checker reads this file, and that is a real gap stated rather than hidden.** Its consumer is
+section 4 of the policy paper, which is prose; `check:quotes` covers ledgers. It is cached anyway
+because a citation is not a cache: the paper now rests on this order, and a reader should be able to
+re-read it without going back to PACER.
+
 ## Court-filing caches (added 2026-07-25)
 
 ### MDL 3047 docket documents (added 2026-08-18)
