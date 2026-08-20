@@ -284,7 +284,7 @@ Binding appellate precedent that a broken age gate is not a publishing decision.
 Two federal hearings plus live litigation.
 
 - **Senate Judiciary, September 16, 2025**, S.Hrg. 119-256, `https://www.govinfo.gov/content/pkg/CHRG-119shrg62328/html/CHRG-119shrg62328.htm` (FETCHED). Hawley to a parent witness: "So, you used every parental control tool available to you, and yet this still happened." Robbie Torney of Common Sense Media, on Meta AI: "There's no separate app, you can't turn it off, and the guardrails that Meta says that exist don't work in our testing." That is red-team testing, the closest thing in the federal record to the site's own self-test methodology.
-- **Hard deadline:** four stayed Character.AI cases carry a **July 31, 2026 status-report-or-dismissal date**. If this ledger is wanted, the posture will change within the week.
+- **Hard deadline:** four stayed Character.AI cases carry a **July 31, 2026 status-report-or-dismissal date**. If this ledger is wanted, the posture will change within the week. **[RESOLVED 2026-08-20, and the four are now named: `E.S.` and `Montoya` (D. Colo. 1:25-cv-02906 / 02907), `P.J.` (N.D.N.Y. 1:25-cv-01295), `A.F.` (E.D. Tex. 2:24-cv-01014). They REPORTED rather than dismissed; the stay continues to 2026-10-29. `Garcia` (M.D. Fla. 6:24-cv-01903) terminated 2026-01-07, which is the settlement landing. See the closed issue for the order text and for what was not established.]**
 - **Tier:** full standard, with the same no-platform-witness caveat the Bejar ledger already discloses.
 - **Hearsay score:** 9. Among the most clip-driven hearings in the set.
 
