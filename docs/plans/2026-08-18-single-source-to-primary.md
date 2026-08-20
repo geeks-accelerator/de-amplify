@@ -492,7 +492,7 @@ Merging is what deploys. `main` is protected and takes pull requests, not direct
 ## What is deliberately not in this plan
 
 - **The three commentary videos and the two Meta AI items** excluded from the broadcast batch. They sit four removes from the record and would file next to the wire-service distillation. If the project ever wants to study how the trial is narrated to large audiences, that is a separate corpus with its own output goal and its own directory.
-- **The attorneys general press conference**, still unobtained. YouTube advertises an English caption track for the 1 hour 47 minute recording and serves no fragments. It is the highest-value item on the video list, being party officials on the record on an official channel, and it should be retried. The command is in the corpus README; check the resulting file size rather than the exit status, because a failed run leaves a zero-byte part file.
+- ~~**The attorneys general press conference**, still unobtained.~~ **OBTAINED 2026-08-20 and no longer excluded**, by hosted ASR on a **different recording of the same event**. This bullet was the second of two places this file described that item, and it was missed when the other was corrected on 2026-08-18, which is the same one-fact-two-homes defect the audits below keep naming. What it said is also wrong twice over: the 1 hour 47 minutes was the live stream and the published archive is 23:26, and the official channel's version **omits the entire Q&A**, which is where the answer was. See the third addendum.
 - **Any change to the scorecard.** The seven brake-integrity criteria are held in lockstep with section 3 of the policy paper, and there is an open revision proposal. Nothing in this research bears on them, and the standard moves only when the paper does.
 
 ---
@@ -1049,6 +1049,25 @@ Worth noting what it would have been worth if it had worked. Automatic captions 
 and this corpus's own rule is that a `CAPTION-ASR` claim is **never** publishable. It would have
 been a pointer, useful mainly for asking whether the AGs said "$200 billion" out loud, and then the
 transcript would still have had to settle it.
+
+> **Third correction, 2026-08-20, and the mechanism was right for the third time while the
+> conclusion was wrong for the third time.** `live_status` did reach `was_live` exactly as predicted,
+> and the video then reported **no captions at all**: the advertised track was provisional and did
+> not survive processing. So waiting was never going to work, and the diagnosis that made waiting
+> look rational was correct about YouTube and irrelevant to the outcome.
+>
+> **The thing none of the three passes did was ask whether this was the only recording of the
+> event.** It was not. The California Department of Justice published 23:26 that ends on the words
+> inviting questions; PBS NewsHour published 52:20 of the same press conference including the whole
+> Q&A. Every retry above was aimed at a truncated video, and the reason is worth stating plainly:
+> **the official channel was treated as the best source, and best was silently read as most
+> complete.** Those are different properties. One search sorted by duration would have found it on
+> day one.
+>
+> The transcript answered what this section says only Dkt 540 could: at 32:24 a Reuters reporter
+> asked the AGs about both figures, and the answer is now claims 22d to 22h of the MDL ledger. It
+> did not need the $200 billion question settled by a hearing transcript after all, because the
+> attorneys general answered it at a podium.
 
 ## The second audit, 2026-08-18 late
 

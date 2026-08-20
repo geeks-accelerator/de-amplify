@@ -66,7 +66,7 @@ const FAQ_JSON_LD = {
       name: "What is the $1.4 trillion figure in the Meta lawsuit?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It is Meta's own estimate, disclosed in a July 2026 filing, of its theoretical maximum statutory exposure under four states' proposed penalty counting (a per-violation maximum times a very large count of violations). Meta calls the demanded remedies entirely unmoored. It is a requested worst-case ceiling, not a judgment, a settlement, or an amount any court has endorsed.",
+        text: "It is Meta's own estimate, disclosed in a July 2026 filing, of its theoretical maximum statutory exposure under four states' proposed penalty counting (a per-violation maximum times a very large count of violations). Meta calls the demanded remedies entirely unmoored. It is a ceiling Meta itself computed, not an amount the states have asked for: their own reply of July 13, 2026 states no total and says they will present final requests for monetary relief at trial. It is not a judgment, a settlement, or an amount any court has endorsed.",
       },
     },
     {

@@ -1,0 +1,807 @@
+ASR TRANSCRIPT. NOT A VERBATIM RECORD. DO NOT QUOTE FROM THIS FILE.
+================================================================================
+
+WHAT THIS IS
+  Machine transcription of the press conference held by three state attorneys
+  general on 2026-08-18, following the first day of the state AGs' trial against
+  Meta in MDL 3047 (Oakland). Produced 2026-08-20 by AssemblyAI (speaker
+  diarization on, en_us), from the audio of the PBS NewsHour recording of the
+  event, YouTube id KWppdXmS9Us, duration 52:20.
+
+WHY THE PBS RECORDING AND NOT THE OFFICIAL ONE, WHICH IS THE FINDING
+  The California Department of Justice, whose office held the conference, posted
+  the event on its own channel (id N3FvvwxW64w) at 23:26. That version ends on
+  a closing thanks and an invitation to take questions, and then stops: the
+  ENTIRE question-and-answer session is absent from the official record of the
+  event. (Paraphrased rather than quoted, deliberately. The words are known to
+  this project only through ASR, and a file headed DO NOT QUOTE should not open
+  by quoting.)
+  Third-party recordings of the same press conference are longer, and the two
+  longest carry the Q&A in full:
+
+    PBS NewsHour     KWppdXmS9Us   52:20   <- transcribed here
+    Fox News         SpYL8gj1mhg   50:41
+    KTVU FOX 2 SF    o1gjjESzabg   32:36
+    Forbes           VIJF_-HYbAw   23:26   (same cut as the official one)
+    CA DOJ           N3FvvwxW64w   23:26   (the official channel)
+
+  So on this event the official government channel published the shortest cut in
+  the field, and everything of evidentiary interest is in the 29 minutes it does
+  not contain. An official channel is not automatically the fullest record, and
+  on this occasion checking only the official channel would have missed the
+  answer entirely.
+
+TIER: CAPTION-ASR. THIS IS THE CEILING AND IT DOES NOT MOVE.
+  Every word below is a machine's guess at an acoustic signal. High confidence
+  means the model matched a sound, never that the fact is right, and never that
+  the speaker attribution is right. This file exists as a POINTER: it tells you
+  what to go and verify, and where in the recording to look. It is registered
+  nowhere in npm run check:quotes and cannot be: scripts/check-quotes.mjs
+  refuses any source whose filename ends -asr.txt, so a future pass cannot
+  quietly verify a quotation against a machine transcription and get a green
+  check. Nothing in this file may be set in quotation marks and attributed to a
+  named person on any page of this site.
+
+CORROBORATION, WHICH IS THE ONLY REASON THE KEY PASSAGE IS USABLE AT ALL
+  The load-bearing passage below (the money exchange at 32:24 to 34:59) was
+  independently transcribed by THREE systems that share no pipeline:
+    1. AssemblyAI, from the PBS audio               (this file)
+    2. The caption track PBS uploaded to YouTube    (pbs, "subtitles" not "auto")
+    3. YouTube's own automatic captions on the Fox News recording
+  All three render "we are not asking for $1.4 trillion" and "$200 billion of
+  revenue per year". AssemblyAI's per-word confidence across that passage is
+  above 0.99 on every figure and on every word of both disclaimers.
+
+  A CAUTION THAT COST THIS PROJECT A DOCUMENTED HEURISTIC. Source 2 above is
+  listed by yt-dlp under "subtitles" rather than "automatic captions", which
+  this repository previously treated as the test for a human-authored track.
+  It is not. That uploaded track renders Bonta's "and the Attorney General from
+  New Jersey, Jennifer Davenport" as "I'm the attorney general from New Jersey"
+  (Bonta is California's AG) and opens with a stray "I". It is machine output
+  that a broadcaster uploaded. "Subtitles" describes how a track was ATTACHED,
+  not who wrote it. AssemblyAI is more accurate than the "manual" track here.
+
+SPEAKER LABELS ARE DIARIZED, WHICH IS MACHINE ATTRIBUTION
+  The names below are this project's reading of the diarization, anchored on
+  self-identification and on how each speaker is addressed. They are NOT
+  verified by eye against the video. This repository has put a witness's line in
+  a senator's mouth before, on a check that passed, so treat every name here as
+  a hypothesis to confirm against the recording before relying on it.
+
+    A -> BONTA (California AG, self-identified at 00:05)
+    B -> WEISER (Colorado AG, addressed as such at 10:37)
+    D -> DAVENPORT (New Jersey AG, addressed as such at 19:45)
+    C -> REPORTER (various; several self-identify by name and outlet)
+
+  Note that D and C are not in alphabetical order of appearance. That is the
+  diarizer's own labelling and it has been left exactly as returned.
+
+STATISTICS AS RETURNED
+  duration 3140s   words 7726   utterances 56   speakers 4
+  overall confidence 0.974739   words below 0.70 confidence: 196
+
+REPRODUCING IT
+  yt-dlp -f bestaudio -o pbs.webm "https://www.youtube.com/watch?v=KWppdXmS9Us"
+  then POST to AssemblyAI /v2/transcript with speaker_labels true, language_code
+  en_us. The full JSON response, which carries per-word timings and confidences,
+  was not committed: it is 1.5 MB of machine output and this rendering carries
+  what a reader needs. Re-run the two commands to regenerate it.
+
+================================================================================
+
+[00:05] A (BONTA):
+Good afternoon, everyone. I'm Rob Bonta, California Attorney General. Thank
+you for being here in Oakland. And I want to in particular thank my incredible
+colleagues, Attorney General from Colorado Phil Weiser and the Attorney
+General from New Jersey Jennifer Davenport, for being here, for making the
+trip to be part of this first day of trial. I am grateful that we have an
+incredible collaborative team. We have another member of the team who wasn't
+able to make it today, but I want to thank him for his participation and his
+support. That's Kentucky Attorney General Coleman. But his team is here. And I
+was recently in our war room with our team members, and we had team members
+from each of our states here, from Colorado, New Jersey, California, Kentucky,
+as well as some other states. And I want to just lift up the collaborative
+effort which this case is. We are the 4 states that are part of this, what we
+call a bellwether case. But there are 29 states, bipartisan across the
+country, who are standing up for families, for parents, of course, for
+children, for consumers. And I'm proud to be part of that collaboration. So we
+are teaming up here in our efforts to hold Meta Accountable. Today, of course,
+was the first day of trial. It'll be a 5 to 7 week trial, but today both the
+attorneys general and Meta laid out our cases. And I'm probably biased, but I
+found our case to be incredibly compelling, devastating in the presentation.
+The jury seemed very focused on hanging on every word that was being said. And
+we, of course, heard from the first witness. a whistleblower engineer from
+Meta who was in charge of child safety while there, who talked about the fact
+that Meta knew the harms that it was visiting upon children but failed to act.
+He also talked about their, their motto, their culture, if you will, which was
+to move fast and break things. Unfortunately, the thing that was broken here
+was the mental health of our children. And so I'm grateful to have the
+opportunity to be here. We laid out our case today, which is essentially this,
+that Meta has designed and deployed dangerous product, a dangerous product
+with dangerous features that they knew would create excessive use and
+compulsive use by children. And it would create mental health harms, including
+things like anxiety and depression, like body image issues, like addictive
+tendencies, like learning loss. They knew all that. They knew their product
+was dangerous, and they lied to the public. They lied to Congress. They told
+the public, they told the world that their product was safe, that it wasn't
+dangerous. And so their deception, their lies are at the core of our case. And
+we are excited about how our first day at trial went. We're excited about the
+opportunity to hold Meta accountable for its conduct. And we look forward to
+taking this case all the way to the end here and getting the appropriate
+remedies, both injunctive relief, changes in behavior, changes in business
+practices going forward, as well as the appropriate financial penalties. A
+couple things I want to highlight between our investigation and our, um, and
+disclosures from former insiders, whistleblowers, folks who used to work at
+Meta. We have proof that Meta knows. Meta knows that Instagram is harmful to a
+significant percentage of teenagers, especially teen girls. Meta knows that.
+Meta knows that more than 13% of teen girls on Instagram say the platform
+makes thoughts of suicide and self-injury worse. Meta knows that. They know
+that 70%— 17% say it makes eating issues worse, and 32% say it makes body
+images worse. Meta knows that. Meta knows that certain key features can push
+users into harmful content. Meta knows That the like button leads teens to
+compulsively engage with the platform. Meta knew all of that and more and
+decided to do more of it, to dig in deeper, to double down on that conduct, on
+those practices. Mark Zuckerberg, founder, chairman, CEO of Meta, personally,
+personally axed Meta's proposed policy to ban image filters that simulated the
+effects of plastic surgery, despite internal pushback from his own team. His
+own employees were telling him he shouldn't do this, and an expert consensus
+that such filters harm users' mental health, especially women. And girls. Mr.
+Zuckerberg himself chose profits over the safety of children. He was presented
+with a choice where his own staff was telling him, this will hurt kids if you
+do it, we think you shouldn't do it. And he overruled them and said, do it,
+knowingly harming kids. And then later telling the world that their product
+was safe. The company had internal discussions about the negative impacts of
+the like button, but they decided to keep it anyway. Again, they chose profits
+over the safety of children. At the same time, the company affirmatively
+misled teens, it misled their parents and the public about the safety of its
+platforms for young users, and concealed the ways in which Instagram and
+Facebook exploit and manipulate its most vulnerable consumers, teenagers and
+children. Zuckerberg testified to Congress that Meta doesn't design its
+products to be addictive, that Instagram does not harm children. Instagram
+President Adam Mosseri testified to Congress that Instagram is not addictive.
+These and other statements by the companies were picked up in the media. They
+were relied on by teens, but relied on by their parents, and relied on by the
+community at large. Our investigation even found instances where the company
+acknowledged internally that it had misled the public. I'm glad that they
+acknowledged that fact, that they misled the public. Meta's conduct is
+deceptive. It is dangerous, and As we make clear in our lawsuit, and as is
+most important in a court of law, it is illegal. The company had a legal, not
+to mention a moral, obligation to consider the safety of young users when
+designing their products. The data is clear: more time on social media tends
+to be correlated with depression and anxiety, body image issues,
+susceptibility to addiction, and interference with daily life, including
+learning. If you're a parent like I am, or a guardian, a teacher, a healthcare
+provider, sadly, you have likely seen some of this play out in your own life,
+in real life. Parents and caregivers protect children from so many daily
+dangers, as we should, making sure our children wear a seatbelt, Keeping a
+close eye on kids around water. If you have a baby, cutting food like a
+blueberry down into a small enough piece so it doesn't choke the baby. But we
+cannot adequately protect our children from the harms of Instagram and
+Facebook when the company, one of the largest, richest, most powerful
+companies on the face of the earth, lies to us and hides the truth and designs
+these platforms to drive compulsive use while lying to your face and telling
+you it's safe. Parents cannot do their job if they're being lied to. Teens,
+parents, the community, the public deserve the truth. You should not be lied
+to. You deserve better than that. As Attorney General of the greatest state in
+the nation— sorry to my colleagues, they can and they should say the same
+thing about their states— but the state where Meta has made its home and has
+done very, very well for itself. I'm proud to co-lead this national fight to
+demand accountability and to demand justice. This is about our children, the
+next generation, our kids. They deserve to be safe. And Meta has acted
+unlawfully here. We are here to hold them accountable. We look forward to
+Continuing our trial and bringing our case forward. Before I turn it over to
+my colleagues to make a few remarks, I want to thank the individuals on my
+team who have given so much of their time, their energy, their passion, their
+talent, their skills to bring this case to court today. Watching our team
+present the case, talking to them in the war room, I couldn't be more proud to
+be their colleague, to be on their team. to be part of their team fighting for
+the safety of our kids and our children. They don't do it for the limelight,
+so I'm about to embarrass them, but I want to thank them, and they deserve
+this recognition, so I want to say some of their names. Megan O'Neill, who
+delivered an incredible opening statement. Joshua Leshevsky, Jubilier. Neha
+Arora. Casey Reed. Sam Beckett, Pauline Ryan, Jordy Hefcart, David Beglin,
+Jake Fernandez, Robbie Mattson, Michelle Kosang, Emily Kalanithi, Barney
+Eskandari, Tina Charanpong, and Nick Akers. An incredible team doing
+incredible work, all, each and every one of them, to the person, true and
+great public servants. With that, I am happy to turn it over to my incredible
+colleague from Colorado, Attorney General Phil Weiser.
+
+[10:37] B (WEISER):
+Thank you, AG Bonta. Thank all of you for being here. In the courtroom today,
+I saw a friend of mine, Lori Schott. Lori Schott is in a club that none of us
+would want to belong, and she was there with some others in that same club.
+Parents who've lost kids who've died by suicide after sustained exposure and
+engagement on social media platforms. Anna Schott was a beautiful little girl
+who loved her life on the Eastern Plains of Colorado, who spent hours and
+hours and hours on Instagram and had a social media addiction watching videos
+that harmed her. The information that she received included guidance not to
+talk to her parents about her mental health because her parents would
+institutionalize her. Anna is no longer with us. She died by suicide. And
+Lori, through that pain, has found purpose. Purpose to stand for other kids
+and families by calling for accountability of social media platforms that are
+harming our kids and fueling a youth mental health crisis. There are now a
+generation of kids who have lost sleep because of notifications and alerts all
+hours of the night, who performed Less well in school because they were
+distracted and tired, and even kids like Anna who died by suicide. This social
+media fueled youth mental health crisis demands action, and I am proud to be
+with a coalition of state AGs coast to coast from both political parties in
+court. In the case that will provide meaningful relief and address these
+harms. The way that Meta has managed Instagram and Facebook has been, as AG
+Bonta described, deceptive. It's been wrongful and it's been illegal. It has
+ended lives like Anna's. It has harmed families like Lori's. It has hurt
+communities. It's prevented kids from thriving and damaged a generation of
+young people. In the midst of this crisis, the AG community is stepping up.
+All of us united on a bipartisan basis to take on the goal based on the
+following observation: that our kids deserve better. That we can do better. We
+can address this mental health crisis, including by making sure families know
+the truth about social media, by making sure the types of actions and features
+that were talked about today are addressed, because our young people's both
+mental health and physical health has been compromised. We filed this case
+nearly 3 years ago. Because we believed Meta was putting profits ahead of our
+kids' health. We're now presenting the evidence to make this case in a court
+of law. This is an historic trial that will provide the public an opportunity
+to learn just how Meta's actions broke state consumer protection law and the
+Children's Online Privacy Protection Act. Known as COPPA. The public is going
+to hear about how Meta profited from our kids' information and engagement on
+the platform. Meta knew that its business strategy was harming kids and that
+sustained engagement on this platform correlated and caused worse mental
+health. They told the public the opposite. When you compare what they knew
+privately with what they said publicly, it's a stark contrast. The reason that
+they deceived the public is because to come clean and to take steps to limit
+kids' access to social media would hurt their bottom line. The company worked
+to build a customer base, recognizing the value of young kids, even those
+under 13, who they signed up and kept on the platform without the legally
+required consent of their parents. And those kids were harmed because of that
+sustained involvement. Meta's approach was to view these young kids as, and I
+quote here, a valuable and untapped market. And the addictive features they
+had, like notifications and alerts, were designed and maintained to keep those
+kids hooked on this platform. Other features like the infinite scroll, they
+were designed for a very clear purpose: keeping kids engaged. And the efforts
+that Meta made to give kids an off-ramp, as was said in court today, were too
+little and too late. And the harm— less sleep, distracted kids, kids with
+worse mental health remains alarming and a call to action. The fact that Meta
+downplayed these risks and deceived the public violates consumer protection
+law. The fact that they marketed to young people under 13, kept them on the
+platform even knowing their actual ages. Violates COPPA. The extensive harms,
+as AG Bonta noted, are not only lives that were lost like Anna, but a range of
+mental health harms ranging from anxiety and depression, loneliness, lack of
+sleep, body image problems, eating disorders, and physical harm. Meta knew
+this was all happening. And yet they kept young people hooked because for
+them, less time online was less money in the pockets. The policies that Meta
+is now starting to talk about are basically relying on young people accurately
+reporting their ages. And as said in court today, when young people put in
+their actual birthdate under 13 years of old, Meta doesn't remove them from
+the platform. Meta prompts them to put in a different date. These efforts are
+so easily overcome that they're not meaningful steps. And to say that parents
+should have been doing more frankly offends me as a parent because parents
+have been told now for some time there's nothing to worry about. Meta hasn't
+shared the truth. That remained kept from the public. There were several
+efforts to keep this case from a courtroom, starting in 2025 when Meta sought
+to dismiss this case, and the court has allowed these claims to proceed. There
+was then an effort to go to the Court of Appeals, and the Ninth Circuit
+refused to stay the trial, and that brings us here today. Today, we are asking
+the court to hold Meta accountable to stop its unlawful practices and to
+require the company to follow laws that protect kids and consumers and the
+public health. Just like a generation ago with big tobacco, Meta, like other
+social media platforms, has engaged in behavior to maximize its profits while
+harming the public health. With this trial, we're sending an important
+message. Powerful technology companies must follow the law, and if they don't,
+we will hold them to account. I join the thanks and appreciation of AG Bonta
+of the incredible team that's worked on this case, including a number of
+lawyers from Colorado who are out here and will be here for the weeks ahead to
+put on a very complicated case. It's worth noting that the states are not
+hiring an outside law firm. But it's our lawyers up against some of the
+highest-priced legal talent that money can buy because we believe in our team,
+because we believe in our case, and we know that we're better together. I now
+introduce another fabulous part of this team, my colleague and friend, New
+Jersey Attorney General Jen Davenport.
+
+[19:45] D (DAVENPORT):
+Thank you, General Weiser. As is said, today a landmark trial began and we're
+one step closer towards shutting the door on an era, an era in which big
+tech's engineering schemes harm our kids without consequences. Today, as
+you've heard, my colleagues and I stood out in court representing a bipartisan
+group of state attorneys general describing to a judge and a jury the tragic
+effects of how these online platforms work and how they're designed. And as
+the mother of 2 daughters, 12 and 14, I felt sick. I felt sick when I read the
+effects of Meta's Instagram features on still-developing children, including
+pro-anorexia content and algorithms that if you view content about self-harm,
+lead the platform to deliver even more content about self-harm. And beyond
+that, discussions among executives about how to make all of this even more
+readily available to children under 13. I'm disgusted. I'm angry. We all
+should be angry. As parents and as trusted adults, we decide whether a social
+media platform is appropriate for our kids, but we can only do that well and
+appropriately when we have truth and facts, not deceptive advertising or lies
+about safety. A trillion-dollar tech company like Meta is risking our kids'
+mental health and physical safety. Our data and our children's data are being
+fed into their addictive algorithms to help further increase their profits,
+and they've lied to us about the safety of their platforms. Including how they
+exploit the vulnerabilities of young children and teens. Nothing is more
+important than our kids' well-being. And there's no world in which our kids'
+well-being should be sacrificed or exploited to help reap ever greater profits
+for big tech. New Jersey has been so proud to co-lead this nearly nationwide
+effort for more than 5 years. So proud to work alongside our colleagues in
+California, Colorado, and Kentucky in litigating this case. Our coalition of
+states understands the need to address the harm companies like Meta are
+causing our children, and today builds on years of hard work on investigation
+by dedicated public servants, not only on our team but across the country.
+From New Jersey, I want to recognize the entire team and specifically mention
+Kosh Chan, Tom Howin, Brian McDonough, Vernon— sorry, Verna Pratizay, Mandy
+Wong, Patrick Masol, and Eva Zovkov, along with many others. The opening of
+trial today sends a necessary message to companies that would treat our kids
+as nothing more than data to be monetized. We won't let this happen. Change
+your ways or face legal accountability for your actions. As public servants,
+we all stand up every single day to protect public safety. And in New Jersey,
+we will always protect the safety of our kids. I'll now turn it back to AG
+Bonta.
+
+[23:17] A (BONTA):
+Well, thank you once again. Very proud and pleased to be part of this
+incredible team bringing this landmark case. We're happy to answer any
+questions. I do want to say there might be some questions about California
+news of the day or other things that are off topic. I will make myself
+available for pull-asides if there are any of those questions. Let's try to
+keep these questions you're about to ask on topic about this case and this
+trial. With that, we're happy to answer your questions. Yeah.
+
+[23:49] C (REPORTER):
+Nathan Franio with Reuters.
+
+[23:51] D (DAVENPORT):
+What are some of the—
+
+[23:52] C (REPORTER):
+what's your understanding of the practical and financial effects on Meta of,
+you know, potentially owing tens of billions of dollars in penalties for, you
+know, there are a number of services that aren't directly being challenged
+here, like WhatsApp, or that aren't directly building on Instagram and the
+Meta main Facebook Meta platform.
+
+[24:16] A (BONTA):
+Well, if you're asking about the remedies that we're seeking and what kind of
+impact that might have, let me tell you about what those might be. We're
+definitely, as we talked about today in trial in our case, looking to some—
+for some what we call injunctive relief, business practices being changed in
+the future, one of which is stop lying, stop deceiving the public. But also,
+we are looking for some changes in those underlying features, products,
+product features that lead to the obsessive, excessive, compulsive behaviors
+that Meta knew about and designed their products to create. Things like
+autoplay and infinite scroll and likes and beeps and alerts and algorithmic
+feed and others. So We're looking for some changes in business practices, and
+of course, along with our case, should we be successful, and we believe we
+will, there is the possibility for financial payment by Meta for civil
+penalties, for disgorgement, for restitution. This is not a case about
+damages, and the judge will decide what that is, and we leave it to the judge
+in her best discretion to determine an appropriate financial. penalty
+disgorgement and restitution. Anything to add?
+
+[25:39] B (WEISER):
+I would just add that it's really important as part of accountability to have
+meaningful and effective remedies. And in that case, in this case, that
+includes serious civil penalties as well.
+
+[26:00] C (REPORTER):
+They told the jury that you're alleging the harm, but that you aren't having
+any children who have been harmed come up and share their stories. And so can
+you respond to that, and why?
+
+[26:15] A (BONTA):
+I think they're stuck in some improper legal regime that they're mapping onto
+this case when it doesn't fit. They seem to be tort attorneys trying to make a
+trying to think— thinking this is a tort case. This is a case about deception
+at its core, lying. This is an unfair competition law case in California about
+having a practice that was knowingly dangerous and doubling down on it and
+lying to the public. So their point is literally irrelevant. I know they want
+to talk about that. They're just missing the mark. So we do not plan— it's
+true that we're not planning to bring parents or children to testify in this
+case to talk about the specific harm. We will see Meta's own internal studies
+that show that they knew the fact that their products created mental health
+harm on children. So it seems like— a little bit of a lawyer's technicality
+trick to suggest that even though Meta admits that their product creates harm,
+visits harm on children, creates anxiety, creates depression, creates body
+image challenges, creates addictive tendencies, creates learning loss, that
+because a kid doesn't take the stand and say that, it's not true. They know
+it's true. It's not disputed. It's indisputable. So it's, it's more of the
+deception that we've seen from Meta. Their attorneys seem to be adopting it as
+well. talking about things that aren't relevant to the case, distracting and
+talking about irrelevant issues. So we're confident in our case. We have set
+forth in our opening all of the elements of a very strong, compelling case
+that meets all the legal requirements. We look forward to continuing to have
+our witnesses testify.
+
+[28:10] C (REPORTER):
+Mr. Monta, will Mr. Zuckerberg testify at this trial?
+
+[28:16] A (BONTA):
+Unknown at this point. Of course, he's testified in other trials. I think he
+testified in Los Angeles in that trial that Meta lost. I think he testified in
+New Mexico in that trial that Meta lost. I'm not sure if he testified in
+Tennessee. Meta has not lost that trial yet, but I think they will. So
+unknown. We're gonna— we have all sorts of evidence, witnesses, including
+whistleblowers, former employees, studies from Meta. experts and others that
+can make a very compelling case. Whether Mr. Zuckerberg is part of those who
+testify as a witness in this case is still TBD.
+
+[28:54] C (REPORTER):
+Would you like to see him on the stand?
+
+[28:57] A (BONTA):
+I don't have a personal preference. I want us to bring the strongest case that
+we have, advance our evidence. We have an enormous amount of it that can be
+told in many different ways. on many different days. I look forward to our
+team doing that. Mr. Behar, yes, I think he stood out in many ways. He'll be
+our first witness tomorrow as well. He's not done with his testimony, but I, I
+thought he covered a lot of bases in his testimony. One, he's a whistleblower.
+He worked for Meta at the highest levels. He met with Mr. Zuckerberg over 100
+times in his own testimony. He has a very compelling story, someone who grew
+up in Mexico, taught himself how to code, got this incredible scholarship and
+opportunity to go study and contribute to the innovative economy. And he, from
+as a perceiving witness, had a lot of experience as to the approaches that
+Meta had this idea that they should move fast and break things, meaning
+they're not doing all they can to keep kids safe. They're moving fast. They're
+not taking those steps. They're breaking things like the mental health of
+kids. I thought that was particularly compelling, very insightful. He also
+talked about his own experience as a parent and his own daughter who I think
+was on Instagram or another social media platform who was getting sexual
+content sent to her, sexual images, sexual overtures. And he struggled as a
+parent to know how to deal with that. And he also knew that those in charge,
+if she was looking at Instagram and if I'm recalling that correctly, were not
+doing enough to protect his own daughter. He was linking the dots as both a
+victim and someone who had percipient knowledge of of the lack of action that
+was being taken by Meta to keep him— to keep his own daughter safe. So, you
+know, as a non-retained expert, if you will, as a parent, as someone with
+inside knowledge about how Meta operated, or, you know, in terms of addressing
+the mental health harms to kids, not operating and not acting, I thought he
+was incredibly compelling and was a great way to start the case.
+
+[31:16] C (REPORTER):
+Just a quick clarification on a previous question. The judge indicated that
+Mark Zuckerberg would be testifying likely. Is he going to testify?
+
+[31:25] A (BONTA):
+He may testify. That is a completely available avenue. Whether he does in the
+end, unsure. I think both— I think the defendant's defense counsel, Meta's
+counsel, said he was going to testify in their opening statements. The judge
+may have as well. It's a 5 to 7 week trial. We're not sure. But it is what's
+going to happen. But it's very possible that he will testify. It's also
+possible he won't.
+
+[31:48] C (REPORTER):
+Would he plan to call him?
+
+[31:50] A (BONTA):
+It's possible.
+
+[31:52] C (REPORTER):
+What is the bar for that? At what point would you decide to call him?
+
+[31:55] A (BONTA):
+Look, we got a great trial team. We discuss strategy, witness order, what we
+want to focus on, what we want to respond to, what motions we're going to
+bring, often in real time each day. Whether and when and if Mr. Zuckerberg
+testifies will be part of those discussions.
+
+[32:11] C (REPORTER):
+Do you have an opinion on how he would, as a person, fit with this jury? Do
+you think he'd help your case?
+
+[32:18] A (BONTA):
+That's the same question that I got asked before. Thank you for asking it
+again. Okay, let me ask you this about damages.
+
+[32:24] C (REPORTER):
+We've heard $1.4 trillion bandied about. We've also heard $200 billion. Why is
+there such a wide range? Do the states have a number in mind at this point?
+
+[32:34] A (BONTA):
+You should ask Meta that question. They're the ones who put out the $1.4
+trillion number. I think they want to suggest that they're the victims, that
+they are being financially imposed on. We submitted documentation to the
+court, both parties did, around the number of young users and what the civil
+penalties would be. Meta took it upon themselves to start talking to the press
+about the highest possible number that could ever be calculated based on that
+data. That's not something that we asked for. That's not something we're
+seeking. We leave it to the judge who will decide, who has vast discretion to
+determine the final amount of financial payment by Meta. And I want to be
+clear, this is not a damages case. And you used the word, and I think you just
+meant financial payment. But I want to be clear, this is about civil
+penalties, restitution, and disgorgement. That's it. Not damages. This is not
+a damages case. And to be clear, we are not asking for $1.4 trillion. I do
+want to be clear about who the victims are here. Meta is not the victim.
+Meta's the perpetrator. The kids, the families, the parents, those who no
+longer have the benefit of a loved one in their life because that kid killed
+themselves because of the mental health harms visited upon them by Instagram
+and Facebook, those are the victims. Meta is not the victim. I also want to
+talk about The choices, the financial choices that have been made here. Meta
+made the choice to choose profit over children's safety and health time and
+time again. They're the ones raking in $200 billion of revenue per year.
+They're not the victim. They're not being financially imposed on. We will be
+asking for a significant financial payment in the form of disgorgement,
+restitution, and civil penalties. That is an important and appropriate part of
+this case. The judge will exercise the discretion as to what that will be. It
+will not be, and we are not asking for it to be, $1.4 trillion.
+
+[34:38] C (REPORTER):
+Now, is this a figure that you estimated, and then you're saying Meta took
+that figure and said, oh, see, we were asking for the most?
+
+[34:46] A (BONTA):
+It's a figure Meta estimated based on the number of young users and calculate,
+multiplied by the penalty, the penalties available under the unfair
+competition laws at issue in this case.
+
+[34:59] C (REPORTER):
+In the opening statements by the Meta side, they seem to, they didn't deny
+that any of these sort of internal communications that they had or internal
+studies that they did pointed out some of the various risks and harms. That
+seems that they're basically trying to make a case The fact that we were
+trying to remedy these deficiencies shows that you don't have the data as
+AEDs, right? You can learn it more than you can do the work on it. And it's a
+work in progress. How do you respond to that?
+
+[35:31] A (BONTA):
+I think a work in progress is the best you can call these, what we've
+described, I think accurately, as tissue paper protocols or actions. This idea
+that, you know, you have some tool that they want to point to that they say is
+a work in progress, that a kid with the swipe of a finger can bypass. I think
+that's all you really need to know about what they were saying. That's that,
+you know, they are framing it in the light most favorable to them, and the
+best they can say is that it's a work in progress. And, you know, one of the
+first 2 things that they said was, you know, they said that teens have a
+problem managing their time. They were trying to lay this on the teens. And,
+you know, don't mind the fact that they were literally studying young people's
+brains. To see how they operate, knowing that they react to rewards and
+affirmation, designing their products to hook them because their brains work
+like that. And then they're saying, you know, sometimes kids just, they can't
+manage their time. Maybe they're on social media too long. That's your best
+argument? They also said that, you know, sometimes those younger than 13, they
+lie about their age. So Meta, one of the most sophisticated, most powerful,
+wealthiest businesses on the face of the earth is getting outsmarted by 11 and
+12-year-olds and can't figure out that they're on their platform and
+deplatform them. Why? They want them on their platform. They said that 10, 11,
+and 12-year-olds are special. They say the young ones are the best ones. They
+want to maximize teen time spent. That's what they want. So they turn a blind
+eye to all of the 11, 12-year-olds that are on their platform. They pretend
+they can't do anything about it. And then they blame them for not managing
+their time. I mean, the, the gall to come in and blame the kids, the victims
+who they are harming, as the ones responsible. I think they got off on a
+pretty slow foot today. Just my humble opinion. Anything you want to add?
+
+[37:31] B (WEISER):
+Yeah, I want to add 2 points. First, As was said, their responses were too
+little and too late. And second, look how little impact their measures had.
+Their measures have not decreased the engagement, the amount of time, the
+nature of the addiction. And the fact that these measures are tissue paper
+measures or half measures is all you need to know.
+
+[38:00] D (DAVENPORT):
+And the one thing I'll add to that, as you heard from the first— the witness
+today, Mr. Veyar, and you'll hear more, is what are they measuring? Pay
+attention to that. What are they measuring? How do they define it? And is it
+really a measure in order to hurt folks? Is it a measure to make sure that
+they're increasing their profits?
+
+[38:25] C (REPORTER):
+What do you see as being the most important feature of Meta's business that
+needs to change? Is it getting kids under 13 off the platform? Is it Infinite
+Scroll? Beyond the money, what, what is the most important priority for each
+of you to see helping change practice?
+
+[38:41] B (WEISER):
+There are 3, and I'm not sure I can choose. First, stop the deception. They
+know the truth. Tell the truth. We have a youth mental health crisis that is
+fueled by extensive social media engagement that includes dangerous content.
+They've downplayed this harm. They need to come clean. Number two, they're
+deliberately keeping people addicted. These notifications and alerts during
+the school day, all hours of the night, is wrong. It's harming our kids. We
+need to do better for our kids. And third, we need young kids, those special
+10, 11, and 12-year-olds, not to be engaged on this platform without their
+parents' consent or knowledge. So I don't know I can choose between those 3
+goals, but those are my top 3.
+
+[39:36] D (DAVENPORT):
+I echo that. And I think what's really— if you think about Allow people to
+make choices based on information that is true, and it goes to that first
+point. Right? We just like we have with the jury.
+
+[39:53] B (WEISER):
+Right?
+
+[39:53] D (DAVENPORT):
+We we juries are amazing because they think about the issues and they're able
+to take that information and make a decision. That's what we want to have here
+for parents and for trusted adults: make decisions based on facts and not lies
+and deception.
+
+[40:10] C (REPORTER):
+Yeah.
+
+[40:11] A (BONTA):
+It's a tough question, because everything that we've advanced here is very
+important. But I would first say, stop lying, stop misrepresenting, stop
+deceiving the public. That's top of mind. For goodness' sake, please comply
+with the federal law that is clear around our youngest children. Stop
+collecting and using the data of 11- and 12-year-olds. Stop targeting them.
+Stop Stop pretending that you're not targeting them. Stop pretending that
+they're not on your platform. Don't let them on your platform ever. And stop
+collecting their data. And then, you know, there's a whole constellation of
+features that they've designed to take advantage of the vulnerable young brain
+to maximize frequency and duration of use on the platform. to make kids
+continue to always wanna come back. The ephemeral content, the disappearing
+content like Instagram Stories, the autoplay and infinite scroll where you can
+start at one time and look up and it's 3 hours later. It does that by design.
+That's not the individual that's responsible for that. It is being used
+exactly the way it's supposed to be. So, you know, between all the features,
+it's hard to pick. But, you know, the lying and the deceiving has to stop, and
+the taking advantage of kids' brains and then lying about it in a way that's
+so dangerous needs to stop as well.
+
+[41:44] C (REPORTER):
+Because of that, as rivals aren't involved in this case, like, how are you
+planning on communicating when you design changes? They couldn't necessarily
+do that. It would be unfair for the platforms at that stage to analyze
+specific cases.
+
+[41:58] A (BONTA):
+Let me be clear that this is an industry-wide problem. This idea of designing
+and deploying dangerous features, some of these, they're not unique. TikTok
+uses a lot of the same ones in different variations. We have a lawsuit now
+against TikTok. So just to be clear, I think over 40 states across the country
+already have pending lawsuits now against TikTok. Meta is in trial now. So
+they're, they're first in time in terms of going to trial, but TikTok will
+have its day in court as well. I'll speak for myself. I'm also concerned about
+YouTube as well as Snap. And so Meta has, you know, as part of their
+self-victimism or, you know, calling themselves the victim, has, has also
+said, you know, they're picking on us. You know, I guess, I guess we're the
+bullies now and they're the victim after harming all these kids for so long.
+But we are interested in an industry-wide solution. So many of the things that
+we're asking of Meta, we would likely ask with respect to TikTok. And we're
+hoping for some industry-wide solutions.
+
+[43:03] B (WEISER):
+If we had a functioning United States Congress, they would be passing
+legislation that would be industry-wide protecting kids. But Congress is not
+functioning. A bipartisan coalition of AGs are functioning. We are committed
+to what AG Bonta said, industry-wide relief across the companies he named that
+protect kids. It will not be an acceptable outcome if we, as I believe we
+will, prevail and have a meaningful set of remedies imposed on Meta, but
+TikTok is free to do what we just went into court to stop Meta from doing.
+Just take that obvious example. So I agree with the premise of your question.
+This is not only Meta, but it is Meta. We're addressing Meta now. We're
+committed to addressing this issue across the industry. And maybe someday
+Congress will be functional enough to pass a federal law to do the same.
+
+[43:59] A (BONTA):
+Any other questions?
+
+[44:09] C (REPORTER):
+Why Meta?
+
+[44:10] A (BONTA):
+Yeah, someone's got to be first. You know, we started our investigation back
+in 2023. I think TikTok not far behind. So honestly, it's random. There's
+nothing specifically about Meta. You know, there was some important
+information about Meta that was coming to light. Whistleblowers like Frances
+Haugen and others testifying in Congress. I'll have to go look back about how
+we got to this space. But we are, I guess, indifferent to who goes first, who
+goes last. Ideally, they'd all go at the same time, but that's not possible.
+In an ideal world, they would all commit to the same reforms and changes to
+all help kids and keep them safe. But we can't wish that into existence. We
+got what we got. We have a system where you go to trial against one defendant,
+and then you go to trial against another defendant, and then you go to trial
+against another defendant. And And Meta is the first defendant we're going to
+trial against. Look, policymakers are seeing the same things we're seeing as
+attorneys general, and Some, not Congress, but some, like the California State
+Legislature, are acting. I've acted along with them. I've sponsored bills.
+I've supported bills. Age-appropriate design code, the addictive feeds law,
+multiple— the warning label bill. I've been directly involved in all those.
+Those are appropriate steps to be taken simultaneously with the steps that
+we're taking. sort of all hands on deck, all tools in the toolbox to address
+this crisis when it comes to the mental health harms of our kids.
+
+[46:01] C (REPORTER):
+Is there any way to estimate, like, so this is the beginning of the trial, but
+it's the end of the investigation that goes back 5 years. Is there any way to
+estimate how many lawyers were involved from the 29 states and what sort of
+investment the states are making in terms of money and Personnel time to make
+that happen?
+
+[46:22] A (BONTA):
+I think, yes, it's possible to estimate that. But I do not have that
+estimation for you. We'd have to dig deeper to find that out. I don't have it
+at the top of my head. We, you know, our team bills hours, monitors the work
+that we do. We're proud of how hard we work, how smart we work. And I can't
+speak for the other states, though. So we would have to do an exercise to
+collect that data for you, should that be something that we would want to
+share and can share.
+
+[46:52] D (DAVENPORT):
+Yeah, I don't have the data for you either. But I'll say, you know, when
+you're working on these issues, our teams are all working on many— to your
+point before— many issues like this, right? And it informs how you then can go
+about protecting the public safety in your states and what it is that you look
+for in other cases or what it looks like when you are the regulator and in the
+enforcement capacity that we have across all of our states. So these dedicated
+teams that are here doing this trial and have been working on this
+investigation, one of many different things that are happening through the
+course of their careers, through the course of our public service. And it all
+really just helps to build on how we can keep more kids safe and keep our
+public safe.
+
+[47:34] A (BONTA):
+And maybe I'll just say this. There's a number that I don't know what it is
+about, you know, how many lawyers and team members have worked on this case,
+whatever that number is. it's worth it because what we're doing to protect our
+kids is priceless. You cannot put a dollar figure on it, on keeping them
+alive, on keeping them healthy, on allowing them to grow into happy, healthy,
+resilient adults who contribute to our society. It's priceless. Any other
+questions?
+
+[48:07] C (REPORTER):
+How challenging is it gonna be arguing about farms without diving too much
+into the cost? We saw a little bit of a taste of that at the end of the day.
+The discrepancy between what is protected in Section 230 versus how do you
+explain what is a harm?
+
+[48:26] A (BONTA):
+Yeah, maybe I'll echo back to some of my previous comments and try to put a
+finer point on them. We don't think that's hard at all. We're able to make our
+case through the— you know, a lot of our case is going to be made from the own
+words of Meta employees. The own studies of, uh, of Meta itself. We're just
+going to show you what they said and what they knew and what their studies
+revealed. And our— at its core, our case is a deception case, that they knew
+about the dangers to kids and they lied about it. And so again, we'll use the
+words of Meta employees as they spoke publicly and spoke outwardly and spoke
+to Congress and spoke to others, how they were saying something very different
+from what they were saying internally and what their own studies said.
+Side-by-sides, like one of them today that was put up, showing what they said
+about how often kids are bullied or experience violent content or other type
+of content when they're online, it was very different from what their own
+studies showed. So we have more of those to to share throughout the course of
+trial. And I really think that what the defense counsel— they're grasping at
+straws. I think it's distraction and deflection. They're trying to suggest
+things that they think are aha moments, and they're just not. Our case is
+pretty clean, pretty simple, pretty straightforward. They designed and
+deployed a dangerous product. They knew it was dangerous. They doubled down on
+it, and they lied to the public. Period, full stop. That's our case. Anything
+else?
+
+[50:01] C (REPORTER):
+Um, it's best mentioned that the industry has a problem with self-restricting
+features, typically, um, 19 and 18 years old. And they say we share
+responsibility with the app stores, App Store or Google Play Store. Is there
+any objective to make them accountable for it?
+
+[50:25] A (BONTA):
+We're focused on Meta in this case. We're not focused on app stores. So I
+think that's another distraction, a deflection. It's don't look at us, even
+though when a kid tells us they're less than 13, we don't even allow them to
+complete, you know, submitting that submission to us. You know, don't mind the
+fact that we know that there are young folks on our platform, and we're happy
+to have them because they're special. And because they give us more teen time
+spent. Go look at the app stores. We're not worried about the app stores. Meta
+is accountable for Meta, what it knew, what it didn't do knowing that, and how
+it lied to the public. So we're focused on Meta, not app stores.
+
+[51:07] C (REPORTER):
+What do you think about the comparison between big tobacco and settlement in
+the late '90s with what is What's happening in Connecticut?
+
+[51:19] B (WEISER):
+There are several parallels. First, they're both bipartisan state AG
+investigations. Second, they both are happening in a context where Congress
+failed to act. And third, they both involve public health and, in some cases,
+marketing to kids that hurt kids' health. Think all the efforts around Joe
+Camel back then that were harming kids' health. Here, we know that kids are
+being marketed to especially, and it's hurting their health. So there are a
+number of similarities. There are obviously differences as well. But I do
+think the way the state AGs, as a bipartisan coalition, are filling a breach
+that has been left by Congress to protect our kids is a through line in both
+cases.
+
+[52:01] A (BONTA):
+Any other questions? Thank you so much for joining us today.
+
+[52:11] B (WEISER):
+Thank you.
+

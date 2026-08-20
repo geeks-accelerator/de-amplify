@@ -332,6 +332,11 @@ function selfTest() {
   // elision must split rather than compare whole
   const elided = fragments('measure our help by whether it helped ... and that was not adopted');
   if (elided.length !== 2) failed.push(`elision: expected 2 fragments, got ${elided.length}`);
+  // The ASR quarantine gets a control in both directions, because a pattern that
+  // silently stopped matching would reopen the hole without anything going red.
+  const asrRe = /-asr\.txt$/;
+  if (!asrRe.test("ag-press-conference-2026-08-18-asr.txt")) failed.push("asr quarantine: failed to flag an -asr.txt source");
+  if (asrRe.test("mdl-3047-2026-08-18-dkt550-civil-minutes.txt")) failed.push("asr quarantine: wrongly flagged an ordinary cache");
   return failed;
 }
 
@@ -365,6 +370,29 @@ for (const [slug, cfg] of Object.entries(LEDGERS)) {
   // phantom failures against an allowlist it had never opened.
   const corpus = [];
   for (const s of cfg.sources) {
+    // AN ASR TRANSCRIPT CAN NEVER BE A QUOTE-VERIFICATION SOURCE, and this is a
+    // hard refusal rather than a note in a README, because the failure it
+    // prevents is invisible and self-confirming: a span "verified" against a
+    // machine transcription would go green while proving only that two machines
+    // guessed the same way. Every other check in this repo would agree with it.
+    //
+    // Added 2026-08-20 with the first such file, the attorneys general press
+    // conference of 2026-08-18, whose Q&A exists in no other reachable form.
+    // That transcript is worth keeping (it answered a live Tension in the MDL
+    // ledger) and is worth quarantining, and those are not in tension: the file
+    // is a POINTER to a place in a recording, never a text to quote.
+    if (/-asr\.txt$/.test(s)) {
+      failures.push({
+        slug,
+        span: "(none)",
+        detail:
+          `declared source sources/${s} is an ASR transcript and cannot be a quote-verification source. ` +
+          `Verifying a quotation against a machine transcription proves that two machines agree, not that a ` +
+          `person said the words. Cite the recording with a timestamp and paraphrase in the site's own voice, ` +
+          `the same way this repo handles the Dutch judgments it cannot quote in English.`,
+      });
+      continue;
+    }
     const p = path.join(SRC, s);
     if (!fs.existsSync(p)) {
       failures.push({ slug, span: "(none)", detail: `declared source cache is missing: sources/${s}` });

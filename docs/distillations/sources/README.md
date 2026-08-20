@@ -207,6 +207,43 @@ section 4 of the policy paper, which is prose; `check:quotes` covers ledgers. It
 because a citation is not a cache: the paper now rests on this order, and a reader should be able to
 re-read it without going back to PACER.
 
+### `ag-press-conference-2026-08-18-asr.txt` (added 2026-08-20)
+
+**The first ASR transcript in this folder, and the only file here that no checker will ever read.**
+Machine transcription of the press conference three state attorneys general held on 2026-08-18 after
+the opening day of the MDL 3047 state trial, produced 2026-08-20 by AssemblyAI with speaker
+diarization from the PBS NewsHour recording (YouTube `KWppdXmS9Us`, 52:20). Its own header carries
+the full provenance, the speaker map and the reproduction commands.
+
+**It is quarantined by filename.** `scripts/check-quotes.mjs` refuses any declared source matching
+`-asr.txt`, with controls in both directions in its self-test. Verifying a quotation against a
+machine transcription would prove that two machines agree, not that a person said the words, and it
+would go green while doing it. Cite the recording with a timestamp and paraphrase; this is the same
+treatment the two Dutch judgments get for the same underlying reason, that the text in hand is not
+the words the speaker used.
+
+**Two findings came out of building it, and both are about sourcing rather than about this case.**
+
+- **The official channel published the shortest cut in the field.** The California Department of
+  Justice, whose office held the conference, posted 23:26 on its own channel (`N3FvvwxW64w`). That
+  version ends on an invitation to take questions and stops: the entire Q&A is missing. PBS
+  (52:20), Fox News (50:41) and KTVU (32:36) all carry more, and everything of evidentiary interest
+  is in the 29 minutes the official version omits. **Check the third-party recordings of a public
+  event even when the official one exists**, and compare durations before choosing which to keep.
+- **"Subtitles" is not the same as human-authored, and this repository had it written down wrong.**
+  `yt-dlp --list-subs` splits tracks into "automatic captions" and "subtitles", and the second was
+  treated here as the signal of a human transcript. PBS's uploaded track is listed under subtitles
+  and is plainly machine output: it renders Bonta's "and the Attorney General from New Jersey,
+  Jennifer Davenport" as "I'm the attorney general from New Jersey", which would make California's
+  AG New Jersey's, and it opens with a stray "I". **The distinction is how a track was attached, not
+  who wrote it.** AssemblyAI was the more accurate of the two on the same audio.
+
+**What makes the key passage usable at all is triangulation, not confidence.** The money exchange at
+32:24 to 34:59 was transcribed independently by three systems sharing no pipeline (AssemblyAI on the
+PBS audio, PBS's own uploaded track, and YouTube's automatic captions on the Fox recording). All
+three render the two load-bearing sentences the same way. A single ASR pass, however confident,
+would not have been enough to move a Tension in the MDL ledger.
+
 ## Court-filing caches (added 2026-07-25)
 
 ### MDL 3047 docket documents (added 2026-08-18)

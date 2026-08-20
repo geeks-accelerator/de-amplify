@@ -87,12 +87,6 @@ const POSTURE_ALLOW = [
   },
   {
     file: "src/app/lawsuits/page.tsx",
-    word: "requested",
-    reason:
-      "The ~$1.4T FAQ answer exists to say that figure is 'a requested worst-case ceiling, not a judgment, a settlement, or an amount any court has endorsed'. The word is the point of the answer; removing it would make the entry less accurate, not more.",
-  },
-  {
-    file: "src/app/lawsuits/page.tsx",
     word: "proposed",
     reason:
       "Same answer: the $1.4T ceiling rests on four states' PROPOSED penalty counting. That counting has been proposed and not adopted, so the word is the accurate posture.",
@@ -215,6 +209,33 @@ if (failures.length) {
       "Editing the ledger to match a stale share card is the tempting wrong move.\n",
   );
   process.exit(1);
+}
+
+// EVERY ALLOWLIST ENTRY MUST STILL MATCH SOMETHING. Added 2026-08-20, when the $1.4T FAQ answer
+// was rewritten to stop calling that figure "requested" and this script went on printing the
+// entry excusing the word as though it were live. An allowlist is where a real defect goes to
+// hide, so an entry that excuses nothing is worse than clutter: it asserts a considered
+// justification for a posture claim that is not on the surface any more, and it makes the
+// allowlist look more deliberate than it is. Same shape as the index blind spot found in
+// check:issues the same day: the check reported a state that had stopped being true.
+{
+  const stale = POSTURE_ALLOW.filter((a) => {
+    const p = path.join(ROOT, a.file);
+    if (!fs.existsSync(p)) return true;
+    return !new RegExp(`\\b${a.word}\\b`, "i").test(fs.readFileSync(p, "utf-8"));
+  });
+  if (stale.length) {
+    console.error(red(`check:surfaces FAILED. ${stale.length} POSTURE_ALLOW entr(ies) no longer match anything.`));
+    for (const a of stale) {
+      console.error(`\n  "${a.word}" in ${a.file} is allowlisted and does not appear there.`);
+      console.error(`    reason on file: ${a.reason}`);
+    }
+    console.error(
+      "\nDelete the entry. An allowlist excusing a word that is not on the surface asserts a\n" +
+        "justification for nothing, and it is the place this repo has said real defects go to hide.\n",
+    );
+    process.exit(1);
+  }
 }
 
 console.log(
