@@ -1,7 +1,7 @@
 
 # K.G.M. v. Meta and Google: the California bellwether verdict
 
-> **About this page.** Where the record stood as of July 25, 2026; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for the California state cases; corrections land in the ledger first, then here.
+> **About this page.** Where the record stood as of July 25, 2026, with the first-bellwether trial section updated August 20, 2026 to record that Meta's chief executive testified in it; this litigation moves weekly, and every figure carries its date. Claims are labeled: **court-held**, **jury-found**, **evidence cited**, **requested**, **scheduled**. This page is the reader's rendering of the project's evidence-tiered claim ledger for the California state cases; corrections land in the ledger first, then here.
 
 ## The case in one paragraph
 
@@ -16,6 +16,7 @@ JCCP 5255 (captioned "Social Media Cases," Department 12, Spring Street Courthou
 - **Jury-found**, March 25, 2026: a **$6 million verdict**, $3 million compensatory plus $3 million punitive, against Meta and Google. Fault was allocated **70/30**: Meta $4.2 million, Google $1.8 million, which is why some outlets report only Meta's share.
 - The jury found the companies **negligent in the design** of their apps (features like infinite scroll, autoplay, and push notifications built to maximize engagement) and found they **failed to adequately warn** young users. The plaintiff, a 20-year-old woman identified as K.G.M. ("Kaley"), said she became addicted to Instagram and YouTube beginning in childhood.
 - Only two companies faced the jury because **Snap and TikTok settled out** of this first test case around the turn of 2026, TikTok as jury selection was beginning.
+- **Mark Zuckerberg testified in person, on February 18, 2026**, five weeks before the verdict, reported as his first testimony about child safety in front of a jury. Instagram head Adam Mosseri testified about a week earlier. Coverage records Zuckerberg denying that Meta seeks to make Instagram addictive or that he directs the company to increase time spent or recruit under-13s, calling enforcement of Instagram's age limits very difficult, and being questioned about the decision to permit filters simulating cosmetic surgery after internal expert objections. *Carried by several independent outlets rather than by a transcript, for the reason in the sourcing caveat below.*
 
 ## After the verdict
 
@@ -28,7 +29,7 @@ The second test case was set for trial on **July 27, 2026** before Judge Kuhl, a
 
 Read the posture precisely, because the four events are not the same kind of thing. Three companies settled. The fourth did not: this was the plaintiff withdrawing, **not a settlement with Meta, not a defense verdict, and not a continuance**, and on the available reporting **Meta paid nothing**. Plaintiff's counsel said he "has elected to withdraw his claims against Meta" given "the overall successful result of the litigation" and the prospect of a weekslong trial. Whether the dismissal was with or without prejudice is not established, which matters, because without prejudice the claim could be refiled.
 
-The plaintiff is a 15-year-old identified as R.K.C. ("Russell"); he lives in Florida, but the case is this California proceeding, not a Florida or federal matter. Pretrial coverage had reported the judge tentatively allowing testimony from senior executives including Meta's Mark Zuckerberg; that testimony never happened.
+The plaintiff is a 15-year-old identified as R.K.C. ("Russell"); he lives in Florida, but the case is this California proceeding, not a Florida or federal matter. Pretrial coverage had reported the judge tentatively allowing testimony from senior executives including Meta's Mark Zuckerberg; that testimony never happened, **because this second case never reached a jury**. Do not read that as Zuckerberg never testifying in this coordinated proceeding: he did, in the first bellwether above, in February 2026.
 
 **A sourcing caveat this page owes you.** The Los Angeles Superior Court docket is not publicly retrievable online, so the settlement and the dismissal above rest on **news coverage, not a court filing**. They are corroborated across several independent outlets and a Meta statement, and they are recorded in the case ledger at the weaker evidence tier for exactly that reason.
 
