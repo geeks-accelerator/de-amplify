@@ -130,6 +130,8 @@ const today = new Date(Date.now() + 86400000).toISOString().slice(0, 10);
 
 const failures = [];
 const counts = Object.fromEntries(STATUSES.map((s) => [s, 0]));
+/** filename -> declared status, so the index can be checked against the files rather than trusted. */
+const statusOf = new Map();
 
 for (const f of files) {
   const rel = `${DIR}/${f}`;
@@ -142,6 +144,7 @@ for (const f of files) {
 
   const fm = frontmatter(t, rel, fail);
   if (!fm) continue;
+  if (fm.status) statusOf.set(f, fm.status);
 
   // 1. SCHEMA
   for (const k of REQUIRED) {
@@ -197,6 +200,32 @@ if (!fs.existsSync(indexPath)) {
   }
   for (const l of listed) {
     if (!files.includes(l)) failures.push({ file: `${DIR}/INDEX.md`, kind: "index", detail: `${l} is indexed but does not exist` });
+  }
+
+  // The STATUS COLUMN, which this check did not read until 2026-08-20 and should have from the
+  // start. Presence in both directions was never the interesting half: an index whose rows all
+  // exist can still describe every one of them wrongly, and it did. Closing the press-conference
+  // issue left its row reading `open` and this script printed OK, which is precisely the shape of
+  // failure the whole directory exists to prevent, committed by the thing guarding it.
+  for (const row of idx.matchAll(/\]\((\d{4}-\d{2}-\d{2}-[a-z0-9-]+\.md)\)\s*\|\s*`([a-z]+)`/g)) {
+    const [, file, shown] = row;
+    const actual = statusOf.get(file);
+    if (actual && shown !== actual) {
+      failures.push({
+        file: `${DIR}/INDEX.md`,
+        kind: "index",
+        detail: `the index shows ${file} as \`${shown}\` and the file declares \`${actual}\`. The file is the record; fix the index row.`,
+      });
+    }
+  }
+  // Every row must actually carry a status cell, or the loop above silently checks nothing.
+  const rowsWithStatus = [...idx.matchAll(/\]\((\d{4}-\d{2}-\d{2}-[a-z0-9-]+\.md)\)\s*\|\s*`([a-z]+)`/g)].length;
+  if (rowsWithStatus !== listed.size) {
+    failures.push({
+      file: `${DIR}/INDEX.md`,
+      kind: "index",
+      detail: `${listed.size} issue(s) are indexed but only ${rowsWithStatus} row(s) carry a \`status\` cell the checker can read. A row without one is unchecked, so the format is load-bearing: | [title](file.md) | \`status\` | ... |`,
+    });
   }
 }
 

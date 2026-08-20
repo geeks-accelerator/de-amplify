@@ -125,6 +125,8 @@ is visible rather than silent:
 
 The two live streams are the ones worth revisiting: a state AG press conference and Bonta's own
 remarks are officials speaking on the record, which outranks every secondary article here.
+**The press conference was obtained on 2026-08-20**, though not from the recording listed here; see
+the section on it below for why the official upload was the wrong one to keep retrying.
 
 ## Index
 
@@ -246,12 +248,25 @@ one where the source was never noticed. Its length is the reason. At roughly two
 the shortest length band, where the extraction would be a handful of posture claims already carried
 by five other items.
 
-## Not obtained: the attorneys general press conference
+## OBTAINED 2026-08-20: the attorneys general press conference
 
 `https://www.youtube.com/watch?v=N3FvvwxW64w`, California Department of Justice channel, AGs Bonta,
-Weiser and Davenport following day one. **This is the highest-value item on the list and it is not
-here.** It is party officials speaking on the record on their own official channel, which outranks
-every secondary source in this folder.
+Weiser and Davenport following day one. **This was the highest-value item on the list.** It is party
+officials speaking on the record on their own official channel, which outranks every secondary
+source in this folder.
+
+> **Resolved, and not from this URL.** Transcribed 2026-08-20 with hosted ASR, accepting the
+> `CAPTION-ASR` ceiling. **The official upload is not the one that had the answer.** It runs 23:26,
+> ends on the words inviting questions, and omits the entire Q&A; a PBS NewsHour recording of the
+> same event runs 52:20 and carries it. The transcript is cached at
+> `docs/distillations/sources/ag-press-conference-2026-08-18-asr.txt`, quarantined from
+> `npm run check:quotes` by a filename rule, and it answered the MDL ledger's open Tension on what
+> the states will seek (claims 22d to 22h). The closed thread, with both methodological findings, is
+> `docs/issues/2026-08-18-ag-press-conference-captions.md`.
+>
+> **The "1 hour 47 minutes" below was the live stream, not the archive**, and the gap between the two
+> numbers was the first clue that the published video had been cut. A duration recorded while a
+> stream is running is a fact about the stream, not about what will be published.
 
 It could not be fetched. The recording is 1 hour 47 minutes, was streamed live and finished the same
 day, and is unlisted. YouTube advertises an English automatic caption track but serves no fragments
@@ -286,8 +301,10 @@ finished upload returns `not_live`, so the field discriminates.
 > remaining routes and their tiers, is
 > `docs/issues/2026-08-18-ag-press-conference-captions.md`.
 
-**Then the retry**, checking the file size rather than the exit status, since a failed run leaves a
-zero-byte `.part`:
+**Then the retry** (**moot since 2026-08-20**: this video has no caption track to fetch, and the
+event was transcribed from a different recording instead; kept because the file-size point below
+generalises to any caption fetch), checking the file size rather than the exit status, since a
+failed run leaves a zero-byte `.part`:
 
 ```bash
 yt-dlp --skip-download --write-auto-subs --sub-langs en --sub-format vtt -o "cadoj.%(ext)s" "https://www.youtube.com/watch?v=N3FvvwxW64w"
@@ -296,9 +313,18 @@ yt-dlp --skip-download --write-auto-subs --sub-langs en --sub-format vtt -o "cad
 **One thing this does not change.** Whatever arrives is an **automatic** caption track, so it is
 `CAPTION-ASR`, and the rule above holds without exception: a `CAPTION-ASR` claim is never
 `PUBLISHABLE`. This recording is worth having as the batch's best **pointer**, not as a quotable
-source. If the California Department of Justice ever posts a human transcript or an uploaded caption
-track, that is a different document and a different tier; check for `--list-subs` reporting
-subtitles rather than only automatic captions.
+source. ~~If the California Department of Justice ever posts a human transcript or an uploaded
+caption track, that is a different document and a different tier; check for `--list-subs` reporting
+subtitles rather than only automatic captions.~~
+
+**That last test is wrong and was disproven on this very event, 2026-08-20.** `--list-subs` splits
+tracks into automatic captions and subtitles, and the second column was taken here to mean a human
+wrote it. It means the track was **uploaded**, nothing more. PBS's track for this press conference
+sits in the subtitles column and is plainly machine output: it renders Bonta introducing his New
+Jersey colleague as though he were himself New Jersey's attorney general, and opens with a stray
+pronoun. Hosted ASR on the same audio got that introduction right, so the uploaded track was the
+**less** accurate of the two. **There is no cheap flag that distinguishes a human transcript from a
+machine one; read a passage you can check and judge it.**
 
 Two things to carry into that distillation when it happens. It is a **party** source throughout, so
 almost every claim is `PARTY` and the dimension will carry little signal, which should be stated in
