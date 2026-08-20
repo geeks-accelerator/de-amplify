@@ -84,6 +84,7 @@ npm run check:quotes         # quoted spans verbatim against the committed sourc
 npm run check:surfaces       # share cards and structured data vs the record; run after any case-status change
 npm run check:distillations  # internal consistency of the single-source research corpus
 npm run check:issues         # schema and index of docs/issues, the standing-threads directory
+npm run check:guards         # every guard above appears on every surface that lists guards
 npm run dates                # regenerate content-dates.json if you changed any content file
 npm run check:dates          # fails if that manifest drifted from git history
 ```
@@ -91,8 +92,15 @@ npm run check:dates          # fails if that manifest drifted from git history
 `check:surfaces` and `check:distillations` were missing from this list for four
 days and one day respectively after they started running in CI, which is a small
 example of the thing this project keeps finding: **a guard nobody is told about
-is a guard that only fails at review time.** If you add one, add it here in the
-same commit.
+is a guard that only fails at review time.**
+
+That rule used to end "if you add one, add it here in the same commit", and the
+pass that wrote it **immediately broke it elsewhere**, leaving both guards out of
+`README.md` and `CLAUDE.md`. So it is no longer a rule you have to remember:
+`npm run check:guards` asserts that every `check:*` script in `package.json`
+appears in this file, the README, `CLAUDE.md` and the CI workflow. It includes
+itself in that assertion, because a completeness checker that exempted itself
+would be the first thing to fall out of the documentation it polices.
 
 You do not have to remember all of these: CI runs every one of them, plus the
 house-style sweep, on your pull request. Running them locally just gets you the

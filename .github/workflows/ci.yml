@@ -101,6 +101,11 @@ jobs:
       - name: check:issues (standing threads, schema and index)
         run: npm run check:issues
 
+      # Cheap, and it closes the most-repeated documentation defect in this repo:
+      # a guard that runs here while the lists a human reads do not mention it.
+      - name: check:guards (every guard is listed on every surface that lists guards)
+        run: npm run check:guards
+
       # The house-style sweep from CLAUDE.md. One exact codepoint per pattern
       # under the C locale: the naive bracket-class grep over-reports badly on
       # BSD/macOS and sends you chasing ghosts. sources/ and reviews/ are exempt

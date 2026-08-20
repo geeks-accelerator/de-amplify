@@ -99,7 +99,9 @@ npm run start   # serve the production build
 npm run check:ledgers   # verbatim-TLDR drift; run after ANY ledger or curated-page edit
 npm run check:quotes    # quoted spans verbatim vs the source caches; run after ANY ledger edit
 npm run check:surfaces  # share cards + structured data vs the record; run after ANY case-status change
+npm run check:distillations  # internal consistency of the single-source research corpus
 npm run check:issues    # docs/issues schema + index; run after adding or closing a standing thread
+npm run check:guards    # every guard above is listed on all four surfaces that list guards
 npm run dates           # regenerate content-dates.json; run after ANY content edit
 npm run check:dates     # fails if that manifest drifted from git history
 ```

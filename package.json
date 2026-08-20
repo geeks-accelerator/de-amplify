@@ -14,7 +14,8 @@
     "check:quotes": "node scripts/check-quotes.mjs",
     "check:surfaces": "node scripts/check-surfaces.mjs",
     "check:distillations": "node scripts/check-distillations.mjs",
-    "check:issues": "node scripts/check-issues.mjs"
+    "check:issues": "node scripts/check-issues.mjs",
+    "check:guards": "node scripts/check-guards.mjs"
   },
   "engines": {
     "node": ">=20.0.0"
