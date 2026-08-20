@@ -8,6 +8,10 @@ closes_when: "a usable transcript exists by some route: YouTube generates captio
 trigger: "yt-dlp --list-subs https://www.youtube.com/watch?v=N3FvvwxW64w"
 surface: "none, and this one cannot change: an automatic caption track is CAPTION-ASR, which is never PUBLISHABLE here, so the recording can only ever become a pointer for other research"
 related: ["docs/research/single-source/README.md", "docs/plans/2026-08-18-single-source-to-primary.md", "mdl-3047"]
+revisited:
+  - "docs/research/single-source/README.md :: updated :: its retry procedure ended by telling the reader that was_live means go, which is a command that cannot work on a video with no caption track; the section is now headed OBTAINED and the disproven subtitles-versus-automatic-captions test is struck through rather than deleted"
+  - "docs/plans/2026-08-18-single-source-to-primary.md :: updated :: it described this item as unobtained in THREE separate places, the third found only by the audit; all three are superseded in place"
+  - "mdl-3047 :: updated :: claims 22d to 22h carry what the attorneys general said, and the Tension on what the states will seek is narrowed to what a filing can still settle"
 ---
 
 # The attorneys general press conference has no fetchable caption track yet

@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **483 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **485 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
@@ -202,10 +202,12 @@ The Ninth Circuit's order denying rehearing en banc in *Doe 1 v. Meta Platforms*
 the substance: Judge R. Nelson, who wrote the panel opinion, voted to deny, while Judges W. Fletcher
 and Berzon recommended granting, and no judge of the full court requested a vote.
 
-**No checker reads this file, and that is a real gap stated rather than hidden.** Its consumer is
-section 4 of the policy paper, which is prose; `check:quotes` covers ledgers. It is cached anyway
-because a citation is not a cache: the paper now rests on this order, and a reader should be able to
-re-read it without going back to PACER.
+~~**No checker reads this file, and that is a real gap stated rather than hidden.**~~ **Closed
+2026-08-20.** That was true for two days, while the order's only consumer was section 4 of the policy
+paper, which is prose. The MDL ledger now cites it at claim 43, so the cache is registered against
+`mdl-3047` in `npm run check:quotes` and its two quoted spans are verified like every other. The
+gap was found by the `revisited` rule in `npm run check:issues`, which asked what had been done to
+each file the *Doe 1* issue declared as related and got no answer for the ledger.
 
 ### `ag-press-conference-2026-08-18-asr.txt` (added 2026-08-20)
 

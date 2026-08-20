@@ -16,7 +16,10 @@
 //   3. DATES       opened and closed are real ISO dates, closed is not before opened, neither is in
 //                  the future
 //   4. RELATED     every related: entry resolves to a real file or a registered ledger slug
-//   5. INDEX       INDEX.md and the directory match EXACTLY, in both directions
+//   5. INDEX       INDEX.md and the directory match EXACTLY, in both directions, INCLUDING the
+//                  status cell, which this check did not read until 2026-08-20
+//   6. REVISITED   a closed issue accounts for every file it declared as `related`, with a
+//                  disposition and a reason
 //
 // NOT COVERED, and it is the important one: this script cannot tell whether an issue DUPLICATES a
 // ledger Tension. That is the failure this directory most needs to avoid and it is a human read,
@@ -32,6 +35,31 @@ const LEDGERS = "docs/distillations";
 const red = (s) => `\x1b[31m${s}\x1b[0m`;
 
 const STATUSES = ["open", "blocked", "parked", "closed"];
+
+// WHY `revisited` EXISTS, and why it is a declaration rather than a scan.
+//
+// On 2026-08-20 the press-conference issue closed, and BOTH files it had declared in `related`
+// were left carrying prose the closure had just falsified: a research README still gave a retry
+// procedure whose key step could not work, and a plan still called the item unobtained in three
+// separate places. Nothing went red. Every guard in this repo was green throughout, because they
+// all check machine-readable surfaces and this was prose.
+//
+// The tempting fix is to scan docs/research and docs/plans for words like "still", "pending" or
+// "not obtained". THAT IS THE WRONG INSTRUMENT AND THIS REPO HAS SAID SO: the posture vocabulary
+// in check:surfaces is scoped hard to share cards and structured data precisely because prose is
+// allowed to discuss pending things, and one comment becoming a standing multi-file gate is a
+// documented past injury here. A scan over research prose would fire on every honest sentence
+// about an open question, of which this corpus is largely made.
+//
+// What IS checkable is that somebody looked. Each issue already declares which documents depend on
+// it, so closing one can be required to account for each of them. This proves the ACCOUNT EXISTS,
+// never that it is true, the same boundary check:quotes draws at attribution and check:guards
+// draws at description. The run says so rather than letting green imply more.
+//
+// Calibration, measured before this was written: of the nine related-file pairs across five closed
+// issues, seven had in fact been revisited correctly and two needed a decision. A rule that fires
+// on two of nine is worth having; one that fired on all nine would have been noise.
+const DISPOSITIONS = ["updated", "no-change-needed"];
 const REQUIRED = ["title", "status", "opened", "closes_when", "surface", "trigger"];
 
 /**
@@ -161,7 +189,42 @@ for (const f of files) {
     if (fm.status === "closed") {
       if (!fm.closed) fail("status", "status is closed but no closed: date");
       if (!fm.resolution) fail("status", "status is closed but no resolution:, so nothing records what ended it");
-    } else {
+
+      // 6. REVISITED. Every file this issue declared as related must be accounted for.
+      const related = Array.isArray(fm.related) ? fm.related : [];
+      const declared = Array.isArray(fm.revisited) ? fm.revisited : fm.revisited ? [fm.revisited] : [];
+      const seen = new Map();
+      for (const entry of declared) {
+        const parts = String(entry).split("::").map((x) => x.trim());
+        if (parts.length !== 3) {
+          fail("revisited", `entry is not "path :: disposition :: reason": ${String(entry).slice(0, 80)}`);
+          continue;
+        }
+        const [target, disposition, reason] = parts;
+        if (!DISPOSITIONS.includes(disposition)) {
+          fail("revisited", `"${target}" has disposition "${disposition}", not one of ${DISPOSITIONS.join(", ")}`);
+        }
+        if (!reason) fail("revisited", `"${target}" carries no reason, and the reason is the whole value of the entry`);
+        if (seen.has(target)) fail("revisited", `"${target}" is accounted for twice`);
+        seen.set(target, disposition);
+        if (!related.includes(target)) {
+          fail("revisited", `"${target}" is accounted for but is not in related:, so nothing declared that dependency`);
+        }
+      }
+      for (const r of related) {
+        if (!seen.has(r)) {
+          fail(
+            "revisited",
+            `related file "${r}" is not accounted for in revisited:. Closing an issue falsifies prose in ` +
+              `the documents that depended on it, and nothing else in this repo can see that. Open it, decide, ` +
+              `and record: "${r} :: updated|no-change-needed :: why".`,
+          );
+        }
+      }
+    } else if (fm.revisited) {
+      fail("status", `status is ${fm.status} but a revisited: is set, which only a closed issue accounts for`);
+    }
+    if (fm.status !== "closed") {
       if (fm.closed) fail("status", `status is ${fm.status} but a closed: date is set`);
       if (fm.resolution) fail("status", `status is ${fm.status} but a resolution: is set`);
     }
@@ -250,7 +313,10 @@ console.log(
     `(${counts.open} open, ${counts.blocked} blocked, ${counts.parked} parked), ${counts.closed} closed.`,
 );
 console.log(
-  "  NOT covered: whether an issue DUPLICATES a ledger Tension, which is the failure this\n" +
+  "  NOT covered: whether a revisited: disposition is TRUE. This proves the account exists and\n" +
+    "  that every declared dependency has one, never that the file was really re-read or that it\n" +
+    "  really needed no change. Same boundary check:quotes draws at attribution.\n" +
+    "  NOT covered: whether an issue DUPLICATES a ledger Tension, which is the failure this\n" +
     "  directory most needs to avoid. There are 60+ open Tensions across the ledgers and they own\n" +
     "  every question about the record of one proceeding. Read the relevant one before adding a\n" +
     "  file here. This guard proves the shape of an issue, never that it belongs.",
