@@ -127,7 +127,22 @@ function figures(text) {
  */
 function corpusHasFigure(corpusText, n) {
   const bare = n.replace(".", "\\.");
-  return new RegExp(`\\$\\s?${bare}\\b`).test(corpusText);
+  // figures() strips thousands separators out of the SURFACE figure, so the corpus
+  // has to be read the same way or the two can never meet. Until 2026-08-28 it was
+  // not, and the bug was invisible because every figure this guard had ever checked
+  // was a short form ("$6M", "$567M", "~$1.4T") whose numeric core carries no commas.
+  // The first surface to name a full amount, the $16,680,647,753.21 consent judgment,
+  // failed against a corpus that stated exactly that number. Normalize only digit-
+  // group commas; everything else about the corpus is left alone, and the leading
+  // "$" stays required so a bare integer still cannot satisfy a money figure.
+  //
+  // Both forms are tested, never only the flattened one: "$567M" on a card is meant
+  // to match "$567,000,000.00" in a ledger, and it does so through the comma, which
+  // gives the \\b its boundary. Flattening alone would silently break that and every
+  // other short form this guard already relies on.
+  const re = new RegExp(`\\$\\s?${bare}\\b`);
+  const flat = corpusText.replace(/(?<=\d),(?=\d{3}\b)/g, "");
+  return re.test(corpusText) || re.test(flat);
 }
 
 // ---- self-test the matchers against known answers before trusting a clean run.
@@ -143,11 +158,17 @@ function corpusHasFigure(corpusText, n) {
   // check degrades into "does this number appear anywhere" and passes on any
   // paragraph number, claim number or date the ledger happens to contain
   const bare = corpusHasFigure("see page 567 of the order, and claim 6", "567");
-  if (!ok || !pos || neg || bare) {
+  // thousands separators, in both directions. The positive control is the exact
+  // shape that was silently failing; the negative one asserts the normalization
+  // does not glue unrelated digits together into a match.
+  const comma = corpusHasFigure("a maximum of $16,680,647,753.21 over ten years", "16680647753.21");
+  const commaNeg = corpusHasFigure("a maximum of $16,680,647,753.21 over ten years", "1668064775322");
+  if (!ok || !pos || neg || bare || !comma || commaNeg) {
     console.error(red("check:surfaces ABORTED: its own matcher failed the self-test."));
     console.error(`  figures() -> ${JSON.stringify(f)} (expected ${JSON.stringify(expect)})`);
     console.error(`  positive control ${pos} (want true), negative control ${neg} (want false)`);
     console.error(`  bare-integer control ${bare} (want false: a page number is not a dollar figure)`);
+    console.error(`  thousands-separator controls ${comma} (want true) / ${commaNeg} (want false)`);
     process.exit(1);
   }
 })();

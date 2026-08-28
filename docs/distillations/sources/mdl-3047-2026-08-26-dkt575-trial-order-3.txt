@@ -1,0 +1,250 @@
+                                       Case 4:22-md-03047-YGR              Document 3450        Filed 08/26/26      Page 1 of 4
+
+
+
+
+                                   1                                      UNITED STATES DISTRICT COURT
+
+                                   2                                    NORTHERN DISTRICT OF CALIFORNIA
+
+                                   3
+
+                                   4      PEOPLE OF THE STATE OF CALIFORNIA, ET
+                                          AL.,                                                Case No. 4:23-cv-05448-YGR
+                                   5
+                                                     Plaintiffs,
+                                   6                                                          TRIAL ORDER NO. 3 RE TRIAL
+                                            v.                                                PROCEEDINGS, TIMING OF JUROR
+                                   7                                                          DISCHARGE, & PRIVILEGE DISPUTE
+                                          META PLATFORMS INC.,
+                                   8
+
+                                   9                       Defendant.
+
+                                  10
+
+                                  11     TO ALL PARTIES AND COUNSEL OF RECORD:
+                                  12             First, before the Court is the parties’ joint Motion to Enter Consent Judgment (Dkt. No.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   572). Earlier today, the Court SUSPENDED the trial in this action pending resolution of the motion.
+                                  14
+
+                                  15             Second, the Court grants the motion on the terms set forth in a contemporaneously filed
+                                  16   order. Upon filing, judgment shall be entered, the trial is deemed vacated, and the jury shall be
+                                  17   advised that they are each discharged immediately.
+                                  18             Now that the case is over, jurors may choose whether or not to discuss the case with
+                                  19   anyone. Thus, the lawyers, parties, or their representatives may now talk to jurors. However, I
+                                  20   hereby ORDER that those discussions must occur at a reasonable time and place and with the
+                                  21   juror’s consent.
+                                  22             Jurors shall be advised to immediately report to the Court any unreasonable contact made
+                                  23   without their consent. A lawyer, party, or representative who violates this rule now violates a
+                                  24   Court Order and may be fined.
+                                  25
+
+                                  26             Third, the Court notes here that on the record, the Court ruled that the privilege redactions
+                                  27   in Exhibit 4255 were inappropriate and ordered Meta to produce the unredacted version. Each
+                                  28   version is attached hereto as Attachments A and B, respectively. Meta objected to production and
+                                       Case 4:22-md-03047-YGR             Document 3450         Filed 08/26/26      Page 2 of 4
+
+
+
+
+                                   1   admission of the unredacted exhibit on grounds of attorney-client privilege and Federal Rule of
+
+                                   2   Evidence 403.
+
+                                   3           The parties do not dispute the legal standard for attorney-client privilege. “The attorney-
+
+                                   4   client privilege protects confidential communications between attorneys and clients, which are
+
+                                   5   made for the purpose of giving legal advice.” In re Grand Jury, 23 F.4th 1088, 1091 (9th Cir.
+
+                                   6   2021) (quoting United States v. Sanmina Corp., 968 F.3d 1107, 1116 (9th Cir. 2020)). The Ninth
+
+                                   7   Circuit has directed courts to apply the “primary purpose test” which requires a court to consider
+
+                                   8   “whether the primary purpose of the communication is to give or receive legal advice, as opposed
+
+                                   9   to business” advice. Id.1
+
+                                  10           The exhibit in question is a “Workplace”2 chat between three non-lawyer Meta employees.
+
+                                  11   Meta contends that the privilege redactions reflect discussion of attorney legal advice. Based upon
+
+                                  12   the testimony heard on the record in this trial and the content of the exhibit itself, the purported
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   attorney advice consists solely of feedback provided on an internal slide deck the three employees
+
+                                  14   prepared for submission to leadership.
+
+                                  15           On the record on August 25, 2026, Meta argued that the primary purpose of the advice was
+
+                                  16   to ensure the slide deck had “accurate information” because any slide deck shown to a Meta
+
+                                  17   executive might become discoverable in a lawsuit. Such a justification, even if true, is far too
+
+                                  18   broad-based. By this logic, Meta could withhold all of its business communications with
+
+                                  19   leadership as privileged simply by asserting the purpose of the communication was to ensure
+
+                                  20
+                                               1
+                                  21             The standard for attorney-client privilege in the Ninth Circuit is different than in other
+                                       jurisdictions, including California and other federal circuits. Here, the privilege is “narrowly and
+                                  22   strictly construed.” United States v. Gray, 876 F.2d 1411, 1415 (9th Cir. 1989) (citing Weil v.
+                                       Inv./Indicators, Research & Mgmt., Inc., 647 F.2d 18, 24 (9th Cir. 1981)). Importantly, the Ninth
+                                  23   Circuit has explicitly rejected the “because of” test, which looks at whether a dual-purpose
+                                       communication was made in anticipation of litigation, finding it too broad for the principles
+                                  24   behind the attorney-client privilege and therefore more suited for the work-product doctrine. In re
+                                       Grand Jury, 23 F.4th at 1093-94. Although Grand Jury left open the question of whether legal
+                                  25   advice must be “the primary purpose” or just “a primary purpose,” the Ninth Circuit has since
+                                       declined to apply the test in the latter manner and instead endorsed the former test such that legal
+                                  26   advice must be more than merely “a primary purpose” for the privilege to attach. Epic Games,
+                                       Inc. v. Apple Inc., 161 F.4th 1162, 1179 (9th Cir. 2025).
+                                  27           2
+                                               The Court understands this to be an internal Meta messaging app, akin to Microsoft
+                                  28   Teams or Slack.
+
+                                                                                           2
+                                       Case 4:22-md-03047-YGR                 Document 3450        Filed 08/26/26      Page 3 of 4
+
+
+
+
+                                   1   accuracy of work product.
+
+                                   2              The Court has reviewed the entire document and finds that the primary purpose of the
+
+                                   3   underlying attorney communications was not legal advice.
+
+                                   4              The Court highlights some examples here for purposes of elucidation. One, the following
+
+                                   5   message was redacted to exclude the emphasized portion: “I understand we don’t want to
+
+                                   6   publish it, but it will be increasingly hard for adam/max to understand the severity of each space.”
+
+                                   7   This redaction is entirely inappropriate. There is no indication that the “we” referenced is legal – in
+
+                                   8   fact, neither the speaker nor the other employees in the chat are lawyers. Given the testimony
+
+                                   9   heard at trial, the Court finds that the referenced reticence to “publish”3 the material was a business
+
+                                  10   decision to prevent potential leaks of sensitive business information to the public.
+
+                                  11              Two, the message “So for Rachany’s comment on slide 5, if we have to remove the teen
+
+                                  12   swop stat, this section then becomes pretty weak” was redacted to exclude the emphasized portion.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   Regarding Meta’s represented rationale, the Court finds that advice to remove the data referenced
+
+                                  14   (“teen swop stat”) would not make the slide more “accurate,” much less a conveyance of legal
+
+                                  15   advice.4
+
+                                  16              Third, Counsel for Meta specifically referenced the following message on the record in
+
+                                  17   support of its argument to maintain these privilege claims: “Apparently we need to limit their
+
+                                  18   exposure to this information. From Rachany, ‘For Max or higher, we should try to get it
+
+                                  19   buttoned up so that there’s no litigation exposure risk for Max or Adam on what is in this
+
+                                  20   deck . . .” This quote is the closest the redactions come to the line of what may be privileged,
+
+                                  21
+                                                  3
+                                                      The Court understands this likely referred to publishing the material to an internal Meta
+                                  22   site.
+                                  23              4
+                                                  Meta also argued this Court should follow Magistrate Judge Kang’s order on this issue.
+                                       This Court previously upheld Magistrate Judge Kang’s order finding the crime fraud exception did
+                                  24
+                                       not apply. Pretrial Order No. 3, Dkt. No. 439. This Court’s Pretrial Order was based only on the
+                                  25   argument briefed, whether Magistrate Judge Kang applied the wrong legal standard. In his order,
+                                       Magistrate Judge Kang explained that “a party in a civil action must establish the crime-fraud
+                                  26   exception by a preponderance of the evidence when challenging attorney-client privilege.” Dkt.
+                                       No. 3091 (emphasis added). Although he found the AGs did not meet that standard, the Court
+                                  27   finds that the evidence subsequently provided at trial, which was not before Magistrate Judge Kang
+                                       at the time, could support a finding that the crime fraud exception applies. Because the Court has
+                                  28
+                                       decided this issue on other grounds, it declines to reach this question.
+                                                                                           3
+                                       Case 4:22-md-03047-YGR             Document 3450       Filed 08/26/26     Page 4 of 4
+
+
+
+
+                                   1   because it appears to be a direct quote of an in-house lawyer explaining why she is providing the
+
+                                   2   advice in question. Meta’s counsel argued on the record that the stated legal purpose was to ensure
+
+                                   3   accuracy, not to limit Meta leadership’s “exposure to” information from its research and design
+
+                                   4   teams.
+
+                                   5            As the testimony revealed, many perspectives are brought to documents and slide decks in
+
+                                   6   the normal course of business. Litigation risk is but one part of business risk. That a lawyer may
+
+                                   7   approach a business document, and the words used therein, with an eye for litigation risk does not
+
+                                   8   transform that lawyer’s edits from business advice into attorney-client advice. There was no legal
+
+                                   9   issue for which the drafters of that business document sought advice. The issue was merely an
+
+                                  10   attorney’s view of generic litigation risk.
+
+                                  11            IT IS SO ORDERED.
+
+                                  12   Dated: August 26, 2026
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13                                                   ______________________________________
+                                                                                             YVONNE GONZALEZ ROGERS
+                                  14                                                    CHIEF UNITED STATES DISTRICT JUDGE
+                                  15
+
+                                  16
+
+                                  17
+
+                                  18
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28
+                                                                                         4
+
