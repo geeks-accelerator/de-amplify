@@ -1,0 +1,378 @@
+                                       Case 4:22-md-03047-YGR               Document 3212        Filed 06/29/26       Page 1 of 6
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4                                       UNITED STATES DISTRICT COURT
+
+                                   5                                      NORTHERN DISTRICT OF CALIFORNIA
+
+                                   6
+
+                                   7      PEOPLE OF THE STATE OF CALIFORNIA, ET
+                                          AL.,                                                 Case No. 4:23-cv-05448-YGR
+                                   8
+                                                      Plaintiffs,
+                                   9                                                           PRETRIAL ORDER NO. 3 RE: PRETRIAL
+                                            v.                                                 CONFERENCE
+                                  10
+                                          META PLATFORMS INC., ET AL.,
+                                  11
+
+                                  12                        Defendants.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13
+
+                                  14             Having considered the filings to date and the arguments at the conference on June 26, 2026
+                                  15   and for good cause shown, the Court issues the following orders for notice and to facilitate an
+                                  16   orderly trial. Further, for clarity, going forward, all briefing related to this trial action shall
+                                  17   reference docket numbers in this docket with the MDL docket number placed in parentheses:
+                                  18             1.    Adjustments to Trial Schedule: The parties are advised of the following
+                                  19   adjustments to the trial schedule: Pursuant to the parties’ agreement, openings and evidence shall
+                                  20   commence on Tuesday, August 18, 2026. On Wednesday, August 26, proceedings will end by
+                                  21   12:50 p.m. On Monday, August 31, proceedings will begin at 9:30 a.m. The Court will be dark on
+                                  22   Wednesday, September 16 and Monday, September 28, 2026.
+                                  23             2.    Motion for Relief from Discovery Order (Dkt. No. 3091): Plaintiffs challenge
+                                  24   Magistrate Judge Kang’s discovery orders issued on January 12, 2026 and May 18, 2026 regarding
+                                  25   redactions set in four documents.
+                                  26             A motion for relief from a non-dispositive order should only be granted when the moving
+                                  27   party establishes that the non-dispositive order by the magistrate judge is clearly erroneous or
+                                  28   contrary to law. Fed. R. Civ. P. 72; see Bhan v. NME Hospitals, Inc., 929 F.2d 1404, 1414 (9th
+                                       Case 4:22-md-03047-YGR            Document 3212         Filed 06/29/26       Page 2 of 6
+
+
+
+
+                                   1   Cir.1991) (“the magistrate's decision on a nondispositive issue will be reviewed by the district
+
+                                   2   judge under the clearly erroneous standard”); Barnes & Noble, Inc. v. LSI Corp., No. C–11–2709
+
+                                   3   EMC, 2013 WL 841334, at *1 (N.D.Cal. Mar. 6, 2013) (same). “In finding that the magistrate
+
+                                   4   judge’s decision is ‘clearly erroneous,’ the Court must arrive at a definite and firm conviction that a
+
+                                   5   mistake has been committed.” Barnes & Noble , 2013 WL 841334 at *1 (internal citations and
+
+                                   6   quotations omitted). This standard of review is extremely deferential. Id.
+
+                                   7           The Court finds that the State AGs have not satisfied their burden under Rule 72(a) of
+
+                                   8   Federal Rules of Civil Procedure to show that Magistrate Judge Kang’s order was “clearly
+
+                                   9   erroneous or [] contrary to law.” In fact, their arguments misconstrue the record. Magistrate Judge
+
+                                  10   Kang applied the correct law. Whether this Court would have found differently is not the issue.
+
+                                  11   Given his lengthy decisions and considered view of the record over months of briefing, the Court
+
+                                  12   declines to overturn the decision. The motion is denied.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13           3.     Motion to Strike Late-Disclosed Witnesses (Dkt. No. 344)
+
+                                  14           The Court has reviewed the reference motion, the opposition, and the supplemental filings.
+
+                                  15   Based thereon, the Court orders as follow:
+
+                                  16           With respect to fact witness Kyle Jensen, Manager of Problem Integrity Operations, Meta
+
+                                  17   argues that the identification of this witness was due to the late disclosure of the AGs regarding the
+
+                                  18   issue of age verification.1 The Court disagrees. The record demonstrates that the AGs repeatedly
+
+                                  19   raised the issue and, in fact, the experts addressed the topic. The motion is granted.
+
+                                  20           With respect to three Rule 30(b)(6) witnesses, namely Felicia Chen, Nicholas Wakefield,
+
+                                  21   and Jessica Walton, the motion is DENIED. However, those witnesses are limited in their
+
+                                  22   testimony. They may only testify on the topics for which they were designated and shall make
+
+                                  23   clear whether the testimony is based on personal knowledge or personal investigation in their
+
+                                  24   corporate capacity. Those topics are already broad and the trial is upon us. (Dkt. No. 359-2 at 7-
+
+                                  25   12.) The Court rejects any request to broaden the scope of their testimony. Upon request, they
+
+                                  26   shall be made available for a half-day deposition each, which shall occur by July 17, 2026.
+
+                                  27
+                                               1
+                                  28               Meta has withdrawn the request to call Funda Kivran-Swaine. Dkt No. 3057 at 2:17-18.
+
+                                                                                          2
+                                       Case 4:22-md-03047-YGR             Document 3212         Filed 06/29/26      Page 3 of 6
+
+
+
+
+                                   1            4.   Joint Stipulations: The parties’ joint stipuations at Docket Nos. 360 (3108) and 390
+
+                                   2   (3149) are granted.
+
+                                   3            5.   Motion re Videotaping of Trial Testimony of M. Zuckerberg (Dkt. No. 376): By
+
+                                   4   way of background, the Court authorized the videotaping of the trial testimony of Mark Zuckerberg
+
+                                   5   to preserve the testimony specifically for use in other AG trials in this MDL. Further, the AGs
+
+                                   6   repeatedly argued that all of their individual states’ claims should be tried together because the
+
+                                   7   evidence was the same. The Court declined that invitation given the failure of the AGs to settle on
+
+                                   8   jury instructions with core issues identified across all claims.
+
+                                   9            Now, having seen the AGs’ actual trial plan and witness designations, and given the lack
+
+                                  10   of a binding jury trial, there is no need for successive trials repeating the same evidence. Thus,
+
+                                  11   there is no need to preserve on video Mr. Zuckerberg’s testimony for future AG proceedings and
+
+                                  12   the Court will not so order. This order does not apply to Mr. Zuckerberg’s testimony in non-AG
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   cases.
+
+                                  14            The AGs’ arguments do not persuade otherwise. If a retrial is required, and the record
+
+                                  15   need be expanded, the Court can order Mr. Zuckerberg to testify in person. Whether a jury hangs is
+
+                                  16   irrelevant as the Court will decide the issues in any event. Finally, impeachment can occur with a
+
+                                  17   transcript as is routine; a video is not necessary. Similarly, limits on executive’s testimony is also
+
+                                  18   routine. The fact that videotaping of trial testimony in Colorado may be routine does not bear on
+
+                                  19   proceedings in federal court. There is no genuine showing of prejudice.
+
+                                  20            6.   Remedies: The AGs were ordered to file and expand upon the disclosure of remedies
+
+                                  21   tables produced to Meta by Monday June 29, 2026 so that the Court can discern the nature and
+
+                                  22   calculation of remedies as to each claim being tried.
+
+                                  23            7.   The Court also allowed supplemental and targeted briefing on the issue of whether
+
+                                  24   the AGs are “miscounting violations” under California law and in support of the Rule 702 briefing
+
+                                  25   relative to Carl Saba. Meta may respond to the supplemental briefing by July 6, 2026.
+
+                                  26            8.   In Limine Evidentiary Stipulations: Lead trial counsel shall meet and confer on the
+
+                                  27   evidentiary stipulations.
+
+                                  28            9.   Testimony of Adam Alter: Lead trial counsel shall meet and confer on the trial
+                                                                                           3
+                                       Case 4:22-md-03047-YGR             Document 3212         Filed 06/29/26      Page 4 of 6
+
+
+
+
+                                   1   testimony of Adam Alter. The Court provided additional guidance regarding the limitations of his
+
+                                   2   testimony which must explicitly couple his expertise with any opinion. The parties shall also meet
+
+                                   3   and confer on the use of an appropriate phrase other than “directed” or “targeted” to address the
+
+                                   4   testimony relating to the extent, if any, of the focus of the platform on children.
+
+                                   5           10.   Sealing: The number of sealing motions is unreasonable and all requests are
+
+                                   6   presumptively denied. In the event that a genuine request exists for a document to be sealed, a
+
+                                   7   request may be filed no later than July 6, 2026 and lead trial counsel shall appear in person on
+
+                                   8   Wednesday, July 8 at 9:00 a.m. to address the request. The Court will not waste judicial resources
+
+                                   9   on these issues.2
+
+                                  10           11.   Further, the AGs shall produce an exhibit list which complies with this Court’s
+
+                                  11   standing order and which is not under seal.
+
+                                  12           12.   Deposition Designations: Here, again, lead trial counsel shall direct the issues with
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   respect to a protocol for deposition designations before the next trial conference. Pursuant to this
+
+                                  14   Court’s standing order, parties are advised that “the Court will not resolve more than six pages of
+
+                                  15   disputed excerpts (in total) and the parties must give the Court sufficient information to resolve the
+
+                                  16   dispute, including information on the deponent and any context for the dispute. However, the
+
+                                  17   parties can provide a representative sample to obtain guidance from the Court so that the parties
+
+                                  18   can resolve their disputes independently.” This representative sample is required to be part of the
+
+                                  19   pretrial filings. With respect to any other disputes during trial, the Court does not guarantee
+
+                                  20   advanced resolution. More time is better. It benefits all parties to agree on a protocol.
+
+                                  21           13.   Findings of Fact and Conclusions of Law: The parties have been ordered to file a
+
+                                  22   preliminary set of Findings of Fact and Conclusions of Law by no later than July 31,2026. This
+
+                                  23   filing should be significant and provide sufficient information so that deposition designations can
+
+                                  24   be substantially complete prior to trial. The parties shall organize the findings of fact and
+
+                                  25   conclusions of law first by claim, then by each element of each claim. To guide the format of the
+
+                                  26
+                                  27           2
+                                                That said, the Court will remain consistent in its prior orders to seal certain personal
+                                  28   identifying information.
+
+                                                                                           4
+                                       Case 4:22-md-03047-YGR            Document 3212         Filed 06/29/26      Page 5 of 6
+
+
+
+
+                                   1   filings, the parties may refer to the State AGs’ suggested jury verdict which essentially follows that
+
+                                   2   format.
+
+                                   3             This Order terminates Dkt. Nos. 3056, 3091, 3108, 3126 and 3149 in 22-cv-3047-YGR
+
+                                   4   and 344, 360, 376, 388, and 390 in 23-cv-5448-YGR.
+
+                                   5             IT IS SO ORDERED.
+
+                                   6   Dated: June 29, 2026
+
+                                   7                                                    ______________________________________
+                                                                                              YVONNE GONZALEZ ROGERS
+                                   8                                                     UNITED STATES DISTRICT COURT JUDGE
+                                   9
+
+                                  10
+
+                                  11
+
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13
+
+                                  14
+
+                                  15
+
+                                  16
+
+                                  17
+
+                                  18
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28
+                                                                                          5
+                                       Case 4:22-md-03047-YGR   Document 3212   Filed 06/29/26   Page 6 of 6
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4
+
+                                   5
+
+                                   6
+
+                                   7
+
+                                   8
+
+                                   9
+
+                                  10
+
+                                  11
+
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13
+
+                                  14
+
+                                  15
+
+                                  16
+
+                                  17
+
+                                  18
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28
+                                                                           6
+

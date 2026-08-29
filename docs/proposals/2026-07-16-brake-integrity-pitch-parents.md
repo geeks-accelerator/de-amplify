@@ -7,7 +7,8 @@ action: test the feed, report a dead brake, demand working brakes and a see-the-
 Format: gamma.app "Paste in Text" mode. Each `---` on its own line is a card break; `#` lines are card titles.
 Date: 2026-07-16. Companion to the policymaker deck (2026-07-16-brake-integrity-pitch-policymakers.md),
 the policy paper (2026-07-15-brake-integrity-standard.md), and the site (de-amplify.com).
-Facts as of 2026-07-16; litigation moves weekly.
+Facts as of 2026-07-16, litigation card refreshed 2026-08-28 after the states settled with Meta;
+litigation moves weekly.
 
 TO USE: In gamma.app choose "Paste in Text," then paste from the "# de-amplify" line below to the end.
 Do not paste this comment. No em dashes (de-amplify house style); every `---` is a slide separator.
@@ -109,11 +110,11 @@ For most feeds, it comes back. That is the whole problem in one test. Score your
 
 # You are not imagining it, and you are not alone
 
-This is in court now (as of July 2026):
+This has been to court, and it is winning (as of August 2026):
 
-- A New Mexico jury: **$375 million** against Meta over child safety.
+- A New Mexico court: a **$942 million** judgment against Meta over child safety, and a five-year order changing how minors' accounts work.
 - A California jury: **$6 million** against Meta and Google over addictive design.
-- A federal judge sent the states to trial against Meta, and found the company's own documents could support calling its time-limit tools a **"public relations stunt."**
+- A federal judge found Meta's own documents could support calling its time-limit tools a **"public relations stunt."** The states took Meta to trial on it, and Meta settled mid-trial for up to **$16.7 billion**, agreeing to default time limits for teens on Instagram and Facebook that only a parent can loosen.
 
 Lawmakers are moving too. The one thing still missing: a rule that the off-switch actually works.
 

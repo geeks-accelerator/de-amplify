@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **485 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **572 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
@@ -276,6 +276,97 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
 - `mdl-3047-2026-08-18-dkt550-civil-minutes.txt`: the court's Civil Minutes for the opening trial
   day. Small and load-bearing: it is the record that trial was held, that the session ran 5 hours
   17 minutes, and that the states' first witness was Arturo Bejar.
+- `mdl-3047-2026-06-29-ecf3212-pretrial-order-3.txt`, `mdl-3047-2026-07-13-ecf3258-joint-trial-stipulations.txt`,
+  `mdl-3047-2026-07-20-ecf3284-pretrial-order-6.txt`, `mdl-3047-2026-07-23-ecf3295-cmo-36.txt`: the four MDL
+  orders and stipulations that section (h) of the ledger had been **quoting since 2026-07-25 without any of
+  them being cached**. Read on the docket that day, cited by ECF number, never stored. Six real quotations of
+  real documents, none of them checkable, and the gap was invisible because section (h) was outside the
+  checker's `sections` scope. All four fetched from CourtListener/RECAP and cached 2026-08-28 when the scope
+  widened. Clean extractions. **Widening that scope immediately found two defects in those six spans**, both
+  recorded in the ledger: CMO 36's calendar caption is a *stacked block* (`Bellwether Trials:` over two dates)
+  that the ledger had quoted as a slash-joined single line, which is a reconstruction rather than a quotation;
+  and a span from the joint status report had its source em-dashes silently replaced with a comma to fit the
+  house style, inside the quotation marks.
+- `mdl-3047-2026-08-03-jpml-pending-actions.txt`, `mdl-3047-2026-07-01-jpml-pending-actions.txt`,
+  `mdl-3047-2026-06-01-jpml-pending-actions.txt`: the JPML Pending MDL Dockets by Actions Pending reports for
+  August 3, July 1 and June 1, 2026. August gives MDL 3047 as **3,137 pending / 3,312 historical**; July and
+  June carry the 2,893/3,068 and 2,664/2,839 the ledger has cited since mid-July, re-verified and finally
+  cached 2026-08-28 (they had been cited-but-not-cached, this folder's recurring sin). **Two access traps.**
+  The filename is dated by publication day, not the 1st: June and July are `June-1`/`July-1` but August is
+  `August-3`, so a guessed `August-1-2026` 404s and looks like "no report exists"; read the index at
+  `https://www.jpml.uscourts.gov/pending-mdls-0`, which names the current file. And **the host returns HTTP
+  404, not 403, to requests whose User-Agent is the bare token `Mozilla/5.0`** (200 to a full browser string
+  or to no User-Agent at all; isolated 2026-08-28 with a three-trial matrix). A 404 for a bot-scented UA is a
+  false absence, and it briefly produced two wrong explanations in this very folder, "the Panel rotates old
+  reports off the site" and "the host requires a Referer header", both retracted the same day: nothing
+  rotated, and the Referer had merely ridden along with the full UA that was the actual fix.
+- `mdl-3047-2026-08-17-ecf3407-joint-status-report.txt`: the Joint Status Report Pursuant to CMO 36, MDL ECF
+  3407, filed 2026-08-17, answering the court's question about the X Corp., Discord and Roblox cases (23, 13
+  and 6 respectively, most of them stayed and outside discovery). Fetched from RECAP and cached 2026-08-28.
+- `mdl-3047-2026-08-28-oklahoma-cj-2023-180-docket.txt`: a docket export for the **Oklahoma** satellite AG case,
+  *No. CJ-2023-180*, Osage County District Court, taken from the Oklahoma State Courts Network (OSCN) on
+  2026-08-28. Not a court PDF: OSCN serves the docket as HTML, and this cache is its 191 dated entry rows,
+  extracted and stored with a provenance header. **Two things to know before citing it.** OSCN's own banner
+  says the information is **not an official record**, so entries are cited as docket events and nothing more.
+  And **OSCN's linked documents are TIFF images with no text layer** (a `pdftotext` extraction of the 2026-08-26
+  joint motion returns zero characters against a passing control), so they are pointers to a place in a record,
+  never a text to quote, the same rule this folder applies to ASR and to the Dutch judgments. Cached because
+  this is the one satellite docket of the fifteen that a script can read at all, and it shows the settlement
+  arriving in a state court on the day the federal judgment was entered.
+- `mdl-3047-2026-08-26-dkt572-joint-motion.txt`: the **Joint Motion to Enter Consent Judgment**
+  itself, AG-case Dkt 572, 14 pages, filed 2026-08-26. Cached on the 2026-08-28 audit because the
+  ledger's claim 44 cited "the motion itself (primary, cached)" while only its Exhibit 1 (the
+  agreement, below) was actually in this folder: a citation that says cached must point at a file
+  that exists here, and for a few hours it did not. Clean extraction, no artifacts.
+- `mdl-3047-2026-08-26-dkt576-consent-judgment.txt`: **META AND STATE ATTORNEYS GENERAL CONSENT
+  JUDGMENT**, AG-case Dkt 576 / MDL ECF 3451, signed by Chief Judge Yvonne Gonzalez Rogers and
+  entered 2026-08-26. This is the document that ends the states' case: it approves the settlement
+  "in all respects", enters "as a final judgment under Fed. R. Civ. P. 54 and 58", waives both
+  sides' appeals, and disclaims establishing "a standard of care" anywhere outside the settling
+  states. Fetched from CourtListener/RECAP 2026-08-28. **Read the extraction note below on the
+  N.D. Cal. template**; this file is one of the two that exposed it.
+- `mdl-3047-2026-08-26-dkt572-1-settlement-agreement.txt`: the **fully executed settlement
+  agreement**, filed 2026-08-26 as Exhibit 1 to the Joint Motion to Enter Consent Judgment
+  (Dkt 572-1), 130 pages. Every term the site describes comes from here: Exhibit B's payment
+  schedule, the Phase I / Phase II time-management split, the "Contingent Monetary Payment Trigger",
+  the definition of "Core Industry Members" as Snap, TikTok and YouTube, the injunctive terms and
+  the release carve-outs. Fetched from CourtListener/RECAP 2026-08-28. **The California Department of Justice publishes
+  a copy alongside its release, and the two are the same document but not the same file**: equal
+  size (1,538,381 bytes), 46 differing bytes of PDF metadata, and `pdftotext -layout` output that
+  is line-for-line identical, which is the comparison that matters for this cache and the one
+  actually run. An earlier draft of this entry said "byte-identical" on the strength of the equal
+  sizes; hashing them showed otherwise, which is the difference between checking and assuming
+  wearing the word "checked". Extraction is clean: `pdftotext -layout`, no `Lbl` artifacts, no
+  TIFF markers, no ligatures.
+- `mdl-3047-2026-08-26-dkt575-trial-order-3.txt`: Trial Order No. 3, filed 2026-08-26. Four pages,
+  and the one that records the mechanics: the court suspended the trial, granted the motion, and
+  ordered that "the trial is deemed vacated, and the jury shall be advised that they are each
+  discharged immediately." Also on the N.D. Cal. template.
+- `mdl-3047-trial-minutes-2026-08-19-to-08-26-combined.txt`: the Civil Minutes for the remaining
+  trial days, AG-case Dkt 560 (Aug 19), 561 (Aug 20), 571 (Aug 24), 573 (Aug 25) and 574 (Aug 26),
+  concatenated with `================ CIVIL MINUTES: AG-case docket entry <n> ================`
+  separators in the same style as the combined testimony files above. Together with Dkt 550 they
+  are the complete trial record: four days of evidence, one status conference, five witnesses, and
+  the 49-minute session at which the trial stopped. Fetched 2026-08-28.
+- `tennessee-2026-08-26-ag-settlement-release.txt`: the Tennessee Attorney General's press release
+  pr26-33, "Attorney General Skrmetti Announces Largest Big Tech Settlement in History",
+  2026-08-26, extracted from the page HTML and trimmed to the release body. The primary for
+  Tennessee's own account of the settlement that ended its Nashville trial: the $751,922,691.13
+  figure (which the release renders with a stray doubled dollar sign, "$ $751,922,691.13",
+  preserved because the cache is verbatim), the Children's Digital Protection Fund destination,
+  and the sentence placing the agreement at the end of "a lengthy trial against Meta in front of
+  Davidson County Chancellor Russell T. Perkins". Registered under `tennessee-v-meta` in
+  `npm run check:quotes` alongside the settlement agreement cache, which that ledger's section (g)
+  also quotes; one cache file serving two ledgers is deliberate and the checker verifies both
+  against the same bytes.
+- `mdl-3047-2026-08-26-ca-ag-settlement-release.txt`: the California Attorney General's press
+  release announcing the settlement, 2026-08-26, extracted from the page HTML and trimmed to the
+  headline and release body (the site chrome is not the record). Cached because the ledger quotes
+  it **against itself**: it describes a "proposed settlement, which remains subject to court
+  approval through entry of a consent judgment", which was true when written and was overtaken by
+  Dkt 576 the same day. It is also the source for the "bipartisan coalition of 51 attorneys
+  general" count and for the roster naming Michigan, Georgia, Missouri and North Dakota, the four
+  states that had withdrawn from the coalition in January 2025.
 - `mdl-3047-2026-08-10-ca9-24-7032-collateral-order-opinion.txt`: the Ninth Circuit's **published**
   opinion in *People of the State of California v. Meta Platforms, Inc.*, No. 24-7032, filed
   2026-08-10 and docketed in the trial court as entry 541 (MDL ECF 3398). Dismisses Meta's and

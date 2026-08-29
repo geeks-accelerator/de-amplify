@@ -11,7 +11,7 @@ import { contentDate } from "@/lib/contentDate";
 const TITLE = "State of Tennessee v. Meta: the Broken Tool That Stayed";
 // Verbatim from the case ledger's TLDR "search snippet" surface (ledger-first).
 const DESCRIPTION =
-  "Tennessee's case against Meta went to a jury in July 2026 over Instagram's \"Time Spent\" tools, which the State says Meta knew were inaccurate and kept anyway.";
+  "Tennessee tried Meta before a Nashville jury over Instagram's \"Time Spent\" tools, until the August 2026 multistate settlement ended the trial mid-evidence.";
 const PATH = "/lawsuits/tennessee-v-meta";
 
 export const metadata: Metadata = {
@@ -45,7 +45,7 @@ export default function TennesseeVMetaPage() {
     headline: "State of Tennessee v. Meta: the broken tool that stayed",
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "Tennessee sued Meta and Instagram in October 2023 under the state Consumer Protection Act, and in July 2026 became the first case to put before a jury the allegation that Meta promoted a time-management tool it knew was giving users inaccurate numbers, and declined to remove it because losing its only addiction-related feature was judged the bigger risk.",
+      "Tennessee sued Meta and Instagram in October 2023 under the state Consumer Protection Act, became in July 2026 the first case to put before a jury the allegation that Meta kept a time-management tool it knew was giving users wrong numbers, and ended without a verdict on August 26, 2026, when the multistate settlement swept in the Nashville trial mid-evidence.",
     url: `https://de-amplify.com${PATH}`,
     image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-25",

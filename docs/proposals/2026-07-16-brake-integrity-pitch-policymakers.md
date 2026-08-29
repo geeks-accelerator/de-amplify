@@ -7,7 +7,8 @@ defensible fix (a user-held brake, including a brake over the recommendation sig
 Format: gamma.app "Paste in Text" mode. Each `---` on its own line is a card break; `#` lines are card titles.
 Date: 2026-07-16. Companion to the policy paper (docs/proposals/2026-07-15-brake-integrity-standard.md),
 the experimental appendix (/notes, where the mandated wedge-label lives as research), and the litigation
-explainer (/lawsuits). Facts as of 2026-07-16; litigation moves weekly.
+explainer (/lawsuits). Facts as of 2026-07-16, litigation table refreshed 2026-08-28 after the
+states settled with Meta; litigation moves weekly.
 
 TO USE: In gamma.app choose "Paste in Text," then paste from the "# de-amplify" line below to the end.
 Do not paste this comment. No em dashes (de-amplify house style); every `---` is a slide separator.
@@ -69,13 +70,15 @@ The reframe moves to something measurable and already inside consumer-protection
 
 Whether the platform's own brakes work is now litigated evidence, not a metaphor.
 
-| Case (as of July 16, 2026) | Where it stands |
+| Case (as of August 28, 2026) | Where it stands |
 |---|---|
-| MDL 3047 (federal) | ~2,893 suits; a June 29 summary-judgment order sent the states' claims to an August trial against Meta |
+| MDL 3047 (federal) | 3,137 suits; the states' trial against Meta ended August 26, 2026 in an entered consent judgment: up to $16.68 billion over ten years, default teen time limits on Instagram and Facebook, no admission of liability; the personal-injury and school-district tracks continue |
 | K.G.M. v. Meta and Google (California) | $6 million jury verdict for negligent design, on appeal |
-| New Mexico v. Meta | $375 million verdict; a judge is weighing a roughly $953 million order that would change the product |
+| New Mexico v. Meta | $942 million final judgment (August 6, 2026): the $375 million jury verdict plus a $567 million abatement fund and a five-year order on minors' accounts; no relief against the algorithm |
 
 In the federal order, the court found Meta's own documents could support the theory that its time-limit tools were a "public relations stunt."
+
+And note what the settlement itself concedes: it writes a default two-hour limit and an overnight block into an enforceable order, proving the brake is buildable, then states that nothing in it may "establish a standard of care" outside the settling states. The industry-wide rule is still nobody's obligation. That rule is this proposal.
 
 ---
 

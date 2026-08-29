@@ -11,7 +11,7 @@ import Toc from "@/components/Toc";
 
 const TITLE = "Social Media Addiction Lawsuits, Explained (2026)";
 const DESCRIPTION =
-  "Inside MDL 3047 and the state lawsuits against Meta, TikTok, YouTube, and Snap: New Mexico's $942M judgment, the Oakland trial now underway, and what should change.";
+  "Inside MDL 3047 and the state lawsuits against Meta, TikTok, YouTube, and Snap: New Mexico's $942M judgment, the consent judgment that ended the Oakland trial, and what should change.";
 const PATH = "/lawsuits";
 
 export const metadata: Metadata = {
@@ -42,7 +42,7 @@ const FAQ_JSON_LD = {
       name: "How many social media addiction lawsuits are there against Meta, and are they one case?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "They are six distinct proceedings across three legal systems, not one: the federal MDL 3047 in Oakland (personal-injury, school-district, and state-attorney-general claims), the California state-court coordination JCCP 5255 in Los Angeles (the K.G.M. bellwether), the standalone State of New Mexico v. Meta enforcement case in Santa Fe, the State of Tennessee v. Meta consumer-protection trial in Nashville, the European Commission's Digital Services Act investigation in Brussels, and Bits of Freedom v. Meta in Amsterdam, where a Dutch court has already ordered Meta to make a chosen non-profiled feed persist when the user closes and reopens the app. They share defendants and evidence, but a verdict in one does not decide the others, and a Dutch order binds nothing in an American court.",
+        text: "They are six distinct proceedings across three legal systems, not one: the federal MDL 3047 in Oakland (personal-injury, school-district, and state-attorney-general claims), the California state-court coordination JCCP 5255 in Los Angeles (the K.G.M. bellwether), the standalone State of New Mexico v. Meta enforcement case in Santa Fe, the State of Tennessee v. Meta consumer-protection case in Nashville (tried to a jury in the summer of 2026 and ended without a verdict by the August 26, 2026 settlement), the European Commission's Digital Services Act investigation in Brussels, and Bits of Freedom v. Meta in Amsterdam, where a Dutch court has already ordered Meta to make a chosen non-profiled feed persist when the user closes and reopens the app. They share defendants and evidence, but a verdict in one does not decide the others, and a Dutch order binds nothing in an American court.",
       },
     },
     {
@@ -66,7 +66,15 @@ const FAQ_JSON_LD = {
       name: "What is the $1.4 trillion figure in the Meta lawsuit?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "It is Meta's own estimate, disclosed in a July 2026 filing, of its theoretical maximum statutory exposure under four states' proposed penalty counting (a per-violation maximum times a very large count of violations). Meta calls the demanded remedies entirely unmoored. It is a ceiling Meta itself computed, not an amount the states have asked for: their own reply of July 13, 2026 states no total and says they will present final requests for monetary relief at trial. It is not a judgment, a settlement, or an amount any court has endorsed.",
+        text: "It is Meta's own estimate, disclosed in a July 2026 filing, of its theoretical maximum statutory exposure under four states' proposed penalty counting (a per-violation maximum times a very large count of violations). Meta calls the demanded remedies entirely unmoored. It is a ceiling Meta itself computed, not an amount the states have asked for: their own reply of July 13, 2026 states no total and says they will present final requests for monetary relief at trial. It is not a judgment, a settlement, or an amount any court has endorsed, and no court ever ruled on it: the trial ended in a consent judgment on August 26, 2026, before the states presented any request for money.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Did Meta settle the state attorneys general case, and what does the settlement require?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes. On August 26, 2026, four days into evidence at the federal trial in Oakland, the court entered a consent judgment resolving the claims of 51 states, commonwealths and territories. Exhibit B to the settlement sets a maximum of $16,680,647,753.21 over ten annual installments, of which $11,656,621,745.60 is guaranteed and $5,024,026,007.70 is contingent and reverts to Meta unless Snap, TikTok and YouTube become bound to equivalent teen time-management obligations; a $75 million cost fund and a $459,293,017.80 Cambridge Analytica-era component paid to 48 of the settling states bring the arithmetic maximum to about $17.2 billion. Meta must give teen accounts a default two-hour daily limit across Instagram and Facebook (messaging excluded) and a default overnight block from midnight to 6 a.m., changeable only by a parent, hide like and reaction counts by default, disable cosmetic-procedure filters, and offer a non-personalized feed. The agreement also ends fifteen parallel state-court attorney-general cases it lists by name, including Tennessee's Nashville trial, which was mid-evidence. The judgment records no admission of liability and states that nothing in it establishes a standard of care or serves as precedent outside the settling states. The personal-injury and school-district tracks of MDL 3047 continue, as do the cases against Google, TikTok and Snap.",
       },
     },
     {

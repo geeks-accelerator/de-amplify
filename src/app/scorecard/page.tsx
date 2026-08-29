@@ -80,6 +80,17 @@ export default function ScorecardPage() {
             it in your own hand.
           </p>
 
+          <p className="mt-4 text-[15px] leading-[1.75] text-bone/55">
+            Since August 26, 2026 this test is no longer hypothetical: the consent judgment that
+            settled the states&apos; case against Meta writes a teen brake with most of these
+            properties into an enforceable order, and then states that it is not a standard for
+            anyone else.{" "}
+            <Link href="/lawsuits/mdl-3047" className="text-signal underline decoration-signal/40 underline-offset-4 hover:text-signal">
+              The order, run against these seven
+            </Link>
+            .
+          </p>
+
           {/* the seven dimensions */}
           <section className="mt-12">
             <h2 className="font-mono text-[10px] uppercase tracking-widest2 text-bone/50">

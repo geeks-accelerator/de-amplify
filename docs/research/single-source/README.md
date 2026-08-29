@@ -486,3 +486,25 @@ control the file would have been recorded as not mentioning what it was named fo
 returned the previous query's results from cache, under the new URL. The page title still showed
 the old query. **Confirm the page actually reloaded before treating its content as a response to
 your question.**
+
+## 2026-08-28: the pass where this pipeline was correctly skipped
+
+The seventeen files here distil the coverage of one event, the opening of the states' trial on
+2026-08-18. That trial ended eight days later in a consent judgment, and **the settlement was
+distilled without using this pipeline at all**. The reason is worth recording, because it defines
+when this method earns its cost.
+
+This corpus exists as a bridge for the case where **primaries are slow and coverage is fast**: on
+2026-08-18 the docket carried civil minutes and little else, the substance was in a press conference
+and in reporters' accounts, and tagging that coverage was the only disciplined way to know what was
+claimed versus what was established. The settlement was the opposite case. The executed agreement,
+the consent judgment and the trial order were all on the docket **the same day**, and the California
+and Tennessee attorneys general published their releases within hours. Coverage was consulted only
+to locate the primaries and, later, as evidence of one specific thing: that five outlets of
+comparable standing reported five different totals, which is now a tiered claim in the MDL ledger
+rather than an input to it.
+
+So the rule this corpus implies is not "distil coverage of every major event". It is: **distil
+coverage when it is the only available account, and go straight to the record when the record is
+already open.** A pass that runs this pipeline over same-day-primary events is doing careful work on
+the wrong document.

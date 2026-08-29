@@ -120,9 +120,52 @@ const LEDGERS = {
       // saying no checker read it. Registering it here ends that: the ledger now
       // quotes it, so the quotation is verified like every other.
       "ca9-2026-08-17-doe-1-v-meta-24-1672-rehearing-denied.txt",
+      // Added 2026-08-28 with section (k), the settlement. The consent judgment and
+      // the executed agreement are the two most consequential documents in this
+      // ledger and both are now quoted from directly.
+      "mdl-3047-2026-08-26-dkt572-joint-motion.txt",
+      "mdl-3047-2026-08-26-dkt576-consent-judgment.txt",
+      "mdl-3047-2026-08-26-dkt572-1-settlement-agreement.txt",
+      "mdl-3047-2026-08-26-dkt575-trial-order-3.txt",
+      "mdl-3047-trial-minutes-2026-08-19-to-08-26-combined.txt",
+      "mdl-3047-2026-08-26-ca-ag-settlement-release.txt",
+      // Added 2026-08-28 with claims 31a and 32a, which are in section (h). That
+      // section had never been scoped in, because when the scope was written (h)
+      // quoted only uncached docket text. It now quotes two cached primaries, so
+      // it goes in with them. THIS IS THE THIRD TIME the "scope written when the
+      // cache was added, never re-read when the ledger grew" failure has hit this
+      // exact ledger; see CLAUDE.md. The lesson is not being learned by writing it
+      // down, so: when adding a cache, grep the ledger for every section that
+      // quotes it, not the section you had in mind.
+      // The four orders section (h) had been QUOTING since 2026-07-25 without any
+      // of them being cached. Widening the scope to (h) is what surfaced that:
+      // six real quotations of real documents, none of them checkable. Cached
+      // 2026-08-28. "A citation is not a cache" for the second time in this
+      // ledger, and the first time it was found by a checker rather than by hand.
+      "mdl-3047-2026-06-29-ecf3212-pretrial-order-3.txt",
+      "mdl-3047-2026-07-13-ecf3258-joint-trial-stipulations.txt",
+      "mdl-3047-2026-07-20-ecf3284-pretrial-order-6.txt",
+      "mdl-3047-2026-07-23-ecf3295-cmo-36.txt",
+      "mdl-3047-2026-08-17-ecf3407-joint-status-report.txt",
+      "mdl-3047-2026-08-03-jpml-pending-actions.txt",
+      "mdl-3047-2026-07-01-jpml-pending-actions.txt",
+      "mdl-3047-2026-06-01-jpml-pending-actions.txt",
+      "mdl-3047-2026-08-28-oklahoma-cj-2023-180-docket.txt",
     ],
     allowlist: "mdl-3047-quote-allowlist.txt",
-    sections: ["(e) Money / exposure", "(i) The trial itself, day one", "(j) The appellate track"],
+    // SCOPE. Widened 2026-08-28 to add (k). Read the note in CLAUDE.md before
+    // touching this array: scoping is this checker's own blind spot and it has
+    // hidden real defects in this exact ledger twice, both times because the
+    // scope was written when a cache was added and never re-read when the ledger
+    // grew. (k) is the largest section this record has ever gained and it is
+    // quoted almost entirely from primaries, so it goes in with the caches.
+    sections: [
+      "(e) Money / exposure",
+      "(h) Pretrial rulings and the trial schedule",
+      "(i) The trial itself, day one",
+      "(j) The appellate track",
+      "(k) The settlement",
+    ],
   },
   // California, registered 2026-08-18, taking the unguarded ledger count to ZERO.
   // The scope is deliberately tiny and the reason is the finding: CALIFORNIA
@@ -153,9 +196,22 @@ const LEDGERS = {
   // CACHE, which is a first for this script. See the Lbl note in the deviations
   // list below and in sources/README.md.
   "tennessee-v-meta": {
-    sources: ["tennessee-2023-10-24-unredacted-complaint.txt", "tennessee-2024-03-13-mtd-order.txt"],
+    sources: [
+      "tennessee-2023-10-24-unredacted-complaint.txt",
+      "tennessee-2024-03-13-mtd-order.txt",
+      // Added 2026-08-28 with section (g): the settlement that ended the trial.
+      // The agreement cache is shared with the mdl-3047 registration, which is
+      // deliberate: one cache file, two ledgers quoting it, both verified against
+      // the same bytes. The TN release is this ledger's own.
+      "mdl-3047-2026-08-26-dkt572-1-settlement-agreement.txt",
+      "tennessee-2026-08-26-ag-settlement-release.txt",
+    ],
     allowlist: "tennessee-quote-allowlist.txt",
-    sections: ["(b) The control-integrity count", "(c) What the court has actually decided"],
+    sections: [
+      "(b) The control-integrity count",
+      "(c) What the court has actually decided",
+      "(g) The settlement that ended the trial",
+    ],
   },
   "new-mexico-v-meta": {
     // Two caches: the judgment, and the FTC release the judgment discusses. The
@@ -256,7 +312,19 @@ function normalize(s) {
     .replace(/[ﬀ-ﬄ]/g, (c) => LIGATURES[c]) // 4: ligatures
     .replace(/[‘’‛]/g, "'") // 1: curly apostrophes
     .replace(/[“”]/g, '"') // 1: curly quotes
-    .replace(/^[ \t]{0,8}\d{1,2}[ \t]{2,}/gm, "") // 5: court-filing line numbers
+    // 5: court-filing line numbers. The leading-whitespace allowance used to be
+    // {0,8}, which assumed the number sits near the left margin. It does in a GPO
+    // transcript and in a party filing. It does NOT in an order written on the
+    // Northern District of California's own template: that page carries a rotated
+    // "United States District Court / Northern District of California" caption in
+    // the left margin, and pdftotext -layout lays it out ahead of the line number,
+    // pushing the digits out past column 30. Dkt 575 and Dkt 576 (the trial order
+    // vacating the trial, and the consent judgment itself) are both on that
+    // template, so with the old bound every quotable sentence in them longer than
+    // one printed line failed with a line number injected mid-sentence, which reads
+    // exactly like a fabricated quote. Widened 2026-08-28; verified the same day
+    // that all 485 spans then in the corpus still verify unchanged.
+    .replace(/^[ \t]*\d{1,2}[ \t]{2,}/gm, "")
     .replace(/-\s+/g, "-") // 3: GPO hyphenated line wraps
     .replace(/\s+/g, " ")
     .trim();
@@ -343,6 +411,18 @@ function selfTest() {
   const asrRe = /-asr\.txt$/;
   if (!asrRe.test("ag-press-conference-2026-08-18-asr.txt")) failed.push("asr quarantine: failed to flag an -asr.txt source");
   if (asrRe.test("mdl-3047-2026-08-18-dkt550-civil-minutes.txt")) failed.push("asr quarantine: wrongly flagged an ordinary cache");
+  // The line-number bound, in both directions. The first case is a court order on
+  // the N.D. Cal. template, where the marginal caption pushes the line number past
+  // column 30; narrowing the bound again would make it fail. The second is the
+  // guard against over-stripping: a numbered list item keeps its number, because
+  // "2." is digits followed by a period, not digits followed by whitespace.
+  const sidebar = "                                  16   order. Upon filing, judgment shall be entered, the trial is\n                                  17   deemed vacated.";
+  if (!normalize(sidebar).includes("Upon filing, judgment shall be entered, the trial is deemed vacated.")) {
+    failed.push("line numbers: a court order on the N.D. Cal. template did not normalize");
+  }
+  if (!normalize("       2.   Meta shall make payments").includes("2.   Meta shall make payments".replace(/\s+/g, " "))) {
+    failed.push("line numbers: over-stripped a numbered list item");
+  }
   return failed;
 }
 

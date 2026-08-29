@@ -1,0 +1,596 @@
+                                       Case 4:22-md-03047-YGR             Document 3451        Filed 08/26/26     Page 1 of 9
+
+
+
+
+                                  1
+
+                                  2
+                                                                     UNITED STATES DISTRICT COURT
+                                  3
+                                                                  NORTHERN DISTRICT OF CALIFORNIA
+                                  4
+
+                                  5
+
+                                  6     IN RE: SOCIAL MEDIA ADOLESCENT                    MDL No. 3047
+                                        ADDICTION/PERSONAL INJURY
+                                  7     PRODUCTS LIABILITY LITIGATION                     Case Nos. 4:22-md-03047-YGR
+                                  8                                                                 4:23-cv-05448-YGR
+                                       THIS DOCUMENT RELATES TO:
+                                  9                                                       META AND STATE ATTORNEYS
+                                       People of the State of California, et al. v.       GENERAL CONSENT JUDGMENT
+                                  10   Meta Platforms, Inc., et al.
+                                  11
+Northern District of California
+
+
+
+
+                                  12
+ United States District Court
+
+
+
+
+                                              WHEREAS, Plaintiffs, State of Arizona, ex rel. Kris Mayes, Attorney General; the People
+                                  13
+                                       of the State of California, by Rob Bonta, Attorney General; State of Colorado, ex rel. Philip J.
+                                  14
+                                       Weiser, Attorney General; State of Connecticut; State of Delaware, ex rel. Kathleen Jennings,
+                                  15
+                                       Attorney General of the State of Delaware; State of Hawai‘i, ex rel. Anne E. Lopez, Attorney
+                                  16
+
+                                  17
+                                       General; State of Idaho, through Attorney General Raúl R. Labrador; the People of the State of
+
+                                  18   Illinois, by Kwame Raoul, Attorney General; State of Indiana; State of Kansas, ex rel. Kris W.
+
+                                  19   Kobach, Attorney General; the Commonwealth of Kentucky, by Russell Coleman, Attorney
+
+                                  20   General; State of Louisiana; State of Maine; Office of the Attorney General of Maryland; State of
+
+                                  21   Minnesota, by its Attorney General, Keith Ellison; State of Nebraska ex rel. Michael T. Hilgers,
+                                  22   Attorney General; Jennifer Davenport, Attorney General for the State of New Jersey, and
+                                  23   Christopher L. Peterson, Acting Director of the New Jersey Division of Consumer Affairs; the
+                                  24   People of the State of New York, by Letitia James, Attorney General of the State of New York;
+                                  25   State of North Carolina, ex rel. Jeff Jackson, Attorney General; State of Ohio, ex rel. Attorney
+                                  26
+                                       General D. Andrew Wilson; State of Oregon ex rel. Dan Rayfield, Attorney General for the State of
+                                  27
+                                       Oregon; Commonwealth of Pennsylvania by Attorney General Dave Sunday; State of Rhode
+                                  28
+                                       Island; State of South Carolina, ex. rel. Alan M. Wilson, in his official capacity as Attorney General
+                                       Case 4:22-md-03047-YGR             Document 3451        Filed 08/26/26      Page 2 of 9
+
+
+
+
+                                  1    of the State of South Carolina; State of South Dakota ex rel. Marty J. Jackley, South Dakota
+                                  2    Attorney General; Commonwealth of Virginia, ex rel. Jay Jones, Attorney General; State of
+                                  3    Washington, ex rel. Nicholas W. Brown, Attorney General; State of West Virginia, ex rel. John B.
+                                  4    McCuskey, Attorney General; and State of Wisconsin (collectively “Plaintiffs” or “States”)1 filed a
+                                  5
+                                       complaint (the “Complaint”) in this action on October 24, 2023, against Meta Platforms, Inc. (the
+                                  6
+                                       “Defendant”) and others who have since been dismissed from the action.
+                                  7
+                                               WHEREAS, Plaintiffs allege in relevant part that the Defendant used its technology and
+                                  8
+                                       Social Media Platforms, Facebook and Instagram, to entice, engage, and ultimately ensnare youth
+                                  9
+                                       and teens. The Plaintiffs allege that Defendant has repeatedly misled the public about the dangers
+                                  10
+                                       of its Platforms and ignored the damages these Platforms have caused to the mental and physical
+                                  11
+                                       wellbeing of America’s youth, thereby engaging in deceptive and unlawful conduct in violation of
+                                  12
+Northern District of California
+
+
+
+
+                                       state law, and that Defendant violated the Children’s Online Privacy Protection Act (“COPPA”)
+ United States District Court
+
+
+
+
+                                  13
+                                       through its collection and use of data from young residents of Plaintiff states;
+                                  14
+
+                                  15
+                                               WHEREAS, Meta denies the allegations against it and that it has any liability to the
+
+                                  16   Plaintiffs;
+
+                                  17           WHEREAS, Plaintiffs and Defendant (each a “Party,” and together the “Parties”) intend to
+
+                                  18   resolve the claims alleged in the Complaint through the entry of a Consent Judgment based on a
+
+                                  19   Settlement Agreement among the Parties, and additional states, concerning the conduct alleged in
+                                  20   the Complaint and similar actions, in which, among other things, Meta commits to establishing
+                                  21   daily limits and blocks on nighttime use for teenage users of the Defendant’s Social Media
+                                  22   Platforms, enhanced age assurance measures to prevent children from accessing the platform, or
+                                  23   age restricted content available on the platform, and requiring additional tools to help parents and
+                                  24
+                                       guardians to protect their children online, and requires Defendant to make payments to Plaintiffs as
+                                  25
+                                       set forth herein;
+                                  26
+
+                                  27
+                                               1
+                                  28            Defendant is contemporaneously entering into similar consent judgments with attorneys
+                                       general throughout the United States.
+
+                                                                                          2
+                                       Case 4:22-md-03047-YGR             Document 3451         Filed 08/26/26      Page 3 of 9
+
+
+
+
+                                  1            WHEREAS, the Parties have agreed to resolve the claims alleged in the Complaint without
+                                  2    the need for further litigation through this Consent Judgment;
+                                  3            WHEREAS, this Consent Judgment (referred to herein as the “Consent Judgment”) settles
+                                  4    and resolves Defendant’s alleged violations of state and federal law as more fully described in the
+                                  5
+                                       operative complaint in this action including by providing certain injunctive and monetary terms to
+                                  6
+                                       the Plaintiffs;
+                                  7
+                                               NOW, THEREFORE, without the final adjudication of issues of fact and law, and with the
+                                  8
+                                       consent of the Parties, IT IS HEREBY ADJUDGED, ORDERED, AND DECREED as follows:
+                                  9
+                                       I.      JURISDICTION AND VENUE
+                                  10
+                                               A. The States are represented by their Attorneys General.
+                                  11
+                                               B. The States bring this action pursuant to the authority conferred on them by applicable
+                                  12
+Northern District of California
+
+
+
+
+                                       federal and state law. The States are authorized by the Children’s Online Privacy Protection Act of
+ United States District Court
+
+
+
+
+                                  13
+                                       1998 (“COPPA”) to bring actions to enforce COPPA’s provisions. 15 U.S.C. § 6504(a)(1).
+                                  14
+
+                                  15
+                                       Pursuant to 15 U.S.C. § 6504(a)(2), the States notified the Federal Trade Commission (“FTC”) of
+
+                                  16   this action. The States are also authorized by their Unfair and Deceptive Acts and Practices statutes
+
+                                  17   (the “UDAP Statutes”) to enforce such statutes. These UDAP Statutes authorize the States to seek
+
+                                  18   injunctive and other equitable relief, as well as, in some states, other remedies including restitution,
+
+                                  19   disgorgement, civil penalties, declaratory relief, attorneys’ fees, expenses, and costs.
+                                  20           C. The Defendant is Meta Platforms, Inc. (the “Defendant”).
+                                  21           D. The Parties agree that the Court has jurisdiction over the subject matter of the Action and
+                                  22   over the Parties with respect to the Action and this Consent Judgment. This Judgment shall not be
+                                  23   construed or used as a waiver of any jurisdictional defense Meta or any other Released Party may
+                                  24
+                                       raise in any other proceeding. Defendant reserves its right to challenge venue or jurisdiction in any
+                                  25
+                                       matter that does not arise from the entry, enforcement, or modification of the Stipulation and
+                                  26
+                                       Judgment.
+                                  27
+                                               ///
+                                  28
+
+
+
+                                                                                          3
+                                       Case 4:22-md-03047-YGR             Document 3451         Filed 08/26/26      Page 4 of 9
+
+
+
+
+                                  1    II.    LEGAL STANDARD AND ANALYSIS
+                                  2           Approval of a proposed consent decree is within the sound discretion of the Court. United
+                                  3    States v. Oregon, 913 F.2d 576, 580 (9th Cir. 1990); SEC v. Randolph, 736 F.2d 525, 529 (9th Cir.
+                                  4    1984). It is well-settled that the Court may approve a consent decree if it determines that “it is fair,
+                                  5
+                                       reasonable and equitable and does not violate the law or public policy.” Turtle Island Restoration
+                                  6
+                                       Network v. U.S. Dep't of Com., 672 F.3d 1160, 1165 (9th Cir. 2012). The Court must “be satisfied
+                                  7
+                                       that the decree represents a ‘reasonable factual and legal determination’” Oregon, 913 F.2d at 581,
+                                  8
+                                       independently scrutinize a proposed consent judgment's terms, and “eschew any rubber stamp
+                                  9
+                                       approval.” United States v. Montrose Chem. Corp. of Cal., 50 F.3d 741, 747 (9th Cir. 1995); see
+                                  10
+                                       also Local No. 93, Int'l Ass'n of Firefighters v. City of Cleveland, 478 U.S. 501, 525 (1986) (“[A]
+                                  11
+                                       federal court is more than a recorder of contracts from whom parties can purchase injunctions; it is
+                                  12
+Northern District of California
+
+
+
+
+                                       an organ of government constituted to make judicial decisions.”).
+ United States District Court
+
+
+
+
+                                  13
+                                              The Court has considerable experience with the legal and factual underpinnings of this
+                                  14
+
+                                  15
+                                       action, including the strengths and weaknesses of each party’s arguments and factual proffers.
+
+                                  16   Given the disputes regarding the precise statutory meaning of COPPA, the Court does not find on
+
+                                  17   this record that the Settlement Agreement violates its terms, nor does it violate any other law or
+
+                                  18   public policy raised before the Court. Rather, the fundamental concerns driving this litigation are
+
+                                  19   technologically complex, as are the public policies attempting to regulate corporate conduct,
+                                  20   especially conduct which impacts adolescents. The Court finds that the Settlement Agreement
+                                  21   between the parties reflects a fair, reasonable, comprehensive, and good faith approach not only to
+                                  22   provide monetary relief, but importantly, to change conduct in a way that attempts to meaningfully
+                                  23   address the negative impacts of the social media platforms at issue. Further, given the rapidly
+                                  24
+                                       changing technology, the ability for parties to work collectively, with the assistance of independent
+                                  25
+                                       experts, is a much more efficient use of resources. Accordingly, the Court approves the Settlement
+                                  26
+                                       Agreement as set forth herein.
+                                  27
+                                              ///
+                                  28
+
+
+
+                                                                                          4
+                                       Case 4:22-md-03047-YGR            Document 3451         Filed 08/26/26      Page 5 of 9
+
+
+
+
+                                  1    III.   APPLICABILITY
+                                  2           A. This Consent Judgment incorporates all terms of the Agreement in their entirety to the
+                                  3    extent they pertain to the Parties as defined above. Where there is any conflict between this Consent
+                                  4    Judgment and the Agreement, the term or terms of the Agreement shall control.
+                                  5
+                                              B. Nothing in this Consent Judgment, or the Agreement, shall create or give rise to a private
+                                  6
+                                       right of action of any kind or create any right in a non-party to enforce any aspect of this Consent
+                                  7
+                                       Judgment or the Agreement or claim any legal or equitable injury for a violation of this Consent
+                                  8
+                                       Judgment or the Agreement. The exclusive right to enforce any violation or breach of this Consent
+                                  9
+                                       Judgment shall be with the Parties to this Consent Judgment and the Court.
+                                  10
+                                              C. The obligations of this Consent Judgment apply to and are binding upon the Plaintiffs
+                                  11
+                                       and Defendant, and any of their respective successors, assigns, or other entities or persons
+                                  12
+Northern District of California
+
+
+
+
+                                       otherwise bound by law.
+ United States District Court
+
+
+
+
+                                  13
+                                              D. Defendant shall do all things within its power and authority to ensure that any legal
+                                  14
+
+                                  15
+                                       successor or assign of Defendant shall remain jointly and severally liable for the payment and other
+
+                                  16   performance obligations hereunder. Defendant shall include an agreement to so remain liable in the
+
+                                  17   terms of any sale, acquisition, merger, or other transaction changing the ownership or control of the
+
+                                  18   Defendant, to which any of them is a party, and no change in the ownership or control of Defendant
+
+                                  19   shall affect the obligations hereunder of Defendant without modification of this Consent Judgment.
+                                  20          E. No Party may assign or otherwise convey any right to enforce any provision of this
+                                  21   Consent Judgment or the Agreement.
+                                  22          F. Defendant shall provide a copy of this Consent Judgment to the members of its Board of
+                                  23   Directors and its executives whose duties might reasonably include compliance with, or oversight
+                                  24
+                                       over compliance with, any provision of this Consent Judgment. Defendant shall also ensure that the
+                                  25
+                                       terms of this Consent Judgment and the Agreement are duly communicated to any of its
+                                  26
+                                       contractors, agents, and employees to the extent that their duties include compliance with any
+                                  27
+                                       provision of the Consent Judgment and the Agreement.
+                                  28
+
+
+
+                                                                                         5
+                                       Case 4:22-md-03047-YGR             Document 3451         Filed 08/26/26      Page 6 of 9
+
+
+
+
+                                  1           G. In any action to enforce this Consent Judgment, Defendant shall not raise as a defense
+                                  2    the failure by any of its respective officers, directors, employees, agents, or contractors to take any
+                                  3    actions necessary to comply with the provisions of this Consent Judgment.
+                                  4    IV.    DEFINITIONS
+                                  5
+                                              The definitions set forth in the Agreement (a copy of which is attached hereto as Exhibit A)
+                                  6
+                                       are incorporated herein by reference into this Consent Judgment. The States are “Settling States”
+                                  7
+                                       within the meaning of the Agreement. Unless otherwise defined herein, capitalized terms in this
+                                  8
+                                       Consent Judgment shall have the same meaning given to them in the Agreement.
+                                  9
+                                       V.     VOLUNTARY ACT OF THE PARTIES
+                                  10
+                                              Each Party warrants and represents that it negotiated the terms of the Agreement and this
+                                  11
+                                       Consent Judgment in good faith and with assistance of counsel. Each of the Parties and signatories
+                                  12
+Northern District of California
+
+
+
+
+                                       to this Consent Judgment warrants and represents that it freely and voluntarily entered into this
+ United States District Court
+
+
+
+
+                                  13
+                                       Consent Judgment without any degree of duress or compulsion. The Parties state that no promise of
+                                  14
+
+                                  15
+                                       any kind or nature whatsoever (other than the written terms of this Consent Judgment and the
+
+                                  16   Agreement incorporated by reference into, and made a part of, this Consent Judgment) was made to
+
+                                  17   them to induce them to enter into the Agreement or this Consent Judgment.
+
+                                  18   VI.    INJUNCTIVE AND OTHER EQUITABLE RELIEF
+
+                                  19          The injunctive obligations set forth in Section II of the Agreement are incorporated by
+                                  20   reference into, and made a part of, this Consent Judgment.
+                                  21   VII.   AUDIT
+                                  22          The audit provisions of Section III of the Agreement are incorporated by reference into, and
+                                  23   made a part of, this Consent Judgment.
+                                  24
+                                       VIII. RELEASE
+                                  25
+                                              The release provisions of Section IV of the Agreement are incorporated by reference into,
+                                  26
+                                       and made a part of, this Consent Judgment.
+                                  27
+                                              ///
+                                  28
+
+
+
+                                                                                          6
+                                       Case 4:22-md-03047-YGR            Document 3451         Filed 08/26/26       Page 7 of 9
+
+
+
+
+                                  1    IX.    PAYMENTS
+                                  2           The monetary relief provisions of Section VI of the Agreement are incorporated by
+                                  3    reference into, and made a part of, this Consent Judgment.
+                                  4    X.     MISCELLANEOUS PROVISIONS
+                                  5
+                                              A. The Parties will follow the processes described in Section VIII of the Agreement to
+                                  6
+                                       resolve any disputes over the interpretation or application of the Agreement or this Consent
+                                  7
+                                       Judgment. The Court retains jurisdiction of this Consent Judgment and the Parties hereto for the
+                                  8
+                                       purpose of enforcing and modifying this Consent Judgment.
+                                  9
+                                              B. Unless otherwise specified in the Agreement, the obligations of this Consent Judgment
+                                  10
+                                       shall expire 10 years from the Effective Date. Upon expiration, the Parties shall have no further
+                                  11
+                                       obligations under this Consent Judgment or the Agreement.
+                                  12
+Northern District of California
+
+
+
+
+                                              C. This Consent Judgment and the Agreement were entered into for settlement purposes
+ United States District Court
+
+
+
+
+                                  13
+                                       only and do not constitute an admission by Defendant of any liability, wrongdoing, or violation of
+                                  14
+
+                                  15
+                                       any local, state, federal, or international law. The obligations, product modifications, and
+
+                                  16   concessions set forth therein are explicitly limited to the States. Nothing in this Consent Judgment
+
+                                  17   or the Agreement shall be construed to apply to, establish a standard of care for, or serve as
+
+                                  18   precedent in any non-participating U.S. state or any international jurisdiction whatsoever.
+
+                                  19          D. It is the intent of the Parties that this judgment not be admissible in other cases against
+                                  20   Defendant or binding on Defendant in any respect other than in connection with the enforcement of
+                                  21   this Consent Judgment or the Agreement. For the avoidance of doubt, nothing herein shall prohibit
+                                  22   Defendant from entering this Consent Judgment or the Agreement into evidence in any litigation or
+                                  23   arbitration concerning (1) Defendant’s right to coverage under an insurance contract or (2) the
+                                  24
+                                       enforcement of the releases provided for by this Consent Judgment and the Agreement.
+                                  25
+                                              E. This Consent Judgment shall not be construed or used as a waiver or any limitation of
+                                  26
+                                       any defense otherwise available to Defendant in any other pending or future legal, regulatory, or
+                                  27
+                                       administrative action or proceeding, or Defendant’s right to defend itself from, or make any
+                                  28
+                                       arguments in, any individual or class claims or suits or any other governmental or regulatory action
+
+
+                                                                                          7
+                                       Case 4:22-md-03047-YGR             Document 3451          Filed 08/26/26     Page 8 of 9
+
+
+
+
+                                  1    relating to the subject matter or terms of this Settlement. Nothing in this Consent Judgment shall
+                                  2    preclude Defendant from challenging any federal, state, or local law, rule, regulation, or guidance,
+                                  3    whether presently enacted or enacted in the future.
+                                  4           F. Except as otherwise provided in the Agreement, including with respect to the Cost Fund
+                                  5
+                                       Payment, each Party shall be responsible for the payment of its own fees, expenses, and
+                                  6
+                                       disbursements and those of its respective agents, representatives, and counsel that have risen, could
+                                  7
+                                       have arisen, or that may arise in connection with the Actions, including fees, expenses, and
+                                  8
+                                       disbursements related to this Consent Judgment or the Agreement.
+                                  9
+                                              G. The Parties each agree that they are not the prevailing party in this action, for purposes
+                                  10
+                                       of any claim for fees, costs, or expenses as prevailing parties arising under common law or under
+                                  11
+                                       the terms of any statute, because the Parties have reached a good faith settlement. The Parties each
+                                  12
+Northern District of California
+
+
+
+
+                                       further waive any right to challenge or contest the validity of this Consent Judgment on any ground,
+ United States District Court
+
+
+
+
+                                  13
+                                       including, without limitation, that any term is unconstitutional or is preempted by, or in conflict
+                                  14
+
+                                  15
+                                       with, any current or future law.
+
+                                  16          H. The Parties may wish to execute an amended Agreement for clarification or other
+
+                                  17   purposes. Subsequent to its entry, this Consent Judgment may be modified by order of this court,
+
+                                  18   including pursuant to a stipulation of the parties.
+
+                                  19   XI.    FINAL DISPOSITION
+                                  20          A. The Agreement, and the settlement set forth therein, are hereby approved in all respects,
+                                  21   and all claims by the States in this Action are fully and finally resolved through entry of this
+                                  22   Consent Judgment.
+                                  23          B. Each Party waives all rights to appeal this Final Judgment and all orders to date arising
+                                  24
+                                       from the Action. Within 5 business days of the date of entry of this Consent Judgment, every party
+                                  25
+                                       shall take the necessary steps to withdraw, voluntarily dismiss, or otherwise cease all currently
+                                  26
+                                       pending appeals, petitions for certiorari, or appellate motions that arise from this action. For the
+                                  27
+                                       avoidance of doubt, to the extent any appellate matter arising in part from this action also arises in
+                                  28
+                                       part from one or more other actions and/or from claims in the case In re Social Media
+
+
+                                                                                             8
+                                       Case 4:22-md-03047-YGR             Document 3451         Filed 08/26/26       Page 9 of 9
+
+
+
+
+                                  1    Adolescent/Personal Injury Products Liability Litigation, No. 4:22-md-03047-YGR (N.D. Cal.),
+                                  2    brought by parties other than the Attorneys General, the portion(s) of any such appellate matter that
+                                  3    do not arise from the Actions may remain pending, notwithstanding this provision.
+                                  4           C. The Court finds that the Parties to this Consent Judgment have full and complete
+                                  5
+                                       authority to enter into the binding and fully effective settlement of this action, and that the proposed
+                                  6
+                                       resolution is fair, reasonable, and equitable and does not violate the law or public policy.
+                                  7
+                                              D. Upon approval and entry of this Consent Judgment by the Court, this Consent Judgment
+                                  8
+                                       shall constitute a final judgment of the Court as to the Parties. The Court finds that there is no just
+                                  9
+                                       reason for delay and therefore enters this judgment as a final judgment under Fed. R. Civ. P. 54 and
+                                  10
+                                       58.
+                                  11
+                                              E. The Clerk is ordered to enter this Judgment forthwith.
+                                  12
+Northern District of California
+
+
+
+
+                                              This terminates Docket No. 572.
+ United States District Court
+
+
+
+
+                                  13
+                                              IT IS SO ORDERED.
+                                  14
+                                       Date: August 26, 2026                            _______________________________________
+                                  15                                                           YVONNE GONZALEZ ROGERS
+                                  16
+                                                                                        CHIEF UNITED STATES DISTRICT COURT JUDGE
+
+                                  17
+
+                                  18
+
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+
+                                  27
+
+                                  28
+
+
+
+                                                                                           9
+

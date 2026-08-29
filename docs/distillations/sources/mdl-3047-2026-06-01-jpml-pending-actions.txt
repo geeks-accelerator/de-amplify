@@ -1,0 +1,217 @@
+6/1/26, 8:58 AM                                                                                                              CM/ECF for JPML (LIVE)
+
+  United States Judicial Panel on Multidistrict Litigation                                                                                                                                                                   Report Date: 6/1/2026
+
+                                                                  MDL Statistics Report - Distribution of Pending MDL Dockets by Actions Pending
+  MDL Filters:
+   Status: Transferred
+   Limited to Active Litigations
+
+
+ District         Judge (Title)                                   Docket No. Litigation                                                                                                                                   Actions Now Total Actions
+                                                                                                                                                                                                                            Pending (Historical)
+ NJ               Michael A. Shipp (U.S. District Judge)          MDL -2738 IN RE: Johnson & Johnson Talcum Powder Products Marketing, Sales Practices and Products Liability Litigation                                     68,029      70,712
+ OHS              Edmund A. Sargus, Jr (U.S. District Judge)      MDL -2846 IN RE: Davol, Inc./C.R. Bard, Inc., Polypropylene Hernia Mesh Products Liability Litigation                                                      23,573      25,171
+ SC               Richard M. Gergel (U.S. District Judge)         MDL -2873 IN RE: Aqueous Film-Forming Foams Products Liability Litigation                                                                                  15,240      19,815
+ ILN              Mary M. Rowland (U.S. District Judge)           MDL -3060 IN RE: Hair Relaxer Marketing, Sales Practices, and Products Liability Litigation                                                                11,723      15,898
+ NJ               Claire C. Cecchi (U.S. District Judge)          MDL -2789 IN RE: Proton-Pump Inhibitor Products Liability Litigation (No. II)                                                                              11,321      18,706
+ MN               Joan N. Ericksen (Sr. District Judge)           MDL -2666 IN RE: Bair Hugger Forced Air Warming Devices Products Liability Litigation                                                                       8,422      10,711
+ ILS              Nancy J. Rosenstengel (Chief Judge, USDC)       MDL -3004 IN RE: Paraquat Products Liability Litigation                                                                                                     6,651       8,443
+ INS              Richard L. Young (Sr. District Judge)           MDL -2570 IN RE: Cook Medical, Inc., IVC Filters Marketing, Sales Practices and Products Liability Litigation                                               6,537      11,473
+ FLN              M. Casey Rodgers (U.S. District Judge)          MDL -3140 IN RE: Depo-Provera (Depot Medroxyprogesterone Acetate) Products Liability Litigation                                                             5,508       5,590
+ GAN              Leigh Martin May (U.S. District Judge)          MDL -2974 IN RE: Paragard IUD Products Liability Litigation                                                                                                 4,071       4,366
+ CAN              Vince Chhabria (U.S. District Judge)            MDL -2741 IN RE: Roundup Products Liability Litigation                                                                                                      3,909       5,295
+ PAE              Karen S. Marston (U.S. District Judge)          MDL -3094 IN RE: Glucagon-like Peptide-1 Receptor Agonists (GLP-1 RAs) Products Liability Litigation                                                        3,763       3,797
+ CAN              Charles R. Breyer (Sr. District Judge)          MDL -3084 IN RE: Uber Technologies, Inc., Passenger Sexual Assault Litigation                                                                               3,571       3,859
+ AZ               David G. Campbell (Sr. District Judge)          MDL -3081 IN RE: Bard Implanted Port Catheter Products Liability Litigation                                                                                 3,376       3,583
+ OHN              Dan A. Polster (Sr. District Judge)             MDL -2804 IN RE: National Prescription Opiate Litigation                                                                                                    2,930       3,182
+ CAN              Yvonne Gonzalez Rogers (U.S. District Judge)    MDL -3047 IN RE: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation                                                            2,664       2,839
+ MA               Patti B. Saris (Sr. District Judge)             MDL -3029 IN RE: Covidien Hernia Mesh Products Liability Litigation (No. II)                                                                                2,408       2,414
+ NYE              Nicholas G. Garaufis (Sr. District Judge)       MDL -3044 IN RE: Exactech Polyethylene Orthopedic Products Liability Litigation                                                                             1,838       1,847
+ OHN              J. Philip Calabrese (U.S. District Judge)       MDL -3092 IN RE: Suboxone (Buprenorphine/Naloxone) Film Products Liability Litigation                                                                       1,833       1,908
+ NJ               Brian R. Martinotti (U.S. District Judge)       MDL -2921 IN RE: Allergan Biocell Textured Breast Implant Products Liability Litigation                                                                     1,489       1,571
+                  Renee M. Bumb (Chief Judge, USDC)               MDL -2875 IN RE: Valsartan, Losartan, and Irbesartan Products Liability Litigation                                                                          1,413       1,622
+ FLS              Robin L. Rosenberg (U.S. District Judge)        MDL -2924 IN RE: Zantac (Ranitidine) Products Liability Litigation                                                                                           847       15,018
+ PAE              Harvey Bartle, III (Sr. District Judge)         MDL -2848 IN RE: Zostavax (Zoster Vaccine Live) Products Liability Litigation                                                                                826        2,665
+ ILN              Rebecca R. Pallmeyer (U.S. District Judge)      MDL -3026 IN RE: Abbott Laboratories, et al., Preterm Infant Nutrition Products Liability Litigation                                                         798        1,002
+ PAW              Joy Flowers Conti (Sr. District Judge)          MDL -3014 IN RE: Philips Recalled CPAP, Bi-Level PAP, and Mechanical Ventilator Products Liability Litigation                                                622        1,031
+ ILN              Manish S. Shah (U.S. District Judge)            MDL -2492 IN RE: National Collegiate Athletic Association Student-Athlete Concussion Injury Litigation                                                       558         601
+ NJ               Karen M. Williams (U.S. District Judge)         MDL -2243 IN RE: Fosamax (Alendronate Sodium) Products Liability Litigation (No. II)                                                                         557        1,293
+                  Brian R. Martinotti (U.S. District Judge)       MDL -3080 IN RE: Insulin Pricing Litigation                                                                                                                  516         613
+ CAN              Jacqueline Scott Corley (U.S. District Judge)   MDL -3101 IN RE: Baby Food Products Liability Litigation                                                                                                     450         463
+ CAS              Jinsook Ohta (U.S. District Judge)              MDL -3125 IN RE: AngioDynamics, Inc., and Navilyst Medical, Inc., Port Catheter Products Liability Litigation                                                391         411
+ NYS              George B. Daniels (Sr. District Judge)          MDL -1570 IN RE: Terrorist Attacks on September 11, 2001                                                                                                     371         381
+ PAE              Joshua D. Wolson (U.S. District Judge)          MDL -2323 IN RE: National Football League Players' Concussion Injury Litigation                                                                              329         352
+ NJ               Brian R. Martinotti (U.S. District Judge)       MDL -2973 IN RE: Elmiron (Pentosan Polysulfate Sodium) Products Liability Litigation                                                                         293        1,988
+ LAE              Jane Triche Milazzo (U.S. District Judge)       MDL -2740 IN RE: Taxotere (Docetaxel) Products Liability Litigation                                                                                          282       15,572
+ ILN              Thomas M. Durkin (U.S. District Judge)          MDL -3079 IN RE: Tepezza Marketing, Sales Practices, and Products Liability Litigation                                                                       278         287
+ MA               Allison D. Burroughs (U.S. District Judge)      MDL -3083 IN RE: MOVEit Customer Data Security Breach Litigation                                                                                             239         351
+ CAN              Charles R. Breyer (Sr. District Judge)          MDL -2996 IN RE: McKinsey & Company, Inc., National Prescription Opiate Consultant Litigation                                                                235         262
+ NH               Landya B. McCafferty (Chief Judge, USDC)        MDL -2753 IN RE: Atrium Medical Corp. C-Qur Mesh Products Liability Litigation                                                                               172        3,592
+ CAN              Richard Seeborg (Chief Judge, USDC)             MDL -3166 IN RE: Roblox Corporation Child Sexual Exploitation and Assault Litigation                                                                         162         167
+                  Beth Labson Freeman (U.S. District Judge)       MDL -3087 IN RE: Future Motion, Inc. Products Liability Litigation                                                                                           159         162
+ LAE              Jane Triche Milazzo (U.S. District Judge)       MDL -3023 IN RE: Taxotere (Docetaxel) Eye Injury Products Liability Litigation                                                                               150         433
+ PAE              Cynthia M. Rufe (Sr. District Judge)            MDL -2724 IN RE: Generic Pharmaceuticals Pricing Antitrust Litigation                                                                                        144         217
+ TXN              Ada E. Brown (U.S. District Judge)              MDL -3114 IN RE: AT&T Inc. Customer Data Security Breach Litigation                                                                                          139         140
+ CAC              Andre Birotte, Jr (U.S. District Judge)         MDL -2814 IN RE: Ford Motor Co. DPS6 PowerShift Transmission Products Liability Litigation                                                                   136        1,313
+ MN               Donovan W. Frank (Sr. District Judge)           MDL -3108 IN RE: Change Healthcare, Inc., Customer Data Security Breach Litigation                                                                           135         149
+ CAN              Charles R. Breyer (Sr. District Judge)          MDL -2672 IN RE: Volkswagen "Clean Diesel" Marketing, Sales Practices, and Products Liability Litigation                                                     130        1,889
+ NCW              Kenneth D. Bell (U.S. District Judge)           MDL -3036 IN RE: Gardasil Products Liability Litigation                                                                                                      129         258
+ OHN              Jeffrey J. Helmick (U.S. District Judge)        MDL -2197 IN RE: DePuy Orthopaedics, Inc., ASR Hip Implant Products Liability Litigation                                                                     114       10,454
+ ILN              Matthew F. Kennelly (Sr. District Judge)        MDL -3121 IN RE: MultiPlan Health Insurance Provider Litigation                                                                                              110         122
+ PAE              Karen S. Marston (U.S. District Judge)          MDL -3163 IN RE: Glucagon-like Peptide-1 Receptor Agonists (GLP-1 RAs) Non-Arteritic Anterior Ischemic Optic Neuropathy Products Liability Litigation        110         110
+ DC               Colleen Kollar-Kotelly (U.S. District Judge)    MDL -2656 IN RE: Domestic Airline Travel Antitrust Litigation                                                                                                105         111
+
+https://jpml-ecf.sso.dcn/cgi-bin/JPML_Stats.pl?143209763023877-L_591_0-1                                                                                                                                                                        1/4
+6/1/26, 8:58 AM                                                                                                      CM/ECF for JPML (LIVE)
+ CAC         James V. Selna (Sr. District Judge)            MDL -3052 IN RE: Kia Hyundai Vehicle Theft Marketing, Sales Practices, and Products Liability Litigation                       100    117
+ CAS         Anthony J. Battaglia (Sr. District Judge)      MDL -3149 IN RE: PowerSchool Holdings, Inc., and PowerSchool Group, LLC Customer Data Security Breach Litigation                79     89
+ FLS         Federico A. Moreno (Sr. District Judge)        MDL -2599 IN RE: Takata Airbag Products Liability Litigation                                                                    78    350
+ MT          Brian Morris (Chief Judge, USDC)               MDL -3126 IN RE: Snowflake, Inc., Data Security Breach Litigation                                                               74    104
+ MD          John P. Bailey (U.S. District Judge)           MDL -2879 IN RE: Marriott International, Inc., Customer Data Security Breach Litigation                                         73     91
+ NYE         Brian M. Cogan (Sr. District Judge)            MDL -1720 IN RE: Payment Card Interchange Fee and Merchant Discount Antitrust Litigation                                        65    135
+ ILN         Robert W. Gettleman (Sr. District Judge)       MDL -3170 IN RE: Trans Union, LLC, Customer Data Security Breach Litigation                                                     63     67
+ NYS         Paul A. Engelmayer (U.S. District Judge)       MDL -3028 IN RE: ONE Apus Container Ship Incident on November 30, 2020                                                          58     81
+             Denise L. Cote (Sr. District Judge)            MDL -3043 IN RE: Acetaminophen - ASD/ADHD Products Liability Litigation                                                         58    722
+ NYE         Rachel P. Kovner (U.S. District Judge)         MDL -3096 IN RE: Perry Johnson & Associates Medical Transcription Data Security Breach Litigation                               57     57
+ CAN         Jon S. Tigar (U.S. District Judge)             MDL -1917 IN RE: Cathode Ray Tube (CRT) Antitrust Litigation                                                                    54     75
+             Rita F. Lin (U.S. District Judge)              MDL -3171 IN RE: Lyft, Inc. Passenger Sexual Assault Litigation                                                                 54     58
+ MA          Indira Talwani (U.S. District Judge)           MDL -2768 IN RE: Stryker LFIT V40 Femoral Head Products Liability Litigation                                                    53   1,238
+ MN          Jerry W. Blackwell (U.S. District Judge)       MDL -3110 IN RE: Granulated Sugar Antitrust Litigation                                                                          53     58
+             John R. Tunheim (Sr. District Judge)           MDL -2998 IN RE: Pork Antitrust Litigation                                                                                      51     54
+ NYS         Lewis A. Kaplan (Sr. District Judge)           MDL -2865 IN RE: Customs and Tax Administration of the Kingdom of Denmark (Skatteforvaltningen) Tax Refund Scheme Litigation    50    187
+ MN          Katherine Marie Menendez (U.S. District Judge) MDL -3128 IN RE: Dividend Solar Finance, LLC, and Fifth Third Bank Sales and Lending Practices Litigation                       43     50
+ NJ          Jamel K. Semper (U.S. District Judge)          MDL -2904 IN RE: American Medical Collection Agency, Inc., Customer Data Security Breach Litigation                             42     56
+ CAN         Edward M. Chen (Sr. District Judge)            MDL -3098 IN RE: 23andMe, Inc., Customer Data Security Breach Litigation                                                        41     41
+ FLM         Roy B. Dalton, Jr (Sr. District Judge)         MDL -3006 IN RE: Tasigna (Nilotinib) Products Liability Litigation                                                              36     39
+ FLS         K. Michael Moore (U.S. District Judge)         MDL -3076 IN RE: FTX Cryptocurrency Exchange Collapse Litigation                                                                35     37
+ MN          John R. Tunheim (Sr. District Judge)           MDL -3031 IN RE: Cattle and Beef Antitrust Litigation                                                                           35     36
+ CAN         Vince Chhabria (U.S. District Judge)           MDL -2843 IN RE: Facebook, Inc., Consumer Privacy User Profile Litigation                                                       33     50
+ CAS         Gonzalo P. Curiel (Sr. District Judge)         MDL -2992 IN RE: Bank of America California Unemployment Benefits Litigation                                                    33     45
+ RI          Mary S. McElroy (U.S. District Judge)          MDL -3148 IN RE: GoodRx and Pharmacy Benefit Manager Antitrust Litigation (No. II)                                              32     32
+ WIE         William C. Griesbach (Sr. District Judge)      MDL -3179 IN RE: Fire Apparatus Antitrust Litigation                                                                            32     32
+ CAN         Maxine M. Chesney (Sr. District Judge)         MDL -2918 IN RE: Hard Disk Drive Suspension Assemblies Antitrust Litigation                                                     30     36
+ NJ          Julien Xavier Neals (U.S. District Judge)      MDL -3113 IN RE: Apple Inc. Smartphone Antitrust Litigation                                                                     29     45
+ NYS         P. Kevin Castel (Sr. District Judge)           MDL -3010 IN RE: Google Digital Advertising Antitrust Litigation                                                                29     60
+ MA          Denise J. Casper (Chief Judge, USDC)           MDL -2938 IN RE: Evenflo Company, Inc., Marketing, Sales Practices and Products Liability Litigation                            28     28
+ MN          Jerry W. Blackwell (U.S. District Judge)       MDL -3155 IN RE: Air Crash at Toronto Pearson International Airport on February 17, 2025                                        28     28
+ CAC         John A. Kronstadt (Sr. District Judge)         MDL -2905 IN RE: ZF-TRW Airbag Control Units Products Liability Litigation                                                      27     27
+ ILN         Sunil R. Harjani (U.S. District Judge)         MDL -2931 IN RE: Delta Dental Antitrust Litigation                                                                              27     28
+ DE          Joshua D. Wolson (U.S. District Judge)         MDL -2358 IN RE: Google Inc. Cookie Placement Consumer Privacy Litigation                                                       26     26
+ NCM         Thomas D. Schroeder (Chief Judge, USDC)        MDL -3062 IN RE: Crop Protection Products Loyalty Program Antitrust Litigation                                                  26     44
+ NM          Matthew L. Garcia (U.S. District Judge)        MDL -3119 IN RE: Shale Oil Antitrust Litigation                                                                                 26     26
+ SC          Joseph F. Anderson, Jr (Sr. District Judge)    MDL -2972 IN RE: Blackbaud, Inc., Customer Data Security Breach Litigation                                                      26     31
+ CO          Philip A. Brimmer (Chief Judge, USDC)          MDL -3160 IN RE: Archery Products Antitrust Litigation                                                                          24     25
+ GAN         Eleanor L. Ross (U.S. District Judge)          MDL -3051 IN RE: ARC Airbag Inflators Products Liability Litigation                                                             24     24
+ ILN         Sara L. Ellis (U.S. District Judge)            MDL -3152 IN RE: Construction Equipment Rental Antitrust Litigation                                                             22     27
+ ALN         Anna M. Manasco (U.S. District Judge)          MDL -2406 IN RE: Blue Cross Blue Shield Antitrust Litigation                                                                    21    109
+ GAN         Thomas W. Thrash, Jr (Sr. District Judge)      MDL -3115 IN RE: Consumer Vehicle Driving Data Tracking Litigation                                                              21     35
+ NYS         Vernon S. Broderick (U.S. District Judge)      MDL -2542 IN RE: Keurig Green Mountain Single-Serve Coffee Antitrust Litigation                                                 21     30
+             Arun Subramanian (U.S. District Judge)         MDL -3178 IN RE: ByHeart, Inc., Infant Formula Marketing, Sales Practices, and Products Liability Litigation                    20     20
+ PAE         Timothy J. Savage (Sr. District Judge)         MDL -2460 IN RE: Niaspan Antitrust Litigation                                                                                   20     23
+ NYS         Edgardo Ramos (U.S. District Judge)            MDL -3153 IN RE: Coinbase Customer Data Security Breach Litigation                                                              19     22
+ TXE         Amos L. Mazzant, III (Chief Judge, USDC)       MDL -3176 IN RE: Rare Breed Triggers Patent Litigation                                                                          19     19
+ WIW         James D. Peterson (Chief Judge, USDC)          MDL -3175 IN RE: Shell Eggs Antitrust Litigation                                                                                19     19
+ ARE         Kristine G. Baker (Chief Judge, USDC)          MDL -3172 IN RE: Cartiva Synthetic Cartilage Implant Products Liability Litigation                                              18     18
+ MOW         Brian C. Wimes (U.S. District Judge)           MDL -3073 IN RE: T-Mobile 2022 Customer Data Security Breach Litigation                                                         18     18
+ NYS         Sidney H. Stein (Sr. District Judge)           MDL -3143 IN RE: OpenAI, Inc., Copyright Infringement Litigation                                                                18     19
+ NM          James O. Browning (Sr. District Judge)         MDL -2695 IN RE: Santa Fe Natural Tobacco Company Marketing and Sales Practices Litigation                                      17     17
+ NYS         Katherine Polk Failla (U.S. District Judge)    MDL -3050 IN RE: Chantix (Varenicline) Marketing, Sales Practices and Products Liability Litigation (No. II)                    17     17
+             Lewis J. Liman (U.S. District Judge)           MDL -3097 IN RE: Concrete and Cement Additives Antitrust Litigation                                                             17     17
+ CAN         James Donato (U.S. District Judge)             MDL -2981 IN RE: Google Play Store Antitrust Litigation                                                                         16     23
+ MIE         F. Kay Behm (U.S. District Judge)              MDL -2311 IN RE: Automotive Parts Antitrust Litigation                                                                          16    382
+ ILN         Virginia M. Kendall (Chief Judge, USDC)        MDL -2867 IN RE: Local TV Advertising Antitrust Litigation                                                                      15     23
+ MIE         Matthew F. Leitman (U.S. District Judge)       MDL -2818 IN RE: General Motors Air Conditioning Marketing and Sales Practices Litigation                                       15     15
+ ILN         Iain D. Johnston (U.S. District Judge)         MDL -3030 IN RE: Deere & Company Repair Services Antitrust Litigation                                                           14     16
+             Matthew F. Kennelly (Sr. District Judge)       MDL -3037 IN RE: Recalled Abbott Infant Formula Products Liability Litigation                                                   14    141
+ FLS         Darrin P. Gayles (U.S. District Judge)         MDL -2841 IN RE: MONAT Hair Care Products Marketing, Sales Practices and Products Liability Litigation                          13     13
+ OKN         Gregory K Frizzell (Chief Judge, USDC)         MDL -2700 IN RE: Genentech, Inc., Herceptin (Trastuzumab) Marketing and Sales Practices Litigation                              13     15
+ TNM         Waverly D. Crenshaw, Jr (U.S. District Judge) MDL -3071 IN RE: RealPage, Inc., Rental Software Antitrust Litigation (No. II)                                                   13     48
+
+https://jpml-ecf.sso.dcn/cgi-bin/JPML_Stats.pl?143209763023877-L_591_0-1                                                                                                                                 2/4
+6/1/26, 8:58 AM                                                                                                             CM/ECF for JPML (LIVE)
+ CAC              George H. Wu (Sr. District Judge)              MDL -3144 IN RE: TikTok, Inc., Minor Privacy Litigation                                                                                                         12         22
+ CAN              Edward J. Davila (Sr. District Judge)          MDL -3001 IN RE: Google Play Store Simulated Casino-Style Games Litigation                                                                                      12         13
+ DC               John D. Bates (U.S. District Judge)            MDL -3162 IN RE: Class Action Settlement Administration Litigation                                                                                              12         12
+ MIE              Mark A. Goldsmith (U.S. District Judge)        MDL -3159 IN RE: Keffer Development Services, LLC, Data Security Breach Litigation                                                                              12         12
+ PAW              W. Scott Hardy (U.S. District Judge)           MDL -2862 IN RE: Diisocyanates Antitrust Litigation                                                                                                             12         12
+ CAN              William H. Orrick, III (U.S. District Judge)   MDL -2913 IN RE: Juul Labs, Inc., Marketing, Sales Practices, and Products Liability Litigation                                                                 11       7,071
+ MIE              David M. Lawson (Sr. District Judge)           MDL -3040 IN RE: Chrysler Pacifica Fire Recall Products Liability Litigation                                                                                    11         13
+ TXN              David C. Godbey (Chief Judge, USDC)            MDL -2099 IN RE: Stanford Entities Securities Litigation                                                                                                        10        156
+ MN               Donovan W. Frank (Sr. District Judge)          MDL -2441 IN RE: Stryker Rejuvenate and ABG II Hip Implant Products Liability Litigation                                                                         9       3,638
+ WIE              Lynn S. Adelman (U.S. District Judge)          MDL -3078 IN RE: Generac Solar Power Systems Marketing, Sales Practices and Products Liability Litigation                                                        8          9
+ MIE              Terrence G. Berg (U.S. District Judge)         MDL -3034 IN RE: Neo Wireless, LLC, Patent Litigation                                                                                                            7          9
+ MOW              Beth Phillips (Chief Judge, USDC)              MDL -2984 IN RE: Folgers Coffee Marketing and Sales Practices Litigation                                                                                         7         13
+ NJ               Christine P. O'Hearn (U.S. District Judge)     MDL -3138 IN RE: Denosumab Patent Litigation                                                                                                                     7         11
+ OHS              Douglas R. Cole (U.S. District Judge)          MDL -3157 IN RE: Procter & Gamble Company "Protect, Grow and Restore" Marketing and Sales Practices Litigation                                                   7          7
+ WAW              James L. Robart (Sr. District Judge)           MDL -3174 IN RE: Air Crash at Muan International Airport, South Korea on December 29, 2024                                                                       7          7
+ CAN              Haywood S. Gilliam, Jr (U.S. District Judge)   MDL -2951 IN RE: StubHub Refund Litigation                                                                                                                       6          6
+ TNW              S. Thomas Anderson (U.S. District Judge)       MDL -3035 IN RE: AME Church Employee Retirement Fund Litigation                                                                                                  6          6
+ UT               David B. Barlow (U.S. District Judge)          MDL -3167 IN RE: Broiler Chicken Grower Antitrust Litigation (No. III)                                                                                           6          6
+ CAC              James V. Selna (Sr. District Judge)            MDL -2151 IN RE: Toyota Motor Corp. Unintended Acceleration Marketing, Sales Practices, and Products Liability Litigation                                        5        466
+ CAN              Vince Chhabria (U.S. District Judge)           MDL -3161 IN RE: CCell Closed Cannabis Oil Vaporization Systems and Components Products Antitrust Litigation                                                     5          5
+ CAS              Dana M. Sabraw (U.S. District Judge)           MDL -2670 IN RE: Packaged Seafood Products Antitrust Litigation                                                                                                  5         84
+ FLS              Roy K. Altman (U.S. District Judge)            MDL -1916 IN RE: Chiquita Brands International, Inc., Alien Tort Statute and Shareholders Derivative Litigation                                                  5         31
+ CAN              Edward J. Davila (Sr. District Judge)          MDL -2985 IN RE: Apple Inc. App Store Simulated Casino-Style Games Litigation                                                                                    4         11
+ DE               Maryellen Noreika (U.S. District Judge)        MDL -3158 IN RE: SAP SE, et al., Patent Litigation                                                                                                               4          4
+ NYS              Denise L. Cote (Sr. District Judge)            MDL -1358 IN RE: Methyl Tertiary Butyl Ether ("MTBE") Products Liability Litigation                                                                              4        190
+ MA               Nathaniel M. Gorton (Sr. District Judge)       MDL -2566 IN RE: TelexFree Securities Litigation                                                                                                                 3         15
+ NYS              J. Paul Oetken (U.S. District Judge)           MDL -2704 IN RE: Interest Rate Swaps Antitrust Litigation                                                                                                        3         11
+ WVN              Thomas S. Kleeh (Chief Judge, USDC)            MDL -3103 IN RE: Aflibercept Patent Litigation                                                                                                                   3         10
+ FLN              M. Casey Rodgers (U.S. District Judge)         MDL -2885 IN RE: 3M Combat Arms Earplug Products Liability Litigation                                                                                            2      391,224
+ FLS              K. Michael Moore (U.S. District Judge)         MDL -2832 IN RE: Liquid Toppings Dispensing System ('447) Patent Litigation                                                                                      2         15
+ IAS              Stephen H. Locher (U.S. District Judge)        MDL -3132 IN RE: Midwest Energy Emissions Corp. Patent Litigation                                                                                                2          7
+ MA               Denise J. Casper (Chief Judge, USDC)           MDL -3154 IN RE: Respimat Pharmaceuticals Antitrust Litigation                                                                                                   2          2
+ NJ               Claire C. Cecchi (U.S. District Judge)         MDL -1663 IN RE: Insurance Brokerage Antitrust Litigation                                                                                                        2         52
+                  Zahid N. Quraishi (U.S. District Judge)        MDL -3134 IN RE: AVYCAZ (Ceftazidime and Avibactam) Patent Litigation                                                                                            2          2
+ NYS              Jesse M. Furman (U.S. District Judge)          MDL -2859 IN RE: Zimmer M/L Taper Hip Prosthesis or M/L Taper Hip Prosthesis with Kinectiv Technology and Versys Femoral Head Products Liability Litigation      2        332
+ PAE              Cynthia M. Rufe (Sr. District Judge)           MDL -1871 IN RE: Avandia Marketing, Sales Practices and Products Liability Litigation                                                                            2       5,299
+ PAM              Karoline Mehalchick (U.S. District Judge)      MDL -2816 IN RE: Sorin 3T Heater-Cooler System Products Liability Litigation (No. II)                                                                            2        106
+ DC               Emmet G. Sullivan (Sr. District Judge)         MDL -2165 IN RE: Endangered Species Act Section 4 Deadline Litigation                                                                                            1         40
+ DE               Richard G. Andrews (Sr. District Judge)        MDL -2930 IN RE: Entresto (Sacubitril/Valsartan) Patent Litigation                                                                                               1         28
+ LAE              Carl J. Barbier (U.S. District Judge)          MDL -2179 IN RE: Oil Spill by the Oil Rig "Deepwater Horizon" in the Gulf of Mexico, on April 20, 2010                                                           1       6,158
+ VAE              David J. Novak (U.S. District Judge)           MDL -3111 IN RE: Capital One 360 Savings Account Interest Rate Litigation                                                                                        1          8
+ FLS              Raag Singhal (U.S. District Judge)             MDL -3015 IN RE: Johnson & Johnson Sunscreen Marketing, Sales Practices and Products Liability Litigation                                                        0         16
+ GAN              Richard W. Story (Sr. District Judge)          MDL -2782 IN RE: Ethicon Physiomesh Flexible Composite Hernia Mesh Products Liability Litigation                                                                 0       4,054
+ ILN              Sharon Johnson Coleman (U.S. District Judge)   MDL -2967 IN RE: Clearview AI, Inc., Consumer Privacy Litigation                                                                                                 0         14
+ MD               James K. Bredar (Sr. District Judge)           MDL -2775 IN RE: Smith & Nephew Birmingham Hip Resurfacing (BHR) Hip Implant Products Liability Litigation                                                       0       1,089
+
+ Report Totals:                                                     159                                                                                                                                                        202,129   709,920
+
+   Total Number of MDL Dockets: 159
+   Total Number of Transferee Districts: 49
+
+
+
+   Total Number of Transferee Judges: 138
+               16 Chief Judge, USDC
+               42 Sr. District Judge
+               80 U.S. District Judge
+
+                                              -- All Counts Are Based on the Report Filters Selected When Running the Report --
+
+                                                                                                                             Percent of                        Percent of
+  Docket Count      Range of the Number of Actions PENDING in a Docket                                                                       Action Count
+                                                                                                                              Dockets                           Actions
+        38           MDLs with between 0 and 10 Pending Actions                                                                23.9%              143            0.07%
+
+https://jpml-ecf.sso.dcn/cgi-bin/JPML_Stats.pl?143209763023877-L_591_0-1                                                                                                                                                                           3/4
+6/1/26, 8:58 AM                                                            CM/ECF for JPML (LIVE)
+       70         MDLs with between 11 and 100 Pending Actions              44.03%         2,230         1.1%
+       30         MDLs with 101 and 999 Pending Actions                     18.87%         9,487         4.69%
+       21         MDLs with 1,000 or more Pending Actions                   13.21%        190,269       94.13%
+
+
+                                                                           Percent of                  Percent of
+  Docket Count    Range of the Number of TOTAL Actions in a Docket                      Action Count
+                                                                            Dockets                     Actions
+       14         MDLs with between 0 and 10 Actions                         8.81%           88          0.01%
+       72         MDLs with between 11 and 100 Actions                      45.28%         2,355         0.33%
+       33         MDLs with 101 and 999 Actions                             20.75%         9,087         1.28%
+       40         MDLs with 1,000 or more Actions                           25.16%        698,390       98.38%
+
+
+
+
+https://jpml-ecf.sso.dcn/cgi-bin/JPML_Stats.pl?143209763023877-L_591_0-1                                            4/4
+

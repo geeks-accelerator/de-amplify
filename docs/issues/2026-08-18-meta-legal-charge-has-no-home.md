@@ -20,3 +20,10 @@ it expects to lose, not money spent on defence, and the accurate version is wors
 coverage that called it legal expenses. And it is **quarterly**, so whatever section carries it has
 to be willing to refresh it every three months or it becomes a stale number on a site whose whole
 proposition is that figures carry dates.
+
+**2026-08-28 note, on the settlement.** The consent judgment entered 2026-08-26 supplies the real
+number this accrual was anticipating: up to $16,680,647,753.21 over ten years to the states, of
+which $11.66 billion is guaranteed, roughly $1.17 billion a year. The Q2 accrual of $2.40 billion
+now reads as partly this settlement being provisioned in advance. Still parked for the same reason:
+the paper has no deterrence-economics section to carry the comparison, and the comparison would need
+Meta's next 10-Q to be made honestly.
