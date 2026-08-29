@@ -5,7 +5,7 @@ opened: 2026-08-28
 closes_when: "the first Independent Auditor executive summary is published and its findings are recorded in the mdl-3047 ledger, or the Compliance Date passes with Meta's implementation observed and recorded either way"
 trigger: "the dates themselves: Compliance Date 2027-02-27 (six months after the 2026-08-27 Effective Date), auditor term start 2026-10-27, non-personalized feed offer due 2026-12-27 (four months), first Guaranteed Installment due 2026-09-26 (30 days)"
 surface: "the mdl-3047 ledger section (k) first, then the case page's settlement section; the scorecard page's precedent note is the reader-facing hook if the shipped product diverges from the ordered one"
-related: ["docs/distillations/mdl-3047.md", "content/lawsuits/mdl-3047.md", "src/app/scorecard/page.tsx"]
+related: ["docs/distillations/mdl-3047.md", "content/lawsuits/mdl-3047.md", "src/app/scorecard/page.tsx", "docs/plans/2026-08-28-settlement-and-audit-passes.md"]
 ---
 
 # The consent judgment has a compliance calendar, and nothing on the site will notice when its dates arrive
@@ -16,7 +16,8 @@ The settlement's obligations run from defined dates, all derivable from the ente
 | Date | What is due |
 |---|---|
 | 2026-09-26 | Initial Guaranteed Installment Payment (30 days from Effective Date), per state whose consent judgment is entered |
-| ~2026-09-10 | Joint motions due in the fifteen Satellite AG Actions (ten business days from the agreement's notice) |
+| 2026-08-27 | Notice to the fifteen satellite courts asking each to vacate its deadlines (24 hours from execution) |
+| ~2026-09-10 | Joint motions for ENTRY of the satellite consent judgments (ten business days from that notice); a vacated calendar is not a resolved case |
 | 2026-10-27 | Independent Auditor's term begins (two months from Effective Date) |
 | 2026-12-27 | Non-Personalized Feed option must be offered (four months from Effective Date) |
 | 2027-02-27 | Compliance Date: the Phase I time-management defaults and the rest of the injunctive terms |

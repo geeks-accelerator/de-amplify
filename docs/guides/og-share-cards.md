@@ -77,13 +77,22 @@ export default function OgImage() {
   return ogCard({
     eyebrow: "the lawsuits · the record, kept honest",
     title: "The social media addiction lawsuits, explained",
-    chips: ["$6M jury-found", "$375M jury-found", "~$953M requested", "~$1.4T estimate"],
+    chips: ["$6M jury-found", "$942M court-ordered", "$16.68B consent judgment", "~$1.4T estimate"],
     accent: "brake",
   });
 }
 ```
 
 Card copy is authored per page, not derived from the page title. A card is a poster, not a title tag: shorter, punchier, and allowed to carry data (the chips) the SEO title cannot.
+
+**And that freedom is exactly the problem, which is the part of this pattern most worth porting.** Hand-authored chips carrying data are the highest-staleness surface a site has, because nothing reads them. The chips in the block above have been rewritten three times as the underlying litigation moved, and on 2026-08-14 an external review found five surfaces still describing a decided case as pending, three weeks after final judgment: the ledger was right, the pages were right, and the cards were quietly wrong, because a re-seed pass edits content and no human re-reads a share card. **A card is the one surface where being wrong is invisible to the author and visible to everyone else.**
+
+The fix here is a guard, `scripts/check-surfaces.mjs`, and its shape is the transferable bit. It does **two different kinds of check**:
+
+- **Figures (structural).** Every dollar amount on a case's card must appear in that case's source document. A figure that is not there is either stale or invented. This is cheap and exact.
+- **Posture (vocabulary).** Words asserting a matter is undecided (`pending`, `requested`, `weighing`, `awaiting`, `sought`, `proposed`, `seeking`) are flagged wherever they appear on a card, and each must be allowlisted with a written reason. Blunt on purpose: a false alarm costs one line, a false all-clear ships a decided case as open.
+
+Three details earned the hard way. **Scope the vocabulary half to cards and structured data only**, never to prose, or a legitimate sentence about a pending proceeding becomes a build failure. **A stale allowlist entry must itself be a failure**, because an entry excusing a word that is no longer on the surface is a considered justification for nothing. And **make the guard self-test its own matcher and abort rather than report green**, since a broken matcher reports a clean corpus it never actually read: this one has been through two silent matcher bugs, one making the dollar sign optional (so "see page 567 of the order" satisfied a `$567M` chip) and one failing to strip thousands separators from the corpus (so a full `$16,680,647,753.21` could never match). Both were invisible while green.
 
 **A third pattern, better than either, once the page has a source document: authored in the content, budgeted per surface.** The `/distillations/[slug]` cards do not author their title in the route file *or* reuse the page title. Each ledger's own TLDR block carries a length-budgeted `OG title` variant (~50 chars), and the route file reads it:
 

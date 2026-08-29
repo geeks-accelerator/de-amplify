@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **569 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **572 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
