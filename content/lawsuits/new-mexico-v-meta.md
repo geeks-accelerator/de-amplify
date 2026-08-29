@@ -11,6 +11,8 @@ New Mexico is the first U.S. state to win a full trial against Meta over child h
 
 A **consumer-protection and child-safety** case under the New Mexico Unfair Practices Act, filed in December 2023 by Attorney General Raúl Torrez in the First Judicial District Court in Santa Fe (Judge Bryan Biedscheid, the district's chief judge). It is about deceptive safety claims and child exploitation. It is **not** an "addiction" case, and it is **not** part of the federal MDL; keeping those apart is most of understanding it.
 
+One clarification that matters as of late August 2026: **New Mexico is not part of the $17 billion multistate settlement** entered in the federal case on August 26. It has no payment line there, and even the state's separate Cambridge Analytica-era case against Meta, which that agreement mentions by name, is not released by it. Both of New Mexico's cases stand on their own: this one at final judgment, the Cambridge one still pending.
+
 ## The verdict, labeled
 
 - **Jury-found**, March 24, 2026: **$375 million** in civil penalties, the statutory maximum of **$5,000 for each of 75,000 violations**. The jury found Meta made false or misleading statements about how safe its platforms were and engaged in unconscionable practices that failed to protect children from exploitation. The state had asked for substantially more (its closing urged a penalty that could top $2 billion).

@@ -439,9 +439,9 @@ export default function Home() {
             </h2>
 
             <div className="mt-9 grid grid-cols-2 divide-x divide-y divide-white/[0.06] border border-white/[0.06] sm:grid-cols-5 sm:divide-y-0">
-              <Stat value="51" label="states settled, consent judgment aug 2026" />
+              <Stat value="2h/day" label="teen limit, court-ordered, parent-held" />
               <Stat value="~2,900" label="lawsuits, consolidated (N.D. Cal.)" />
-              <Stat value="$1.4T" label="penalty exposure, per Meta's own filing" />
+              <Stat value="$16.68B" label="consent judgment, ~30% contingent on rivals" />
               <Stat value="$942M" label="New Mexico judgment, penalties plus fund" />
               <Stat value="$6M" label="California jury verdict" />
             </div>

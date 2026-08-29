@@ -1,0 +1,791 @@
+          Case 4:23-cv-05448-YGR            Document 572   Filed 08/26/26   Page 1 of 14
+
+
+
+ 1   [Submitting Counsel on Signature Page]
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11                             IN THE UNITED STATES DISTRICT COURT
+
+12                         FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+13
+
+14     IN RE: SOCIAL MEDIA ADOLESCENT                      MDL No. 3047
+       ADDICTION/PERSONAL INJURY
+15     PRODUCTS LIABILITY LITIGATION                       Case Nos. 4:22-md-03047-YGR
+16    THIS DOCUMENT RELATES TO:                            JOINT MOTION TO ENTER CONSENT
+                                                           JUDGMENT
+17    People of the State of California, et al. v. Meta
+      Platforms, Inc., et al.                              Judge: Hon. Yvonne Gonzalez Rogers
+18
+                                                           Magistrate Judge: Hon. Peter H. Kang
+19
+      4:23-cv-05448-YGR
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                1
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572        Filed 08/26/26     Page 2 of 14
+
+
+
+ 1          Plaintiffs State of Arizona, ex rel. Kris Mayes, Attorney General; the People of the State of
+ 2   California, by Rob Bonta, Attorney General; State of Colorado, ex rel. Philip J. Weiser, Attorney
+ 3   General; State of Connecticut; State of Delaware, ex rel. Kathleen Jennings, Attorney General of the
+ 4   State of Delaware; State of Hawai‘i, ex rel. Anne E. Lopez, Attorney General; State of Idaho, through
+ 5   Attorney General Raúl R. Labrador; the People of the State of Illinois, by Kwame Raoul, Attorney
+ 6   General; State of Indiana; State of Kansas, ex rel. Kris W. Kobach, Attorney General; the
+ 7   Commonwealth of Kentucky, by Russell Coleman, Attorney General; State of Louisiana; State of
+ 8   Maine; Office of the Attorney General of Maryland; State of Minnesota, by its Attorney General, Keith
+ 9   Ellison; State of Nebraska ex rel. Michael T. Hilgers, Attorney General; Jennifer Davenport, Attorney
+10   General for the State of New Jersey, and Christopher L. Peterson, Acting Director of the New Jersey
+11   Division of Consumer Affairs; the People of the State of New York, by Letitia James, Attorney General
+12   of the State of New York; State of North Carolina, ex rel. Jeff Jackson, Attorney General; State of Ohio,
+13   ex rel. Attorney General D. Andrew Wilson; State of Oregon ex rel. Dan Rayfield, Attorney General for
+14   the State of Oregon; Commonwealth of Pennsylvania by Attorney General Dave Sunday; State of Rhode
+15   Island; State of South Carolina, ex. rel. Alan M. Wilson, in his official capacity as Attorney General of
+16   the State of South Carolina; State of South Dakota ex rel. Marty J. Jackley, South Dakota Attorney
+17   General; Commonwealth of Virginia, ex rel. Jay Jones, Attorney General; State of Washington, ex rel.
+18   Nicholas W. Brown, Attorney General; State of West Virginia, ex rel. John B. McCuskey, Attorney
+19   General; and State of Wisconsin (collectively “Plaintiffs” or “State AGs”); together with Defendant
+20   Meta Platforms, Inc., (“Meta”), respectfully request that the Court enter the proposed consent judgment
+21   attached hereto as Exhibit 1 (the “Consent Judgment”). Plaintiffs and Meta (together the “Parties”) have
+22   agreed to resolve the claims alleged by Plaintiffs in this matter by entering into the Consent Judgment.
+23          I.      Background
+24          On October 24, 2023, Plaintiffs filed a complaint in this action (the “Complaint”) against Meta
+25   and related entities, alleging in relevant part that Meta used their technology and Social Media
+26   Platforms, Facebook and Instagram, (“Social Media Platforms” or “Platforms”) to entice, engage, and
+27   ultimately ensnare youth and teens. The Plaintiffs alleged that Meta has repeatedly misled the public
+28
+                                                2
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572         Filed 08/26/26      Page 3 of 14
+
+
+
+ 1   about the dangers of its Platforms and ignored the risks these Platforms have posed to the mental and
+ 2   physical wellbeing of America’s youth, thereby engaging in deceptive and unlawful conduct in violation
+ 3   of state unfair and deceptive acts and practices (“UDAP”) laws. Plaintiffs also alleged that Meta violated
+ 4   the Children’s Online Privacy Protection Act (“COPPA”) by collecting, retaining, and using the data of
+ 5   residents of their states who were under the age of thirteen. Meta disputed the Plaintiffs’ claims and
+ 6   asserted that its actions were reasonable and lawful at all times. The Parties hereby agree to the Court’s
+ 7   entry of the Consent Judgment as a complete resolution of the Plaintiffs’ Complaint against Meta.
+ 8          II.     Legal Standard
+ 9          Approval of a proposed consent decree is within the discretion of the Court. United States v.
+10   Oregon, 913 F.2d 576, 580–81 (9th Cir. 1990). A court should enter a consent judgment if it determines
+11   that “it is fair, reasonable and equitable and does not violate the law or public policy.” Sierra Club, Inc.
+12   v. Elec. Controls Design, Inc., 909 F.2d 1350, 1355 (9th Cir. 1990); see also Oregon, 913 F.2d at 580–
+13   81. The Court considers both the procedural and substantive fairness of a proposed consent judgment.
+14   United States v. Chevron U.S.A., Inc., 380 F.Supp.2d 1104, 1111 (N.D. Cal. 2005). If the consent
+15   judgment “comes within the general scope of the case made by the pleadings, furthers the objectives
+16   upon which the law is based, and does not violate the statute upon which the complaint was based, the
+17   parties’ agreement may be entered by the court.” Sierra Club, 909 F.2d at 1355 (internal quotation
+18   marks and citation omitted).
+19          III.    Analysis
+20          Here, the process leading to the proposed Consent Judgment was procedurally fair. The Parties
+21   are represented by experienced counsel and have litigated this matter for years, including through the
+22   beginning of trial. The Parties thus have an in-depth understanding of the legal and factual issues in the
+23   case. The proposed Consent Judgment is the product of difficult, good-faith, and arms-length
+24   negotiations by experienced counsel. Under these circumstances, the Consent Judgment is procedurally
+25   fair. See, e.g., Oregon, 913 F.2d at 581 (consent decree presumptively valid where court is satisfied it
+26   was the product of arms-length negotiations).
+27
+
+28
+                                                  3
+                               JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572         Filed 08/26/26      Page 4 of 14
+
+
+
+ 1          Moreover, the proposed Consent Judgment, including the underlying settlement agreement
+ 2   incorporated into, and made a part of, the Consent Judgment, is substantively fair and reasonable. The
+ 3   Parties were engaged in complex settlement discussions for more than two years, involving lawyers and
+ 4   technical experts for all Parties. The Consent Judgment forms an integrated resolution to the violations
+ 5   alleged in Plaintiffs’ Complaint and to secure a release of the Plaintiffs’ claims. The relief provided is
+ 6   substantial, and it directly addresses the violations alleged by Plaintiffs. Entry of the proposed Consent
+ 7   Judgment would fully resolve the state-law and COPPA claims alleged by the Plaintiffs. The Consent
+ 8   Judgment includes significant injunctive relief that, among other things, requires: (1) default daily limits
+ 9   and nighttime blocks for teenage users of Meta’s Social Media Platforms; (2) enhanced age assurance
+10   measures to prevent children from accessing the Platforms, or age-restricted content available on the
+11   Platforms; (3) establishment of additional tools to help parents and guardians to protect their children
+12   online; and (4) Meta to make payments to Plaintiffs as provided therein. The Consent Judgment also
+13   provides for consideration to Meta including, among other things, a release of claims, as described in
+14   greater detail in the Consent Judgment and attached settlement agreement. For all of these reasons, the
+15   proposed Consent Judgment is substantively fair and reasonable.
+16          IV. Conclusion
+17          For all of the reasons stated above, the Parties jointly submit that there is no just reason to delay
+18   entry of the Consent Judgment, and therefore respectfully request that the Court enter the Consent
+19   Judgment as a final judgment under Rules 54 and 58 of the Federal Rules of Civil Procedure.
+20
+      Dated: August 26, 2026                                Respectfully submitted,
+21
+                                                         DAVIS POLK & WARDWELL LLP
+22
+
+23                                                       /s/ Antonio J. Perez-Marques
+                                                         James P. Rouhandeh (pro hac vice)
+24                                                       Antonio J. Perez-Marques (pro hac vice)
+                                                         Caroline Stern (pro hac vice)
+25                                                       Corey M. Meyer (pro hac vice)
+                                                         450 Lexington Avenue
+26
+                                                         New York, New York 10017
+27                                                       Telephone: (212) 450-4000
+                                                         Facsimile: (212) 701-5800
+28
+                                                 4
+                              JOINT MOTION TO ENTER CONSENT JUDGMENT
+     Case 4:23-cv-05448-YGR   Document 572    Filed 08/26/26     Page 5 of 14
+
+
+
+ 1                                     rouhandeh@davispolk.com
+                                       antonio.perez@davispolk.com
+ 2                                     caroline.stern@davispolk.com
+                                       corey.meyer@davispolk.com
+ 3
+
+ 4                                     COVINGTON & BURLING LLP
+
+ 5                                     /s/ Paul W. Schmidt
+ 6                                     Ashley M. Simonsen, SBN 275203
+ 7                                     1999 Avenue of the Stars
+                                       Los Angeles, California 90067
+ 8                                     Telephone: (424) 332-4800
+                                       Facsimile: (424) 332-2749
+ 9                                     asimonsen@cov.com
+
+10                                     Paul W. Schmidt (pro hac vice)
+11                                     Phyllis A. Jones (pro hac vice)
+                                       One CityCenter
+12                                     850 Tenth Street, NW
+                                       Washington, DC 20001-4956
+13                                     Telephone: (202) 662-6000
+                                       Facsimile: (202) 662-6291
+14                                     pschmidt@cov.com
+                                       pajones@cov.com
+15
+
+16                                     Attorneys for Defendant Meta Platforms, Inc.
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                     5
+                  JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572        Filed 08/26/26      Page 6 of 14
+
+
+
+ 1
+
+ 2   PHILIP J. WEISER                                     ROB BONTA
+     Attorney General                                     Attorney General
+ 3   State of Colorado                                    State of California
+ 4
+     /s/ Krista Batchelder                                /s/ Megan O’Neill
+ 5   Krista Batchelder, (CO Reg.45066), pro hac vice      Nicklas A. Akers (CA SBN 211222)
+     Deputy Solicitor General                             Senior Assistant Attorney General
+ 6   Shannon Stevenson (CO Reg. 35542), pro hac           Bernard Eskandari (CA SBN 244395)
+     vice                                                 Emily Kalanithi (CA SBN 256972)
+ 7   Solicitor General                                    Supervising Deputy Attorneys General
+     Elizabeth Orem (CO Reg. 58309), pro hac vice         Megan O’Neill (CA SBN 343535)
+ 8
+     Assistant Attorney General                           Joshua Olszewski-Jubelirer
+ 9   Colorado Department of Law                           (CA SBN 336428)
+     Ralph L. Carr Judicial Center                        Nayha Arora (CA SBN 350467)
+10   Consumer Protection Section                          Samantha Beckett (CA SBN 308456)
+     1300 Broadway, 7th Floor                             David Beglin (CA SBN 356401)
+11   Denver, CO 80203                                     Jordan Hefcart (CA SBN 366087)
+12   Phone: (720) 508-6384                                Katherine Read (CA SBN 341463)
+     krista.batchelder@coag.gov                           Brendan Ruddy (CA SBN 297896)
+13   Shannon.stevenson@coag.gov                           Pauline Ryan (CA SBN 337712)
+     Elizabeth.orem@coag.gov                              Deputy Attorneys General
+14                                                        California Department of Justice
+     Attorneys for Plaintiff State of Colorado, ex rel.   Office of the Attorney General
+15   Philip J. Weiser, Attorney General                   455 Golden Gate Ave., Suite 11000
+16                                                        San Francisco, CA 94102-7004
+                                                          Phone: (415) 510-4400
+17   RUSSELL COLEMAN                                      Fax: (415) 703-5480
+     Attorney General                                     megan.oneill@doj.ca.gov
+18   Commonwealth of Kentucky
+                                                          Attorneys for Plaintiff the People of the State
+19   /s/ J. Christian Lewis                               of California
+20   J. Christian Lewis, Division Chief
+     (KY Bar No. 87109), pro hac vice
+21   Philip Heleringer, Consumer Chief,                   JENNIFER DAVENPORT
+     (KY Bar No. 96748), pro hac vice                     Attorney General
+22   Zachary Richards (KY Bar No. 99209),                 State of New Jersey
+     pro hac vice
+23   Daniel I. Keiser (KY Bar No. 100264),       By:/s/ Kashif T. Chand
+24   pro hac vice                                Kashif T. Chand (NJ Bar No. 016752008),
+     Matthew Cocanougher (KY Bar No. 94292),     Pro hac vice
+25   pro hac vice                                Brian F. McDonough (NJ Bar No.
+     Assistant Attorneys General                 026121980), Pro hac vice
+26   1024 Capital Center Drive, Ste. 200         Assistant Attorneys General
+     Frankfort, KY 40601                          Mandy K. Wang (NJ Bar No. 373452021),
+27
+     Christian.Lewis@ky.gov                      Pro hac vice
+28   Philip.Heleringer@ky.gov                    Verna J. Pradaxay (NJ Bar No. 335822021),
+                                                 6
+                              JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572        Filed 08/26/26      Page 7 of 14
+
+
+
+ 1   Zach.Richards@ky.gov                                 Pro hac vice
+     Daniel.Keiser@ky.gov                                 Patrick J. Misale (NJ Bar No. 401352022), Pro
+ 2   Matthew.Cocanougher@ky.gov                           hac vice
+ 3   Phone: (502) 696-5300                                Thomas Huynh (NJ Bar No. 200942017), Pro
+     Fax: (502) 564-2698                                  hac vice
+ 4                                                        Deputy Attorneys General
+     Attorneys for Plaintiff the Commonwealth of          New Jersey Office of the Attorney General,
+ 5   Kentucky                                             Division of Law
+                                                          124 Halsey Street, 5th Floor
+ 6                                                        Newark, NJ 07101
+ 7   KRIS MAYES                                           Tel: (973) 648-2052
+      Attorney General                                    Kashif.Chand@law.njoag.gov
+ 8    State of Arizona
+                                                          Attorneys for Plaintiffs Jennifer Davenport,
+ 9    /s/ Reagan Healey                                   Attorney General for the State of New Jersey,
+      Reagan Healey (AZ No. 038733), pro hac vice         and Christopher L. Peterson, Acting Director
+10
+      Assistant Attorney General                          of the New Jersey Division of Consumer
+11    Arizona Attorney General’s Office                   Affairs
+      2005 North Central Avenue
+12    Phoenix, AZ 85004
+      Phone: (602) 542-3725                               RAÚL R. LABRADOR
+13    Fax: (602) 542-4377                                 Attorney General
+      Reagan.Healey@azag.gov                              State of Idaho
+14
+      Attorneys for Plaintiff State of Arizona, ex rel.
+15    Kris Mayes, Attorney General                        /s/ James J. Simeri
+                                                          James J. Simeri (ID Bar No. 12332)
+16                                                        pro hac vice
+     WILLIAM TONG                                         Deputy Attorney General
+17   Attorney General                                     Attorney General’s Office
+     State of Connecticut                                 P.O. Box 83720
+18
+                                                          Boise, ID 83720-0010
+19   /s/ Rebecca Borné                                    (208) 334-2424
+     Rebecca Borné                                        james.simeri@ag.idaho.gov
+20   (CT Juris No. 446982), pro hac vice
+     Tess E. Schneider                                    Attorneys for Plaintiff State of Idaho
+21   (CT Juris No. 444175), pro hac vice
+22   Krislyn M. Launer
+     (CT Juris No. 440789), pro hac vice                  THEODORE E. ROKITA
+23   Assistant Attorneys General                          Attorney General
+     Connecticut Office of the Attorney General           State of Indiana
+24   165 Capitol Avenue
+     Hartford, Connecticut 06106                          /s/ Scott L. Barnhart
+25   Phone: 860-808-5400                                  Scott L. Barnhart (IN Atty No. 25474-82),
+26   Fax: 860-808-5593                                    pro hac vice
+     Rebecca.Borne@ct.gov                                 Chief Counsel and Director of Consumer
+27   Tess.Schneider@ct.gov                                Protection
+     Krislyn.Launer@ct.gov                                Corinne Gilchrist (IN Atty No. 27115-53),
+28
+                                                 7
+                              JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR          Document 572     Filed 08/26/26      Page 8 of 14
+
+
+
+ 1                                                    pro hac vice
+     Attorneys for Plaintiff State of Connecticut     Section Chief, Consumer Litigation
+ 2                                                    Mark M. Snodgrass (IN Atty No. 29495-49),
+ 3                                                    pro hac vice
+                                                      Deputy Attorney General
+ 4                                                    Office of the Indiana Attorney General
+     KATHLEEN JENNINGS
+                                                      Indiana Government Center South
+ 5   Attorney General
+                                                      302 West Washington St., 5th Floor
+     State of Delaware
+                                                      Indianapolis, IN 46203
+ 6                                                    Telephone: (317) 232-6309
+     /s/ Ryan Costa
+ 7                                                    Scott.Barnhart@atg.in.gov
+     Ryan T. Costa (DE Bar 5325), pro hac vice
+                                                      Corinne.Gilchrist@atg.in.gov
+     Deputy Director of Consumer Protection
+ 8                                                    Mark.Snodgrass@atg.in.gov
+     Delaware Department of Justice
+ 9   820 N. French Street, 5th Floor
+                                                      Attorneys for Plaintiff State of Indiana
+     Wilmington, DE 19801
+10   Phone: (302) 683-8811
+     Ryan.Costa@delaware.gov
+11
+     Attorney for State of Delaware, ex rel.          KRIS W. KOBACH
+12
+     Kathleen Jennings, Attorney General              Attorney General
+13   for the State of Delaware                        State of Kansas
+
+14                                                    /s/ Sarah M. Dietz
+     ANNE E. LOPEZ                                    Sarah M. Dietz, Assistant Attorney General
+15   Attorney General                                 (KS Bar No. 27457), pro hac vice
+     State of Hawai‘i                                 Kaley Schrader, Assistant Attorney General
+16
+                                                      (KS Bar No. 27700), pro hac vice
+17   /s/ Douglas S. Chin                              Office of the Attorney General
+     Christopher J.I. Leong (HI JD No. 9662), pro hac 120 SW 10th Avenue, 2nd Floor
+18   vice                                             Topeka, Kansas 66612
+     Supervising Deputy Attorney General              Telephone: (785) 296-3751
+19   Kelcie K. Nagata (HI JD No. 10649), pro hac vice Fax: (785) 296-3131
+     Deputy Attorney General                          Email: sarah.dietz@ag.ks.gov
+20
+     Department of the Attorney General
+21   Commerce and Economic Development Division Attorneys for Plaintiff State of Kansas
+     425 Queen Street
+22   Honolulu, Hawai‘i 96813
+     Phone: (808) 586-1180
+23
+     Christopher.ji.leong@hawaii.gov                  LIZ MURRILL
+24   Kelcie.k.nagata@hawaii.gov                       Attorney General
+     Douglas S. Chin (HI JD No. 6465), pro hac vice State of Louisiana
+25   John W. Kelly (HI JD No. 9907), pro hac vice
+     Special Deputy Attorney General                  /s/ Asyl Nachabe
+26   Starn O’Toole Marcus & Fisher                    Asyl Nachabe (LA Bar No. 38846)
+     733 Bishop Street, Suite 1900                    Pro hac vice
+27
+     Honolulu, Hawai‘i 96813                          Assistant Attorney General
+28   Phone: (808) 537-6100
+                                                      8
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+           Case 4:23-cv-05448-YGR           Document 572   Filed 08/26/26     Page 9 of 14
+
+
+
+ 1   dchin@starnlaw.com                              Louisiana Department of Justice
+     jkelly@starnlaw.com                             Public Protection Division
+ 2                                                   Consumer Protection Section
+ 3   Attorneys for Plaintiff State of Hawai‘i        1885 N 3rd Street, 4th Floor
+                                                     Baton Rouge, LA 70802
+ 4   KWAME RAOUL                                     Tel: (225) 326-6438
+     Attorney General                                NachabeA@ag.louisiana.gov
+ 5   State of Illinois
+                                                        Attorney for State of Louisiana
+ 6   /s/ Matthew Davies
+ 7   Susan Ellis, Chief, Consumer Protection
+     Division (IL Bar No. 6256460), pro hac vice
+ 8   Greg Grzeskiewicz, Chief, Consumer
+                                                        AARON M. FREY
+     Fraud Bureau (IL Bar No. 6272322), pro hac vice
+ 9                                                      Attorney General
+     Jacob Gilbert, Deputy Chief, Consumer Fraud
+                                                        State of Maine
+     Bureau (IL Bar No. 6306019), pro hac vice
+10
+     Matthew Davies, Supervising Attorney,
+                                                        /s/ Michael Devine
+11   Consumer Fraud Bureau (IL Bar No. 6299608),
+                                                        Michael Devine, Maine Bar No. 5048,
+     pro hac vice
+                                                        pro hac vice
+12   Daniel B. Roth, Assistant Attorney General,
+                                                        Assistant Attorney General
+     Consumer Fraud Bureau (IL Bar No. 6290613),
+13                                                      Office of the Maine Attorney General
+     pro hac vice
+                                                        6 State House Station
+     Meera Khan, Assistant Attorney General,
+14                                                      Augusta, ME 04333
+     Consumer Fraud Bureau (IL Bar No. 6345895),
+                                                        (207) 626-8800
+15   pro hac vice
+                                                        michael.devine@maine.gov
+     Office of the Illinois Attorney General
+16   115 S. LaSalle Street
+                                                        Attorney for Plaintiff State of Maine
+     Chicago, Illinois 60603
+17   312-814-8554
+     Susan.Ellis@ilag.gov
+18                                                      KEITH ELLISON
+     Greg.Grzeskiewicz@ilag.gov
+                                                        Attorney General
+19   Jacob.Gilbert@ilag.gov
+                                                        State of Minnesota
+     Matthew.Davies@ilag.gov
+20   Daniel.Roth@ilag.gov
+                                                        /s/ Evan Romanoff
+     Meera.Khan@ilag.gov
+21                                                      Evan Romanoff (MN Bar No. 0398223),
+                                                        pro hac vice
+22   Attorneys for Plaintiff the People of the State of
+                                                        Caitlin Micko (MN Bar No. 0395388),
+     Illinois
+                                                        pro hac vice
+23                                                      Jason Pleggenkuhle (MN Bar No. 0391772),
+24                                                      pro hac vice
+     ANTHONY G. BROWN
+                                                        Assistant Attorneys General
+     Attorney General
+25                                                      Office of the Minnesota Attorney General
+     State of Maryland
+                                                        445 Minnesota Street, Suite 800
+26                                                      St. Paul, MN 55101-2130
+     /s/ Elizabeth J. Stern
+                                                        Tel: (651) 728-4126
+27   Philip D. Ziperman (Maryland CPF No.
+                                                        evan.romanoff@ag.state.mn.us
+     9012190379), pro hac vice
+28                                                      caitlin.micko@ag.state.mn.us
+                                                9
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+          Case 4:23-cv-05448-YGR            Document 572   Filed 08/26/26      Page 10 of 14
+
+
+
+ 1   Deputy Chief, Consumer Protection Division       jason.pleggenkuhle@ag.state.mn.us
+     Elizabeth J. Stern (Maryland CPF No.
+ 2   1112090003), pro hac vice                        Attorneys for Plaintiff State of Minnesota, by
+ 3   Assistant Attorney General                       its Attorney General, Keith Ellison
+     Office of the Attorney General of Maryland
+ 4   200 St. Paul Place                               LETITIA JAMES
+     Baltimore, MD 21202                              Attorney General
+ 5   Phone: (410) 576-6417 (Mr. Ziperman)             State of New York
+     Phone: (410) 576-7226 (Ms. Stern)
+ 6   Fax: (410) 576-6566                              /s/ Nathaniel Kosslyn
+ 7   pziperman@oag.state.md.us                        Nathaniel Kosslyn, Assistant Attorney
+     estern@oag.state.md.us                           General
+ 8                                                    (NY Bar No. 5773676), pro hac vice
+     Attorneys for Plaintiff Office of the Attorney   nathaniel.kosslyn@ag.ny.gov
+ 9   General of Maryland                              Alex Finkelstein, Assistant Attorney General
+                                                      (NY Bar No. 5609623), pro hac vice
+10
+     MICHAEL T. HILGERS                               alex.finkelstein@ag.ny.gov
+11   Attorney General                                 New York Office of the Attorney General
+     State of Nebraska                                28 Liberty Street
+12                                                    New York, NY 10005
+     /s/ Anna M. Anderson                             (212) 416-8000
+13   Anna M. Anderson (NE #28080),
+     pro hac vice                                     D. ANDREW WILSON
+14
+     Benjamin J. Swanson (NE #27675),                 Attorney General
+15   pro hac vice                                     State of Ohio
+     Assistant Attorneys General
+16   Nebraska Attorney General’s Office               /s/ Kevin R. Walsh______
+     1445 K Street, Room 2115                         Melissa G. Wright (Ohio Bar No. 0077843)
+17   Lincoln, NE 68509                                Section Chief, Consumer Protection Section
+     (402) 471-6034                                   Melissa.Wright@ohioago.gov
+18
+     anna.anderson@nebraska.gov                       Melissa S. Smith (Ohio Bar No. 0083551)
+19   benjamin.swanson@nebraska.gov                    Asst. Section Chief, Consumer Protection
+                                                      Section
+20   Attorneys for Plaintiff State of Nebraska        Melissa.S.Smith@ohioago.gov
+                                                      Michael S. Ziegler (Ohio Bar No. 0042206)
+21                                                    Principal Assistant Attorney General
+22   JEFF JACKSON                                     Michael.Ziegler@ohioago.gov
+     Attorney General                                 Kevin R. Walsh (Ohio Bar No. 0073999),
+23   State of North Carolina                          pro hac vice
+                                                      Kevin.Walsh@ohioago.gov
+24   /s/ Charles White                                Principal Assistant Attorney General
+     Charles G. White (N.C. State Bar No.             30 East Broad Street, 14th Floor
+25   57735), pro hac vice                             Columbus, Ohio 43215
+26   Assistant Attorney General                       Tel: 614-466-1031
+     Kunal Choksi
+27   Senior Deputy Attorney General                   Attorneys for State of Ohio, ex rel. Attorney
+     Josh Abram                                       General D. Andrew Wilson
+28
+                                                  10
+                               JOINT MOTION TO ENTER CONSENT JUDGMENT
+          Case 4:23-cv-05448-YGR           Document 572     Filed 08/26/26       Page 11 of 14
+
+
+
+ 1   Special Deputy Attorney General
+     N.C. Department of Justice
+ 2   Post Office Box 629                               DAN RAYFIELD
+ 3   Raleigh, North Carolina 27602                     Attorney General
+     Telephone: (919) 716-6889                         State of Oregon
+ 4   Facsimile: (919) 716-6050
+     E-mail: cwhite@ncdoj.gov                          /s/ Katherine G. McKeon
+ 5   Attorneys for Plaintiff State of North Carolina   Katherine G. McKeon (CA SBN 266757)
+                                                       John Dunbar (Oregon Bar No. 842100), pro
+ 6                                                     hac vice
+     DAVID W. SUNDAY, JR.                              Senior Assistant Attorneys General
+ 7
+     Attorney General                                  Oregon Department of Justice
+ 8   Commonwealth of Pennsylvania                      Consumer Protection Section
+                                                       100 SW Market Street
+ 9   /s/ Jonathan R. Burns                             Portland, Oregon 97201
+     Jonathan R. Burns                                 Telephone:     (971) 673-1880
+10   Senior Deputy Attorney General                    Facsimile:      (971) 673-1884
+11   (PA Bar No. 315206), pro hac vice                 E-mail: kate.mckeon@doj.oregon.gov
+     Suzanne C. Bernstein                              E-mail: john.dunbar@doj.oregon.gov
+12   Deputy Attorney General                           Attorneys for State of Oregon ex rel.
+     (PA Bar No. 332119), pro hac vice                 Dan Rayfield, Attorney General for the State of
+13   Pennsylvania Office of Attorney General           Oregon
+     Strawberry Square, 14th Floor
+14   Harrisburg, PA 17120
+15   (717) 645-7269
+     jburns@attorneygeneral.gov
+                                                       ALAN WILSON
+16
+     Attorneys for Plaintiff the Commonwealth of       Attorney General
+17   Pennsylvania                                      State of South Carolina
+
+18                                                     /s/ Anna C. Smith
+                                                       C. Havird Jones, Jr.
+19                                                     Senior Assistant Deputy Attorney General
+     PETER F. NERONHA
+     Attorney General                                  Jared Q. Libet (S.C. Bar No. 74975),
+20
+     State of Rhode Island                             pro hac vice
+21                                                     Assistant Deputy Attorney General
+     /s/Alex Carnevale                                 Anna C. Smith (SC Bar No. 104749),
+22                                                     pro hac vice
+     Megan Rok (RI No. 11278)
+     Pro hac vice                                      Assistant Attorney General
+23                                                     Office of the South Carolina Attorney General
+     Special Assistant Attorney General
+24   Alex Carnevale (RI No. 10724)                     Post Office Box 11549
+     Special Assistant Attorney General                Columbia, South Carolina 29211
+25   150 South Main St.                                jlibet@scag.gov
+     Providence, RI 02903                              annasmith@scag.gov
+26                                                     803-734-0536
+     Tel: 401-274-4400
+27   MRok@riag.ri.gov
+     ACarnevale@riag.ri.gov                            Attorneys for Plaintiff the State of South
+28                                                     Carolina, ex rel. Alan M. Wilson, in His
+                                                11
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+          Case 4:23-cv-05448-YGR           Document 572   Filed 08/26/26      Page 12 of 14
+
+
+
+ 1                                                   Official Capacity as Attorney General of the
+     Attorneys for Plaintiff State of Rhode Island   State of South Carolina
+ 2
+
+ 3
+     JAY JONES
+ 4   Attorney General
+                                                     MARTY J. JACKLEY
+     Commonwealth Of Virginia
+ 5                                                   Attorney General
+                                                     State of South Dakota
+     /s/ Joelle E. Gotwals
+ 6   Travis G. Hill
+                                                     /s/ Amanda Miiller_______________
+ 7   Chief Deputy Attorney General
+                                                     By: Amanda Miiller (SD Bar No. 4271)
+     Helen O. Hardiman
+                                                     Deputy Attorney General
+ 8   Deputy Attorney General
+                                                     South Dakota Office of the Attorney General
+     Richard S. Schweiker, Jr.
+ 9                                                   1302 East SD Hwy 1889, Suite 1
+     Senior Assistant Attorney General and
+                                                     Pierre, SD 57501-8501
+     Section Chief
+10                                                   Telephone: (605) 773-3215
+     Joelle E. Gotwals (VSB No. 76779),
+                                                     Email: Amanda.Miiller@state.sd.us
+11   Senior Assistant Attorney General
+     pro hac vice
+                                                     Attorneys for Plaintiff State of South Dakota
+12   Chandler P. Crenshaw (VSB No. 93452)
+     Assistant Attorney General
+13   pro hac vice
+     Office of the Attorney General of Virginia
+14
+     Consumer Protection Section                     JOHN B. MCCUSKLEY
+15   202 N. 9th Street                               Attorney General
+     Richmond, Virginia 23219                        State of West Virginia
+16   Telephone: (804) 786-8789
+     Facsimile: (804) 786-0122                       /s/ Laurel K. Lackey
+17   E-mail: jgotwals@oag.state.va.us                Laurel K. Lackey (WVSB No. 10267),
+                                                     pro hac vice
+18
+     Attorneys for the Plaintiff Commonwealth of     Abby G. Cunningham (WVSB No. 13388)
+19   Virginia ex rel. Jay Jones, Attorney General    Assistant Attorneys General
+                                                     Office of the Attorney General
+20                                                   Consumer Protection & Antitrust Division
+                                                     Eastern Panhandle Office
+21   NICHOLAS W. BROWN                               269 Aikens Center
+     Attorney General                                Martinsburg, West Virginia 25404
+22   State of Washington                             (304) 267-0239
+23                                                   laurel.k.lackey@wvago.gov
+     /s/ Claire McNamara
+24   Claire McNamara (WA Bar No. 50097)              Attorneys for Plaintiff State of West Virginia,
+     Joseph Kanada (WA Bar No. 55055                 ex rel. Patrick Morrisey, Attorney General
+25   Gardner Reed (WA Bar No. 55630)
+     Assistant Attorneys General
+26   800 Fifth Avenue, Suite 2000                    JOSHUA L. KAUL
+     Seattle, WA 98104                               Attorney General
+27
+     (206) 474-7744                                  State of Wisconsin
+28   claire.mcnamara@atg.wa.gov
+                                                12
+                             JOINT MOTION TO ENTER CONSENT JUDGMENT
+          Case 4:23-cv-05448-YGR           Document 572   Filed 08/26/26      Page 13 of 14
+
+
+
+ 1   joe.kanada@wa.gov
+     gardner.reed@atg.wa.gov                         /s/ Brittany Copper
+ 2                                                   Brittany A. Copper
+ 3   Attorneys for Plaintiff-Intervenor State of     Assistant Attorney General
+     Washington                                      WI State Bar # 1142446, pro hac vice
+ 4                                                   Wisconsin Department of Justice
+                                                     Post Office Box 7857
+ 5                                                   Madison, Wisconsin 53707-7857
+                                                     (608) 266-1795
+ 6                                                   Brittany.copper@wisdoj.gov
+ 7
+                                                     Attorneys for Plaintiff State of Wisconsin
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                 13
+                              JOINT MOTION TO ENTER CONSENT JUDGMENT
+          Case 4:23-cv-05448-YGR            Document 572        Filed 08/26/26        Page 14 of 14
+
+
+
+ 1                                       SIGNATURE CERTIFICATION
+ 2          Under Civ. L.R. 5-1(i)(1), I hereby attest that all signatories listed, and on whose behalf the filing
+ 3   is submitted, concur in this filing’s content and have authorized this filing.
+ 4   DATED: August 26, 2026                                 /s/ Bernard A. Eskandari
+ 5                                                          Bernard A. Eskandari
+
+ 6                                                          Attorney for Plaintiff the People of the State
+                                                            of California
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                 14
+                              JOINT MOTION TO ENTER CONSENT JUDGMENT
+

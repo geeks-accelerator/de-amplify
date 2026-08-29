@@ -123,6 +123,7 @@ const LEDGERS = {
       // Added 2026-08-28 with section (k), the settlement. The consent judgment and
       // the executed agreement are the two most consequential documents in this
       // ledger and both are now quoted from directly.
+      "mdl-3047-2026-08-26-dkt572-joint-motion.txt",
       "mdl-3047-2026-08-26-dkt576-consent-judgment.txt",
       "mdl-3047-2026-08-26-dkt572-1-settlement-agreement.txt",
       "mdl-3047-2026-08-26-dkt575-trial-order-3.txt",

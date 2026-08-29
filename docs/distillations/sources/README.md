@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **540 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **552 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
@@ -276,6 +276,11 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
 - `mdl-3047-2026-08-18-dkt550-civil-minutes.txt`: the court's Civil Minutes for the opening trial
   day. Small and load-bearing: it is the record that trial was held, that the session ran 5 hours
   17 minutes, and that the states' first witness was Arturo Bejar.
+- `mdl-3047-2026-08-26-dkt572-joint-motion.txt`: the **Joint Motion to Enter Consent Judgment**
+  itself, AG-case Dkt 572, 14 pages, filed 2026-08-26. Cached on the 2026-08-28 audit because the
+  ledger's claim 44 cited "the motion itself (primary, cached)" while only its Exhibit 1 (the
+  agreement, below) was actually in this folder: a citation that says cached must point at a file
+  that exists here, and for a few hours it did not. Clean extraction, no artifacts.
 - `mdl-3047-2026-08-26-dkt576-consent-judgment.txt`: **META AND STATE ATTORNEYS GENERAL CONSENT
   JUDGMENT**, AG-case Dkt 576 / MDL ECF 3451, signed by Chief Judge Yvonne Gonzalez Rogers and
   entered 2026-08-26. This is the document that ends the states' case: it approves the settlement
