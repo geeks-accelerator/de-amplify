@@ -80,12 +80,6 @@ const POSTURE = ["pending", "requested", "weighing", "awaiting", "sought", "prop
 // Each entry needs a REASON. An allowlist without one is where a real defect hides.
 const POSTURE_ALLOW = [
   {
-    file: "src/app/lawsuits/tennessee-v-meta/opengraph-image.tsx",
-    word: "sought",
-    reason:
-      "Tennessee IS undecided: in trial, evidence began 2026-07-27. The card says 'design order sought', which is the accurate posture for a live case. Re-check when the Chancellor rules.",
-  },
-  {
     file: "src/app/lawsuits/page.tsx",
     word: "proposed",
     reason:

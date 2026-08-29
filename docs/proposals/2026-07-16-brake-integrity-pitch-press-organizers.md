@@ -9,7 +9,8 @@ Discipline held even here: the villain is the MECHANISM, never a company or a tr
 the wedge it names). The legal caveat on the label anchor is turned into ammunition, not hidden.
 Format: gamma.app "Paste in Text" mode. Each `---` on its own line is a card break; `#` lines are card titles.
 Date: 2026-07-16. Aggressive sibling of the policymaker deck (which keeps the label in the appendix) and
-the parent deck. Facts as of 2026-07-16; litigation moves weekly.
+the parent deck. Facts as of 2026-07-16, litigation card refreshed 2026-08-28 after the states
+settled with Meta; litigation moves weekly.
 
 TO USE: In gamma.app choose "Paste in Text," then paste from the "# de-amplify" line below to the end.
 Do not paste this comment. No em dashes (de-amplify house style); every `---` is a slide separator.
@@ -76,11 +77,11 @@ For most feeds it does not. Screenshot that. The screenshot is the story, and an
 
 # It is already in the courts
 
-- A New Mexico jury: **$375 million** against Meta over child safety.
+- A New Mexico court: a **$942 million** judgment against Meta over child safety.
 - A California jury: **$6 million** against Meta and Google over addictive design.
-- The states demanded up to **$1.4 trillion**, a number everyone knows settles lower. That is how you negotiate with a trillion-dollar machine: you anchor high.
+- The states took Meta to trial and settled mid-evidence for up to **$16.7 billion**. (The **$1.4 trillion** you saw in headlines was Meta's own worst-case arithmetic, never the states' demand; the settlement is about one percent of it.)
 
-The money is real and moving. What is missing is a rule that the off-switch works.
+The money is real and moving, and the settlement even writes a working off-switch for one company, while stating in its own text that it is not a standard for anyone else. What is missing is still the rule.
 
 ---
 

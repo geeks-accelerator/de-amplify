@@ -172,9 +172,22 @@ const LEDGERS = {
   // CACHE, which is a first for this script. See the Lbl note in the deviations
   // list below and in sources/README.md.
   "tennessee-v-meta": {
-    sources: ["tennessee-2023-10-24-unredacted-complaint.txt", "tennessee-2024-03-13-mtd-order.txt"],
+    sources: [
+      "tennessee-2023-10-24-unredacted-complaint.txt",
+      "tennessee-2024-03-13-mtd-order.txt",
+      // Added 2026-08-28 with section (g): the settlement that ended the trial.
+      // The agreement cache is shared with the mdl-3047 registration, which is
+      // deliberate: one cache file, two ledgers quoting it, both verified against
+      // the same bytes. The TN release is this ledger's own.
+      "mdl-3047-2026-08-26-dkt572-1-settlement-agreement.txt",
+      "tennessee-2026-08-26-ag-settlement-release.txt",
+    ],
     allowlist: "tennessee-quote-allowlist.txt",
-    sections: ["(b) The control-integrity count", "(c) What the court has actually decided"],
+    sections: [
+      "(b) The control-integrity count",
+      "(c) What the court has actually decided",
+      "(g) The settlement that ended the trial",
+    ],
   },
   "new-mexico-v-meta": {
     // Two caches: the judgment, and the FTC release the judgment discusses. The

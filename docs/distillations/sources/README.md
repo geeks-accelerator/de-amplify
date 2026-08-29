@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **517 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **540 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
@@ -288,9 +288,13 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
   (Dkt 572-1), 130 pages. Every term the site describes comes from here: Exhibit B's payment
   schedule, the Phase I / Phase II time-management split, the "Contingent Monetary Payment Trigger",
   the definition of "Core Industry Members" as Snap, TikTok and YouTube, the injunctive terms and
-  the release carve-outs. Fetched from CourtListener/RECAP 2026-08-28; **byte-identical (1,538,381
-  bytes) to the copy the California Department of Justice publishes alongside its release**, which
-  was checked rather than assumed. Extraction is clean: `pdftotext -layout`, no `Lbl` artifacts, no
+  the release carve-outs. Fetched from CourtListener/RECAP 2026-08-28. **The California Department of Justice publishes
+  a copy alongside its release, and the two are the same document but not the same file**: equal
+  size (1,538,381 bytes), 46 differing bytes of PDF metadata, and `pdftotext -layout` output that
+  is line-for-line identical, which is the comparison that matters for this cache and the one
+  actually run. An earlier draft of this entry said "byte-identical" on the strength of the equal
+  sizes; hashing them showed otherwise, which is the difference between checking and assuming
+  wearing the word "checked". Extraction is clean: `pdftotext -layout`, no `Lbl` artifacts, no
   TIFF markers, no ligatures.
 - `mdl-3047-2026-08-26-dkt575-trial-order-3.txt`: Trial Order No. 3, filed 2026-08-26. Four pages,
   and the one that records the mechanics: the court suspended the trial, granted the motion, and
@@ -302,6 +306,17 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
   separators in the same style as the combined testimony files above. Together with Dkt 550 they
   are the complete trial record: four days of evidence, one status conference, five witnesses, and
   the 49-minute session at which the trial stopped. Fetched 2026-08-28.
+- `tennessee-2026-08-26-ag-settlement-release.txt`: the Tennessee Attorney General's press release
+  pr26-33, "Attorney General Skrmetti Announces Largest Big Tech Settlement in History",
+  2026-08-26, extracted from the page HTML and trimmed to the release body. The primary for
+  Tennessee's own account of the settlement that ended its Nashville trial: the $751,922,691.13
+  figure (which the release renders with a stray doubled dollar sign, "$ $751,922,691.13",
+  preserved because the cache is verbatim), the Children's Digital Protection Fund destination,
+  and the sentence placing the agreement at the end of "a lengthy trial against Meta in front of
+  Davidson County Chancellor Russell T. Perkins". Registered under `tennessee-v-meta` in
+  `npm run check:quotes` alongside the settlement agreement cache, which that ledger's section (g)
+  also quotes; one cache file serving two ledgers is deliberate and the checker verifies both
+  against the same bytes.
 - `mdl-3047-2026-08-26-ca-ag-settlement-release.txt`: the California Attorney General's press
   release announcing the settlement, 2026-08-26, extracted from the page HTML and trimmed to the
   headline and release body (the site chrome is not the record). Cached because the ledger quotes
