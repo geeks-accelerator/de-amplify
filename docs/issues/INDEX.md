@@ -15,6 +15,7 @@ which files were listed, never what the rows said about them.
 
 | Issue | Status | Opened | Closes when |
 | --- | --- | --- | --- |
+| [railway deploy queued gcp](2026-08-28-railway-deploy-queued-gcp.md) | `open` | 2026-08-28 | deployment 107547da (or its successor) reaches SUCCESS and https://de-amplify.com/lawsuits.md contains the string "consent judgment", and /api/health reports manifestGenerated 2026-08-28 |
 | [settlement compliance dates](2026-08-28-settlement-compliance-dates.md) | `open` | 2026-08-28 | the first Independent Auditor executive summary is published and its findings are recorded in the mdl-3047 ledger, or the Compliance Date passes with Meta's implementation observed and recorded either way |
 | [hub prose has no backstop](2026-08-18-hub-prose-has-no-backstop.md) | `open` | 2026-08-18 | either a guard exists that catches a stale posture claim in hub prose without gating ordinary writing, or this is deliberately closed as not worth the false positives |
 | [india it rules notification status](2026-08-18-india-it-rules-notification-status.md) | `open` | 2026-08-18 | it is established whether the amendment notified on 2026-02-10 is the instrument this thread was asking about, and if not, what became of the draft that closed for comment on 2026-05-07 |
