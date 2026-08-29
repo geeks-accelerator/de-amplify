@@ -1,0 +1,853 @@
+     Case 4:22-md-03047-YGR            Document 3407        Filed 08/17/26     Page 1 of 15
+
+
+
+ 1
+      [Submitting Counsel on Signature Page]
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6                                    UNITED STATES DISTRICT COURT
+
+ 7                                NORTHERN DISTRICT OF CALIFORNIA
+
+ 8
+
+ 9
+          IN RE: SOCIAL MEDIA ADOLESCENT                   MDL No. 3047
+10        ADDICTION/PERSONAL INJURY
+          PRODUCTS LIABILITY LITIGATION                    Case No. 4:22-md-3047-YGR
+11
+
+12                                                         JOINT STATUS REPORT PURSUANT
+          This Document Relates to:
+                                                           TO CMO 36
+13
+          ALL ACTIONS
+14
+
+15
+               Pursuant to Case Management Order 36, the Court directed the parties to file a joint status
+16
+      update identifying “the number of cases against X Corp., Discord, and Roblox” pending in this
+17
+      MDL; “the law firms representing all parties” in such cases; and “any other facts that may be helpful
+18
+      to the Court in determining how to handle these cases moving forward.” The undersigned parties
+19
+      hereby provide the following information.
+20
+               I.     Cases Pending in the MDL That Name Defendants Other Than Meta, TikTok,
+21                    Snap, or YouTube.
+22
+               The undesigned parties have reviewed the dockets pending in this MDL and have identified
+23
+      the following pending cases that name any defendant other than the Meta Defendants 1, Snap
+24
+      Defendants, TikTok Defendants, or YouTube Defendants:
+25
+
+26
+
+27    1
+       Certain constituent cases name Meta entities other than those associated directly with Facebook
+28    and Instagram (for instance, Oculus.). Those cases are not identified in this status report.
+     Case 4:22-md-03047-YGR         Document 3407          Filed 08/17/26     Page 2 of 15
+
+
+
+ 1    Case Number Case Caption                     Plaintiff’s              Addt’l Defendants
+                                                   Counsel
+ 2
+      26-cv-05308   Hayes v. Meta Platforms, Inc., Aylstock, Witkin,        Discord Inc.
+ 3                  f/k/a Facebook, Inc. et al.    Kreis &                  (“Discord”)
+                                                   Overholtz, PLLC
+ 4    23-cv-01061   Broward County School Board Robbins Geller              Discord
+                    v. Meta Platforms, Inc. et al. Rudman & Dowd
+ 5                                                 (“RGRD”)
+ 6    23-cv-01149   Bucks County et al. v. Meta    RGRD                     Discord, Roblox
+                    Platforms, Inc. et al.                                  Corporation
+ 7                                                                          (“Roblox”), X Corp.
+                                                                            f/k/a Twitter (“X”)
+ 8    23-cv-02089   Carroll v. TikTok Inc. et al.       RGRD                Discord
+ 9    23-cv-05257   Miami-Dade County Public            RGRD                Discord, Roblox, X
+                    Schools District v. Meta
+10                  Platforms, Inc. et al.
+      24-cv-02554   County of Oakland, Michigan         RGRD                Discord
+11                  v. Meta Platforms Inc. et al.
+12    25-cv-02376   Monroe County, Michigan v.          RGRD                Discord, Roblox
+                    Meta Platforms, Inc. et al.
+13    25-cv-05744   Sonoma County, California v.        RGRD                Discord, Roblox
+                    Meta Platforms, Inc. et al.
+14    26-cv-02463   Los Angeles Unified School          RGRD                Discord, Roblox, X
+15                  District v. Meta Platforms,
+                    Inc., f/k/a Facebook, Inc. et al.
+16    26-cv-06077   Commonwealth of                     RGRD                Discord, Roblox, X
+                    Pennsylvania on behalf of
+17                  Bucks County, acting by and
+                    through Bucks County District
+18                  Attorney Joe Khan v. Meta
+19                  Platforms, Inc., formerly
+                    known as Facebook, Inc et al.
+20    22-cv-07347   C.U. and S.U. v. Snap Inc. et       Social Media        Discord, Roblox
+                    al.                                 Victims Law
+21                                                      Center
+                                                        (“SMVLC”)
+22
+      23-cv-03453   Katheryn Guillot, individually      SMVLC               Discord, Roblox
+23                  and on behalf of Kennedy
+                    Loftin, deceased v. Meta
+24                  Platforms, Inc. et al
+      24-cv-01868   S.L. on behalf of K.A. v. Snap,     SMVLC               Discord
+25
+                    Inc. et al
+26    24-cv-03646   M.S. on behalf of B.G. v.           SMVLC               Discord, Roblox
+                    Google LLC et al.
+27    24-cv-04086   K.G. and N.F. v. Snap Inc. et       SMVLC               Discord, Roblox
+                    al.
+28
+     Case 4:22-md-03047-YGR        Document 3407         Filed 08/17/26       Page 3 of 15
+
+
+
+ 1    Case Number Case Caption                        Plaintiff’s         Addt’l Defendants
+                                                      Counsel
+ 2
+      25-cv-02010   T.W. and N.M. v. Meta             SMVLC               Discord
+ 3                  Platforms, Inc. et al.
+      25-cv-02053   R.M. on behalf of T.M. v. Meta    SMVLC               Discord
+ 4                  Platforms, Inc. et al.
+      25-cv-09024   Kelly Cloer, individually and     SMVLC               Discord
+ 5
+                    as successor-in-interest to
+ 6                  Landon Stumbo, Deceased v.
+                    Discord, Inc.
+ 7    26-cv-00937   Ada Cascone-Capdesuner v.         SMVLC               Discord, Roblox
+                    Meta Platforms, Inc. et al
+ 8    25-cv-00891   Detroit Public Schools            Weitz &             Discord, Roblox
+ 9                  Community District, Michigan      Luxenberg;
+                    v. Meta Platforms, Inc et al.     RGRD
+10    26-cv-02324   Ann Arbor Public Schools,         Weitz &             Discord, Roblox
+                    Michigan v. Meta Platforms,       Luxenberg
+11                  Inc. et al.
+      26-cv-06317   Schultz v. Meta Platforms, Inc.   Weitz &             Discord, X
+12
+                    et al.                            Luxenberg
+13    26-cv-07082   Person v. Meta Platforms, Inc.    Weitz &             X
+                    et al.                            Luxenberg
+14    26-cv-05817   Hill v. Meta Platforms, Inc. et   Weitz &             Discord, Reddit,
+15                  al.                               Luxenberg           Twitter
+      24-cv-03111   R. W. v. Snap, Inc.               Turley Law Firm     Shun Yan Hak a/k/a
+16                                                                        Shunyan Hak
+      24-cv-03110   F. U. v. Snap Inc.                Turley Law Firm     Gustavo Hernandez
+17
+
+18    25-cv-08737   Hutchison v. Meta Platforms,      Weller, Green,      Twelve-App
+                    Inc. et al.                       Toups & Terrell,    Corp/Yubo; Match
+19                                                    LLP                 Group, Inc./Tinder;
+                                                                          Together Labs,
+20                                                                        Inc./Imvu
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+     Case 4:22-md-03047-YGR          Document 3407        Filed 08/17/26      Page 4 of 15
+
+
+
+ 1    Case Number Case Caption                         Plaintiff’s          Addt’l Defendants
+                                                       Counsel
+ 2
+      25-cv-05081     Sullivan v. Meta Platforms,      DiCello Levitt       Southeastern
+ 3                    Inc., et al.                     LLP; Stampone        Pennsylvania Transit
+                                                       O’Brien              Authority; Robert
+ 4                                                     Dilsheimer           Milson, Bryner
+                                                       Holloway             Chevrolet, Inc.; DBP
+ 5                                                                          Partners, LP; DB Pete
+                                                                            Inc; John Kennedy
+ 6
+                                                                            Ford Of Jenkintown,
+ 7                                                                          Hopkins Ford, Inc.;
+                                                                            Kennedy Real Estate
+ 8                                                                          Associates, LP;
+                                                                            Kennedy Real Estate
+ 9                                                                          Associates
+10                                                                          Management, LLC
+      25-cv-09769     Vallejo v. National Railroad     Hersel Law Firm      National Railroad
+11                    Passenger Corp. et al.                                Passenger Corp. dba
+                                                                            Amtrak
+12
+
+13
+             II.     Counsel for Defendants Other Than Meta, TikTok, Snap, or YouTube.
+14
+
+15           As the above table indicates, Discord is presently named in 23 constituent cases brought
+
+16    by four law firms representing plaintiffs. Counsel for Discord has entered an appearance in this
+
+17    MDL. Discord will be represented in all pending MDL cases by attorney J. Alexander Lawrence,
+
+18    among others, at the law firm Morrison Foerster LLP.
+
+19           Roblox is presently named in 13 constituent cases brought by three law firms representing
+
+20    plaintiffs. Counsel for Roblox has entered an appearance in this MDL. Roblox will be represented
+
+21    in all pending MDL cases by attorneys Kristin Silverman and Tony Weibell, among others, of the
+
+22    law firm Mayer Brown.
+
+23           X is presently named in 6 constituent cases brought by two law firms representing
+
+24    plaintiffs. Counsel for X has entered an appearance in this MDL. X is represented by attorneys
+
+25    Shon Morgan, John Bash, Stephen Broome, and Dylan Bonfigli, among others, at the law firm
+
+26    Quinn Emanuel.
+
+27           As of the date of this filing, counsel for Shun Yan Hak a/k/a Shunyan Hak has not yet
+
+28    entered an appearance in the MDL or the constituent case in which they are named as a
+     Case 4:22-md-03047-YGR          Document 3407         Filed 08/17/26      Page 5 of 15
+
+
+
+ 1
+      defendant, R. W. v. Snap, Inc., 24-cv-03111.
+ 2
+             Counsel for Gustavo Hernandez, a defendant named in F. U. v. Snap Inc., 24-cv-03110,
+ 3
+      has not yet entered an appearance in that constituent case or the MDL. Plaintiff’s counsel in that
+ 4
+      case believes that Mr. Hernandez is represented by attorneys Michael S. Wilson and Marta Milan
+ 5
+      of the law firm Cuccia Wilson, PLC.
+ 6
+             As of the date of this filing, counsel for Reddit has not yet entered an appearance in the
+ 7
+      MDL or the constituent case in which they are named as a defendant, Hill v. Meta Platforms, Inc.
+ 8
+      et al., 26-cv-05817.
+ 9
+             As of the date of this filing, counsel for Twelve-App Corp/Yubo; Match Group,
+10
+      Inc./Tinder; and Together Labs, Inc./Imvu have not yet entered an appearance in the MDL or the
+11
+      constituent case in which they are named as defendants, Hutchison v. Meta Platforms, Inc. et al.,
+12
+      25-cv-08737.
+13
+             Counsel for various additional defendants named in Sullivan v. Meta Platforms, Inc., et
+14
+      al., 25-cv-05081 have entered an appearance in that constituent case and in the MDL.
+15
+      Southeastern Pennsylvania Transit Authority and Robert Milson will be represented by attorney
+16
+      Thomas J. McKenzie, among others, at the law firm Marshall Dennehey Attorneys at Law.
+17
+      Bryner Chevrolet, Inc.; DBP Partners, LP; and DB Pete, Inc. will be represented by attorneys
+18
+      Charles Adams and Chelsea Williams, among others, at the law firm Thoms, Thomas & Hafer
+19
+      LLP. John Kennedy Ford of Jenkintown; Hopkins Ford, Inc.; Kennedy Real Estate Associations,
+20
+      LP; and Kennedy Real Estate Associates Management, LLC will be represented by attorneys
+21
+      William Carr, among others, at the law firm Rawle & Henderson LLP.
+22
+             As of the date of this filing, counsel for National Railroad Passenger Corp. dba Amtrak
+23
+      has not yet entered an appearance in the MDL or the constituent case in which they are named as
+24
+      a defendant, Vallejo v. National Railroad Passenger Corp. et al., 25-cv-09769.
+25
+             III.    Additional Facts Pertinent to Cases Naming Roblox, X, or Discord.
+26
+
+27           In keeping with CMO 36, the parties to cases naming Roblox, X, and/or Discord met and
+
+28    conferred on Friday, August 14, 2026. As a result of that meet and confer, the parties to cases
+     Case 4:22-md-03047-YGR           Document 3407          Filed 08/17/26      Page 6 of 15
+
+
+
+ 1
+      naming Roblox and Discord agreed on the joint statement set forth in subsection (a) below. The
+ 2
+      parties to cases naming X were not able to agree on an additional joint statement but agreed to
+ 3
+      submit individual party positions, which are set forth in subsection (b) below.
+ 4
+                      a. Additional Facts Pertinent to Roblox and Discord.
+ 5
+
+ 6            The following statement was jointly prepared by the parties in the cases naming Roblox
+
+ 7    and Discord:
+
+ 8            As noted above, Discord has been named as a party in a handful of personal injury and
+
+ 9    local government and school district cases that are currently pending in the MDL. Discord is
+
+10    presently a party to twelve (12) personal injury cases and eleven (11) local government and
+
+11    school district cases.
+
+12            Roblox has been named as a party in five (5) personal injury cases and eight (8) local
+
+13    government and school district cases.
+
+14            Discord and Roblox were not named as a party to the Master Complaint in the MDL, and
+
+15    discovery has proceeded without Discord’s and Roblox’s participation. Discord and Roblox do
+
+16    not have access to any materials on MDL Centrality and have received none of the discovery
+
+17    materials in these cases.
+
+18            On November 18, 2024, the Court entered an order approving a stipulation Discord and
+
+19    Roblox entered into with Robbins Geller Rudman & Dowd and Social Media Victims Law Center
+
+20    governing then pending and future cases against Discord or Roblox filed by those firms. (ECF
+
+21    Nos. 1331 & 1339). The stipulation provides a stay of those cases against Discord and Roblox
+
+22    shall remain in effect until such time as any one or all of the affected parties successfully petition
+
+23    the Court to lift the stay. (ECF No. 1339).
+
+24            On April 14, 2026, Discord and Roblox entered into a separate but similar stipulation and
+
+25    stay order governing the Ann Arbor school district case and any other cases filed by Weitz &
+
+26    Luxenberg P.C. (ECF No. 2951). On July 2, 2026, Discord entered into a separate and similar
+
+27    stipulation and stay governing the Hayes case and any other cases filed by Aylstock, Witkin, Kreis
+
+28    & Overholtz, PLC. (ECF No. 3230).
+     Case 4:22-md-03047-YGR             Document 3407       Filed 08/17/26         Page 7 of 15
+
+
+
+ 1
+             Counsel for Discord and Roblox have made no appearances in this matter at any point
+ 2
+      other than in connection with filing the above stipulations and proposed stay orders.
+ 3
+             On August 14, 2026, counsel for Discord and Roblox conferred with Plaintiffs’ counsel
+ 4
+      involved in the stay stipulations outlined above. The parties are prepared to confer in the near
+ 5
+      future regarding next steps in the cases that are subject to those stays, pending further guidance
+ 6
+      from the Court.
+ 7
+                     b. Additional Facts Pertinent to X Corp.
+ 8
+
+ 9           The parties to cases naming X were not able to agree on an additional joint statement but
+
+10    agreed to submit individual party positions, set forth in this subsection.
+
+11    X’s Position
+
+12           Maintaining claims against X in this MDL would not promote efficiency. X first became a
+
+13    defendant in March 2026—more than three years after centralization—has not participated in
+
+14    common discovery or dispositive-motion briefing, and is not a defendant in any bellwether. Only
+
+15    six actions, brought by two firms, name X; one additional action names Twitter. The belated
+
+16    attempts to add X have generated threshold, X-specific disputes concerning pleading, forum,
+
+17    governing law, and limitations.
+
+18           Robbins Geller Cases:2 Filed on March 20, 2026, LAUSD was the first case in this MDL
+
+19    to name X as a defendant. X moved to sever the claims against it and transfer them to the
+
+20    Northern District of Texas based on the forum-selection clause in X’s Terms of Service. Dkt. 11.
+
+21    The Court stated: “X has never been a part of this case. I don’t understand why it shouldn’t be
+
+22    severed…. [T]his MDL has not involved X even if the allegations are similar.” 7/17/26 Tr. 80:15-
+
+23    21. The Court took the motion under submission. MDL Dkt. 3283.
+
+24
+
+25
+
+26    2
+         LAUSD v. Meta Platforms, Inc., No. 4:26-cv-02463-YGR; Bucks Cty. v. Meta Platforms, Inc.,
+      No. 4:23-cv-01149-YGR; Commonwealth of Penn. ex rel. Bucks County D.A. v. Meta Platforms,
+27
+      Inc., No. 4:26-cv-06077-YGR; Miami-Dade Cty. Public Schs. Dist. v. Meta Platforms, Inc.,
+28    No. 4:23-cv-05257-YGR.
+     Case 4:22-md-03047-YGR            Document 3407       Filed 08/17/26      Page 8 of 15
+
+
+
+ 1
+             After X moved to transfer, Plaintiffs purported to add X as a defendant in three actions
+ 2
+      originally filed in 2023: Miami-Dade and two Bucks County cases.3 Plaintiffs filed those amended
+ 3
+      SFCs without leave of Court or the consent of the opposing parties, in violation of Rule 15(a)(2)
+ 4
+      and CMO 13A. MDL Dkt. 877. The amended SFCs therefore have no legal effect and may be
+ 5
+      stricken or disregarded. Taa v. Chase Home Finance, LLC, 2012 WL 507430, at *1 (N.D. Cal.
+ 6
+      Feb. 15, 2012). X raised these defects with Plaintiffs, but they have neither withdrawn the SFCs
+ 7
+      nor sought leave to file them.
+ 8
+             Plaintiffs invoke paragraph 11 of CMO 10 (Dkt. 620), but that paragraph merely
+ 9
+      authorizes naming “Other Defendants” in SFCs. That order also set a deadline of March 5, 2024,
+10
+      to adopt the SFC. MDL Dkt. 620 at 3. Plaintiffs’ amended SFCs are more than two years too late.
+11
+      The order says nothing about amending an existing SFC to name new defendants. That is
+12
+      governed by CMO 13A, which applies to “all short-form complaints … in the” MDL. MDL
+13
+      Dkt. 877 at 1. That operative text controls, notwithstanding the caption’s reference to “All
+14
+      Personal Injury Actions.” See MDL Dkt. 780 at 2-3. Nor does Rule 15(a)(1) create an open-ended
+15
+      amendment right: the 21-day period expired long ago, and CMO 10 deems every SFC “answered
+16
+      and denied.” MDL Dkt. 620 at 4. CMO 13A governs in any event. The Court should strike all
+17
+      three amended SFCs.4
+18
+             If plaintiffs replead their claims against X, the Bucks County cases would presumptively
+19
+      proceed in the Eastern District of Pennsylvania, and Miami-Dade would presumptively proceed in
+20
+      the Southern District of Florida—the courts in which Plaintiffs represent they would have filed
+21
+      their actions absent the MDL’s direct-filing procedure.
+22
+      3
+23       Both Bucks County cases were brought by Bucks County—one in the County’s own name and
+      the other, through the Bucks County D.A., nominally on behalf of the Commonwealth of
+24    Pennsylvania. The claims were originally asserted in a single case, but plaintiffs separated them
+      into two cases in June 2026, purportedly based on an order that this Court issued in February
+25
+      2024 (MDL Dkt. 620). That order prohibited multi-plaintiff complaints and directed all plaintiffs
+26    to “file an individual SFC by January 30, 2024, or 14 days after entry of th[e] Order, whichever is
+      later.” MDL Dkt. 620 at 4. Plaintiffs exceeded that deadline by over two years.
+27    4
+         The Miami-Dade complaint also names Space X, xAI LLC, and xAI Corp. as defendants, but it
+28    lacks any particularized allegations as to what these defendants supposedly did.
+     Case 4:22-md-03047-YGR           Document 3407          Filed 08/17/26      Page 9 of 15
+
+
+
+ 1
+             Weitz & Luxenberg Cases:5 Weitz filed three cases on behalf of individual plaintiffs.
+ 2
+      Schultz and Person name X; Hill names Twitter. X has not been served with the three cases. X
+ 3
+      sent plaintiffs’ counsel for these cases a letter identifying deficiencies in the SFCs, including that
+ 4
+      the claims are untimely and lack particularized allegations against X; plaintiffs have agreed to
+ 5
+      provide a substantive response by August 26. 6 Any amendment should comply with CMO 13A.
+ 6
+             Maintaining Claims Against X In The MDL Is Not Efficient. X was not named as a
+ 7
+      defendant in this MDL until March 2026, has not participated in any discovery or dispositive-
+ 8
+      motion briefing, and is not a defendant in any bellwether case. Moreover, the claims against X
+ 9
+      present threshold legal issues unique to X: X has reason to believe that nearly all plaintiffs agreed
+10
+      to the X Terms, which include a Texas forum-selection clause, a Texas choice-of-law provision, a
+11
+      limitation-of-liability provision, and a two-year contractual limitations period. These issues are
+12
+      likely to drive the resolution of the claims against X. But they will not be advanced by the MDL’s
+13
+      existing discovery, motion practice, or bellwether proceedings. Retaining the claims against X in
+14
+      this MDL only to stay them—as Robbins Geller agreed should be done for Roblox and Discord—
+15
+      would neither promote judicial efficiency nor advance the resolution of these X-specific issues.
+16
+             Plaintiffs’ reliance on generalized overlap misses the point. The JPML’s 2022 transfer
+17
+      order did not decide whether claims first asserted against X in 2026 should remain after more
+18
+      than three years of X-free proceedings, much less whether X’s forum-selection clauses should be
+19
+      disregarded. The Panel’s observation that some plaintiffs may later add other platforms was not a
+20
+      prospective determination under § 1407 that claims against every other platform belong in this
+21
+      MDL; the Panel never considered X. Nor does plaintiffs’ cursory proposal for separate X-specific
+22
+      discovery and motion tracks establish efficiency; it concedes that the MDL’s existing work will
+23
+      not resolve X’s threshold defenses. Moreover, any incremental duplication results from Plaintiffs’
+24
+      decision to wait until the MDL was substantially advanced before naming X.
+25
+      5
+26       Schultz v. Meta Platforms, Inc., No. 4:26-cv-06317-YGR; Person v. Meta Platforms, Inc., No.
+      4:26-cv-07082-YGR; Hill v. Meta Platforms, Inc., No. 4:26-cv-05817-YGR.
+27    6
+         X identified similar deficiencies in Muchnic v. Instagram LLC, Case No. 4:26-cv-05609-YGR,
+28    after which the plaintiff agreed to dismiss X with prejudice, id., Dkt. 5.
+     Case 4:22-md-03047-YGR          Document 3407         Filed 08/17/26      Page 10 of 15
+
+
+
+ 1
+             For the reasons above, the efficient course is to (1) strike the three improper amended
+ 2
+      complaints filed by Robbins Geller, (2) grant X’s motion to transfer LAUSD’s claims against it to
+ 3
+      the Northern District of Texas, and (3) sever and transfer any remaining claims against X to the
+ 4
+      respective courts in which plaintiffs represent they would have filed their actions absent the
+ 5
+      MDL’s direct-filing procedure.
+ 6
+
+ 7    RGRD Response to X’s Position
+ 8           X insisted on raising in this document – a joint update intended to respond to the Court’s
+ 9
+      queries about existing MDL cases against Discord, Roblox, and X – a number of arguments as to
+10
+      certain plaintiffs’7 short-form complaint filings (over said plaintiffs’ objections made during the
+11
+      Aug. 14, 2026, meet and confer) which are well beyond the scope of this update. Case Management
+12
+
+13    Order No. 36 (ECF 3295) at 1-2. Plaintiffs, thus, object to the improper motion to strike/dismiss
+
+14    arguments raised with respect to multiple complaints brought not only against X, but against
+
+15    multiple defendants, and ask that the Court decline to grant any motion to strike/dismiss on this
+16
+      improper argument and inadequate record. Moreover, X reiterates arguments already made in its
+17
+      opportunistic motion to sever and transfer LAUSD’s case to Texas, which should only be
+18
+      considered (and denied) based on that submitted briefing and certainly not granted based on the
+19
+
+20
+      7
+21      In this portion of the update, “Plaintiffs” refers to Los Angeles Unified School District
+      (“LAUSD”), Miami-Dade School District, Monroe County (MI), Bucks County (PA) (“Bucks
+22    County”) and the Commonwealth of Pennsylvania by and through the Bucks County District
+      Attorney Joe Khan (“Commonwealth”), all of whom have sued Discord, Roblox and/or X and the
+23    other defendants. X’s recitation of the timing of Bucks County’s and Commonwealth’s filings is
+24    inaccurate. Bucks County and Commonwealth plaintiffs filed together in a long-form complaint
+      on March 14, 2023, then (per the Court’s instruction to file short-form complaints with no more
+25    than one plaintiff each), filed two separate short-form complaints under the same case number as
+      the long-form complaint (4:23-cv-01149-YGR, ECF 27, 28) on March 14, 2024. They then filed
+26    amended short-form complaints on June 5, 2026, and then re-filed the Commonwealth’s amended
+      short-form complaint on June 18, 2026 at the Court’s instruction to separate the cases for the two
+27
+      plaintiffs. See 4:26-cv-6077-YGR, ECF 3; 4:23-cv-01149-YGR, ECF 39. Robbins Geller is
+28    aware of additional plaintiffs preparing to file similar claims against X.
+     Case 4:22-md-03047-YGR            Document 3407         Filed 08/17/26     Page 11 of 15
+
+
+
+ 1    incomplete record set forth in this update. Plaintiffs’ complaints were properly filed in accordance
+ 2    with this Court’s Stipulated Implementation Order Governing Adoption of Master Complaint
+ 3
+      (Local Government and School District) and Short-Form Complaints for Filed Cases
+ 4
+      (“Implementation Order”) (ECF 620, ¶ 11) and Fed. R. Civ. P. 15. CMO 13 (ECF 780) does not
+ 5
+      apply as that Order, per the caption, relates only to personal injury actions.
+ 6
+
+ 7            This Court is the proper and most efficient venue for Plaintiffs’ claims against X to proceed
+
+ 8    because they substantially overlap with the claims and defenses already being litigated here. 8
+
+ 9    Indeed, X is not the only defendant plaintiffs sued; they also sued Meta, YouTube, Snap, TikTok,
+10
+      Discord and (mostly) Roblox. It would contravene the purpose of Section 1407 to require these
+11
+      plaintiffs to proceed in this MDL for some defendants and in separate courts for others. In re
+12
+      Phenylpropanolamine (PPA) Prods. Liab. Litig., 460 F.3d 1217, 1229-30 (9th Cir. 2006).
+13
+      Plaintiffs’ claims against X raise the same core factual and legal questions concerning the design,
+14
+
+15    operation, and alleged addictive and otherwise harmful effects of social-media platforms on youth,
+
+16    as well as common legal issues concerning Section 230, the First Amendment, derivative injury,
+17    and proximate causation as do their cases against Meta, YouTube, Snap and TikTok – issues this
+18
+      Court is already intimately familiar with. See, e.g., MTD Order, ECF 1267. A transfer would
+19
+      require Plaintiffs to duplicate plaintiff fact and expert discovery and pre-trial motion practice and
+20
+      create a substantial risk of inconsistent pretrial rulings.
+21
+
+22            The Court’s Implementation Order controls Plaintiffs’ claims and specifically instructs all
+
+23    local-government and school district plaintiffs to use short-form complaints to add new defendants.
+
+24    ECF 620. The Implementation Order’s caption states that “This Document relates to: All Local
+25
+
+26
+      8
+       This is discussed more fully in LAUSD’s Opposition to Defendant X Corp.’s Motion to Sever
+27
+      and Transfer to the Northern District of Texas Pursuant to 28 U.S.C. §1404(a) and Fed. R. Civ. P.
+28    21, No. 4:26-cv-02463-YGR (June 30, 2026), ECF 18, incorporated by reference here.
+     Case 4:22-md-03047-YGR            Document 3407       Filed 08/17/26      Page 12 of 15
+
+
+
+ 1    Government and School District Actions” and expressly addresses such local government and
+ 2    school district plaintiffs in the first sentence. ECF 620 at 1. In Section IV.A. the Implementation
+ 3
+      Order states, “Local Government and School District Plaintiffs may file an action against any
+ 4
+      Defendant not named in the current Master Complaint (“Newly Named Defendants”) directly in
+ 5
+      the MDL by using the Short-Form Complaint and the Master Complaint which is deemed adopted
+ 6
+
+ 7    into any filed SFC.” Id. at 5.
+
+ 8           CMO 13A does not govern Plaintiffs’ actions because, by its own terms and caption, it
+
+ 9    exclusively applies to personal-injury cases in the MDL. ECF 877 (“This Document Relates to:
+10
+      All Personal Injury Actions,” a point reiterated by the first line of CMO 13A, which states “ This
+11
+      Order Governing Amendments to Short-Form Complaints for Filed Cases (“Order”) applies to all short-
+12
+      form complaints (“SFCs”) in the above-captioned litigation.”). Id. at 1. Plaintiffs’ claims are not
+13
+      personal injury claims, and are, therefore, not governed by CMO 13A.
+14
+
+15           X’s reliance on Rule 15(a)(2) is likewise misplaced. Rule 15(a)(1)(B) permits Plaintiffs to
+
+16    amend their pleadings once as a matter of course in cases where a responsive pleading or motion is
+
+17    required no later than “21 days after service of a responsive pleading or 21 days after service of a
+18
+      motion under Rule 12(b), (e), or (f), whichever is earlier.” See No Cost Conf., Inc. v. Windstream
+19
+      Commc’ns, Inc., 940 F. Supp. 2d 1285, 1296-97 (S.D. Cal. 2013) (amendment adding defendants
+20
+      was proper as a matter of course under Rule 15 and did not require consent or leave); Barnes &
+21
+      Noble, Inc. v. LSI Corp., 823 F. Supp. 2d 980, 985 (N.D. Cal. 2011) (“‘The plaintiff's right to amend
+22
+
+23    once is absolute.’”). Here, no such responsive pleadings or relevant motions have yet been served
+
+24    in response to Plaintiffs’ initial SFCs. Plaintiffs’ right to amend as a matter of course therefore
+25    remained available at the time of amendment and there is no basis to deny plaintiffs their
+26
+      amendment, which would contravene the “extreme[ly] liberal[]” policy to grant such amendment
+27
+
+28
+     Case 4:22-md-03047-YGR          Document 3407         Filed 08/17/26        Page 13 of 15
+
+
+
+ 1    “freely when justice so requires.” Eminence Cap., LLC v. Aspeon, Inc., 316 F.3d 1048, 1051 (9th
+ 2    Cir. 2003). Plaintiffs remain prepared to move forward against Discord, Roblox and X immediately.
+ 3
+      Weitz & Luxenberg Response to X’s Position
+ 4
+
+ 5
+             Weitz & Luxenberg has named X and/or Twitter in three cases in which individual Plaintiffs
+ 6
+      contend that the Twitter social media platform was a significant contributing factor to mental health
+ 7
+      harms caused by their compulsive social media use. See Schultz, No. 4:26-cv-06317-YGR; Person,
+ 8
+
+ 9    No. 4:26-cv-07082-YGR; Hill, No. 4:26-cv-05817-YGR. It would be highly inefficient to sever X
+
+10    from these cases because in each case, Plaintiffs will contend that they moved between multiple
+
+11    social media platforms, including Twitter, each of which used similar defectively designed features
+12
+      to lead to compulsive use. In other words, Twitter is part of the central underlying facts and
+13
+      circumstances at issue in each case. On August 5, counsel for X transmitted a letter identifying
+14
+      purported deficiencies in each Plaintiff’s short-form complaint. Plaintiffs disagree that their
+15
+      respective short-forms are legally deficient, but intend to file an amended short-form complaint in
+16
+
+17    each case to include additional factual allegations regarding Twitter/X.
+
+18
+                                                     ***
+19
+
+20
+      Dated: August 17, 2026                        Respectfully submitted,
+21
+
+22
+                                               By: /s/ Previn Warren
+23
+                                                    PREVIN WARREN
+24                                                  MOTLEY RICE LLC
+25                                                  401 9th Street NW Suite 630
+                                                    Washington DC 20004
+26                                                  Telephone: 202-386-9610
+27                                                  pwarren@motleyrice.com
+
+28
+     Case 4:22-md-03047-YGR   Document 3407   Filed 08/17/26   Page 14 of 15
+
+
+
+ 1                                      LEXI J. HAZAM
+                                        LIEFF CABRASER HEIMANN &
+ 2
+                                        BERNSTEIN, LLP
+ 3                                      275 Battery Street, 29th Floor
+                                        San Francisco, CA 94111-3339
+ 4
+                                        Telephone: 415-956-1000
+ 5                                      lhazam@lchb.com
+ 6
+                                        Co-Lead Counsel
+ 7
+                                        Hillary M. Nappi
+ 8
+                                        AYLSTOCK WITKIN KREIS OVERHOLTZ
+ 9                                      PLC
+                                        17 E. Main Street, Suite 200
+10
+                                        Pensacola, FL 32502
+11                                      Telephone: 844-794-7402
+                                        hnappi@awk-saa.com
+12
+
+13                                      Aelish M. Baig
+                                        ROBBINS GELLER RUDMAN & DOWD, LLP
+14
+                                        One Montgomery Street, Suite 1800
+15                                      San Francisco, CA 94104
+                                        Telephone: 415-288-4545
+16
+                                        aelishb@rgrdlaw.com
+17
+                                        James J. Bilsborrow
+18
+                                        WEITZ & LUXENBERG, PC
+19                                      700 Broadway
+                                        New York, NY 10003
+20
+                                        Telephone: 212-558-5500
+21                                      jbilsborrow@weitzlux.com
+                                        Plaintiffs Steering Committee
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+     Case 4:22-md-03047-YGR   Document 3407   Filed 08/17/26       Page 15 of 15
+
+
+
+ 1
+                                        QUINN EMANUEL URQUHART &
+ 2
+                                        SULLIVAN, LLP
+ 3
+                                   By: /s/ Dylan C. Bonfigli
+ 4                                     Shon Morgan
+                                       Stephen A. Broome
+ 5                                     John Bash (pro hac vice)
+ 6                                     Dylan C. Bonfigli
+
+ 7                                      Attorneys for Defendant X Corp.
+
+ 8
+
+ 9                                      MORRISON & FOERSTER LLP
+
+10                                 By: /s/ J. Alexander Lawrence
+                                       J. Alexander Lawrence
+11
+                                       250 W. 55th Street
+12                                     New York, NY 10019
+                                       Telephone: 212-336-8638
+13                                     alawrence@mofo.com
+14                                      Attorneys for Defendant Discord Inc.
+15
+                                        MAYER BROWN LLP
+16
+                                   By: /s/ Kristin Silverman
+17
+                                       Anthony J Weibell
+18                                     Kristin Silverman
+                                       Two Palo Alto Square, Suite 300
+19                                     3000 El Camino Real
+                                       Palo Alto, CA 94306
+20                                     Telephone: 650-331-2000
+                                       aweibell@mayerbrown.com
+21
+                                       ksilverman@mayerbrown.com
+22
+                                        Attorneys for Defendant Roblox
+23                                      Corporation
+24
+
+25
+
+26
+
+27
+
+28
+

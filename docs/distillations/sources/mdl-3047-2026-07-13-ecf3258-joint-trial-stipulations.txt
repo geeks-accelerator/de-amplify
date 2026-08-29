@@ -1,0 +1,689 @@
+            Case 4:22-md-03047-YGR             Document 3258         Filed 07/13/26       Page 1 of 12
+
+
+
+ 1       [Parties and counsel listed on signature pages]
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+                                         UNITED STATES DISTRICT COURT
+ 9
+                                 FOR THE NORTHERN DISTRICT OF CALIFORNIA
+10
+                                                  OAKLAND DIVISION
+11
+
+12       IN RE: SOCIAL MEDIA ADOLESCENT                             MDL No. 3047
+         ADDICTION/PERSONAL INJURY PRODUCTS
+13       LIABILITY LITIGATION                                       Case Nos.: 4:22-md-03047-YGR
+                                                                               4:23-cv-05448-YGR
+14       This Document Relates To:
+                                                                    JOINT TRIAL STIPULATIONS AND
+15
+         People of the State of California, et al. v. Meta          [PROPOSED] ORDER (MDL AG ACTION)
+16       Platforms, Inc., et al.
+                                                                    Judge: Hon. Yvonne Gonzalez Rogers
+17                                                                  Magistrate Judge: Hon. Peter H. Kang
+
+18
+
+19
+
+20             The State AG Plaintiffs and Meta (collectively “the Parties” and individually referred to as a
+
+21   “Party”) hereby stipulate and agree to the following factual, procedural, and evidentiary stipulations to be
+
+22   in effect during the first trial scheduled in the above-captioned case (presently scheduled to commence
+
+23   August 18, 2026), subject to the Court’s approval. 1 :
+
+24   I.        Fact Stipulations
+
+25             1.      Facebook, Inc acquired Instagram on August 31, 2012.
+
+26             2.      Facebook, Inc. changed its corporate name to Meta Platforms, Inc. on October 28, 2021.
+
+27
+     1
+28       The Parties shall continue their conferrals and may supplement these stipulations by agreement.
+
+                                                             1
+                                JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                       4:22-md-03047-YGR
+            Case 4:22-md-03047-YGR            Document 3258         Filed 07/13/26       Page 2 of 12
+
+
+
+ 1
+              3.      Meta’s primary global headquarters have been located in Menlo Park, CA 94025 since late
+ 2
+     2011.
+ 3
+              4.      Instagram and Facebook are “websites” and “online services” as those terms are used in
+ 4
+     the Children’s Online Privacy Protection Act and the Children’s Online Privacy Protection Rule
+ 5
+     (collectively, “COPPA”). 2
+ 6
+              5.      At all times relevant to this case, Meta Platforms, Inc. has been the “operator,” as that term
+ 7
+     is used in COPPA, of Facebook. 3
+ 8
+              6.      Meta Platforms, Inc. agrees to be treated as the “operator” of the Instagram platform, as
+ 9
+     defined by COPPA, since August 31, 2012.
+10
+              7.      Meta Platforms, Inc. agrees to be treated as responsible for the actions and inactions of the
+11
+     Instagram platform relevant to the State AGs’ claims since August 31, 2012. 4
+12
+     II.      Procedural Stipulation
+13
+              1.      Retained experts are permitted in the courtroom during any testimony presented at trial.
+14
+              2.      The Parties agree as to the authenticity of all documents and data produced by any Party in
+15
+     this litigation as a general matter but reserve the right to discuss concerns with any specific document
+16
+     identified for use.
+17
+     III.     Evidentiary Stipulations
+18
+              The Parties stipulate and agree during the first trial 5 scheduled in the above-captioned case:
+19
+              1.      To exclude evidence or argument regarding the existence, or nonexistence, of other
+20
+     lawsuits involving claims similar to the claims at issue here, including lawsuits brought against other
+21
+     social media companies, and to exclude evidence or argument about settlements of any such lawsuits.
+22
+              2.      To exclude any argument or introduce any evidence concerning any Party’s litigation
+23
+     expenses for these cases, including evidence of compensation or billing structure for attorneys involved
+24
+
+25
+     2
+         This stipulation was previously agreed-to at ECF 236 (2628).
+26   3
+         This stipulation was previously agreed-to at ECF 236 (2628).
+27   4
+         This stipulation was previously agreed-to at ECF 360 (3108).
+     5
+28       Presently scheduled to commence August 18, 2026.
+
+                                                            2
+                               JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                      4:22-md-03047-YGR
+          Case 4:22-md-03047-YGR              Document 3258           Filed 07/13/26       Page 3 of 12
+
+
+
+ 1   in, the use, or lack thereof, of outside counsel for, and the use of jury consultants for, these cases. (This
+ 2   stipulation does not apply to argument or evidence relating to compensation for retained experts.)
+ 3           3.      To prohibit any reference to or mention of the refusal of a Party to enter into a stipulation
+ 4   prior to or during trial, or any request in the presence of the jury for a new stipulation or a revision to an
+ 5   existing stipulation.
+ 6           4.      To exclude any argument or introduce any evidence concerning the accommodations of,
+ 7   or means of transportation used by, any attorneys involved in these cases.
+ 8           5.      To exclude any argument concerning the size or makeup of any law firm, state, or state
+ 9   agency (including any State AG office) involved in these cases.
+10           6.      To exclude any argument concerning any attorney referral agreements, or that any Party
+11   retained more than one law firm for this case.
+12           7.      To preclude evidence or argument referring to the use of focus groups or mock proceedings
+13   or other types of pre-trial studies to assist with trial preparation, jury selection, or trial.
+14           8.      To preclude evidence or argument concerning any Party’s liability insurance.
+15           9.      To exclude evidence of attorney advertising.
+16           10.     To exclude evidence of or references to counsel’s professional associations or engagement
+17   in educational seminars, except for professional associations or educational seminars through which
+18   counsel had identified or interacted with a witness, or an expert retained, in this matter.
+19           11.     To preclude references to the absence of any representative of the Parties from the
+20   courtroom during any portion of the trial proceedings. (This stipulation does not preclude either Party
+21   from commenting on the failure of a subpoenaed witness to appear at trial on the date which he or she was
+22   required to appear, unless the relevant subpoena has been quashed or unless the witness was no longer
+23   required to appear in light of a Court order or an agreement between the Parties.)
+24           12.     To prohibit any reference to jurors’ self-interest in the outcome of the litigation based on
+25   the jurors’ status as taxpayers.
+26           13.     Meta agrees that it will not argue to the advisory jury that any recovery Plaintiffs may
+27   receive in this case may be increased or enhanced by operation of law, including through post-judgment
+28   interest. By entering into this stipulation, however, Meta does not waive, and expressly preserves, any
+
+                                                              3
+                               JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                      4:22-md-03047-YGR
+         Case 4:22-md-03047-YGR             Document 3258         Filed 07/13/26       Page 4 of 12
+
+
+
+ 1   objection to the submission of remedies-related issues to an advisory jury or any other argument
+ 2   concerning the proper role of the advisory jury with respect to remedies.
+ 3          A Proposed Order is appended to this Stipulation memorializing the aforementioned agreements.
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                          4
+                             JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                    4:22-md-03047-YGR
+         Case 4:22-md-03047-YGR            Document 3258         Filed 07/13/26       Page 5 of 12
+
+
+
+ 1                                                 Respectfully submitted,
+ 2   DATED: July 13, 2026                          By: /s/ Ashley M. Simonsen
+ 3
+                                                     COVINGTON & BURLING LLP
+ 4                                                   Ashley M. Simonsen, SBN 275203
+                                                     1999 Avenue of the Stars
+ 5                                                   Los Angeles, CA 90067
+                                                     Telephone: (424) 332-4800
+ 6
+                                                     Facsimile: + 1 (424) 332-4749
+ 7                                                   Email: asimonsen@cov.com
+
+ 8                                                   Phyllis A. Jones, pro hac vice
+                                                     Paul W. Schmidt, pro hac vice
+ 9                                                   COVINGTON & BURLING LLP
+                                                     One City Center
+10
+                                                     850 Tenth Street, NW
+11                                                   Washington, DC 20001-4956
+                                                     Telephone: + 1 (202) 662-6000
+12                                                   Facsimile: + 1 (202) 662-6291
+                                                     Email: pajones@cov.com
+13
+
+14                                                   DAVIS POLK & WARDWELL LLP
+15
+                                                     By: /s/ James P. Rouhandeh
+16                                                   James P. Rouhandeh, pro hac vice
+                                                     Antonio J. Perez-Marques, pro hac vice
+17                                                   Caroline Stern, pro hac vice
+                                                     Corey M. Meyer, pro hac vice
+18                                                   DAVIS POLK & WARDWELL LLP
+19                                                   450 Lexington Avenue
+                                                     New York, New York 10017
+20                                                   Telephone: (212) 450-4000
+                                                     Facsimile: (212) 701-5800
+21                                                   rouhandeh@davispolk.com
+                                                     antonio.perez@davispolk.com
+22                                                   caroline.stern@davispolk.com
+23                                                   corey.meyer@davispolk.com
+
+24                                                   Attorney for Defendants Meta Platforms, Inc.
+                                                     f/k/a Facebook, Inc.
+25
+
+26
+
+27
+
+28
+
+                                                         5
+                            JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                   4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3258         Filed 07/13/26       Page 6 of 12
+
+
+
+ 1                                          PHILIP J. WEISER
+                                            Attorney General
+ 2                                          State of Colorado
+ 3
+                                            _/s/ Krista Batchelder
+ 4                                          Krista Batchelder, CO Reg. No. 45066,
+                                            pro hac vice
+ 5                                          Deputy Solicitor General
+                                            Shannon Stevenson, CO Reg. No. 35542, pro hac vice
+ 6
+                                            Solicitor General
+ 7                                          Elizabeth Orem, CO Reg. No. 58309, pro hac vice
+                                            Assistant Attorney General
+ 8                                          Colorado Department of Law
+                                            Ralph L. Carr Judicial Center
+ 9                                          Consumer Protection Section
+                                            1300 Broadway, 7th Floor
+10
+                                            Denver, CO 80203
+11                                          Phone: (720) 508-6651
+                                            krista.batchelder@coag.gov
+12                                          Shannon.stevenson@coag.gov
+                                            Elizabeth.orem@coag.gov
+13
+                                            Attorneys for Plaintiff State of Colorado, ex rel.
+14
+                                            Philip J. Weiser, Attorney General
+15
+
+16                                          ROB BONTA
+                                            Attorney General
+17                                          State of California
+18
+                                            _/s/ Megan O’Neill
+19                                          Nicklas A. Akers (CA SBN 211222)
+                                            Senior Assistant Attorney General
+20                                          Bernard Eskandari (SBN 244395)
+                                            Emily Kalanithi (SBN 256972)
+21                                          Supervising Deputy Attorneys General
+22                                          Nayha Arora (CA SBN 350467)
+                                            Megan O’Neill (CA SBN 343535)
+23                                          Joshua Olszewski-Jubelirer (CA SBN 336428)
+                                            Brendan Ruddy (CA SBN 297896)
+24                                          Deputy Attorneys General
+                                            California Department of Justice
+25                                          Office of the Attorney General
+26                                          455 Golden Gate Ave., Suite 11000
+                                            San Francisco, CA 94102-7004
+27                                          Phone: (415) 510-4400
+                                            Fax: (415) 703-5480
+28                                          Megan.Oneill@doj.ca.gov
+                                                6
+                   JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                          4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3258         Filed 07/13/26       Page 7 of 12
+
+
+
+ 1
+                                            Attorneys for Plaintiff the People of the State of
+ 2                                          California
+ 3
+                                            RUSSELL COLEMAN
+ 4                                          Attorney General
+                                            Commonwealth of Kentucky
+ 5
+                                            /s/ Philip Heleringer
+ 6                                          J. Christian Lewis (KY Bar No. 87109),
+ 7                                          Pro hac vice
+                                            Philip Heleringer (KY Bar No. 96748),
+ 8                                          Pro hac vice
+                                            Zachary Richards (KY Bar No. 99209),
+ 9                                          Pro hac vice
+                                            Daniel I. Keiser (KY Bar No. 100264),
+10
+                                            Pro hac vice
+11                                          Matthew Cocanougher (KY Bar No. 94292),
+                                            Pro hac vice
+12                                          Gary W. Thompson (KY Bar No. 93733),
+                                            Pro hac vice
+13                                          Assistant Attorneys General
+                                            1024 Capital Center Drive, Suite 200
+14
+                                            Frankfort, KY 40601
+15                                          CHRISTIAN.LEWIS@KY.GOV
+                                            PHILIP.HELERINGER@KY.GOV
+16                                          ZACH.RICHARDS@KY.GOV
+                                            DANIEL.KEISER@KY.GOV
+17                                          MATTHEW.COCANOUGHER@KY.GOV
+                                            Phone: (502) 696-5300
+18
+                                            Fax: (502) 564-2698
+19
+                                            Attorneys for Plaintiff the Commonwealth of Kentucky
+20
+                                            JENNIFER DAVENPORT
+21                                          Attorney General
+22                                          State of New Jersey
+
+23                                          /s/ Thomas Huynh
+                                            Brian F. McDonough (NJ Bar No. 026121980),
+24                                          Pro hac vice
+                                            Kashif T. Chand (NJ Bar No. 016752008),
+25                                          Pro hac vice
+26                                          Assistant Attorneys General
+                                            Thomas Huynh (NJ Bar No. 200942017),
+27                                          Pro hac vice
+                                            Section Chief, Deputy Attorney General
+28                                          Patrick J. Misale (NJ Bar No. 401352022)
+                                                7
+                   JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                          4:22-md-03047-YGR
+     Case 4:22-md-03047-YGR       Document 3258         Filed 07/13/26       Page 8 of 12
+
+
+
+ 1                                          Pro hac vice
+                                            Verna J. Pradaxay (NJ Bar No. 335822021),
+ 2                                          Pro hac vice
+ 3                                          Mandy K. Wang (NJ Bar No. 373452021),
+                                            Pro hac vice
+ 4                                          Deputy Attorneys General
+                                            New Jersey Office of the Attorney General,
+ 5                                          Division of Law
+                                            124 Halsey Street, 5th Floor
+ 6
+                                            Newark, NJ 07101
+ 7                                          Tel: (973) 648-2052
+                                            Brian.Mcdonough@law.njoag.gov
+ 8                                          Kashif.Chand@law.njoag.gov
+                                            Thomas.Huynh@law.njoag.gov
+ 9                                          Verna.Pradaxay@law.njoag.gov
+                                            Mandy.Wang@law.njoag.gov
+10
+
+11                                          Attorneys for Plaintiffs Jennifer Davenport, Attorney
+                                            General for the State of New Jersey, and Jeremy E.
+12                                          Hollander, Acting Director of the New Jersey Division
+                                            of Consumer Affairs
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                8
+                   JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                          4:22-md-03047-YGR
+         Case 4:22-md-03047-YGR             Document 3258         Filed 07/13/26       Page 9 of 12
+
+
+
+ 1                                                    ATTESTATION
+ 2          I, Ashley M. Simonsen, hereby attest, pursuant to N.D. Cal. Civil L.R. 5-1, that the concurrence
+
+ 3   to the filing of this document has been obtained from each signatory hereto.
+
+ 4
+
+ 5   Dated: July 13, 2026
+
+ 6                                                  By: /s/ Ashley M. Simonsen
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                          9
+                             JOINT TRIAL STIPULATIONS AND [PROPOSED] ORDER (MDL AG ACTION)
+                                                    4:22-md-03047-YGR
+          Case 4:22-md-03047-YGR           Document 3258          Filed 07/13/26      Page 10 of 12
+
+
+
+ 1                                    UNITED STATES DISTRICT COURT
+ 2                            FOR THE NORTHERN DISTRICT OF CALIFORNIA
+ 3                                             OAKLAND DIVISION
+ 4
+      IN RE: SOCIAL MEDIA ADOLESCENT                              MDL No. 3047
+ 5    ADDICTION/PERSONAL INJURY PRODUCTS
+      LIABILITY LITIGATION                                        Case Nos.: 4:22-md-03047-YGR
+ 6                                                                           4:23-cv-05448-YGR
+ 7    This Document Relates To:
+                                                                  [PROPOSED] ORDER REGARDING THE
+ 8    People of the State of California, et al. v. Meta           PARTIES’ TRIAL STIPULATIONS (MDL
+      Platforms, Inc., et al.                                     AG ACTION)
+ 9
+                                                                  Judge: Hon. Yvonne Gonzalez Rogers
+10                                                                Magistrate Judge: Hon. Peter H. Kang
+11
+
+12
+             The Court hereby adopts the Parties’ Trial Stipulations.
+13
+             IT IS HEREBY ORDERED that:
+14
+     I.      Fact Stipulations
+15
+             1.     Facebook, Inc acquired Instagram on August 31, 2012.
+16
+             2.     Facebook, Inc. changed its corporate name to Meta Platforms, Inc. on October 28, 2021.
+17
+             3.     Meta’s primary global headquarters have been located in Menlo Park, CA 94025 since late
+18
+     2011.
+19
+             4.     Instagram and Facebook are “websites” and “online services” as those terms are used in
+20
+     the Children’s Online Privacy Protection Act and the Children’s Online Privacy Protection Rule
+21
+     (collectively, “COPPA”).
+22
+             5.     At all times relevant to this case, Meta Platforms, Inc. has been the “operator,” as that term
+23
+     is used in COPPA, of Facebook.
+24
+             6.     Meta Platforms, Inc. agrees to be treated as the “operator” of the Instagram platform, as
+25
+     defined by COPPA, since August 31, 2012.
+26
+             7.     Meta Platforms, Inc. agrees to be treated as responsible for the actions and inactions of the
+27
+     Instagram platform relevant to the State AGs’ claims since August 31, 2012.
+28
+
+                                                          10
+                       [PROPOSED] ORDER REGARDING THE PARTIES’ TRIAL STIPULATIONS (MDL AG ACTION)
+                                                   4:22-md-03047-YGR
+            Case 4:22-md-03047-YGR             Document 3258          Filed 07/13/26      Page 11 of 12
+
+
+
+ 1
+     II.      Procedural Stipulation
+ 2
+              1.     Retained experts are permitted in the courtroom during any testimony presented at trial.
+ 3
+              2.     The Parties agree as to the authenticity of all documents and data produced by any Party in
+ 4
+     this litigation as a general matter but reserve the right to discuss concerns with any specific document
+ 5
+     identified for use.
+ 6
+     III.     Evidentiary Stipulations
+ 7
+              1.     To exclude evidence or argument regarding the existence, or nonexistence, of other
+ 8
+     lawsuits involving claims similar to the claims at issue here, including lawsuits brought against other
+ 9
+     social media companies, and to exclude evidence or argument about settlements of any such lawsuits.
+10
+              2.     To exclude any argument or introduce any evidence concerning any Party’s litigation
+11
+     expenses for these cases, including evidence of compensation or billing structure for attorneys involved
+12
+     in, the use, or lack thereof, of outside counsel for, and the use of jury consultants for, these cases. (This
+13
+     stipulation does not apply to argument or evidence relating to compensation for retained experts.)
+14
+              3.     To prohibit any reference to or mention of the refusal of a Party to enter into a stipulation
+15
+     prior to or during trial, or any request in the presence of the jury for a new stipulation or a revision to an
+16
+     existing stipulation.
+17
+              4.     To exclude any argument or introduce any evidence concerning the accommodations of,
+18
+     or means of transportation used by, any attorneys involved in these cases.
+19
+              5.     To exclude any argument concerning the size or makeup of any law firm, state, or state
+20
+     agency (including any State AG office) involved in these cases.
+21
+              6.     To exclude any argument concerning any attorney referral agreements, or that any Party
+22
+     retained more than one law firm for this case.
+23
+              7.     To preclude evidence or argument referring to the use of focus groups or mock proceedings
+24
+     or other types of pre-trial studies to assist with trial preparation, jury selection, or trial.
+25
+              8.     To preclude evidence or argument concerning any Party’s liability insurance.
+26
+              9.     To exclude evidence of attorney advertising.
+27
+
+28
+
+                                                              11
+                           [PROPOSED] ORDER REGARDING THE PARTIES’ TRIAL STIPULATIONS (MDL AG ACTION)
+                                                       4:22-md-03047-YGR
+         Case 4:22-md-03047-YGR             Document 3258         Filed 07/13/26      Page 12 of 12
+
+
+
+ 1          10.     To exclude evidence of or references to counsel’s professional associations or engagement
+ 2   in educational seminars, except for professional associations or educational seminars through which
+ 3   counsel had identified or interacted with a witness, or an expert retained, in this matter.
+ 4          11.      To preclude references to the absence of any representative of the Parties from the
+ 5   courtroom during any portion of the trial proceedings. (This stipulation does not preclude either Party
+ 6   from commenting on the failure of a subpoenaed witness to appear at trial on the date which he or she was
+ 7   required to appear, unless the relevant subpoena has been quashed or unless the witness was no longer
+ 8   required to appear in light of a Court order or an agreement between the Parties.)
+ 9          12.     To prohibit any reference to jurors’ self-interest in the outcome of the litigation based on
+10   the jurors’ status as taxpayers.
+11          13.     Meta agrees that it will not argue to the advisory jury that any recovery Plaintiffs may
+12   receive in this case may be increased or enhanced by operation of law, including through post-judgment
+13   interest. By entering into this stipulation, however, Meta does not waive, and expressly preserves, any
+14   objection to the submission of remedies-related issues to an advisory jury or any other argument
+15   concerning the proper role of the advisory jury with respect to remedies.
+16
+
+17          IT IS SO ORDERED.
+18   Dated:___________                                      _________________________________
+                                                            Hon. Yvonne Gonzalez Rogers
+19                                                          United States District Judge
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                                          12
+                       [PROPOSED] ORDER REGARDING THE PARTIES’ TRIAL STIPULATIONS (MDL AG ACTION)
+                                                   4:22-md-03047-YGR
+

@@ -440,7 +440,7 @@ export default function Home() {
 
             <div className="mt-9 grid grid-cols-2 divide-x divide-y divide-white/[0.06] border border-white/[0.06] sm:grid-cols-5 sm:divide-y-0">
               <Stat value="2h/day" label="teen limit, court-ordered, parent-held" />
-              <Stat value="~2,900" label="lawsuits, consolidated (N.D. Cal.)" />
+              <Stat value="3,137" label="lawsuits, consolidated (N.D. Cal.)" />
               <Stat value="$16.68B" label="consent judgment, ~30% contingent on rivals" />
               <Stat value="$942M" label="New Mexico judgment, penalties plus fund" />
               <Stat value="$6M" label="California jury verdict" />

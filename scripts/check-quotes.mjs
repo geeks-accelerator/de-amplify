@@ -129,6 +129,26 @@ const LEDGERS = {
       "mdl-3047-2026-08-26-dkt575-trial-order-3.txt",
       "mdl-3047-trial-minutes-2026-08-19-to-08-26-combined.txt",
       "mdl-3047-2026-08-26-ca-ag-settlement-release.txt",
+      // Added 2026-08-28 with claims 31a and 32a, which are in section (h). That
+      // section had never been scoped in, because when the scope was written (h)
+      // quoted only uncached docket text. It now quotes two cached primaries, so
+      // it goes in with them. THIS IS THE THIRD TIME the "scope written when the
+      // cache was added, never re-read when the ledger grew" failure has hit this
+      // exact ledger; see CLAUDE.md. The lesson is not being learned by writing it
+      // down, so: when adding a cache, grep the ledger for every section that
+      // quotes it, not the section you had in mind.
+      // The four orders section (h) had been QUOTING since 2026-07-25 without any
+      // of them being cached. Widening the scope to (h) is what surfaced that:
+      // six real quotations of real documents, none of them checkable. Cached
+      // 2026-08-28. "A citation is not a cache" for the second time in this
+      // ledger, and the first time it was found by a checker rather than by hand.
+      "mdl-3047-2026-06-29-ecf3212-pretrial-order-3.txt",
+      "mdl-3047-2026-07-13-ecf3258-joint-trial-stipulations.txt",
+      "mdl-3047-2026-07-20-ecf3284-pretrial-order-6.txt",
+      "mdl-3047-2026-07-23-ecf3295-cmo-36.txt",
+      "mdl-3047-2026-08-17-ecf3407-joint-status-report.txt",
+      "mdl-3047-2026-08-03-jpml-pending-actions.txt",
+      "mdl-3047-2026-08-28-oklahoma-cj-2023-180-docket.txt",
     ],
     allowlist: "mdl-3047-quote-allowlist.txt",
     // SCOPE. Widened 2026-08-28 to add (k). Read the note in CLAUDE.md before
@@ -139,6 +159,7 @@ const LEDGERS = {
     // quoted almost entirely from primaries, so it goes in with the caches.
     sections: [
       "(e) Money / exposure",
+      "(h) Pretrial rulings and the trial schedule",
       "(i) The trial itself, day one",
       "(j) The appellate track",
       "(k) The settlement",

@@ -69,7 +69,7 @@ holds court filings, agency documents, an appellate opinion, and two Dutch judgm
 It applies all five normalizations below at once, self-tests its own matcher against known answers
 before trusting it, treats a declared-but-missing cache or allowlist as a loud failure, and prints
 on every run which ledgers it does **not** cover **and which it covers only in part**. Coverage
-today is **552 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
+today is **569 spans across all 11 registered ledgers**, closed on 2026-08-18. **That bolded
 coverage line is load-bearing: `npm run check:quotes` recomputes both numbers on every run and
 fails if this sentence disagrees with the corpus.** It earned that treatment by drifting twice in
 its first day, written as 476 here and in two other prose homes hours before the count reached 483.
@@ -276,6 +276,39 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
 - `mdl-3047-2026-08-18-dkt550-civil-minutes.txt`: the court's Civil Minutes for the opening trial
   day. Small and load-bearing: it is the record that trial was held, that the session ran 5 hours
   17 minutes, and that the states' first witness was Arturo Bejar.
+- `mdl-3047-2026-06-29-ecf3212-pretrial-order-3.txt`, `mdl-3047-2026-07-13-ecf3258-joint-trial-stipulations.txt`,
+  `mdl-3047-2026-07-20-ecf3284-pretrial-order-6.txt`, `mdl-3047-2026-07-23-ecf3295-cmo-36.txt`: the four MDL
+  orders and stipulations that section (h) of the ledger had been **quoting since 2026-07-25 without any of
+  them being cached**. Read on the docket that day, cited by ECF number, never stored. Six real quotations of
+  real documents, none of them checkable, and the gap was invisible because section (h) was outside the
+  checker's `sections` scope. All four fetched from CourtListener/RECAP and cached 2026-08-28 when the scope
+  widened. Clean extractions. **Widening that scope immediately found two defects in those six spans**, both
+  recorded in the ledger: CMO 36's calendar caption is a *stacked block* (`Bellwether Trials:` over two dates)
+  that the ledger had quoted as a slash-joined single line, which is a reconstruction rather than a quotation;
+  and a span from the joint status report had its source em-dashes silently replaced with a comma to fit the
+  house style, inside the quotation marks.
+- `mdl-3047-2026-08-03-jpml-pending-actions.txt`: the JPML Pending MDL Dockets by Actions Pending report,
+  **report date 8/3/2026**, giving MDL 3047 as **3,137 pending / 3,312 historical**. **Two access traps, both
+  of which had already produced a wrong claim in the ledger.** First, the filename is dated the **3rd**, not the
+  1st: June and July are `June-1`/`July-1`, so a guessed `August-1-2026` 404s and looks like "no report exists".
+  Read the index at `https://www.jpml.uscourts.gov/pending-mdls-0` instead, which names the current file.
+  Second, **the host requires a `Referer` header**: the correct URL returns 404 to a bare `curl` and 200 with
+  `-H "Referer: https://www.jpml.uscourts.gov/pending-mdls-0"`. Note also that **JPML rotates old reports off
+  the site**, so the June and July URLs this ledger cites as sources are now dead; the cache is the only copy
+  this project holds.
+- `mdl-3047-2026-08-17-ecf3407-joint-status-report.txt`: the Joint Status Report Pursuant to CMO 36, MDL ECF
+  3407, filed 2026-08-17, answering the court's question about the X Corp., Discord and Roblox cases (23, 13
+  and 6 respectively, most of them stayed and outside discovery). Fetched from RECAP and cached 2026-08-28.
+- `mdl-3047-2026-08-28-oklahoma-cj-2023-180-docket.txt`: a docket export for the **Oklahoma** satellite AG case,
+  *No. CJ-2023-180*, Osage County District Court, taken from the Oklahoma State Courts Network (OSCN) on
+  2026-08-28. Not a court PDF: OSCN serves the docket as HTML, and this cache is its 191 dated entry rows,
+  extracted and stored with a provenance header. **Two things to know before citing it.** OSCN's own banner
+  says the information is **not an official record**, so entries are cited as docket events and nothing more.
+  And **OSCN's linked documents are TIFF images with no text layer** (a `pdftotext` extraction of the 2026-08-26
+  joint motion returns zero characters against a passing control), so they are pointers to a place in a record,
+  never a text to quote, the same rule this folder applies to ASR and to the Dutch judgments. Cached because
+  this is the one satellite docket of the fifteen that a script can read at all, and it shows the settlement
+  arriving in a state court on the day the federal judgment was entered.
 - `mdl-3047-2026-08-26-dkt572-joint-motion.txt`: the **Joint Motion to Enter Consent Judgment**
   itself, AG-case Dkt 572, 14 pages, filed 2026-08-26. Cached on the 2026-08-28 audit because the
   ledger's claim 44 cited "the motion itself (primary, cached)" while only its Exhibit 1 (the

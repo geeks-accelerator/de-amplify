@@ -40,7 +40,7 @@ export default function Mdl3047Page() {
     headline: "MDL 3047: the federal social media addiction case",
     // Verbatim from the case ledger's TLDR "one sentence (card)" surface.
     description:
-      "MDL 3047 bundles roughly 2,900 lawsuits accusing Meta, Google (YouTube), TikTok, and Snap of designing their apps to addict kids, and the state attorneys general's trial against Meta ended four days into evidence when the court entered a consent judgment on August 26, 2026, with no company found liable.",
+      "MDL 3047 bundles more than 3,100 lawsuits accusing Meta, Google (YouTube), TikTok, and Snap of designing their apps to addict kids, and the state attorneys general's trial against Meta ended four days into evidence when the court entered a consent judgment on August 26, 2026, with no company found liable.",
     url: `https://de-amplify.com${PATH}`,
     image: `https://de-amplify.com${PATH}/opengraph-image`,
     datePublished: "2026-07-16",
