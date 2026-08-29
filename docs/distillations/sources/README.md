@@ -287,15 +287,19 @@ line starts. Together they take `mdl-3047` from unregistered to guarded across s
   that the ledger had quoted as a slash-joined single line, which is a reconstruction rather than a quotation;
   and a span from the joint status report had its source em-dashes silently replaced with a comma to fit the
   house style, inside the quotation marks.
-- `mdl-3047-2026-08-03-jpml-pending-actions.txt`: the JPML Pending MDL Dockets by Actions Pending report,
-  **report date 8/3/2026**, giving MDL 3047 as **3,137 pending / 3,312 historical**. **Two access traps, both
-  of which had already produced a wrong claim in the ledger.** First, the filename is dated the **3rd**, not the
-  1st: June and July are `June-1`/`July-1`, so a guessed `August-1-2026` 404s and looks like "no report exists".
-  Read the index at `https://www.jpml.uscourts.gov/pending-mdls-0` instead, which names the current file.
-  Second, **the host requires a `Referer` header**: the correct URL returns 404 to a bare `curl` and 200 with
-  `-H "Referer: https://www.jpml.uscourts.gov/pending-mdls-0"`. Note also that **JPML rotates old reports off
-  the site**, so the June and July URLs this ledger cites as sources are now dead; the cache is the only copy
-  this project holds.
+- `mdl-3047-2026-08-03-jpml-pending-actions.txt`, `mdl-3047-2026-07-01-jpml-pending-actions.txt`,
+  `mdl-3047-2026-06-01-jpml-pending-actions.txt`: the JPML Pending MDL Dockets by Actions Pending reports for
+  August 3, July 1 and June 1, 2026. August gives MDL 3047 as **3,137 pending / 3,312 historical**; July and
+  June carry the 2,893/3,068 and 2,664/2,839 the ledger has cited since mid-July, re-verified and finally
+  cached 2026-08-28 (they had been cited-but-not-cached, this folder's recurring sin). **Two access traps.**
+  The filename is dated by publication day, not the 1st: June and July are `June-1`/`July-1` but August is
+  `August-3`, so a guessed `August-1-2026` 404s and looks like "no report exists"; read the index at
+  `https://www.jpml.uscourts.gov/pending-mdls-0`, which names the current file. And **the host returns HTTP
+  404, not 403, to requests whose User-Agent is the bare token `Mozilla/5.0`** (200 to a full browser string
+  or to no User-Agent at all; isolated 2026-08-28 with a three-trial matrix). A 404 for a bot-scented UA is a
+  false absence, and it briefly produced two wrong explanations in this very folder, "the Panel rotates old
+  reports off the site" and "the host requires a Referer header", both retracted the same day: nothing
+  rotated, and the Referer had merely ridden along with the full UA that was the actual fix.
 - `mdl-3047-2026-08-17-ecf3407-joint-status-report.txt`: the Joint Status Report Pursuant to CMO 36, MDL ECF
   3407, filed 2026-08-17, answering the court's question about the X Corp., Discord and Roblox cases (23, 13
   and 6 respectively, most of them stayed and outside discovery). Fetched from RECAP and cached 2026-08-28.

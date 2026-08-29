@@ -72,7 +72,7 @@ Whether the platform's own brakes work is now litigated evidence, not a metaphor
 
 | Case (as of August 28, 2026) | Where it stands |
 |---|---|
-| MDL 3047 (federal) | ~3,137 suits; the states' trial against Meta ended August 26, 2026 in an entered consent judgment: up to $16.68 billion over ten years, default teen time limits on Instagram and Facebook, no admission of liability; the personal-injury and school-district tracks continue |
+| MDL 3047 (federal) | 3,137 suits; the states' trial against Meta ended August 26, 2026 in an entered consent judgment: up to $16.68 billion over ten years, default teen time limits on Instagram and Facebook, no admission of liability; the personal-injury and school-district tracks continue |
 | K.G.M. v. Meta and Google (California) | $6 million jury verdict for negligent design, on appeal |
 | New Mexico v. Meta | $942 million final judgment (August 6, 2026): the $375 million jury verdict plus a $567 million abatement fund and a five-year order on minors' accounts; no relief against the algorithm |
 

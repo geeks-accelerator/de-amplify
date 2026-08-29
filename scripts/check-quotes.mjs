@@ -148,6 +148,8 @@ const LEDGERS = {
       "mdl-3047-2026-07-23-ecf3295-cmo-36.txt",
       "mdl-3047-2026-08-17-ecf3407-joint-status-report.txt",
       "mdl-3047-2026-08-03-jpml-pending-actions.txt",
+      "mdl-3047-2026-07-01-jpml-pending-actions.txt",
+      "mdl-3047-2026-06-01-jpml-pending-actions.txt",
       "mdl-3047-2026-08-28-oklahoma-cj-2023-180-docket.txt",
     ],
     allowlist: "mdl-3047-quote-allowlist.txt",

@@ -1,6 +1,10 @@
 OKLAHOMA STATE COURTS NETWORK (OSCN) docket export
-State of Oklahoma ex rel. Drummond v. Meta Platforms, Inc., No. CJ-2023-180,
-District Court of Osage County, Oklahoma.
+Styled by OSCN itself: "STATE OF OKLAHOMA et al VS. META PLATFORMS et al", No. CJ-2023-00180,
+District Court of Osage County, Oklahoma, Judge Stuart Tate, filed 10/24/2023.
+The settlement agreement's Satellite AG Actions list renders the same case as
+"State of Oklahoma v. Meta Platforms, Inc., et al." No. CJ-2023-180 (unpadded).
+Same case, two renderings; an earlier version of this header carried a third,
+invented one ("ex rel. Drummond"), which appears in neither source.
 Retrieved 2026-08-28 from https://www.oscn.net/dockets/GetCaseInformation.aspx?db=osage&number=CJ-2023-180
 OSCN's own header: the information is NOT an official record.
 Docket ENTRIES are text; the linked DOCUMENTS are TIFF images with no extractable text layer.
