@@ -2,6 +2,7 @@
   "name": "de-amplify",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "description": "de-amplify: the thing it broke was the brake. A design-and-parental-controls proposal for engagement feeds and minors. de-amplify.com",
   "scripts": {
     "dev": "next dev -p 3333",
@@ -10,7 +11,7 @@
     "lint": "eslint .",
     "dates": "node scripts/content-dates.mjs",
     "check:dates": "node scripts/content-dates.mjs --check",
-    "check:ledgers": "node --disable-warning=ExperimentalWarning --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types scripts/check-ledgers.mjs",
+    "check:ledgers": "node scripts/check-ledgers.mjs",
     "check:quotes": "node scripts/check-quotes.mjs",
     "check:surfaces": "node scripts/check-surfaces.mjs",
     "check:distillations": "node scripts/check-distillations.mjs",
@@ -18,7 +19,7 @@
     "check:guards": "node scripts/check-guards.mjs"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": "^26.12.1"
   },
   "dependencies": {
     "geist": "^1.8.2",
