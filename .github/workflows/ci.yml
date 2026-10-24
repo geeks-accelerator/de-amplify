@@ -21,12 +21,18 @@ on:
     branches: [main]
   # Weekly, Mondays, matching dependabot.yml. Without it the audit job only ran
   # when someone pushed, so main's last run (2026-08-29) stayed green through a
-  # month of critical Next.js advisories that nothing ever re-checked.
+  # month of critical Next.js advisories that nothing ever re-checked. Only the
+  # `staleness` job runs on the schedule: it is the only one whose answer can
+  # change without a commit.
   schedule:
     - cron: "0 14 * * 1"
 
+# The event is part of the group so the weekly run on main and a push to main
+# never share one. With a shared group, cancel-in-progress let whichever started
+# second cancel the other, and a cancelled push run shows no result for its
+# commit.
 concurrency:
-  group: ci-${{ github.ref }}
+  group: ci-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -43,6 +49,7 @@ jobs:
   # tree. A green build here is a build of the tree that ships.
   build:
     name: lint and build
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -60,6 +67,12 @@ jobs:
       - name: build (typecheck + compile)
         run: npm run build
 
+      # .railway/railway.ts is not part of the app and Railway does not read it
+      # at deploy time, so it is typechecked here rather than inside the
+      # production build, where an SDK type change could block a content deploy.
+      - name: check:iac (.railway/railway.ts typechecks against the railway SDK)
+        run: npm run check:iac
+
   # `check:ledgers` imports the real src/lib/distillations.ts rather than
   # reimplementing the TLDR parser, which is deliberate: a checker with its own
   # parser can disagree with the build and silently pass. Node 26 strips types
@@ -70,6 +83,7 @@ jobs:
   # clone would report drift on every path.
   guards:
     name: the drift guards
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -123,14 +137,21 @@ jobs:
           fi
           echo "house style OK."
 
-  audit:
-    # Deliberately a SEPARATE job. A dependency advisory is worth seeing on every
-    # PR, but it is not the PR author's fault and should not be the thing that
-    # blocks an unrelated content fix. No status checks are required on main, so
-    # this reports without gating. It exists because the sharp/libvips advisories
-    # sat in the production tree unnoticed. The lockfile it audits is the tree
-    # production installs, so a clean audit here is a clean production.
-    name: dependency audit
+  staleness:
+    # Deliberately a SEPARATE job, and the only one that runs on the weekly
+    # schedule: both checks here can go red with no commit at all, because the
+    # world moved. A dependency advisory or a Node security release is worth
+    # seeing on every PR, but it is not the PR author's fault and should not be
+    # the thing that blocks an unrelated content fix. No status checks are
+    # required on main, so this reports without gating.
+    #
+    # npm audit exists because the sharp/libvips advisories sat in the
+    # production tree unnoticed; the lockfile it audits is the tree production
+    # installs. check:node exists because engines pins Node exactly (Railpack
+    # drops a range's floor), so no release ever arrives on its own and nothing
+    # else would say one was missed. That is how production ran end-of-life
+    # Node 20 for six months.
+    name: staleness (dependency audit, node security releases)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -141,3 +162,6 @@ jobs:
       - run: npm ci
       - name: npm audit (high and above)
         run: npm audit --audit-level=high
+      - name: check:node (engines is not behind a security release on its line)
+        if: ${{ !cancelled() }}
+        run: npm run check:node
