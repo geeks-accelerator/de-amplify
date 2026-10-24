@@ -76,7 +76,7 @@ The rendered documents live in [`content/`](content/): `proposal.md` (the policy
 
 ## Deploy
 
-**Live** at [de-amplify.com](https://de-amplify.com) (with `www` redirecting to the apex). Railway builds via nixpacks and runs `npm run start`; healthcheck at `/api/health`. Cloudflare proxies the domain at the Railway origin. No secrets or database, it's a static-ish content site.
+**Live** at [de-amplify.com](https://de-amplify.com) (with `www` redirecting to the apex). Railway builds with Railpack on its defaults (Node from `engines`, the committed lockfile, `npm run build`, `npm run start`); the healthcheck at `/api/health` and the restart policy live in [`.railway/railway.ts`](.railway/railway.ts). Cloudflare proxies the domain at the Railway origin. No secrets or database, it's a static-ish content site.
 
 **Port note (a real deploy gotcha):** `next start` binds to Railway's injected `$PORT` (currently 8080), not a fixed port. So the Railway custom-domain **target port must be 8080** to match the app. A mismatched target port returns a 502 even though the build and healthcheck both pass, because Railway's healthcheck hits the app's real port while public traffic is routed to the wrong one. Do NOT hardcode `-p <port>` in the start command to "fix" this; that would move the app off the port the healthcheck probes. Set the domain target (or the `PORT` variable) instead.
 
