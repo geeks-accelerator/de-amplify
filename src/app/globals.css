@@ -1,22 +1,62 @@
-@import "tailwindcss";
+@import "tailwindcss" source(none);
+/* Scan components only, the same scope the old JS config's content glob had.
+   Without source(none), v4 also scans README, CLAUDE.md and the docs, and ships
+   utilities for class names that only appear in prose. */
+@source "../**/*.{ts,tsx}";
+@plugin "@tailwindcss/typography";
 
-/* Tailwind v4 is CSS-first, but the project's design tokens, keyframes, and the
-   typography plugin config live in the JS config; @config loads it unchanged so
-   the palette and prose styling carry over without re-authoring. */
-@config "../../tailwind.config.ts";
+/* The confession palette: cold machine, near-black, one brake-red alarm.
+   This block is the whole design system. Each token becomes a utility
+   (bg-void, text-bone/55, font-mono, tracking-widest2, animate-blink) and a
+   CSS variable (--color-void) that the rules below use directly.
 
-:root {
-  --void: #070709;
-  --panel: #0d0d12;
-  --bone: #e7e7ec;
-  --signal: #5b9dff;
-  --brake: #ff4d5e;
-  --ash: #71717f;
+   There is no typography theme here, deliberately. The old JS config carried
+   a custom --tw-prose-* palette, but every page renders `prose prose-invert`
+   and .prose-invert re-points all of those variables, so that palette never
+   reached the screen. The prose colors you see come from the prose-*: modifier
+   classes in src/app/proposal/ProposalContent.tsx. Measured, not assumed: a
+   computed-style fingerprint of /, /scorecard, /proposal and a ledger page is
+   identical with the block and without it. */
+@theme {
+  --color-void: #070709; /* page background, near-black (cool) */
+  --color-panel: #0d0d12; /* raised panels / callouts */
+  --color-bone: #e7e7ec; /* cool off-white body text */
+  --color-signal: #5b9dff; /* cold electric blue, primary accent (structure, links, the fix) */
+  --color-brake: #ff4d5e; /* brake-light red, alarm accent (the confession, the harm, the receipts) */
+  --color-ash: #71717f; /* muted gray */
+
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --tracking-widest2: 0.35em;
+
+  --animate-blink: blink 1.1s steps(1) infinite;
+  --animate-pulseBrake: pulseBrake 2s ease-in-out infinite;
+
+  @keyframes blink {
+    0%,
+    49% {
+      opacity: 1;
+    }
+    50%,
+    100% {
+      opacity: 0;
+    }
+  }
+  @keyframes pulseBrake {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.35;
+    }
+  }
 }
 
 html {
   scroll-behavior: smooth;
-  background: var(--void);
+  background: var(--color-void);
   /* native form controls, scrollbars, and keyboard chrome match the theme */
   color-scheme: dark;
   /* in-page anchors land below the sticky header (h ~49px) */
@@ -24,8 +64,8 @@ html {
 }
 
 body {
-  background: var(--void);
-  color: var(--bone);
+  background: var(--color-void);
+  color: var(--color-bone);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -33,7 +73,7 @@ body {
 /* brake-red text selection, the alarm color */
 ::selection {
   background: rgba(255, 77, 94, 0.85);
-  color: var(--void);
+  color: var(--color-void);
 }
 
 /* thin cold-blue scrollbar */
