@@ -1,7 +1,7 @@
 ---
 title: "Plan: the October 2026 dependency and runtime upgrade"
 subtitle: "A critical Next.js advisory in the production tree, a production runtime past end-of-life, a deploy config with a hard Railway cutoff on 2026-12-01, and the debt each of those was quietly carrying."
-status: "EXECUTED 2026-10-24 on branch upgrade-2026-10-node26-next1643, six commits, sections 4.1 to 4.6. One step remains and needs Railway project access: the cutover and apply in section 4.5, which must happen before the branch merges and before 2026-12-01. Section 6 records where execution departed from this plan and why."
+status: "EXECUTED 2026-10-24 and deployed (PRs #93, #94, and #95 for the review fixes). Complete: the last open item, the healthcheck, was set in the Railway dashboard the same day, and no Config as Code cutover was ever needed (section 6). Section 6 records where execution departed from this plan and why."
 date: 2026-10-24
 site: "de-amplify.com"
 document: "Operational plan. No legal claims. Every version, date and peer range was read from the npm registry, nodejs.org, the nodejs/Release schedule, nixpkgs, Railway's docs or Railpack's source on 2026-10-24."
@@ -15,7 +15,7 @@ Four things, in order of urgency:
 
 1. **`next@16.3.1` carries a critical advisory set**, including an RCE in `next/og` `ImageResponse` (GHSA-vcvr-r3jv-pc5j), which is the API every OG card on this site uses, and a `dynamicParams` bypass in metadata image routes (GHSA-f87g-xv8r-7p7x), which targets exactly the `dynamicParams = false` pattern `/distillations/[slug]` relies on. The OG inputs are repo-authored strings, so practical exposure is low; that is not a reason to argue it.
 2. **Production runs Node 20, end-of-life since 2026-04-30.** Node's 2026-10-21 security release fixed ten CVEs (four High, including a Brotli decoder out-of-bounds write with RCE potential and two TLS hostname-validation bypasses) in 26.12.1, 24.22.1 and 22.23.4. nodejs.org: EOL lines "are always affected when a security release occurs."
-3. **Railway's Config as Code is deprecated, and `railway.toml` stops being honored for this service on 2026-12-01.** Railway's own reference page: "Config as Code is deprecated", existing files keep working for legacy services until 2026-12-01, and the only valid `build.builder` values are `RAILPACK` (the default) and `DOCKERFILE`. Nixpacks is no longer a listed builder. Every deploy setting this repo has (builder, build command, start command, healthcheck, restart policy) lives in that file.
+3. **Railway's Config as Code is deprecated, and `railway.toml` stops being honored for this service on 2026-12-01.** Railway's own reference page: "Config as Code is deprecated", existing files keep working for legacy services until 2026-12-01, and the only valid `build.builder` values are `RAILPACK` (the default) and `DOCKERFILE`. Nixpacks is no longer a listed builder. Every deploy setting this repo has (builder, build command, start command, healthcheck, restart policy) lives in that file. *(Corrected in execution: this service never had a Railway Config File set, so `railway.toml` was not being read at all; see section 6.)*
 4. **The 2026-10-21 PHP release ("PHP2Shell", CVE-2026-109618/-109619) does not apply.** The repo has no PHP and no image installs it. Recorded so nobody re-investigates.
 
 ## 2. What the audit found
@@ -62,7 +62,7 @@ After this lands, the repository says:
 
 - **`package.json`**: `"type": "module"`; `engines.node: "^26.12.1"` (the patched release as the floor, the 26 line as the ceiling, so a fresh resolve can never select Node 27, an odd Current line); the version targets in 2.1; `check:ledgers` is plain `node scripts/check-ledgers.mjs`.
 - **`package-lock.json`**: the production pin. CI proves it with `npm ci`; Railpack installs it.
-- **`.railway/railway.ts`**: the service's healthcheck, timeout and restart policy, scoped by a named partial. Nothing Railpack already defaults.
+- **`.railway/railway.ts`**: the service's healthcheck and restart policy, scoped by a named partial, mirroring the live service. Nothing Railpack already defaults.
 - **Deleted**: `railway.toml`, `nixpacks.toml`, `tailwind.config.ts`, `postcss.config.js`.
 - **`postcss.config.mjs`**: ESM, named const.
 - **`src/app/globals.css`**: the whole design system in CSS, one palette.
@@ -202,7 +202,7 @@ That previews `.railway/railway.ts` generated from `railway.toml`. Then edit it 
 
 Then `npm install -D railway` (the file imports `railway/iac`), delete `railway.toml` and `nixpacks.toml`, and `railway config plan`, then `railway config apply`. **This step needs a logged-in Railway CLI** (the 2026-08-18 issue records the last session as expired), so it is the one step the PR author runs by hand. Railway does not read `.railway/` at deploy time; the `railwayapp/config` GitHub Action can automate apply-on-merge later, but it needs a `RAILWAY_TOKEN` secret and is only worth it if service config starts changing.
 
-**Hard deadline: before 2026-12-01**, independent of everything else here. After that date `railway.toml` stops being honoured and the healthcheck and restart policy drop silently.
+**Hard deadline: before 2026-12-01**, independent of everything else here. After that date `railway.toml` stops being honoured and the healthcheck and restart policy drop silently. *(Superseded in execution: the service never had a Railway Config File set, so there was nothing to cut over; see section 6.)*
 
 ### 4.6 `docs: retire the doctrine this change makes false`
 
@@ -252,20 +252,10 @@ Six commits on `upgrade-2026-10-node26-next1643`:
 
 1. **The first lockfile regeneration was wrong, and the audit caught it.** Deleting only `package-lock.json` left `node_modules` in place, and npm kept `zod` 4.4.3 because it still satisfied `^4.0.0`, inside GHSA-mrhx-c7xc-m3w5. The scratch rehearsal had not hit this because it started from an empty tree. Regenerating from an empty `node_modules` resolved `zod` 4.6.7 and the audit went to 0. CLAUDE.md now says to regenerate that way.
 2. **The `RAILPACK_NODE_NPM_INSTALL=npm ci` override was dropped.** It needed a service variable, and IaC variable ownership (`--variables=managed|unmanaged`) is a decision whose effect on the service's existing variables the docs do not state. It is also redundant: CI's `npm ci` fails on any `package.json`/lockfile disagreement, so on a green commit `npm install` resolves the same tree. Fewer settings, same guarantee.
-3. **`.railway/railway.ts` was written by hand, not generated by `railway config migrate`.** The CLI is logged in, but this account sees 22 Railway projects and none holds the de-amplify service, so `migrate`, `plan` and `apply` cannot run from here. The file was written against the installed SDK's types (`railway` 3.16.0), and `tsconfig.json` now includes `.railway` so every build typechecks it (fault-injected: a wrong `restartPolicyType` fails `tsc`). It declares `partial = "de-amplify"` so an apply cannot touch other resources in a shared project. **The project and service names are `de-amplify` by assumption**; `railway config plan` is what confirms or corrects them.
+3. **`.railway/railway.ts` was written by hand, not generated by `railway config migrate`.** The CLI is logged in, but this account sees 22 Railway projects and none holds the de-amplify service, so `migrate`, `plan` and `apply` cannot run from here. The file was written against the installed SDK's types (`railway` 3.16.0), and `tsconfig.json` now includes `.railway` so every build typechecks it (fault-injected: a wrong `restartPolicyType` fails `tsc`). It declares `partial = "de-amplify"` so an apply cannot touch other resources in a shared project. **The project and service names were `de-amplify` by assumption**, since confirmed in the dashboard (the project lives in Lee Brown's workspace, which is why this account's CLI could not see it). The `.railway` typecheck later moved out of the root tsconfig into its own `check:iac` guard (#95), so an SDK type change cannot block a content deploy.
 4. **The verification was wider than planned.** The computed-style comparison ran against a build of `main` itself (not a dependency-bumped copy), over eight pages, 2,638 elements and 27 properties including layout boxes: 0 differences. Two artifacts of the probe were found and corrected on the way, not regressions: one colour property compared in its CSS notation instead of normalised sRGB, and Next's injected `<next-route-announcer>` element.
-
-**The one remaining step, for someone with access to the Railway project, before this branch merges:**
-
-```bash
-railway link
-railway config migrate status
-railway config migrate cutover
-railway config plan
-railway config apply
-```
-
-`plan` must show only the healthcheck path, timeout and restart policy on the existing de-amplify service. If it proposes creating a service or renaming the project, the names in `.railway/railway.ts` are wrong: correct them from `railway status` and plan again. **Merge only after the cutover**, because Railway reads `railway.toml` until then, and this branch deletes it.
+5. **The healthcheck was set in the dashboard, and the cutover turned out to be unnecessary.** The PR merged before any Railway-side step, and the review of the deployed code (finding 1) was right that production then had no healthcheck. In the dashboard on 2026-10-24: **Healthcheck Path was empty**, and **no Railway Config File was set** ("Add File Path"). So `railway.toml` had not been read by this service, deleting it changed nothing, and there was nothing to cut over. The healthcheck path was set to `/api/health` there and applied, and the redeploy's build log reads `package.json > engines > node (26.12.1)`, `Path: /api/health`, `Retry window: 5m0s`, `[1/1] Healthcheck succeeded!`. The restart policy was already On Failure with Railway's default 10 retries, and the healthcheck window is Railway's default 300 seconds, so `.railway/railway.ts` was aligned to those live values (it had said timeout 100 and 3 retries, copied from the old `railway.toml`). The file now mirrors the service rather than driving it; it takes effect only through `railway config plan` and `railway config apply`.
+6. **The first Railpack deploy ran Node 26.11.1**, because Railpack reduces a caret range to its major. Fixed by pinning `engines` exactly (#94), and made un-forgettable by `check:node` (#95), which fails CI when a security release lands on the pinned line.
 
 ## 7. Sources (read 2026-10-24)
 
