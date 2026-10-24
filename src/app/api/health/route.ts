@@ -1,5 +1,6 @@
 import { contentDate, dateProvenance, manifestHas } from "@/lib/contentDate";
 import { DISTILLATIONS } from "@/lib/distillations";
+import pkg from "../../../../package.json";
 
 export const dynamic = "force-dynamic";
 
@@ -60,11 +61,20 @@ function dates() {
 
 // The runtime, reported for the same reason as the dates. Which Node the deploy
 // actually runs was otherwise visible only in Railway's build log, and this repo
-// has already been burned by build config that silently did not apply. The Node
-// version is declared once, in package.json `engines`; this says whether the
-// build honored it.
+// has already been burned by build config that silently did not apply: the first
+// Railpack deploy ran 26.11.1 against an engines floor of 26.12.1, and this field
+// is what caught it.
+//
+// It answers the question without publishing the exact version. `matchesEngines`
+// compares the running Node to the exact pin in package.json `engines`, so a
+// deploy that missed a security release reads false. Printing the full version
+// here would tell anyone which runtime CVEs apply on exactly the day it matters
+// most. The major line is enough to read at a glance.
 function runtime() {
-  return { node: process.version };
+  return {
+    node: process.version.split(".")[0],
+    matchesEngines: process.version === `v${pkg.engines.node}`,
+  };
 }
 
 // Liveness probe, HATEOAS-shaped so it is not a dead end: data carries the
