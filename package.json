@@ -39,6 +39,7 @@
     "eslint": "^10.13.0",
     "eslint-config-next": "16.4.3",
     "postcss": "^8.5.31",
+    "railway": "^3.16.0",
     "tailwindcss": "4.3.3",
     "typescript": "^6"
   },
