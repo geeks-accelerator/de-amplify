@@ -37,9 +37,10 @@ jobs:
   # and did disagree. Now they cannot: changing the runtime is one edit, and CI
   # verifies the same runtime production runs.
   #
-  # npm ci here is the same install production runs: Railpack installs the
-  # committed lockfile with `npm ci` (set in .railway/railway.ts), so a green
-  # build here is a build of the exact tree that ships.
+  # npm ci here is what makes the lockfile the production pin. It fails if
+  # package.json and package-lock.json disagree, so on any green commit the two
+  # are in sync, and Railpack's `npm install` then resolves exactly the lockfile
+  # tree. A green build here is a build of the tree that ships.
   build:
     name: lint and build
     runs-on: ubuntu-latest
@@ -128,7 +129,7 @@ jobs:
     # blocks an unrelated content fix. No status checks are required on main, so
     # this reports without gating. It exists because the sharp/libvips advisories
     # sat in the production tree unnoticed. The lockfile it audits is the tree
-    # production installs (npm ci), so a clean audit here is a clean production.
+    # production installs, so a clean audit here is a clean production.
     name: dependency audit
     runs-on: ubuntu-latest
     steps:
