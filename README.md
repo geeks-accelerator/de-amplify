@@ -54,6 +54,8 @@ npm run check:surfaces  # share cards and structured data still match the record
 npm run check:distillations  # internal consistency of the single-source research corpus
 npm run check:issues    # schema and index of docs/issues, the standing threads
 npm run check:guards    # every guard above is listed on every surface that lists guards
+npm run check:iac       # .railway/railway.ts typechecks against the railway SDK
+npm run check:node      # engines.node is not behind a Node security release (reads nodejs.org)
 npm run dates           # regenerate content-dates.json; run after any content edit
 npm run check:dates     # fails if that manifest drifted from git history
 ```
