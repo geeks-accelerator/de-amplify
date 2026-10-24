@@ -58,13 +58,22 @@ function dates() {
   };
 }
 
+// The runtime, reported for the same reason as the dates. Which Node the deploy
+// actually runs was otherwise visible only in Railway's build log, and this repo
+// has already been burned by build config that silently did not apply. The Node
+// version is declared once, in package.json `engines`; this says whether the
+// build honored it.
+function runtime() {
+  return { node: process.version };
+}
+
 // Liveness probe, HATEOAS-shaped so it is not a dead end: data carries the
 // status (Railway's healthcheck only needs the 200), and _links/_actions
 // point a consumer that lands here toward the resources that actually matter.
 export function GET() {
   return Response.json(
     {
-      data: { status: "ok", service: "de-amplify", dates: dates() },
+      data: { status: "ok", service: "de-amplify", runtime: runtime(), dates: dates() },
       _links: {
         self: { href: `${SITE}/api/health` },
         home: { href: `${SITE}/` },
