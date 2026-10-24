@@ -1,0 +1,9 @@
+{
+  "//": "Typechecks railway.ts against the railway SDK, via `npm run check:iac` in CI. Kept out of the root tsconfig on purpose: Railway does not read this file at deploy time, so it must not be able to fail the production build.",
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "incremental": false,
+    "plugins": []
+  },
+  "include": ["railway.ts"]
+}
