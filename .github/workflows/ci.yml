@@ -19,34 +19,38 @@ on:
   pull_request:
   push:
     branches: [main]
+  # Weekly, Mondays, matching dependabot.yml. Without it the audit job only ran
+  # when someone pushed, so main's last run (2026-08-29) stayed green through a
+  # month of critical Next.js advisories that nothing ever re-checked.
+  schedule:
+    - cron: "0 14 * * 1"
 
 concurrency:
   group: ci-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  # TWO JOBS, ON DIFFERENT NODE VERSIONS, AND THE SPLIT IS THE POINT.
+  # ONE NODE VERSION, READ FROM ONE PLACE. Every job takes its Node version from
+  # `engines.node` in package.json, which is also what Railpack reads for the
+  # production build. CI used to hardcode 20 here (copying a nixpacks.toml pin)
+  # and 22 in the guard job (for a type-stripping flag), so the versions could
+  # and did disagree. Now they cannot: changing the runtime is one edit, and CI
+  # verifies the same runtime production runs.
   #
-  # This job runs on Node 20 because that is what production runs
-  # (nixpacks.toml pins nodejs_20). Linting and building on any other version
-  # would mean CI could go green on a build Railway cannot reproduce, which is
-  # the same shape as every other bug in this repo's history: verified in an
-  # environment that is not the one that matters.
+  # npm ci here is the same install production runs: Railpack installs the
+  # committed lockfile with `npm ci` (set in .railway/railway.ts), so a green
+  # build here is a build of the exact tree that ships.
   build:
-    name: lint and build (Node 20, matching production)
+    name: lint and build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
 
       - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version-file: package.json
           cache: npm
 
-      # npm ci proves the lockfile tree. Production does NOT use it (railway.toml
-      # deletes the lockfile and installs fresh from the semver ranges), so this
-      # is the closest local approximation of a resolution Railway will redo from
-      # scratch, not a guarantee about it.
       - run: npm ci
 
       - name: lint
@@ -55,22 +59,16 @@ jobs:
       - name: build (typecheck + compile)
         run: npm run build
 
-  # The guard scripts run on Node 22 because `check:ledgers` passes
-  # --experimental-strip-types, which does not exist before Node 22.6. It needs
-  # that flag because it imports the real src/lib/distillations.ts rather than
+  # `check:ledgers` imports the real src/lib/distillations.ts rather than
   # reimplementing the TLDR parser, which is deliberate: a checker with its own
-  # parser can disagree with the build and silently pass.
-  #
-  # So the repo's `engines` field (>=20) is right about the APP and wrong about
-  # this one dev script. Production never runs it, so the mismatch costs nothing
-  # there, but it cost a red CI run on the very first execution of this
-  # workflow, which is exactly what a first execution is for.
+  # parser can disagree with the build and silently pass. Node 26 strips types
+  # natively, so it runs as plain `node` with no flags.
   #
   # fetch-depth: 0 is load-bearing HERE and not in the build job: check:dates
   # compares the committed manifest against real git author dates, and a shallow
   # clone would report drift on every path.
   guards:
-    name: the drift guards (Node 22, for --experimental-strip-types)
+    name: the drift guards
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -79,7 +77,7 @@ jobs:
 
       - uses: actions/setup-node@v7
         with:
-          node-version: 22
+          node-version-file: package.json
           cache: npm
 
       - run: npm ci
@@ -129,15 +127,15 @@ jobs:
     # PR, but it is not the PR author's fault and should not be the thing that
     # blocks an unrelated content fix. No status checks are required on main, so
     # this reports without gating. It exists because the sharp/libvips advisories
-    # sat in the production tree unnoticed: package.json's exact pins are the
-    # ONLY real production pins, since the lockfile is deleted before install.
+    # sat in the production tree unnoticed. The lockfile it audits is the tree
+    # production installs (npm ci), so a clean audit here is a clean production.
     name: dependency audit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version-file: package.json
           cache: npm
       - run: npm ci
       - name: npm audit (high and above)
